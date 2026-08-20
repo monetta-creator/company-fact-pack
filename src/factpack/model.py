@@ -95,6 +95,17 @@ def _extract_json(text: str):
                 return json.loads(t[start : end + 1])
             except json.JSONDecodeError:
                 continue
+    # last resort: a stream of JSON objects, one per line -> list
+    objs = []
+    for line in t.splitlines():
+        line = line.strip().rstrip(",")
+        if line.startswith("{") and line.endswith("}"):
+            try:
+                objs.append(json.loads(line))
+            except json.JSONDecodeError:
+                pass
+    if objs:
+        return objs
     raise ModelError(f"no parseable JSON in model output: {text[:300]}")
 
 
@@ -153,6 +164,8 @@ def call(prompt: str, *, feature: str, system: str | None = None,
             return result
         try:
             parsed = _extract_json(text)
+            if schema.get("type") == "array" and isinstance(parsed, dict):
+                parsed = [parsed]  # models sometimes emit a lone object for a 1-item array
             errs = list(Draft202012Validator(schema).iter_errors(parsed))
             if errs:
                 raise ModelError(f"schema violation: {errs[0].message}")
