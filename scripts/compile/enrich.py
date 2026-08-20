@@ -59,7 +59,8 @@ def main() -> None:
         import os
 
         skip_types = set() if os.environ.get("FACTPACK_ENRICH_ALL") else SKIP_MODEL_DOC_TYPES
-        pending = [
+        merge_only = bool(os.environ.get("FACTPACK_ENRICH_MERGE_ONLY"))
+        pending = [] if merge_only else [
             c for c in chunks
             if c["doc_type"] not in skip_types and not cache_path(c["chunk_id"]).exists()
         ]
