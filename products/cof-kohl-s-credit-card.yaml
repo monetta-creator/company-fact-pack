@@ -1,0 +1,15 @@
+product_id: cof-kohl-s-credit-card
+issuer_entity_id: cof
+name: Kohl's Credit Card
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: 29.49%
+  annual_fee: None
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-Kohl's-Credit-Card-in-Capital-One-N.A.pdf-485284.pdf

@@ -1,0 +1,15 @@
+product_id: cof-neiman-marcus-bergdorf-goodman-cards
+issuer_entity_id: cof
+name: Neiman Marcus/Bergdorf Goodman Cards
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: 28.99%
+  annual_fee: None
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-NeimanMarcus-BergdorfGoodman-Cards-in-Capital-One-N.A..pdf-255660.pdf

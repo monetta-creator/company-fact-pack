@@ -1,0 +1,660 @@
+# DRAFT (rule 3): model-generated question bank awaiting human review.
+# Merging to main is a human act.
+- question: Who are Capital One's main credit card competitors, and what do customers
+    base their card-issuer choice on according to the 10-K?
+  level: new-hire
+  rubric: Names Visa/MasterCard-network issuers, American Express, Discover Card,
+    private-label card brands, and (to an extent) debit card issuers. Notes customers
+    are attracted mainly on price, credit limit, reward programs, and other product
+    features.
+  expected_sources:
+  - edgar-cof/10-K_2017-02-23_0000927628-17-000115#main:ITEM1
+  - edgar-cof/10-K_2018-02-21_0000927628-18-000107#main:ITEM1
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102#main:ITEM1
+  id: competitive-field-1
+  topic: competitive-field
+- question: What kind of institution is Capital One in the direct/online banking market,
+    and which peer banks does the industry group it with?
+  level: new-hire
+  rubric: States Capital One operates one of the largest online/direct banks in the
+    U.S. by deposits. Names peers listed alongside Capital One (360) in Discover's
+    competitor list, e.g. Ally, American Express, Barclays, Goldman Sachs.
+  expected_sources:
+  - edgar-cof/10-K_2016-02-25_0000927628-16-000140#main:ITEM1A
+  - edgar-dfs/10-K_2020-02-26_0001393612-20-000009#main:PARTI
+  id: competitive-field-2
+  topic: competitive-field
+- question: Besides other banks, what other kinds of institutions does Capital One's
+    Consumer and Commercial Banking business compete with?
+  level: new-hire
+  rubric: Lists savings and loan associations, credit unions, automotive finance companies,
+    mortgage/commercial mortgage banking companies, and non-depository institutions
+    offering loans/deposits.
+  expected_sources:
+  - edgar-cof/10-K_2016-02-25_0000927628-16-000140#main:ITEM1
+  - edgar-cof/10-K_2017-02-23_0000927628-17-000115#main:ITEM1
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102#main:ITEM1
+  id: competitive-field-3
+  topic: competitive-field
+- question: Why was Discover historically less widely accepted in the U.S. than Visa
+    and MasterCard, and how has Discover worked to close that gap?
+  level: associate
+  rubric: Explains Visa/MasterCard's former exclusionary rules limited Discover's
+    ability to attract merchants and issuers, causing an acceptance gap. Notes merchant
+    acceptance has since increased and Discover is investing to expand Discover/Diners
+    Club acceptance in key international markets where a gap remains.
+  expected_sources:
+  - edgar-dfs/10-K_2016-02-24_0001393612-16-000059#main:PARTI
+  - edgar-dfs/10-K_2018-02-21_0001393612-18-000012#main:PARTI
+  id: competitive-field-4
+  topic: competitive-field
+- question: Name Discover's network competitors for both the Discover/Diners Club
+    side and PULSE, and list the factors Discover competes on for network partners.
+  level: associate
+  rubric: Discover/Diners Club compete against Visa, MasterCard, American Express;
+    PULSE competes against Visa Interlink, MasterCard Maestro, First Data STAR. Competes
+    on customization, pricing/incentives/rebates, issuer fees, network/switch fees,
+    merchant acceptance, network functionality, service quality, brand, reputation,
+    market share.
+  expected_sources:
+  - edgar-dfs/10-K_2017-02-23_0001393612-17-000012#main:PARTI
+  - edgar-dfs/10-K_2021-02-17_0001393612-21-000014#main:PARTI
+  id: competitive-field-5
+  topic: competitive-field
+- question: How did Capital One's description of payments competitors shift from the
+    FY2015/2016 10-Ks to the FY2023 10-K?
+  level: associate
+  rubric: FY2015/2016 filings frame competition generically as tech advances enabling
+    more firms to provide financial services and diminishing depository institutions'
+    role. FY2023 10-K names specific new entrants (digital/mobile payment and fintech
+    firms) and ties competitiveness to keeping pace with innovation and new technology
+    platforms.
+  expected_sources:
+  - edgar-cof/10-K_2016-02-25_0000927628-16-000140#main:ITEM1
+  - edgar-cof/10-K_2024-02-23_0000927628-24-000094#main:ITEM1
+  id: competitive-field-6
+  topic: competitive-field
+- question: What structural advantages does the 10-K say larger competitors have over
+    Capital One, and through what mechanisms could that pressure margins?
+  level: senior
+  rubric: 'Lists larger rivals'' advantages: diversified product/customer base, greater
+    reach, operational efficiencies, broad local distribution, lower-cost funding,
+    larger branch networks, and cross-selling/new product focus. Explains this can
+    force Capital One to lower loan rates or fees, raise deposit rates, or lose loan
+    origination volume.'
+  expected_sources:
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094#main:ITEM1A
+  id: competitive-field-7
+  topic: competitive-field
+- question: Explain the industry-consolidation risk Capital One flags from securities
+    firms/insurers becoming financial holding companies, and connect it to why Discover
+    targets American Express specifically for Diners Club.
+  level: senior
+  rubric: Notes securities firms/insurance companies electing financial holding company
+    status could acquire banks, materially changing the competitive environment. Separately
+    explains American Express is a particularly strong Diners Club competitor because
+    both target international business travelers, driving Discover's international
+    acceptance investment.
+  expected_sources:
+  - edgar-cof/10-K_2016-02-25_0000927628-16-000140#main:ITEM1
+  - edgar-dfs/10-K_2017-02-23_0001393612-17-000012#main:PARTI
+  id: competitive-field-8
+  topic: competitive-field
+- question: When and where was Capital One Financial Corporation established, and
+    what kind of company is it?
+  level: new-hire
+  rubric: Delaware corporation established 1994; headquartered in McLean, Virginia;
+    diversified financial services holding company with banking and non-banking subsidiaries
+    offering products to consumers, small businesses, and commercial clients.
+  expected_sources:
+  - edgar-cof/10-K_2019-02-20_0000927628-19-000093
+  - edgar-cof/10-K_2025-02-20_0000927628-25-000092
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024
+  id: corporate-history-1
+  topic: corporate-history
+- question: What is Signet Banking Corporation, and why did Capital One's shareholders
+    vote in 2023 to remove references to it from the certificate of incorporation?
+  level: new-hire
+  rubric: Signet Banking Corporation was named in COF's Restated Certificate of Incorporation,
+    reflecting Capital One's historical corporate lineage tied to Signet. At the 2023
+    Annual Meeting, shareholders approved amendments removing remaining supermajority
+    voting requirements and all references to Signet Banking Corporation.
+  expected_sources:
+  - edgar-cof/DEF14A_2023-03-22_0001193125-23-076700
+  - edgar-cof/8-K_2023-05-09_0000927628-23-000197
+  id: corporate-history-2
+  topic: corporate-history
+- question: What were Capital One Bank (USA), N.A. (COBNA) and Capital One, National
+    Association (CONA), and what changed in their relationship on October 1, 2022?
+  level: associate
+  rubric: Through the 2017-2021 10-Ks, COBNA and CONA were Capital One's two principal
+    banking subsidiaries — COBNA issued credit/debit cards and deposit products, CONA
+    offered broad banking/lending. On Oct 1, 2022 the 'Bank Merger' merged COBNA into
+    CONA, CONA surviving; CONA became sole principal operating subsidiary starting
+    with the FY2022 10-K.
+  expected_sources:
+  - edgar-cof/10-K_2018-02-21_0000927628-18-000107
+  - edgar-cof/10-K_2019-02-20_0000927628-19-000093
+  - edgar-cof/10-K_2023-02-24_0000927628-23-000117
+  - edgar-cof/10-K_2024-02-23_0000927628-24-000094
+  id: corporate-history-3
+  topic: corporate-history
+- question: What was the North Fork Bancorporation acquisition, and what two legacy
+    businesses from it did Capital One later report as discontinued operations?
+  level: associate
+  rubric: Capital One acquired North Fork Bancorporation, Inc. in December 2006; this
+    brought GreenPoint Mortgage Funding, Inc.'s wholesale mortgage origination unit
+    (closed Q3 2007) and GreenPoint Credit, LLC's manufactured housing operations,
+    both reported as discontinued operations in COF financials for years afterward.
+  expected_sources:
+  - edgar-cof/10-K_2017-02-23_0000927628-17-000115
+  - edgar-cof/10-Q_2016-08-01_0000927628-16-000200
+  - edgar-cof/10-Q_2018-11-01_0000927628-18-000317
+  id: corporate-history-4
+  topic: corporate-history
+- question: Name the three subsidiaries whose mortgage originations created Capital
+    One's representation-and-warranty reserve exposure, and when each was acquired.
+  level: associate
+  rubric: Capital One Home Loans, LLC (acquired Feb 2005); GreenPoint (acquired Dec
+    2006 as part of North Fork acquisition); CCB (acquired Feb 2009, later merged
+    into CONA). Aggregate reserve across all three was $613 million as of March 31,
+    2016.
+  expected_sources:
+  - edgar-cof/10-Q_2016-05-04_0000927628-16-000160
+  id: corporate-history-5
+  topic: corporate-history
+- question: 'Trace Capital One''s principal-bank-subsidiary structure from 2017 through
+    2025: what were the two banks pre-2022, what happened in the Oct 2022 Bank Merger,
+    and what happened with Discover in 2025?'
+  level: senior
+  rubric: 'Cover: 2017–2021 two banks, COBNA (cards) and CONA (full banking); Oct
+    1, 2022 Bank Merger folded COBNA into CONA (internal simplification), CONA became
+    sole principal subsidiary; May 18, 2025 Discover merged into Capital One, Discover
+    Bank into CONA, making COF the largest US credit card issuer by 2025 vs third-largest
+    2022–2024.'
+  expected_sources:
+  - edgar-cof/10-K_2018-02-21_0000927628-18-000107
+  - edgar-cof/10-K_2023-02-24_0000927628-23-000117
+  - edgar-cof/10-K_2025-02-20_0000927628-25-000092
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024
+  id: corporate-history-6
+  topic: corporate-history
+- question: The manufactured housing liabilities Capital One carries from GreenPoint
+    Credit trace back to a sale that happened before Capital One even acquired North
+    Fork. Explain the mechanism by which Capital One ended up on the hook.
+  level: senior
+  rubric: Manufactured housing ops were sold to a third party in 2004, before Capital
+    One's Dec 2006 North Fork acquisition. As part of that acquisition Capital One
+    still acquired retained interests/obligations tied to those ops (via GreenPoint
+    Credit, a North Fork sub). In Q4 2017, Capital One assumed the obligation to exercise
+    remaining clean-up calls on certain manufactured housing securitizations.
+  expected_sources:
+  - edgar-cof/10-K_2017-02-23_0000927628-17-000115
+  - edgar-cof/10-Q_2018-11-01_0000927628-18-000317
+  id: corporate-history-7
+  topic: corporate-history
+- question: How did Capital One's competitive ranking as a card issuer change between
+    the FY2022 and FY2025 10-Ks, and what corporate action drove that change?
+  level: senior
+  rubric: FY2022–FY2024 10-Ks state COF was the third-largest issuer of Visa/MasterCard
+    credit cards in the U.S. by outstanding credit card loan balance. On May 18, 2025
+    (Closing Date) Discover Financial Services merged into Capital One and Discover
+    Bank merged into CONA; the FY2025 10-K states COF became the largest credit card
+    issuer in the U.S. by outstanding balance as of Dec 31, 2025.
+  expected_sources:
+  - edgar-cof/10-K_2023-02-24_0000927628-23-000117
+  - edgar-cof/10-K_2024-02-23_0000927628-24-000094
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024
+  id: corporate-history-8
+  topic: corporate-history
+- question: When did Capital One announce the 2019 cybersecurity incident, and when
+    did the underlying unauthorized access actually occur?
+  level: new-hire
+  rubric: Announced July 29, 2019; unauthorized access occurred March 22–23, 2019,
+    by an outside individual who exploited a configuration vulnerability.
+  expected_sources:
+  - edgar-cof/10-K_2022-02-25_0000927628-22-000106
+  - edgar-cof/DEF14A_2020-03-19_0001193125-20-079122
+  id: data-breach-2019-1
+  topic: data-breach-2019
+- question: What type of data was exposed in the 2019 Cybersecurity Incident, and
+    who was affected?
+  level: new-hire
+  rubric: Certain personal information relating to people who had applied for Capital
+    One credit card products and to Capital One credit card customers.
+  expected_sources:
+  - edgar-cof/10-K_2022-02-25_0000927628-22-000106
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094
+  id: data-breach-2019-2
+  topic: data-breach-2019
+- question: What happened to the individual responsible for the breach, and what did
+    the U.S. Attorney's Office say about the data?
+  level: new-hire
+  rubric: Arrested by the FBI on July 29, 2019; federal prosecution commenced. U.S.
+    Attorney's Office believed the data was recovered and found no evidence it was
+    used for fraud or shared.
+  expected_sources:
+  - edgar-cof/DEF14A_2020-03-19_0001193125-20-079122
+  id: data-breach-2019-3
+  topic: data-breach-2019
+- question: What were the financial costs of the breach through 2020, including insurance
+    offsets and the deductible?
+  level: associate
+  rubric: '$138M cumulative incremental expenses (incl. $66M in 2020), offset by $73M
+    insurance recoveries. Cyber insurance: $400M limit, $10M deductible met Q3 2019.
+    Costs mainly notifications, credit monitoring, tech, legal support.'
+  expected_sources:
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094
+  id: data-breach-2019-4
+  topic: data-breach-2019
+- question: What regulatory consent orders resulted from the breach, and what were
+    the associated penalties?
+  level: associate
+  rubric: August 2020 consent orders with the Federal Reserve and OCC. $80M penalty
+    paid to U.S. Treasury under the OCC agreement; Fed agreement had no monetary penalty.
+    OCC terminated its consent order August 31, 2022.
+  expected_sources:
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094
+  - edgar-cof/10-K_2023-02-24_0000927628-23-000117
+  id: data-breach-2019-5
+  topic: data-breach-2019
+- question: Describe the scope of litigation stemming from the breach as of mid-2020,
+    including the consolidation mechanism and the securities claim.
+  level: associate
+  rubric: ~73 putative consumer class actions (61 U.S. federal, 12 Canadian); U.S.
+    cases consolidated in an MDL panel, E.D. Virginia, Alexandria Division. Separate
+    securities class action against the company and officers, covering purchasers
+    July 23, 2015–July 29, 2019.
+  expected_sources:
+  - edgar-cof/10-Q_2020-05-01_0000927628-20-000173
+  id: data-breach-2019-6
+  topic: data-breach-2019
+- question: How did the Canadian consumer class actions evolve between 2022 and 2025,
+    and what is their current status?
+  level: senior
+  rubric: 4 Canadian putative class actions. BC trial court preliminarily certified
+    a class (excl. Quebec) in Q2 2022; both sides appealed; BC Court of Appeal denied
+    both appeals July 4, 2024. Quebec trial court authorized a class Q3 2023, affirmed
+    by Quebec Court of Appeal Feb 25, 2025. Two Alberta actions remain preliminary.
+  expected_sources:
+  - edgar-cof/10-Q_2025-07-31_0000927628-25-000247
+  - edgar-cof/10-Q_2025-11-03_0000927628-25-000276
+  id: data-breach-2019-7
+  topic: data-breach-2019
+- question: How did Capital One's Board governance respond to the breach, and what
+    does this signal about the tradeoff between incident remediation and oversight
+    investment?
+  level: senior
+  rubric: Board notified July 19, 2019; independent Risk/Audit/Governance committees
+    and full Board met 20+ times; engaged outside cybersecurity experts for root cause
+    analysis and remediation review. Shows heavy, sustained board-level oversight
+    beyond the technical fix (configuration vulnerability corrected) as part of managing
+    regulatory/litigation exposure.
+  expected_sources:
+  - edgar-cof/DEF14A_2020-03-19_0001193125-20-079122
+  id: data-breach-2019-8
+  topic: data-breach-2019
+- question: What is Capital One's primary source of funding for its loan portfolio,
+    and why does the company describe it that way?
+  level: new-hire
+  rubric: Answer should state that insured retail deposits are Capital One's primary
+    funding source, described as relatively stable and lower-cost compared to alternatives
+    like senior/subordinated debt, securitizations, and FHLB advances.
+  expected_sources:
+  - edgar-cof/10-K_2025-02-20_0000927628-25-000092#main:ITEM7
+  id: deposit-strategy-1
+  topic: deposit-strategy
+- question: What physical access points does Capital One offer customers as part of
+    its national digital bank strategy, and roughly how many of each?
+  level: new-hire
+  rubric: Answer should list branches (~250-259), Cafés (~55, in 21 of top 25 MSAs),
+    16,000+ cash deposit locations, and 70,000-80,000 fee-free ATMs, noting these
+    support a digital-first bank without a traditional branch network.
+  expected_sources:
+  - edgar-cof/425_2024-02-20_0001193125-24-039259#main
+  - edgar-cof/425_2024-07-17_0001193125-24-180490#main
+  id: deposit-strategy-2
+  topic: deposit-strategy
+- question: How did total deposits change from year-end 2024 to year-end 2025, and
+    what drove the change?
+  level: associate
+  rubric: Answer should state total deposits rose $113.1B to $475.8B, driven primarily
+    by the Discover Transaction contributing $106.9B on the Closing Date plus continued
+    growth from the national banking strategy.
+  expected_sources:
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024#main:ITEM7
+  id: deposit-strategy-3
+  topic: deposit-strategy
+- question: What was Capital One's estimated uninsured deposit balance and share of
+    total deposits at year-end 2025, and how did that compare to year-end 2024?
+  level: associate
+  rubric: Answer should cite $71.9B (about 15% of total deposits) at year-end 2025
+    versus $64.9B (about 18%) at year-end 2024, noting these are mostly checking and
+    savings deposits and the share declined as total deposits grew faster (via Discover).
+  expected_sources:
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024#main:ITEM7
+  - edgar-cof/10-K_2025-02-20_0000927628-25-000092#main:ITEM7
+  id: deposit-strategy-4
+  topic: deposit-strategy
+- question: What role do brokered deposits play in Capital One's funding mix, and
+    how did the brokered deposit balance trend from 2023 through 2025?
+  level: associate
+  rubric: 'Answer should note brokered deposits are a component of total deposits
+    (a less-preferred, wholesale-sourced funding line versus stable insured retail
+    deposits), and cite the trend: $18.5B (2023) down to $11.6B (2024), then up to
+    $19.2B (2025).'
+  expected_sources:
+  - edgar-cof/10-K_2025-02-20_0000927628-25-000092#main:ITEM7
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024#main:ITEM7
+  id: deposit-strategy-5
+  topic: deposit-strategy
+- question: Why did Capital One's management describe the $84 billion in Discover
+    consumer deposits as 'the most sought-after funding in banking'?
+  level: senior
+  rubric: Answer should explain these deposits are largely insured and stable, cheaper
+    and more reliable than wholesale/brokered funding, and that adding them scales
+    Capital One's balance sheet and funding base to compete with the largest banks.
+  expected_sources:
+  - edgar-cof/425_2024-03-06_0000927628-24-000114#main
+  - edgar-cof/425_2024-02-20_0001193125-24-040125#main
+  id: deposit-strategy-6
+  topic: deposit-strategy
+- question: Explain the strategic logic behind Capital One's Café network as opposed
+    to a traditional branch network, and how it fits into cost and growth tradeoffs.
+  level: senior
+  rubric: Answer should explain Cafés act as showrooms where customers try Capital
+    One's digital banking, letting Capital One build a national franchise 'with a
+    fraction of the cost and complexity of a branch infrastructure,' supplemented
+    by 16,000+ cash deposit locations and fee-free ATMs for physical access.
+  expected_sources:
+  - edgar-cof/425_2024-03-06_0000927628-24-000114#main
+  - edgar-cof/425_2024-02-20_0001193125-24-039259#main
+  id: deposit-strategy-7
+  topic: deposit-strategy
+- question: How does eliminating overdraft fees and offering no-fee, no-minimum retail
+    products fit into Capital One's deposit-gathering strategy, and what tradeoff
+    does this represent?
+  level: senior
+  rubric: 'Answer should note Capital One was first large bank to eliminate overdraft
+    fees (2021), saving customers over $500M, driving #1 J.D. Power satisfaction for
+    four years, trading fee revenue for customer acquisition/retention and deposit
+    growth as the core value proposition of the national digital bank strategy.'
+  expected_sources:
+  - edgar-cof/425_2024-07-17_0001193125-24-180490#main
+  - edgar-cof/425_2024-02-20_0001193125-24-039259#main
+  id: deposit-strategy-8
+  topic: deposit-strategy
+- question: What did Capital One agree to pay for Discover, and in what form?
+  level: new-hire
+  rubric: Answer should state 1.0192 Capital One shares per Discover share (100% stock
+    deal), representing ~$139.86/share and ~$35.3B aggregate value based on Feb 16,
+    2024 closing price, a 26.6% premium to Discover's share price.
+  expected_sources:
+  - edgar-cof/S-4A_2025-01-03_0001193125-25-001580#main:preamble
+  - edgar-dfs/425_2024-02-20_0001193125-24-039273#main
+  id: discover-acquisition-1
+  topic: discover-acquisition
+- question: Why is Discover's payments network considered a strategically rare asset?
+  level: new-hire
+  rubric: Answer should note Discover and American Express are the only two vertically-integrated
+    US-based payments networks (vs. Visa/Mastercard), built over Discover's 40-year
+    history with 70 million merchant acceptance points in 200+ countries.
+  expected_sources:
+  - edgar-dfs/425_2024-02-20_0001193125-24-040125#main
+  - edgar-dfs/425_2024-02-20_0001193125-24-039259#main
+  id: discover-acquisition-2
+  topic: discover-acquisition
+- question: What termination fee applies if the merger agreement is terminated under
+    certain circumstances, and what percentage of deal value does it represent?
+  level: associate
+  rubric: Answer should give $1.38 billion, ~3.9% of the $35.3B aggregate merger consideration,
+    payable by either party in specified circumstances like alternative acquisition
+    proposals or board recommendation changes.
+  expected_sources:
+  - edgar-dfs/425_2024-02-22_0001193125-24-042828#main
+  - edgar-dfs/425_2025-02-10_0001193125-25-023104#main
+  id: discover-acquisition-3
+  topic: discover-acquisition
+- question: Which two federal regulators must approve the merger, and under what legal
+    authority?
+  level: associate
+  rubric: Answer should name the Federal Reserve Board (under BHC Act sections 3 and
+    4(c)(8)) and the OCC, plus note the merger also required Discover and Capital
+    One stockholder approvals and NYSE listing authorization.
+  expected_sources:
+  - edgar-cof/S-4_2024-04-19_0001193125-24-101304#main:PARTII
+  - edgar-dfs/425_2024-02-22_0001193125-24-042828#main
+  id: discover-acquisition-4
+  topic: discover-acquisition
+- question: What financial targets did Capital One disclose for the deal's expected
+    2027E synergies and returns?
+  level: associate
+  rubric: Answer should cite 2027E opex synergy $1.3B, marketing synergy $0.1B, network
+    synergy $1.2B, adjusted EPS accretion >15%, ROIC 16%, IRR >20%, and pro forma
+    CET1 ratio ~14% at close.
+  expected_sources:
+  - edgar-dfs/425_2024-02-20_0001193125-24-039273#main
+  - edgar-cof/8-K_2024-02-20_0001193125-24-039233#ex_d772981dex992.htm
+  id: discover-acquisition-5
+  topic: discover-acquisition
+- question: How did Discover build its vertically-integrated network, and how does
+    owning it change Capital One's relationship with merchants?
+  level: senior
+  rubric: Answer should trace the 40-year build (credit card network from late-1980s,
+    PULSE PIN debit acquisition in 2005 adding 4,000 member banks, later Diners Club
+    for international reach) and explain vertical integration lets Capital One deal
+    directly with merchants instead of through a network intermediary, capturing added
+    economics.
+  expected_sources:
+  - edgar-dfs/425_2024-02-20_0001193125-24-040125#main
+  id: discover-acquisition-6
+  topic: discover-acquisition
+- question: Describe the legal structure of the Capital One-Discover combination,
+    including the bank-level merger.
+  level: senior
+  rubric: 'Answer should describe the two-step structure: Merger Sub merges into Discover
+    (first merger, Discover survives), then Discover merges into Capital One (second
+    step merger, Capital One survives), followed by Discover Bank merging into Capital
+    One, National Association.'
+  expected_sources:
+  - edgar-cof/S-4A_2025-01-03_0001193125-25-001580#main:preamble
+  id: discover-acquisition-7
+  topic: discover-acquisition
+- question: What deadline governed deal completion, and what could extend or derail
+    it?
+  level: senior
+  rubric: Answer should note the merger agreement set a termination date of Feb 19,
+    2025, automatically extendable to May 19, 2025 for regulatory approvals, and that
+    unmet closing conditions (regulatory clearance, stockholder votes, S-4 effectiveness,
+    no injunctions) could let either party walk away or trigger the $1.38B termination
+    fee.
+  expected_sources:
+  - edgar-cof/S-4A_2025-01-03_0001193125-25-001580#main:PARTII
+  - edgar-dfs/10-KA_2024-12-23_0001393612-24-000073#main:ITEM1A
+  id: discover-acquisition-8
+  topic: discover-acquisition
+- question: What does Capital One's marketing expense line item on the income statement
+    cover?
+  level: new-hire
+  rubric: Answer should state that marketing expense covers promotional efforts to
+    acquire and retain customers, including advertising (TV, direct mail, digital,
+    third-party partners), promotional materials, and customer incentives like spend-based
+    bonuses, and that costs are expensed as incurred.
+  expected_sources:
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024#main:ITEM8
+  id: marketing-brand-strategy-1
+  topic: marketing-brand-strategy
+- question: How much did Capital One spend on marketing in fiscal year 2025, and how
+    does that compare to FY2024?
+  level: new-hire
+  rubric: Answer should cite marketing expense of $5,884 million (~$5.9B) in FY2025
+    versus $4,562 million (~$4.6B) in FY2024, showing a year-over-year increase.
+  expected_sources:
+  - edgar-cof/xbrl_companyfacts
+  id: marketing-brand-strategy-2
+  topic: marketing-brand-strategy
+- question: According to Capital One's proxy statement performance factors, what specific
+    brand/marketing-related fact was highlighted for 2025?
+  level: new-hire
+  rubric: 'Answer should identify ''Customer advocacy and brand'' as a performance
+    factor and cite a specific 2025 fact, e.g., high customer advocacy/NPS scores,
+    the $265 billion Community Benefits Plan tied to the Discover deal, or #36 on
+    Fortune''s 100 Best Companies to Work For (14th consecutive year).'
+  expected_sources:
+  - edgar-cof/DEF14A_2026-03-25_0001193125-26-124131#main:ITEM4
+  id: marketing-brand-strategy-3
+  topic: marketing-brand-strategy
+- question: How did Capital One's marketing spend trend from 2020 to 2025, and what
+    does that trajectory suggest about the company's growth strategy?
+  level: associate
+  rubric: Answer should trace marketing expense from $1.61B (2020) to $2.87B (2021),
+    $4.02B (2022), $4.01B (2023), $4.56B (2024), and $5.88B (2025), noting the sharp
+    post-2020 acceleration and further jump in 2025 (Discover deal year).
+  expected_sources:
+  - edgar-cof/xbrl_companyfacts
+  id: marketing-brand-strategy-4
+  topic: marketing-brand-strategy
+- question: In Q2 2024 earnings calls, how did CEO Richard Fairbank explain the increase
+    in marketing spend guidance (~$2.6B for 2H 2024)?
+  level: associate
+  rubric: Answer should note Fairbank attributed the increase to leaning into strong
+    growth/traction opportunities (including the pending Discover combination) rather
+    than solely rising competitive acquisition costs, and that COF's marketing is
+    seasonally weighted toward the second half of the year.
+  expected_sources:
+  - edgar-cof/425_2024-07-24_0000927628-24-000256#main
+  id: marketing-brand-strategy-5
+  topic: marketing-brand-strategy
+- question: What competitive risk does Capital One's 10-K identify regarding rivals'
+    marketing and advertising strategies?
+  level: associate
+  rubric: Answer should state that competitors with greater resources may use more
+    effective advertising, marketing, or cross-selling strategies to acquire/retain
+    customers, capture more spend, secure better co-brand deals, and gain stronger
+    merchant acceptance, risking account/balance attrition for COF.
+  expected_sources:
+  - edgar-cof/10-K_2026-02-19_0000927628-26-000024#main:ITEM1A
+  id: marketing-brand-strategy-6
+  topic: marketing-brand-strategy
+- question: How did Fairbank justify the modest (10%) marketing synergy estimate in
+    the Discover acquisition, and what offsetting investment did he cite?
+  level: senior
+  rubric: Answer should explain synergies come from applying COF's sophisticated mass-customized/direct
+    marketing methodologies across channels to Discover's ~$1B marketing spend, but
+    this is offset by increased investment in the Discover network and brand, netting
+    to modest overall marketing synergies.
+  expected_sources:
+  - edgar-cof/425_2024-02-20_0001193125-24-040125#main
+  id: marketing-brand-strategy-7
+  topic: marketing-brand-strategy
+- question: Fairbank argued that advertising heavy-spender/premium products provides
+    indirect 'brand lift' benefiting the whole company. Explain this mechanism and
+    why it matters for Capital One's broader market strategy relative to Discover's
+    positioning.
+  level: senior
+  rubric: Answer should explain that building an aspirational brand through premium-product
+    advertising lifts the whole company even without directly targeting the mass/mid-market,
+    contrasted with Discover's historical mid-market/broad national focus, and tie
+    this to COF's continued push into the 'upper end' of the credit card market.
+  expected_sources:
+  - edgar-cof/425_2024-02-20_0001193125-24-040125#main
+  id: marketing-brand-strategy-8
+  topic: marketing-brand-strategy
+- question: What retailer did Capital One become the exclusive credit card issuer
+    for in 2019, and roughly how large was the acquired receivables portfolio?
+  level: new-hire
+  rubric: Must name Walmart; note Sept 24, 2019 launch of the exclusive cobrand/private-label
+    issuance program; Oct 11, 2019 acquisition completed adding ~$8.1 billion to domestic
+    credit card loans held for investment.
+  expected_sources:
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094
+  id: partnership-history-1
+  topic: partnership-history
+- question: Name two co-brand credit card portfolios Capital One acquired in 2017-2018
+    tied to outdoor/retail partners, with their approximate sizes.
+  level: new-hire
+  rubric: Cabela's (via World's Foremost Bank) acquisition completed Sept 25, 2017,
+    ~$5.7B added to domestic credit card loans; Bass Pro cobrand portfolio acquisition
+    completed Oct 5, 2018, ~$534M added.
+  expected_sources:
+  - edgar-cof/10-K_2018-02-21_0000927628-18-000107
+  - edgar-cof/10-K_2019-02-20_0000927628-19-000093
+  id: partnership-history-2
+  topic: partnership-history
+- question: Walk through the timeline of Capital One's Walmart partnership from initial
+    deal announcement to portfolio acquisition close, with dates.
+  level: associate
+  rubric: 'July 26, 2018: new long-term card program agreement announced, exclusive
+    issuer of Walmart cobrand/private label; Jan 22, 2019: definitive agreement to
+    acquire ~$9B existing portfolio; Sept 24, 2019: new issuance program launched;
+    Oct 11, 2019: acquisition completed adding ~$8.1B.'
+  expected_sources:
+  - edgar-cof/10-K_2019-02-20_0000927628-19-000093
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102
+  id: partnership-history-3
+  topic: partnership-history
+- question: In Q2 2019 Capital One exited several small partnership portfolios in
+    its Credit Card business. What were the financial details of this exit?
+  level: associate
+  rubric: ~$900 million of receivables sold and ~$100 million transferred to held
+    for sale as of June 30, 2019; resulted in a $49 million gain on sale in other
+    non-interest income and a $68 million allowance release.
+  expected_sources:
+  - edgar-cof/10-Q_2020-05-01_0000927628-20-000173
+  - edgar-cof/10-Q_2020-08-06_0000927628-20-000242
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102
+  id: partnership-history-4
+  topic: partnership-history
+- question: What APR terms applied to the Capital One Walmart Rewards Card as of December
+    2020, including the intro offer?
+  level: associate
+  rubric: 0% introductory APR for the first 9 months; non-introductory rates 17.99%-26.99%
+    varying with the Prime Rate; purchase due date at least 25 days after billing
+    cycle close; no annual fee.
+  expected_sources:
+  - cfpb-agreements/2020_Q4
+  id: partnership-history-5
+  topic: partnership-history
+- question: Compare the Q4 2020 partnership portfolio sale (~$2.1B) with the Q1 2022
+    gain on partnership card portfolio sales. What do the disclosed figures show about
+    how these dispositions hit the income statement?
+  level: senior
+  rubric: 'Q4 2020: ~$2.1B portfolio moved to held for sale as of 9/30/2020, producing
+    a $327M allowance release; Q1 2022 8-K discloses a $192M pre-tax gain on sale
+    of partnership card portfolios ($0.35 diluted EPS impact). Both show partnership
+    exits release reserves and/or book gains that boost non-interest income/EPS in
+    the sale period.'
+  expected_sources:
+  - edgar-cof/10-K_2021-02-25_0000927628-21-000094
+  - edgar-cof/8-K_2022-04-26_0000927628-22-000152
+  id: partnership-history-6
+  topic: partnership-history
+- question: Using the Walmart, Cabela's, and Q2 2019 small-partnership-exit examples,
+    explain the pattern in how Capital One manages its partnership card portfolio
+    over time.
+  level: senior
+  rubric: Cites 10-K language on regularly evaluating acquisitions of credit card/loan
+    portfolios and strategic partnerships while also considering disposition of partnership
+    agreements; contrasts large scale adds (Walmart ~$8.1-9B, Cabela's ~$5.7B) against
+    the Q2 2019 pruning of small partnerships (~$900M sold), showing active curation
+    toward scale partnerships.
+  expected_sources:
+  - edgar-cof/10-K_2018-02-21_0000927628-18-000107
+  - edgar-cof/10-K_2019-02-20_0000927628-19-000093
+  - edgar-cof/10-K_2020-02-20_0000927628-20-000102
+  - edgar-cof/10-Q_2020-05-01_0000927628-20-000173
+  id: partnership-history-7
+  topic: partnership-history
+- question: Between the September 2021 and Q1 2024 Walmart Rewards Card CFPB filings,
+    how did the purchase APR change, and what stayed constant in the pricing structure?
+  level: senior
+  rubric: Sept 2021 filing shows a flat 26.99% purchase/quick cash APR; Q1 2024 filing
+    (terms as of March 31, 2023) shows a flat 28.99% APR. Both remain variable with
+    the Prime Rate, keep the ≥25-day purchase grace period, no annual fee, and up
+    to $39 late fee — fee structure held steady while APR rose ~200bps.
+  expected_sources:
+  - cfpb-agreements/2021_Q4
+  - cfpb-agreements/2024_Q1
+  id: partnership-history-8
+  topic: partnership-history

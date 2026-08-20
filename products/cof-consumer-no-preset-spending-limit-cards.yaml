@@ -1,0 +1,16 @@
+product_id: cof-consumer-no-preset-spending-limit-cards
+issuer_entity_id: cof
+name: Consumer No Preset Spending Limit Cards
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2017-10-01'
+effective_to: null
+terms:
+  purchase_apr: Non-introductory rates between 19.49% and 28.49%
+  annual_fee: $395
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit Card Agreement for Consumer No Preset Spending Limit Cards in Capital
+    One, N.A..pdf-559129.pdf
