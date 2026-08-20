@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fact Pack · How to</title>
+<link rel="stylesheet" href="/ui.css">
+</head>
+<body>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Ask</a><a href="/update">Update</a><a href="/howto" class="active">How&nbsp;to</a>
+  <a href="/architecture">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main>
+  <h1>How to use it.</h1>
+  <p class="sub">Three things: ask, read the receipts, keep it fresh.</p>
+
+  <div class="card">
+    <h2 style="margin-top:0">Ask</h2>
+    <ol class="steps">
+      <li><b>Type a question</b><span class="dim">Numbers, narratives, events, or structure — the router picks the right path. Name a year or quarter to narrow it.</span></li>
+      <li><b>Check Deep for hard questions</b><span class="dim">Runs a bounded research loop: several rounds of searching and metric queries before answering. Slower, more thorough.</span></li>
+      <li><b>Ask follow-ups</b><span class="dim">Citations carry across the conversation — <code>[C3]</code> means the same source it did two questions ago.</span></li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">Read the receipts</h2>
+    <ol class="steps">
+      <li><b>Tap any citation chip</b><span class="dim"><code>[C…]</code> is a document excerpt, <code>[obs:…]</code> a governed number, <code>[ev:…]</code> an event, <code>[brief:…]</code> reviewed doctrine. The panel shows the exact source text.</span></li>
+      <li><b>Trust the Verified line</b><span class="dim">Every quote and figure was matched against its cited source, then a second model judged each claim. Problems appear as red flags — never silently fixed.</span></li>
+      <li><b>Removed citations are honesty, not errors</b><span class="dim">If the answer cited something outside its own evidence, that citation was stripped and listed. The claim stands as unproven text.</span></li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">Keep it fresh</h2>
+    <ol class="steps">
+      <li><b>Run an update when Freshness says so</b><span class="dim">One button on the <a href="/update">Update</a> page. New filings, trust reports, and complaint data arrive on their own schedules.</span></li>
+      <li><b>Upload what the pipeline can't fetch</b><span class="dim">Earnings transcripts (paywalled) and FFIEC ZIPs (bot-blocked). Pick the type, fill the two fields, done.</span></li>
+      <li><b>Review drafts before they count</b><span class="dim">Anything a model wrote — briefs, entities, products — waits on the <code>draft/model-content</code> git branch. Merge what passes your read; only then does it join the evidence.</span></li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">From the terminal</h2>
+    <pre>uv run factpack ask "…"        # answer with citations
+uv run factpack ask --deep "…" # bounded research loop
+uv run factpack search "…"     # raw retrieval, no generation
+uv run factpack metrics "…"    # query the number store
+uv run factpack cost           # what the model calls have cost
+make fetch extract validate compile   # the update, by hand</pre>
+  </div>
+</main>
+</body>
+</html>

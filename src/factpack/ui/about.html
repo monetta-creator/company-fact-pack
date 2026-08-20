@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fact Pack · About</title>
+<link rel="stylesheet" href="/ui.css">
+</head>
+<body>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Ask</a><a href="/update">Update</a><a href="/howto">How&nbsp;to</a>
+  <a href="/architecture">Architecture</a><a href="/about" class="active">About</a>
+</div></nav>
+<main>
+  <h1>Answers you can audit.</h1>
+  <p class="sub">A versioned corpus of public records on Capital One, and a retrieval layer
+  that only says what it can prove.</p>
+
+  <div class="card">
+    <div class="statgrid" id="stats">
+      <div class="stat"><span class="n" data-k="docs">—</span><span class="l">Documents</span></div>
+      <div class="stat"><span class="n" data-k="chunks">—</span><span class="l">Indexed chunks</span></div>
+      <div class="stat"><span class="n" data-k="observations">—</span><span class="l">Governed numbers</span></div>
+      <div class="stat"><span class="n" data-k="events">—</span><span class="l">Dated events</span></div>
+      <div class="stat"><span class="n" data-k="briefs">—</span><span class="l">Reviewed briefs</span></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">Four rules</h2>
+    <ol class="steps">
+      <li><b>Public sources only</b><span class="dim">SEC filings, regulator data, court records, the CFPB's databases. Every document carries its URL, retrieval date, and cryptographic hash.</span></li>
+      <li><b>Every claim is traceable</b><span class="dim">Sentence → citation → excerpt → provenance record → public source. A citation that can't complete that chain fails the build.</span></li>
+      <li><b>Numbers come from one place</b><span class="dim">A governed metric store with one definition per figure — never scraped from prose, where the basis is unknowable.</span></li>
+      <li><b>People approve, models propose</b><span class="dim">Machine-written analysis enters as a draft on a review branch. A human merges it, or it never counts.</span></li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">What's inside</h2>
+    <p class="dim" style="font-size:14.5px">A decade of 10-K, 10-Q, and 8-K filings from Capital One
+    and Discover with their exhibits; monthly credit-card trust performance; FDIC bank financials and
+    branch deposits; ten years of credit-card agreements; the CFPB complaint database; Federal Reserve
+    stress tests; enforcement orders; litigation records. Structured into entities, events, metrics,
+    and doctrine briefs — compiled into one searchable database.</p>
+  </div>
+</main>
+<script>
+fetch('/api/stats').then(r=>r.json()).then(d => {
+  for (const el of document.querySelectorAll('[data-k]')) {
+    const v = d[el.dataset.k];
+    el.textContent = v == null ? '—' : v.toLocaleString();
+  }
+});
+</script>
+</body>
+</html>

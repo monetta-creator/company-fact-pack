@@ -3,112 +3,92 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>factpack</title>
+<title>Fact Pack</title>
+<link rel="stylesheet" href="/ui.css">
 <style>
-  :root { --bg:#0f1115; --panel:#181b22; --text:#e6e6e6; --dim:#9aa3b2; --accent:#5aa9e6;
-          --warn:#e6c15a; --bad:#e65a5a; --ok:#6ee7a8; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--text);
-         font:15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-  .wrap { max-width:880px; margin:0 auto; padding:24px 16px 80px; }
-  h1 { font-size:18px; letter-spacing:.06em; color:var(--dim); }
-  h1 b { color:var(--text); }
-  form { display:flex; gap:8px; margin:12px 0 20px; }
-  input[type=text] { flex:1; padding:10px 12px; border-radius:8px; border:1px solid #2a2f3a;
-         background:var(--panel); color:var(--text); font-size:15px; }
-  button { padding:10px 16px; border-radius:8px; border:0; background:var(--accent);
-           color:#08131d; font-weight:600; cursor:pointer; }
-  label.deep { color:var(--dim); font-size:13px; display:flex; align-items:center; gap:4px; }
-  #answer { background:var(--panel); border-radius:10px; padding:18px 20px; white-space:pre-wrap; }
-  .chip { display:inline-block; background:#243044; color:var(--accent); border-radius:5px;
-          padding:0 6px; margin:0 2px; font-size:12px; cursor:pointer; font-family:ui-monospace,monospace; }
-  .chip:hover { background:#2e3d57; }
-  #flags { margin-top:14px; }
-  .flag { background:#2a1e1e; border-left:3px solid var(--bad); padding:8px 12px;
-          border-radius:6px; margin:6px 0; font-size:13px; }
-  .flag.kindverify-error { border-color:var(--warn); }
-  .okline { color:var(--ok); font-size:13px; margin-top:12px; }
-  .audit { color:var(--warn); font-size:13px; margin-top:6px; }
-  .meta { color:var(--dim); font-size:12px; margin-top:10px; }
-  #peek { position:fixed; top:0; right:-460px; width:440px; height:100vh; background:var(--panel);
-          border-left:1px solid #2a2f3a; transition:right .18s ease; padding:18px; overflow-y:auto; }
+  .askbar { display:flex; gap:10px; align-items:center; margin:0 0 26px; }
+  .askbar input[type=text] { flex:1; }
+  .deep { display:flex; gap:6px; align-items:center; font-size:13px; color:var(--secondary);
+          white-space:nowrap; }
+  #answer { white-space:pre-wrap; font-size:16px; line-height:1.6; }
+  .flag { border-left:3px solid var(--bad); padding:8px 14px; margin:8px 0;
+          font-size:13.5px; background:color-mix(in srgb, var(--bad) 6%, transparent);
+          border-radius:0 8px 8px 0; }
+  .verifyline { font-size:13.5px; margin-top:16px; }
+  #peek { position:fixed; top:0; right:-420px; width:400px; height:100vh;
+          background:var(--surface); border-left:1px solid var(--hairline);
+          transition:right .22s ease; padding:22px; overflow-y:auto; z-index:20; }
   #peek.open { right:0; }
-  #peek h3 { margin:0 0 4px; font-size:14px; color:var(--accent); font-family:ui-monospace,monospace; }
-  #peek .src { color:var(--dim); font-size:12px; margin-bottom:10px; }
-  #peek pre { white-space:pre-wrap; font:12px/1.5 ui-monospace,monospace; color:var(--text); }
-  #peek .close { float:right; cursor:pointer; color:var(--dim); }
-  .spin { color:var(--dim); }
+  #peek h3 { margin:0 0 2px; font-size:13px; color:var(--accent);
+             font-family:"SF Mono", ui-monospace, monospace; }
+  #peek .src { color:var(--secondary); font-size:12px; margin-bottom:12px; }
+  #peek pre { white-space:pre-wrap; }
+  #peek .close { float:right; cursor:pointer; color:var(--secondary); font-size:17px; }
+  @media (prefers-reduced-motion:reduce) { #peek { transition:none; } }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <h1><b>factpack</b> · grounded answers over the Capital One public corpus
-      &nbsp;·&nbsp; <a href="/update" style="color:var(--accent);text-decoration:none;font-weight:400">update ↗</a></h1>
-  <form id="f">
-    <input type="text" id="q" placeholder="Ask… (e.g. How did COMET charge-off rates trend through 2024?)" autofocus>
-    <label class="deep"><input type="checkbox" id="deep"> deep</label>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/" class="active">Ask</a><a href="/update">Update</a><a href="/howto">How&nbsp;to</a>
+  <a href="/architecture">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main>
+  <h1>Ask.</h1>
+  <p class="sub">Every answer cites public sources. Every number is checked.</p>
+  <form class="askbar" id="f">
+    <input type="text" id="q" placeholder="How did trust charge-off rates trend through 2025?" autofocus>
+    <label class="deep"><input type="checkbox" id="deep" style="width:auto">Deep</label>
     <button>Ask</button>
   </form>
   <div id="out"></div>
-</div>
+</main>
 <div id="peek"><span class="close" onclick="peek.classList.remove('open')">✕</span><div id="peekbody"></div></div>
 <script>
 const out = document.getElementById('out');
 const peek = document.getElementById('peek');
 const peekbody = document.getElementById('peekbody');
-let tags = {};   // conversation tag map: citations resolve across turns
-let lastMeta = {};
+let tags = {}, lastMeta = {};
 
 document.getElementById('f').addEventListener('submit', async (e) => {
   e.preventDefault();
   const q = document.getElementById('q').value.trim();
   if (!q) return;
-  out.innerHTML = '<div class="spin">thinking… (retrieval → draft → gate → verify)</div>';
-  const res = await fetch('/api/ask', {
-    method:'POST', headers:{'Content-Type':'application/json'},
-    body: JSON.stringify({question:q, deep:document.getElementById('deep').checked, tags})
-  });
+  out.innerHTML = '<div class="card dim">Retrieving, drafting, verifying…</div>';
+  const res = await fetch('/api/ask', {method:'POST', headers:{'Content-Type':'application/json'},
+    body: JSON.stringify({question:q, deep:document.getElementById('deep').checked, tags})});
   const d = await res.json();
-  tags = d.tags || tags;
-  lastMeta = d.citation_meta || {};
+  tags = d.tags || tags; lastMeta = d.citation_meta || {};
   render(d);
 });
 
 function render(d) {
-  let html = escapeHtml(d.answer).replace(/\[((?:C\d+)|(?:(?:ent|obs|ev|brief):[A-Za-z0-9._-]+))\]/g,
-    (m, tok) => `<span class="chip" onclick="openPeek('${tok}')">${tok}</span>`);
-  let block = `<div id="answer">${html}</div><div id="flags">`;
+  let html = esc(d.answer).replace(/\[((?:C\d+)|(?:(?:ent|obs|ev|brief):[A-Za-z0-9._-]+))\]/g,
+    (m, t) => `<span class="chip" onclick="openPeek('${t}')">${t}</span>`);
+  let b = `<div class="card"><div id="answer">${html}</div><div class="verifyline">`;
   if (d.verify.flags.length) {
-    for (const f of d.verify.flags)
-      block += `<div class="flag kind${f.kind}"><b>${f.kind}</b> ${escapeHtml(f.excerpt||'')} — ${escapeHtml(f.issue)}</div>`;
+    b += d.verify.flags.map(f => `<div class="flag"><b>${f.kind}</b> ${esc(f.excerpt||'')} — ${esc(f.issue)}</div>`).join('');
   } else {
-    block += `<div class="okline">✓ verified: ${d.verify.quotes_checked} quotes · ${d.verify.numbers_checked} figures · ${d.verify.model_checked} claims</div>`;
+    b += `<span class="ok">Verified</span><span class="dim"> · ${d.verify.numbers_checked} figures · ${d.verify.model_checked} claims · ${d.citations.length} citations</span>`;
   }
-  if (d.audit.length) block += `<div class="audit">dropped citations (never repaired): ${d.audit.join(', ')}</div>`;
-  block += `</div><div class="meta">citations: ${d.citations.length} · answer cost $${(d.cost_usd||0).toFixed(4)}</div>`;
-  out.innerHTML = block;
+  if (d.audit.length) b += `<div class="dim" style="margin-top:6px;font-size:13px">Unprovable citations removed: ${d.audit.join(', ')}</div>`;
+  b += `</div></div>`;
+  out.innerHTML = b;
 }
 
 async function openPeek(tok) {
-  const meta = lastMeta[tok] || {};
-  let url = null, title = tok;
-  if (meta.kind === 'chunk') url = `/api/peek/chunk/${meta.chunk_id}`;
-  else if (meta.kind === 'entity') url = `/api/peek/entity/${meta.id}`;
-  else if (meta.kind === 'event') url = `/api/peek/event/${meta.id}`;
-  else if (meta.kind === 'brief') url = `/api/peek/brief/${meta.id}`;
-  peekbody.innerHTML = `<h3>${tok}</h3><div class="src">${escapeHtml(meta.label||'')}</div>`;
+  const m = lastMeta[tok] || {};
+  peekbody.innerHTML = `<h3>${tok}</h3><div class="src">${esc(m.label||'')}</div>`;
   peek.classList.add('open');
-  if (meta.kind === 'obs') {
-    peekbody.innerHTML += `<pre>governed observation\nsource doc: ${escapeHtml(meta.doc_id||'')}</pre>`;
-    return;
-  }
+  if (m.kind === 'obs') { peekbody.innerHTML += `<pre>Governed observation\nSource: ${esc(m.doc_id||'')}</pre>`; return; }
+  const url = m.kind === 'chunk' ? `/api/peek/chunk/${m.chunk_id}`
+            : m.kind ? `/api/peek/${m.kind}/${m.id}` : null;
   if (!url) return;
   const d = await (await fetch(url)).json();
   const src = d.doc_id ? `${d.doc_id} §${d.section_id||''}` : (d.title || '');
-  peekbody.innerHTML += `<div class="src">${escapeHtml(src)}</div><pre>${escapeHtml(d.preamble ? d.preamble + '\n\n' + d.text : JSON.stringify(d, null, 1))}</pre>`;
+  peekbody.innerHTML += `<div class="src">${esc(src)}</div><pre>${esc(d.preamble ? d.preamble+'\n\n'+d.text : JSON.stringify(d,null,1))}</pre>`;
 }
-
-function escapeHtml(s){return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 </script>
 </body>
 </html>

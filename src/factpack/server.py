@@ -91,14 +91,55 @@ def peek(kind: str, item_id: str):
     return dict(row) if row else {"error": "not found"}
 
 
+UI = Path(__file__).parent / "ui"
+PAGES = {"/": "index.html", "/update": "update.html", "/howto": "howto.html",
+         "/about": "about.html", "/architecture": "architecture.html"}
+
+
+@app.get("/ui.css")
+def stylesheet():
+    from fastapi.responses import Response
+
+    return Response((UI / "style.css").read_text(), media_type="text/css")
+
+
+@app.get("/api/stats")
+def stats():
+    db = dblib.connect()
+    out = {
+        "docs": db.execute("SELECT COUNT(DISTINCT doc_id) FROM chunks").fetchone()[0],
+        "chunks": db.execute("SELECT COUNT(*) FROM chunks").fetchone()[0],
+        "observations": db.execute("SELECT COUNT(*) FROM metric_observations").fetchone()[0],
+        "events": db.execute("SELECT COUNT(*) FROM events").fetchone()[0],
+        "briefs": db.execute("SELECT COUNT(*) FROM briefs").fetchone()[0],
+    }
+    db.close()
+    return out
+
+
 @app.get("/", response_class=HTMLResponse)
 def index():
-    return (Path(__file__).parent / "ui" / "index.html").read_text()
+    return (UI / "index.html").read_text()
 
 
 @app.get("/update", response_class=HTMLResponse)
 def update_page():
-    return (Path(__file__).parent / "ui" / "update.html").read_text()
+    return (UI / "update.html").read_text()
+
+
+@app.get("/howto", response_class=HTMLResponse)
+def howto_page():
+    return (UI / "howto.html").read_text()
+
+
+@app.get("/about", response_class=HTMLResponse)
+def about_page():
+    return (UI / "about.html").read_text()
+
+
+@app.get("/architecture", response_class=HTMLResponse)
+def architecture_page():
+    return (UI / "architecture.html").read_text()
 
 
 @app.post("/api/update/start")

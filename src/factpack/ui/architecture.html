@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fact Pack · Architecture</title>
+<link rel="stylesheet" href="/ui.css">
+<style>
+  .schematic { width:100%; overflow-x:auto; }
+  .schematic svg { min-width:760px; width:100%; height:auto; display:block; }
+  .box { fill:var(--surface); stroke:var(--hairline); stroke-width:1; rx:12; }
+  .draftbox { fill:none; stroke:var(--warn); stroke-dasharray:5 4; stroke-width:1.2; rx:12; }
+  .dbbox { fill:var(--surface); stroke:var(--accent); stroke-width:1.4; rx:12; }
+  .t { font:600 13.5px -apple-system, sans-serif; fill:var(--text); }
+  .s { font:11px -apple-system, sans-serif; fill:var(--secondary); }
+  .lbl { font:11px -apple-system, sans-serif; fill:var(--secondary); }
+  .flow { stroke:var(--secondary); stroke-width:1.2; fill:none; marker-end:url(#arr); }
+  .flowa { stroke:var(--accent); stroke-width:1.2; fill:none; marker-end:url(#arra); }
+  .floww { stroke:var(--warn); stroke-width:1.2; fill:none; marker-end:url(#arrw); stroke-dasharray:5 4; }
+</style>
+</head>
+<body>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Ask</a><a href="/update">Update</a><a href="/howto">How&nbsp;to</a>
+  <a href="/architecture" class="active">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main class="wide">
+  <h1>How it works.</h1>
+  <p class="sub">Two pipelines share one database: build fills it, ask proves things out of it.</p>
+
+  <div class="card schematic">
+  <svg viewBox="0 0 900 640" role="img" aria-label="Schematic: build pipeline from public sources to the database; ask pipeline from question to verified answer">
+    <defs>
+      <marker id="arr" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+        <path d="M0,0 L7,3.5 L0,7 Z" fill="var(--secondary)"/></marker>
+      <marker id="arra" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+        <path d="M0,0 L7,3.5 L0,7 Z" fill="var(--accent)"/></marker>
+      <marker id="arrw" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+        <path d="M0,0 L7,3.5 L0,7 Z" fill="var(--warn)"/></marker>
+    </defs>
+
+    <text x="40" y="28" class="s" style="letter-spacing:.08em">BUILD</text>
+    <text x="520" y="28" class="s" style="letter-spacing:.08em">ASK</text>
+
+    <!-- build column -->
+    <rect class="box" x="40" y="40" width="340" height="56"/>
+    <text class="t" x="58" y="63">Public sources</text>
+    <text class="s" x="58" y="82">EDGAR · FDIC · CFPB · Fed · courts · your uploads</text>
+    <line class="flow" x1="210" y1="96" x2="210" y2="140"/>
+    <text class="lbl" x="222" y="122">fetch — throttle · hash · manifest</text>
+
+    <rect class="box" x="40" y="142" width="340" height="56"/>
+    <text class="t" x="58" y="165">Corpus</text>
+    <text class="s" x="58" y="184">raw files + extracted text + provenance record</text>
+    <line class="flow" x1="210" y1="198" x2="210" y2="242"/>
+    <text class="lbl" x="222" y="224">extract — deterministic parsers</text>
+
+    <rect class="box" x="40" y="244" width="340" height="56"/>
+    <text class="t" x="58" y="267">Structured layers</text>
+    <text class="s" x="58" y="286">entities · events · metrics · products · briefs</text>
+    <line class="flow" x1="210" y1="300" x2="210" y2="354"/>
+    <text class="lbl" x="222" y="322">validate — every pointer must resolve</text>
+    <text class="lbl" x="222" y="338">compile — chunk · enrich · embed</text>
+
+    <rect class="dbbox" x="40" y="356" width="340" height="56"/>
+    <text class="t" x="58" y="379">factpack.db</text>
+    <text class="s" x="58" y="398">search index + number store · rebuilt, never edited</text>
+
+    <!-- human gate -->
+    <rect class="draftbox" x="40" y="470" width="340" height="56"/>
+    <text class="t" x="58" y="493">Model drafts</text>
+    <text class="s" x="58" y="512">briefs · entity map · products — on a review branch</text>
+    <path class="floww" d="M 210 470 L 210 434 L 150 434 L 150 302"/>
+    <text class="lbl" x="222" y="452" fill="var(--warn)">you approve · merge — or it never counts</text>
+
+    <!-- db feeds router -->
+    <path class="flowa" d="M 380 384 L 450 384 L 450 170 L 516 170"/>
+
+    <!-- ask column -->
+    <rect class="box" x="520" y="40" width="340" height="56"/>
+    <text class="t" x="538" y="63">Question</text>
+    <text class="s" x="538" y="82">intent · company · period read first</text>
+    <line class="flow" x1="690" y1="96" x2="690" y2="140"/>
+
+    <rect class="box" x="520" y="142" width="340" height="56"/>
+    <text class="t" x="538" y="165">Router</text>
+    <text class="s" x="538" y="184">numbers → metric store · text → hybrid search</text>
+    <line class="flow" x1="690" y1="198" x2="690" y2="242"/>
+    <text class="lbl" x="702" y="224">retrieve · fuse · rerank</text>
+
+    <rect class="box" x="520" y="244" width="340" height="56"/>
+    <text class="t" x="538" y="267">Evidence pack</text>
+    <text class="s" x="538" y="286">frozen set: excerpts · numbers · events · briefs</text>
+    <line class="flow" x1="690" y1="300" x2="690" y2="344"/>
+    <text class="lbl" x="702" y="326">draft — may cite only the pack</text>
+
+    <rect class="box" x="520" y="346" width="340" height="56"/>
+    <text class="t" x="538" y="369">Citation gate</text>
+    <text class="s" x="538" y="388">unprovable citations removed and logged — never fixed</text>
+    <line class="flow" x1="690" y1="402" x2="690" y2="446"/>
+    <text class="lbl" x="702" y="428">verify — string checks, then a judge model</text>
+
+    <rect class="dbbox" x="520" y="448" width="340" height="56"/>
+    <text class="t" x="538" y="471">Answer</text>
+    <text class="s" x="538" y="490">citations you can open · flags shown as-is</text>
+  </svg>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">The logic, in six commitments</h2>
+    <ol class="steps">
+      <li><b>Structure before search</b><span class="dim">Documents are cut on their real seams — filing items, exhibits, tables kept whole — and each piece is labeled with its document, period, and company before it's indexed.</span></li>
+      <li><b>Filter before relevance</b><span class="dim">The question's company and time window narrow the field first; only then do keyword and semantic search compete, get fused, and get reranked.</span></li>
+      <li><b>Numbers have one home</b><span class="dim">Figures come from the metric store, where each has a single definition and a source pointer — never from prose, where the basis is unknowable.</span></li>
+      <li><b>Citation is a gate, not decoration</b><span class="dim">The answer may cite only its own frozen evidence pack. Anything else is removed and logged. Wrong citations are never repaired into plausible ones.</span></li>
+      <li><b>Verify, then show the flags</b><span class="dim">Every quote and figure is string-matched against its source; a second model judges each claim. Failures render as flags — the answer is never quietly edited.</span></li>
+      <li><b>Bounded agency</b><span class="dim">Deep mode is a loop with hard caps — rounds, calls, characters, wall clock — enforced by code, not by asking the model nicely.</span></li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">The moving parts</h2>
+    <table>
+      <tr><th>Where</th><th>What lives there</th></tr>
+      <tr><td class="num">corpus/</td><td>Source documents with provenance manifests — the ground truth</td></tr>
+      <tr><td class="num">entities · events · metrics · products · briefs/</td><td>The structured layers, versioned in git</td></tr>
+      <tr><td class="num">schemas/</td><td>The contract every record must satisfy</td></tr>
+      <tr><td class="num">scripts/</td><td>Pipeline stages: fetch, extract, validate, compile, briefs</td></tr>
+      <tr><td class="num">src/factpack/</td><td>The ask layer: router, retrieval, gate, verify, this app</td></tr>
+      <tr><td class="num">build/</td><td>Compiled database and caches — disposable, regenerated</td></tr>
+      <tr><td class="num">inbox/</td><td>Your uploads, waiting for the next update run</td></tr>
+    </table>
+  </div>
+</main>
+</body>
+</html>

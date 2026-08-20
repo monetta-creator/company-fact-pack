@@ -3,53 +3,39 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>factpack · update</title>
+<title>Fact Pack · Update</title>
+<link rel="stylesheet" href="/ui.css">
 <style>
-  :root { --bg:#0f1115; --panel:#181b22; --text:#e6e6e6; --dim:#9aa3b2; --accent:#5aa9e6;
-          --warn:#e6c15a; --bad:#e65a5a; --ok:#6ee7a8; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--text);
-         font:15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-  .wrap { max-width:760px; margin:0 auto; padding:24px 16px 80px; }
-  h1 { font-size:18px; letter-spacing:.06em; color:var(--dim); }
-  h1 b { color:var(--text); } h1 a { color:var(--accent); text-decoration:none; font-weight:400; }
-  h2 { font-size:14px; color:var(--dim); letter-spacing:.08em; text-transform:uppercase; margin:28px 0 10px; }
-  .card { background:var(--panel); border-radius:10px; padding:18px 20px; }
-  button { padding:12px 22px; border-radius:8px; border:0; background:var(--accent);
-           color:#08131d; font-weight:700; font-size:15px; cursor:pointer; }
-  button:disabled { opacity:.45; cursor:default; }
-  .statusline { margin-top:12px; font-size:14px; }
-  .ok { color:var(--ok); } .bad { color:var(--bad); } .dim { color:var(--dim); }
-  .stages { display:flex; gap:8px; margin-top:12px; flex-wrap:wrap; }
-  .stage { padding:4px 10px; border-radius:999px; font-size:12px; background:#242a36; color:var(--dim); }
-  .stage.ok { background:#1d3529; color:var(--ok); }
-  .stage.failed { background:#3a2020; color:var(--bad); }
-  .stage.running { background:#243044; color:var(--accent); }
-  pre { background:#10131a; border-radius:8px; padding:10px 12px; font:12px/1.5 ui-monospace,monospace;
-        max-height:220px; overflow:auto; white-space:pre-wrap; }
-  form.upload { display:grid; gap:10px; }
-  label { font-size:13px; color:var(--dim); display:grid; gap:4px; }
-  input, select { padding:9px 10px; border-radius:7px; border:1px solid #2a2f3a;
-                  background:#10131a; color:var(--text); font-size:14px; }
-  input[type=file] { padding:6px; }
-  .row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
-  .hint { font-size:12px; color:var(--dim); }
-  .note { margin-top:10px; font-size:13px; }
+  .stages { display:flex; gap:8px; margin-top:14px; flex-wrap:wrap; }
+  #log { max-height:200px; overflow:auto; margin-top:14px; }
+  .upform { display:grid; gap:12px; }
+  #upnote { font-size:13.5px; }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <h1><b>factpack</b> · corpus update &nbsp;·&nbsp; <a href="/">← back to ask</a></h1>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Ask</a><a href="/update" class="active">Update</a><a href="/howto">How&nbsp;to</a>
+  <a href="/architecture">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main>
+  <h1>Update.</h1>
+  <p class="sub">Add documents, then rebuild. Nothing publishes without passing validation.</p>
 
-  <h2>1 · Add a document (optional)</h2>
   <div class="card">
-    <form class="upload" id="up">
+    <h2 style="margin-top:0">Add a document</h2>
+    <ol class="steps">
+      <li><b>Choose the file</b><span class="dim">Transcripts: txt, html, or pdf. Regulatory data: the ZIP exactly as downloaded from the FFIEC site.</span></li>
+      <li><b>Tell it what it is</b><span class="dim">Transcripts need the company and quarter — that's how the corpus files and cites them.</span></li>
+      <li><b>Add, then run the update below</b><span class="dim">The file waits in the inbox until a run hashes it, writes its provenance record, and indexes it.</span></li>
+    </ol>
+    <form class="upform" id="up" style="margin-top:18px">
       <label>File <input type="file" name="file" required></label>
-      <label>What is it?
+      <label>Type
         <select name="kind" id="kind">
-          <option value="transcript">Earnings call transcript (txt / html / pdf)</option>
-          <option value="y9c">FR Y-9C bulk ZIP (from FFIEC site)</option>
-          <option value="call">Call Report bulk ZIP (from FFIEC CDR)</option>
+          <option value="transcript">Earnings call transcript</option>
+          <option value="y9c">FR Y-9C bulk ZIP (FFIEC)</option>
+          <option value="call">Call Report bulk ZIP (FFIEC CDR)</option>
         </select>
       </label>
       <div id="tfields">
@@ -59,45 +45,45 @@
           </label>
           <label>Quarter <input name="quarter" placeholder="2024Q3"></label>
         </div>
-        <div class="row">
+        <div class="row" style="margin-top:12px">
           <label>Call date <input name="date" placeholder="2024-10-24"></label>
-          <label>Where it came from <input name="source_desc" placeholder="e.g. Motley Fool transcript"></label>
+          <label>Source <input name="source_desc" placeholder="Where you got it"></label>
         </div>
       </div>
-      <div><button type="submit">Add to inbox</button> <span class="note" id="upnote"></span></div>
-      <div class="hint">Files wait in the inbox until the next update run picks them up, hashes them,
-      and gives them a provenance manifest. Nothing enters the corpus without passing validation.</div>
+      <div style="display:flex;gap:14px;align-items:center">
+        <button type="submit" class="quiet">Add to inbox</button><span id="upnote"></span>
+      </div>
     </form>
   </div>
 
-  <h2>2 · Run the update</h2>
   <div class="card">
-    <button id="run">Run update</button>
-    <span class="statusline" id="state"></span>
+    <h2 style="margin-top:0">Run the update</h2>
+    <p class="dim" style="font-size:14px;margin-top:-4px">Fetches new public filings and data, ingests
+    inbox files, re-extracts, validates, rebuilds. If anything fails its checks, the current database
+    keeps serving — a bad run can't break the app.</p>
+    <div style="display:flex;gap:14px;align-items:center">
+      <button id="run">Run update</button><span id="state" class="dim"></span>
+    </div>
     <div class="stages" id="stages"></div>
-    <div class="note dim">Fetches anything newly public (filings, monthly trust reports, complaints…),
-    ingests inbox files, re-extracts, <b>validates before it compiles</b> — bad data stops the run and
-    the current database keeps serving. If a rebuild fails its own verification, the previous
-    database is restored automatically.</div>
     <pre id="log" hidden></pre>
   </div>
 
-  <h2>Freshness</h2>
-  <div class="card"><pre id="stale">loading…</pre></div>
-</div>
+  <div class="card">
+    <h2 style="margin-top:0">Freshness</h2>
+    <pre id="stale" style="background:none;padding:0">loading…</pre>
+  </div>
+</main>
 <script>
-const kindSel = document.getElementById('kind');
-const tfields = document.getElementById('tfields');
-kindSel.addEventListener('change', () => { tfields.style.display = kindSel.value === 'transcript' ? '' : 'none'; });
+const kindSel = document.getElementById('kind'), tf = document.getElementById('tfields');
+kindSel.addEventListener('change', () => tf.style.display = kindSel.value === 'transcript' ? '' : 'none');
 
 document.getElementById('up').addEventListener('submit', async (e) => {
   e.preventDefault();
-  const fd = new FormData(e.target);
   const note = document.getElementById('upnote');
-  note.textContent = 'uploading…';
-  const d = await (await fetch('/api/update/upload', {method:'POST', body: fd})).json();
-  note.textContent = d.ok ? `✓ saved to ${d.saved_to}` : `✗ ${d.error}`;
-  note.className = 'note ' + (d.ok ? 'ok' : 'bad');
+  note.textContent = 'Uploading…'; note.className = 'dim';
+  const d = await (await fetch('/api/update/upload', {method:'POST', body:new FormData(e.target)})).json();
+  note.textContent = d.ok ? `Saved. It'll be picked up by the next run.` : d.error;
+  note.className = d.ok ? 'ok' : 'bad';
 });
 
 document.getElementById('run').addEventListener('click', async () => {
@@ -106,24 +92,22 @@ document.getElementById('run').addEventListener('click', async () => {
   poll();
 });
 
-const STAGE_ORDER = ['fetch','extract','validate','compile'];
+const ORDER = ['fetch','extract','validate','compile'];
 async function poll() {
   const d = await (await fetch('/api/update/status')).json();
-  const state = document.getElementById('state');
-  const btn = document.getElementById('run');
-  btn.disabled = !!d.running;
-  if (d.running) state.innerHTML = `<span class="dim">running — stage: ${d.stage||'…'}</span>`;
-  else if (d.state === 'ok') state.innerHTML = `<span class="ok">✓ last update completed ${d.finished_at||''}</span>`;
-  else if (d.state === 'failed') state.innerHTML = `<span class="bad">✗ ${d.error||'failed'}</span> <span class="dim">(database unharmed)</span>`;
-  else state.innerHTML = '<span class="dim">no update has run yet</span>';
-  const stages = document.getElementById('stages');
-  stages.innerHTML = STAGE_ORDER.map(s => {
-    const st = (d.stages||{})[s] || (d.running && d.stage===s ? 'running' : '');
-    return `<span class="stage ${st}">${s}${st? ' · '+st : ''}</span>`;
+  const st = document.getElementById('state');
+  document.getElementById('run').disabled = !!d.running;
+  if (d.running) st.innerHTML = `Running — ${d.stage||'…'}`;
+  else if (d.state === 'ok') st.innerHTML = `<span class="ok">Done</span> <span class="dim">${d.finished_at||''}</span>`;
+  else if (d.state === 'failed') st.innerHTML = `<span class="bad">${d.error||'Failed'}</span> <span class="dim">— database unharmed</span>`;
+  else st.textContent = 'No update has run yet.';
+  document.getElementById('stages').innerHTML = ORDER.map(s => {
+    const v = (d.stages||{})[s] || (d.running && d.stage===s ? 'running' : '');
+    return `<span class="pill ${v}">${s}</span>`;
   }).join('');
   const log = document.getElementById('log');
   if (d.log_tail) { log.hidden = false; log.textContent = d.log_tail; log.scrollTop = log.scrollHeight; }
-  document.getElementById('stale').textContent = d.staleness || '(no staleness report yet — run an update)';
+  document.getElementById('stale').textContent = d.staleness || 'Run an update to generate the freshness report.';
   if (d.running) setTimeout(poll, 4000);
 }
 poll();
