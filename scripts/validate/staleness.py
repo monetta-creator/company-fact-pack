@@ -11,7 +11,7 @@ import datetime as dt
 import yaml
 
 from factpack import config, manifest as mlib
-from scripts.validate.schema_check import parse_frontmatter
+from scripts.validate.schema_check import iter_brief_paths, parse_frontmatter
 
 # expected max age (days) of the newest doc per source, by cadence in PLAN.md §4
 CADENCE_DAYS = {
@@ -29,7 +29,7 @@ def main() -> int:
     lines = [f"# Staleness report — {today}\n"]
 
     overdue = []
-    for path in sorted((config.ROOT / "briefs").glob("*.md")):
+    for path in iter_brief_paths():
         fm = parse_frontmatter(path.read_text())
         rb = dt.date.fromisoformat(fm["review_by"])
         if rb < today:

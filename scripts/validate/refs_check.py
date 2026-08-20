@@ -18,7 +18,7 @@ import yaml
 
 from factpack import config, manifest as mlib
 from factpack.http import sha256_file
-from scripts.validate.schema_check import parse_frontmatter
+from scripts.validate.schema_check import iter_brief_paths, parse_frontmatter
 
 
 def load_universe():
@@ -31,7 +31,7 @@ def load_universe():
     if defs_path.exists():
         for d in yaml.safe_load(defs_path.read_text()) or []:
             metric_ids.add(d["metric_id"])
-    for path in (config.ROOT / "briefs").glob("*.md"):
+    for path in iter_brief_paths():
         brief_ids.add(parse_frontmatter(path.read_text())["id"])
     return doc_ids, entity_ids, metric_ids, brief_ids
 
@@ -97,7 +97,7 @@ def iter_problems(verify_hashes: bool):
         for p in pr.get("sources", []):
             yield from ptr(where, p)
 
-    for path in (config.ROOT / "briefs").glob("*.md"):
+    for path in iter_brief_paths():
         fm = parse_frontmatter(path.read_text())
         where = path.name
         for p in fm["sources"]:

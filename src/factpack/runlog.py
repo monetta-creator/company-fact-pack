@@ -67,6 +67,8 @@ def print_status_table() -> None:
     rows = []
     for path in sorted(config.STATUS.glob("*.json")):
         d = json.loads(path.read_text())
+        if not isinstance(d, dict) or "name" not in d:
+            continue  # quarantine lists etc. share the status dir
         rows.append((d["name"], d["status"], d.get("counts", {}), d.get("error", "")[:80]))
     width = max((len(r[0]) for r in rows), default=10)
     for name, status, counts, err in rows:

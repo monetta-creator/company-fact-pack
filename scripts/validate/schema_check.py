@@ -61,7 +61,7 @@ def iter_problems():
             yield f"{path}: {e}"
 
     # brief frontmatter
-    for path in sorted((config.ROOT / "briefs").glob("*.md")):
+    for path in iter_brief_paths():
         try:
             fm = parse_frontmatter(path.read_text())
             schemas.validate(fm, "brief")
@@ -74,6 +74,13 @@ def parse_frontmatter(text: str) -> dict:
         raise ValueError("missing YAML frontmatter")
     _, fm, _ = text.split("---", 2)
     return yaml.safe_load(fm)
+
+
+def iter_brief_paths():
+    """briefs/*.md that are actual briefs (frontmatter present); BACKLOG etc. excluded."""
+    for path in sorted((config.ROOT / "briefs").glob("*.md")):
+        if path.read_text(errors="replace").startswith("---"):
+            yield path
 
 
 def main() -> int:

@@ -16,6 +16,9 @@ from factpack import config, model
 from factpack.runlog import RunLog, run_isolated
 
 BATCH = 15
+# Templated monthly reports gain nothing from a generated preamble — the deterministic
+# floor (doc, period, entity) already situates them. Override with FACTPACK_ENRICH_ALL=1.
+SKIP_MODEL_DOC_TYPES = {"10-D", "10-D/A"}
 SCHEMA = {
     "type": "array",
     "items": {
@@ -53,8 +56,15 @@ def main() -> None:
             for line in (config.BUILD / "chunks.jsonl").read_text().splitlines()
             if line.strip()
         ]
-        pending = [c for c in chunks if not cache_path(c["chunk_id"]).exists()]
-        log.note(f"{len(chunks)} chunks; {len(pending)} need model preambles")
+        import os
+
+        skip_types = set() if os.environ.get("FACTPACK_ENRICH_ALL") else SKIP_MODEL_DOC_TYPES
+        pending = [
+            c for c in chunks
+            if c["doc_type"] not in skip_types and not cache_path(c["chunk_id"]).exists()
+        ]
+        log.note(f"{len(chunks)} chunks; {len(pending)} need model preambles "
+                 f"(doc types skipped: {sorted(skip_types)})")
 
         def enrich_batch(batch: list[dict]) -> int:
             listing = "\n\n".join(
@@ -97,7 +107,11 @@ def main() -> None:
                 c["preamble"] = deterministic_preamble(c)
             out.write(json.dumps(c, separators=(",", ":")) + "\n")
         out.close()
-        log.ok(chunks=len(chunks), model_upgraded=upgraded)
+        still_pending = sum(
+            1 for c in chunks
+            if c["doc_type"] not in skip_types and not cache_path(c["chunk_id"]).exists()
+        )
+        log.ok(chunks=len(chunks), model_upgraded=upgraded, still_pending=still_pending)
 
     run_isolated("compile.enrich", run)
 

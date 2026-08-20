@@ -7,7 +7,7 @@ import json
 import yaml
 
 from factpack import config, manifest as mlib
-from scripts.validate.schema_check import parse_frontmatter
+from scripts.validate.schema_check import iter_brief_paths, parse_frontmatter
 
 
 def main() -> int:
@@ -20,7 +20,7 @@ def main() -> int:
         for line in path.read_text().splitlines():
             if line.strip():
                 referenced_entities.update(json.loads(line)["entity_ids"])
-    for path in (config.ROOT / "briefs").glob("*.md"):
+    for path in iter_brief_paths():
         referenced_entities.update(parse_frontmatter(path.read_text())["entities"])
     for _, m in mlib.iter_manifests():
         referenced_entities.update(m.get("entity_ids", []))

@@ -26,7 +26,7 @@ RAW_COMMIT_EXCEPTIONS: dict[str, int] = {}  # doc_id -> per-file ceiling, hard m
 
 MODEL_HAIKU = "haiku"
 MODEL_SONNET = "sonnet"
-MODEL_CONCURRENCY = 3  # concurrent `claude -p` processes; wrapper backs off to 1 on rate errors
+MODEL_CONCURRENCY = 5  # concurrent `claude -p` processes; wrapper backs off on rate errors
 
 EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 EMBED_QUERY_PREFIX = "Represent this sentence for searching relevant passages: "

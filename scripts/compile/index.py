@@ -15,16 +15,25 @@ import yaml
 
 from factpack import config, db as dblib, embed
 from factpack.runlog import RunLog, run_isolated
-from scripts.validate.schema_check import parse_frontmatter
+from scripts.validate.schema_check import iter_brief_paths, parse_frontmatter
 
 
 def main() -> None:
     def run(log: RunLog) -> None:
-        chunks = [
-            json.loads(line)
-            for line in (config.BUILD / "enriched.jsonl").read_text().splitlines()
-            if line.strip()
-        ]
+        seen: set[str] = set()
+        chunks = []
+        dupes = 0
+        for line in (config.BUILD / "enriched.jsonl").read_text().splitlines():
+            if not line.strip():
+                continue
+            c = json.loads(line)
+            if c["chunk_id"] in seen:  # identical text can repeat within a doc (TOC/boilerplate)
+                dupes += 1
+                continue
+            seen.add(c["chunk_id"])
+            chunks.append(c)
+        if dupes:
+            log.note(f"{dupes} duplicate chunk_ids collapsed")
         config.DB_PATH.unlink(missing_ok=True)
         db = dblib.connect()
         db.executescript(
@@ -99,7 +108,7 @@ def main() -> None:
                      ev["epistemic_status"], ev["as_of"]),
                 )
                 log.count("events")
-        for path in sorted((config.ROOT / "briefs").glob("*.md")):
+        for path in iter_brief_paths():
             fm = parse_frontmatter(path.read_text())
             if fm["epistemic_status"] == "draft":
                 continue
