@@ -1,0 +1,21 @@
+doc_id: fed-stress/public_results_DFAST_2025.csv
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file public_results_DFAST_2025.csv
+url: https://www.federalreserve.gov/supervisionreg/files/public_results_DFAST_2025.csv
+retrieved_at: '2026-08-20T03:15:45Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: public_results_DFAST_2025.csv
+  role: raw
+  sha256: daee32cd804e6f1c8999dd718ed804167dfadd05f6feeb554cd2139aa30e89b6
+  size: 179647
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 2fb5d6e45c15db326e1cc134c7464490a4e2aaae56310265ff7c07e37672cb8a
+  size: 179014
+  stored: corpus

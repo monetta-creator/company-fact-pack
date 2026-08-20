@@ -1,0 +1,21 @@
+doc_id: fed-stress/2025-june-supervisory-stress-test-methodology.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2025-june-supervisory-stress-test-methodology.pdf
+url: https://www.federalreserve.gov/publications/files/2025-june-supervisory-stress-test-methodology.pdf
+retrieved_at: '2026-08-20T03:15:38Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2025-june-supervisory-stress-test-methodology.pdf
+  role: raw
+  sha256: 16f3fbd0a295739f40931404aac11adb95f654d3a0c36ef592d75cbd2089a00b
+  size: 2235704
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cacc242672e21b2bb84357ed50b71927842fc1255350bf2551256be013018cae
+  size: 250582
+  stored: corpus

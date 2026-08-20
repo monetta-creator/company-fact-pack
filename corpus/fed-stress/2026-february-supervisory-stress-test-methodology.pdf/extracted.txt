@@ -1,0 +1,93 @@
+The Federal Reserve promotes a safe, sound, and efficient banking system that supports the
+U.S. economy through its supervision and regulation of domestic and foreign banks. As part
+of its supervision efforts, the Federal Reserve annually conducts a supervisory stress test.
+The stress test assesses how large banks are likely to perform under hypothetical economic
+conditions.1
+Model Methodology
+In October 2025, the Board requested comment on proposals to enhance the transparency and
+public accountability of the annual supervisory stress test.2 The proposals and accompanying
+documentation describe several aspects of the stress test, including the models used by the
+Board to conduct the stress test and proposed changes to those models relative to previous
+years’ tests.
+While the Board reviews public feedback on the stress test models, the Board will generally use
+the models as implemented in the 2025 stress test to run the 2026 stress test, with a few excep-
+tions described below.3 For details on those models, refer to the 2025 Supervisory Stress Test
+Methodologydocument published in June 2025.4 This approach will facilitate a clear and orderly
+process for the 2026 stress test while the Board obtains feedback from the public on the pro-
+posed models.
+1 U.S. bank holding companies, covered savings and loan holding companies, and intermediate holding companies of for-
+eign banking organizations with $100 billion or more in assets are subject to the Federal Reserve Board’s supervisory
+stress test rules (12 CFR pt. 238, subpt. O; pt. 252, subpt. E) and capital planning requirements (12 CFR §§ 225.8;
+238.170).
+2 See 90 Fed. Reg. 51,856 (Nov. 18, 2025), https://www.federalregister.gov/documents/2025/11/18/2025-20211/
+enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios.
+3 In November 2025, the Federal Reserve extended the comment period until February 21, 2026, to allow the public more
+time to analyze the issues and prepare their comments. See Board of Governors of the Federal Reserve System,
+“Federal Reserve Board Announces It Will Extend until February 21, 2026, the Comment Period on Proposal to Improve
+Stress Test Model and Scenario Transparency and Accountability,” news release, November 21, 2025, https://
+www.federalreserve.gov/newsevents/pressreleases/bcreg20251121a.htm.
+4 See Board of Governors of the Federal Reserve System, 2025 Supervisory Stress Test Methodology(Washington: Board of
+Governors, June 2025), https://www.federalreserve.gov/publications/files/2025-june-supervisory-stress-test-
+methodology.pdf.
+2026 Supervisory Stress Test
+Methodology
+February 2026
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM www.federalreserve.gov
+Model Changes for the 2026 Stress Test
+For the 2026 stress test, the Federal Reserve will make the following three notable updates to the
+models for the supervisory stress test:5
+1. The Fair Value Option model is a market risk model that projects gains and losses on loans
+subject to fair value accounting, and the model’s projections enter as “other losses/gains” into
+the Board’s calculation of pre-tax net income in the stress test. For the 2026 stress test, this
+model will be adjusted to adopt lower loss given default (LGD) and loan-equivalent-factor (LEQ)
+assumptions. The model will assume a constant LGD of 50 percent, which is calibrated to his-
+torical loan recovery outcomes. The LEQ for corporate loans will be set at 65 percent to better
+reflect historical patterns of utilization rates.
+2. The Largest Counterparty Default model is a market risk model that will be adjusted to exclude
+from the selection of a firm’s largest counterparty sovereign entities with a credit rating equiva-
+lent to “AA-” and above based on firms’ internal ratings, as well as the United States.6 If there
+are discrepancies among firms’ internal ratings, the Board will use the median of the internal
+ratings. This change is intended to generate stressed projections that more appropriately
+reflect firms’ risk profiles.7
+3. The Domestic Credit Card model is a credit risk model that includes an adjustment to account
+for revenue and loss sharing agreements. Such agreements are arrangements with private enti-
+ties to share a portion of domestic bank card revenues, losses, and/or profits. For the 2026
+stress test, the Board will update the adjustment to cover more types of agreements, such as
+agreements that share profits, in addition to the agreements to share both revenues and
+losses that were considered in previous years. Additionally, the Board will tailor the adjustment
+to more accurately reflect the form in which provisions are shared under the terms of the
+agreements.
+Additionally, one change that was partially phased in as an adjustment to the 2025 stress test will
+be fully implemented for the 2026 stress test.8 In the 2025 stress test, the compensation model
+5 The Fair Value Option and Largest Counterparty Default adjustments are consistent with the Board’s letter to Morgan
+Stanley determining to recalculate its stress capital buffer requirement. See Board of Governors of the Federal Reserve
+System, “Response to request for reconsideration of Morgan Stanley’s preliminary stress capital buffer requirement, pur-
+suant to the Board’s capital plan rules,” letter to Edward Pick (Morgan Stanley), September 30, 2025, https://
+www.federalreserve.gov/supervisionreg/files/reconsideration-process-response-letter-20250930.pdf.
+6 The Largest Counterparty Default model applies to firms with substantial trading or custodial operations and captures
+the loss each firm would experience if its largest counterparty were to default under the hypothetical global market shock
+component of the severely adverse scenario.
+7 Previously, the Board excluded only certain sovereign entities (Canada, France, Germany, Italy, Japan, the United
+Kingdom, and the United States), along with affiliates of intermediate holding companies (IHCs), certain multinational
+development banks and supranational entities (International Bank for Reconstruction and Development, International
+Monetary Fund, Bank for International Settlements, European Commission, and European Central Bank), and qualifying
+central counterparties. These qualifying central counterparties, IHC affiliates, and multilateral development banks will
+continue to be excluded for the 2026 stress test.
+8 See Appendix A: Model Changes for the 2025 Stress Test, Board of Governors of the Federal Reserve System,
+2025 Supervisory Stress Test Methodology(Washington: Board of Governors, June 2025), https://
+www.federalreserve.gov/publications/files/2025-june-supervisory-stress-test-methodology.pdf.
+2 2026 Supervisory Stress Test Methodology
+was adjusted to condition the projections of compensation expenses on the share of compensa-
+tion paid in commissions and stocks. This enhancement will be fully implemented for the 2026
+stress test and is intended to account for heterogeneity of business lines and compensation prac-
+tices across firms.9
+In addition, an assessment based on ongoing model monitoring and targeted data collected
+through special collections will inform whether any data or immaterial model adjustments are war-
+ranted in the 2026 stress test. The Board will provide descriptions of any additional adjustments
+made for the 2026 stress test in the 2026 stress test results disclosure.
+9 Total compensation is composed of salaries, variable compensation, and employee benefits. Previously, in the 2024
+stress test, the model for compensation expenses was adjusted to explicitly condition the projections of compensation
+expenses on the share of cash variable compensation.
+Model Changes for the 2026 Stress Test 3
+www.federalreserve.gov
+0226

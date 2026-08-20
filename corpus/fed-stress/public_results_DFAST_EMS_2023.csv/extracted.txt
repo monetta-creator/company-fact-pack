@@ -1,0 +1,10 @@
+﻿exercise_name,dt_exercise_quarter,id_rssd,disclosure_legal_name,scenario_id,scenario_name,loss_trading_counterparty_amt
+2023 Exploratory Market Shock,12/31/2022,1039502,JPMorgan Chase & Co.,3,Supervisory Severely Adverse,15.7
+2023 Exploratory Market Shock,12/31/2022,1073757,Bank of America Corporation,3,Supervisory Severely Adverse,8.5
+2023 Exploratory Market Shock,12/31/2022,1111435,State Street Corporation,3,Supervisory Severely Adverse,0.7
+2023 Exploratory Market Shock,12/31/2022,1120754,Wells Fargo & Company,3,Supervisory Severely Adverse,12.4
+2023 Exploratory Market Shock,12/31/2022,1951350,Citigroup Inc.,3,Supervisory Severely Adverse,11.3
+2023 Exploratory Market Shock,12/31/2022,2162966,Morgan Stanley,3,Supervisory Severely Adverse,10.7
+2023 Exploratory Market Shock,12/31/2022,2380443,"The Goldman Sachs Group, Inc.",3,Supervisory Severely Adverse,18.1
+2023 Exploratory Market Shock,12/31/2022,3587146,The Bank of New York Mellon Corporation,3,Supervisory Severely Adverse,0.8
+,,,,,,

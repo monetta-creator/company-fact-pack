@@ -1,0 +1,21 @@
+doc_id: fed-stress/2026-february-supervisory-stress-test-methodology.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2026-february-supervisory-stress-test-methodology.pdf
+url: https://www.federalreserve.gov/publications/files/2026-february-supervisory-stress-test-methodology.pdf
+retrieved_at: '2026-08-20T03:15:40Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2026-february-supervisory-stress-test-methodology.pdf
+  role: raw
+  sha256: fc0330bdc98b0847c73985445546135e0c5ef09d15c94b64c446cfa371416537
+  size: 1062787
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e2325cd00953e56479e09248f5b055dad1c00318ab352006153eb90732034327
+  size: 7787
+  stored: corpus

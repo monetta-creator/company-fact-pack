@@ -1,0 +1,21 @@
+doc_id: fed-stress/ccar-2025-stress-test-severely-adverse-market-shocks.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file ccar-2025-stress-test-severely-adverse-market-shocks.pdf
+url: https://www.federalreserve.gov/supervisionreg/files/ccar-2025-stress-test-severely-adverse-market-shocks.pdf
+retrieved_at: '2026-08-20T03:15:44Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: ccar-2025-stress-test-severely-adverse-market-shocks.pdf
+  role: raw
+  sha256: 6624e9764a2bb18251f12ba09bf681e0facc39972e98da5d3d9aa31987324aa7
+  size: 1769984
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e08d8c7a18570269afc48e5b19a1cd4b644a7f8839657e1f75b8701710eaea02
+  size: 152610
+  stored: corpus

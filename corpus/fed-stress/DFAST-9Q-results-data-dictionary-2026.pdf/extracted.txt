@@ -1,0 +1,407 @@
+2026 9-Quarter Stress Test Results Data Dictionary 
+For more information, please see the Supervisory Stress Test Model Documentation available on the Board’s website. 
+ 
+Variable Description 
+Risk-weighted assets Projected risk-weighted assets in billions of dollars calculated under  the standardized 
+approach to risk-based capital in 12 C.F.R pt. 217, subpt. D.  
+Total assets for leverage ratio Projected total assets for the leverage ratio in billions of dollars.  
+Total leverage exposure  Projected total leverage exposure in billions of dollars. Only includes estimates for firms 
+subject to Category I, II, or III standards.  
+Common equity tier 1 capital 
+Projected common equity tier 1 capital in billions of dollars. Calculated using the capital 
+actions assumptions provided within the supervisory stress testing rules. See 12 C.F.R. §§ 
+238.132(d); 252.44(c).  
+Tier 1 capital Projected tier 1 capital in billions of dollars. Calculated using the capital actions assumptions 
+provided within the supervisory stress testing rules.  See 12 C.F.R. §§ 238.132(d); 252.44(c).  
+Total capital 
+Projected total capital in billions of dollars.  Calculated using the capital actions assumptions 
+provided within the supervisory stress testing rules.  See 12 C.F.R. §§ 238.132(d); 
+252.44(c). 
+Common equity tier 1 capital ratio  Projected common equity tier 1 capital ratio.  Calculated using the capital actions assumptions 
+provided within the supervisory stress testing rules.  See 12 C.F.R. §§ 238.132(d); 252.44(c). 
+Tier 1 capital ratio  Projected tier 1 capital ratio.  Calculated using the capital  actions assumptions provided within 
+the supervisory stress testing rules.  See 12 C.F.R. §§ 238.132(d); 252.44(c). 
+Total capital ratio Projected total capital ratio. Calculated using the capital  actions assumptions provided within 
+the supervisory stress testing rules. See 12 C.F.R. §§ 238.132(d); 252.44(c).  
+Tier 1 leverage ratio Projected tier 1 leverage ratio. Calculated using the capital  actions assumptions provided 
+within the supervisory stress testing rules. See 12 C.F.R. §§ 238.132(d); 252.44(c).  
+Supplementary leverage ratio 
+Projected supplementary leverage ratio. Calculated using the capital actions assumptions 
+provided within the supervisory stress testing rules. See 12 C.F.R. §§ 238.132(d); 252.44(c). 
+Only includes estimates for firms subject to Category I, II, or III standards.  
+Loan losses, total  
+Projected total loan losses in billions of dollars for each quarter of the projection horizon. 
+Excludes loans held for sale, loans held for investment under the fair -value option, and 
+Paycheck Protection Program loans.  
+Loan losses, first -lien mortgages, domestic  
+Projected domestic first-lien mortgage losses in billions of dollars for each quarter of the 
+projection horizon. Excludes loans held for sale, loans held for investment under the fair -
+value option, and Paycheck  Protection Program loans. 
+ 
+Included loan types:  
+Domestic first-lien mortgages and first -lien home equity loans 
+Loan losses, junior liens and HELOCs, domestic  
+Projected domestic junior-lien mortgage and home equity lines of credit (HELOCs)  losses in 
+billions of dollars for each quarter of the projection horizon. Excludes loans held for sale, 
+loans held for investment under the fair -value option, and Paycheck Protection Program 
+loans. 
+ 
+Included loan types:  
+Domestic junior-lien home equity loans 
+Domestic HELOCs 
+Loan losses, commercial and industrial  
+Projected commercial and industrial  loan losses in billions of dollars for each quarter of the 
+projection horizon. Excludes loans held for sale, loans held for investment under the fair -
+value option, and Paycheck Protection Program loans.  
+ 
+Included loan types:  
+Commercial and industrial loans  
+Domestic corporate and business cards  
+International corporate and business cards  
+Small business loans  
+Loan losses, corporate and business cards  
+Projected domestic and international corporate and business card  losses in billions of 
+dollars for each quarter of the projection horizon. Includes corporate and business cards 
+reported on the FR Y-14M or FR Y-14Q, Schedule A.3. Corporate and business cards 
+reported on FR Y-14Q, Schedule H.1 are included in the commercial and industrial or 
+other loans category, depending on the corresponding obligor classification. Excludes 
+loans held for sale, loans held for investment under the fair -value option, and Payc heck 
+Protection Program loans.  This is a subcomponent of the commercial and industrial 
+disclosure category. 
+ 
+Loan losses, small business loans  
+Projected small business loan losses in billions of dollars for each quarter of the projection 
+horizon. Excludes loans held for sale, loans held for investment under the fair -value 
+option, and Paycheck Protection Program loans . This is a subcomponent of the 
+commercial and industrial disclosure category.  
+ 
+ 
+ 
+Loan losses, commercial real estate, domestic  
+Projected domestic commercial real estate (CRE) loan losses in billions of dollars for each 
+quarter of the projection horizon. Excludes loans held for sale, loans held for investment under 
+the fair-value option, and Paycheck Protection Program loans. 
+ 
+Included loan types: 
+Domestic non-owner occupied CRE loans 
+Domestic construction loans 
+Domestic multifamily loans 
+Domestic owner-occupied CRE loans 
+ 
+Loan losses, credit cards  
+Projected credit card losses in billions of dollars for each quarter of the projection horizon. 
+Excludes loans held for sale, loans held for investment under the fair -value option, and 
+Paycheck Protection Program loans.  
+ 
+Included loan types:  
+Domestic credit cards  
+International credit cards  
+ 
+Variable Description 
+Loan losses, other consumer 
+Projected other consumer loan losses in billions of dollars for each quarter of the projection 
+horizon. Excludes loans held for sale, loans held for investment under the fair-value option, 
+and Paycheck Protection Program loans. 
+ 
+Included loan types: 
+Domestic auto loans 
+International auto loans 
+Student loans 
+Domestic other consumer loans 
+International other consumer loans 
+Retail non-purpose loans 
+ 
+Loan losses, student loans  
+Projected student loan losses in billions of dollars for each quarter of the projection horizon. 
+Excludes loans held for sale, loans held for investment under the fair -value option, and 
+Paycheck Protection Program loans.  This is a subcomponent of the other consumer 
+disclosure category. 
+ 
+Loan losses, auto loans  
+Projected domestic and international auto loan losses in billions of dollars for each quarter of the 
+projection horizon. Excludes loans held for sale, loans held for investment under the fair-value 
+option, and Paycheck Protection Program loans. This is a subcomponent of the other 
+consumer disclosure category.  
+ 
+Loan losses, other loans  
+Projected other loan losses in billions of dollars for each quarter of the projection horizon. 
+Excludes loans held for sale, loans held for investment under the fair -value option, and 
+Paycheck Protection Program loans.  
+ 
+Included loan types: 
+Agricultural loans 
+Domestic farm loans 
+International farm loans  
+International owner-occupied CRE loans  
+Loans to foreign governments  
+Loans to financial institutions  
+Loans for purchasing or carrying securities  
+Other non-consumer loans 
+Other leases 
+International construction loans  
+International multifamily loans  
+International non-owner occupied CRE loans  
+International first-lien mortgages and first -lien home equity loans  
+International junior-lien home equity loans  
+Loan losses, agricultural and farm loans  
+Projected agricultural and domestic and international farm loan  losses in billions of dollars 
+for each quarter of the projection horizon. Excludes loans held for sale, loans held for 
+investment under the fair -value option, and Paycheck Protection Program loans.  This is a 
+subcomponent of the other loans disclosure category.  
+Loan losses, loans to financial institutions  
+Projected loans to financial institution losses in billions of dollars for each quarter of the 
+projection horizon. Excludes loans held for sale, loans held for investment under the fair-
+value option, and Paycheck Protection Program loans. This is a subcomponent of the other 
+loans disclosure category.  
+Loan losses, loans for purchasing or carrying securities  
+Projected loans for purchasing or carrying securities losses in billions of dollars for each quarter 
+of the projection horizon. Excludes loans held for sale, loans held for investment under the fair-
+value option, and Paycheck Protection Program loans. This is a subcomponent of the other 
+loans disclosure category.  
+Loan loss rate, total  
+Projected total loan losses as a percent of projected total loan balances for each quarter of the 
+projection horizon. Excludes loans held for sale, loans held for investment under the fair-value 
+option, and Paycheck Protection Program loans. 
+Loan loss rate, first-lien mortgages, domestic  
+Projected domestic first-lien mortgage losses as a percent of projected domestic first-lien 
+mortgage balances for each quarter of the projection horizon. Excludes loans held for sale, loans 
+held for investment under the fair-value option, and Paycheck Protection Program loans. 
+ 
+Included loan types: 
+Domestic first-lien mortgages and first-lien home equity loans 
+Loan loss rate, junior liens and HELOCs, domestic  
+Projected domestic junior -lien mortgage and home equity lines of credit (HELOCs) losses as 
+a percent of projected domestic junior -lien mortgage and HELOC balances  for each quarter 
+of the projection horizon. Excludes loans held for sale, loans held for investment under the 
+fair-value option, and Paycheck Protection Program loans.  
+ 
+Included loan types: 
+Domestic junior-lien home equity loans 
+Domestic HELOCs 
+Loan loss rate, commercial and industrial 
+Projected commercial and industrial loan losses as a percent of projected commercial and 
+industrial loan balances  for each quarter of the projection horizon. Excludes loans held for 
+sale, loans held for investment under the fair -value option, and Paycheck Protection 
+Program loans. 
+ 
+Included loan types: 
+Commercial and industrial loans  
+Domestic corporate and business cards  
+International corporate and business cards  
+Small business loans  
+Loan loss rate, corporate and business cards 
+Projected domestic and international corporate and business card losses as a percent of 
+projected domestic and international corporate and business card  balances for each quarter 
+of the projection horizon. Includes corporate and business cards reported on the FR Y -14M 
+or FR Y-14Q, Schedule A.3. Corporate and business cards reported on FR Y -14Q, 
+Schedule H.1 are included in the commercial and industrial or other lo ans category, 
+depending on the corresponding obligor classification. Excludes loans held for sa le, loans 
+held for investment under the fair -value option, and Paycheck Protection Program loans.  
+This is a subcomponent of the commercial and industrial disclosure category.  
+Loan loss rate, small business loans 
+Projected small business loan losses as a percent of small business loan balances  for each 
+quarter of the projection horizon. Excludes loans held for sale, loans held for investment 
+under the fair-value option, and Paycheck Protection Program loans.  This is a 
+subcomponent of the commercial and industrial disclosure category.  
+Loan loss rate, commercial real estate, domestic  
+Projected domestic commercial real estate (CRE) loan losses as a percent of projected 
+commercial real estate loan balances for each quarter of the projection horizon. Excludes loans 
+held for sale, loans held for investment under the fair-value option, and Paycheck Protection 
+Program loans. 
+ 
+Included loan types: 
+Domestic non-owner occupied CRE loans 
+Domestic construction loans 
+Domestic multifamily loans 
+Domestic owner-occupied CRE loans 
+Loan loss rate, credit cards 
+Projected credit card losses as a percent of projected credit card balances for each quarter 
+of the projection horizon. Excludes loans held for sale, loans held for investment under the 
+fair-value option, and Paycheck Protection Program loans.  
+ 
+Included loan types: 
+Domestic credit cards  
+International credit cards  
+ 
+Variable Description 
+Loan loss rate, other consumer 
+Projected other consumer loan losses as a percent of projected other consumer loan balances 
+for each quarter of the projection horizon. Excludes loans held for sale, loans held for 
+investment under the fair-value option, and Paycheck Protection Program loans. 
+ 
+Included loan types: 
+Domestic auto loans 
+International auto loans 
+Student loans 
+Domestic other consumer loans 
+International other consumer loans 
+Retail non-purpose loans 
+Loan loss rate, student loans 
+Projected student loan losses as a percent of projected student loan balances for each quarter 
+of the projection horizon. Excludes loans held for sale, loans held for investment under the fair-
+value option, and Paycheck Protection Program loans. This is a subcomponent of the other 
+consumer disclosure category.  
+Loan loss rate, auto loans 
+Projected domestic and international auto loan losses as a percent of projected domestic and 
+international auto loan balances for each quarter of the projection horizon. Excludes loans held 
+for sale, loans held for investment under the fair-value option, and Paycheck Protection 
+Program loans. This is a subcomponent of the other consumer disclosure category.  
+Loan loss rate, other loans 
+Projected other loan losses as a percent of projected other loan balances for each quarter of 
+the projection horizon. Excludes loans held for sale, loans held for investment under the fair-
+value option, and Paycheck Protection Program loans. 
+ 
+Included loan types: 
+Agricultural loans 
+Domestic farm loans 
+International farm loans 
+International owner-occupied CRE loans 
+Loans to foreign governments 
+Loans to financial institutions 
+Loans for purchasing or carrying securities 
+Other non-consumer loans 
+Other leases 
+International construction loans 
+International multifamily loans 
+International non-owner occupied CRE loans 
+International first-lien mortgages and first-lien home equity loans 
+International junior-lien home equity loans 
+Loan loss rate, agricultural and farm loans 
+Projected agricultural and domestic and international farm loan losses as a percent of projected 
+agricultural and domestic and international farm loan balances for each quarter of the projection 
+horizon. Excludes loans held for sale, loans held for investment under the fair-value option, and 
+Paycheck Protection Program loans. This is a subcomponent of the other loans disclosure 
+category. 
+Loan loss rate, loans to financial institutions 
+Projected loans to financial institution losses as a percent of projected loans to financial 
+institutions balances for each quarter of the projection horizon. Excludes loans held for sale, 
+loans held for investment under the fair-value option, and Paycheck Protection Program loans. 
+This is a subcomponent of the other loans disclosure category.  
+ 
+Variable Description 
+Loan loss rate, loans for purchasing or carrying securities  
+Projected loans for purchasing or carrying securities losses as a percent of projected 
+loans for purchasing or carrying securities balances for each quarter of the projection 
+horizon. Excludes loans held for sale, loans held for investment under the fair-value 
+option, and Paycheck Protection Program loans. This is a subcomponent of the other 
+loans disclosure category.  
+Pre-provision net revenue Projected pre-provision net revenue in billions of dollars for each projection 
+quarter. 
+Net interest income Projected net interest income in billions of dollars for each quarter of the 
+projection horizon. 
+Interest income Projected interest income in billions of dollars for each quarter of the projection 
+horizon. 
+Interest expense  Projected interest expense in billions of dollars for each quarter of the projection 
+horizon. 
+Noninterest income Projected noninterest income in billions of dollars for each quarter of the projection 
+horizon. 
+Noninterest income from investment banking fees Projected noninterest income from investment banking fees in billions of dollars for 
+each quarter of the projection horizon. 
+Noninterest income from fiduciary income and insurance and banking fees Projected noninterest income from fiduciary income and insurance and banking fees 
+in billions of dollars for each quarter of the projection horizon. 
+Noninterest income from trading revenue Projected noninterest income from trading revenue in billions of dollars for each 
+quarter of the projection horizon. 
+Noninterest expense 
+Projected noninterest expense in billions  of dollars for each quarter of the projection 
+horizon. Noninterest expense includes losses from operational -risk events and 
+other real estate owned costs.  
+Operational risk losses Projected operational risk losses in billions of dollars for each quarter of the 
+projection horizon. 
+Noninterest expense from compensation Projected noninterest expense  from compensation in billions of dollars for each 
+quarter of the projection horizon.  
+Provisions for loan and lease losses 
+ 
+Projected provisions for loan and lease losses in billions of dollars for each quarter of 
+projection horizon. 
+ 
+Variable Description 
+Credit losses on investment securities (AFS/HTM)  
+Projected credit losses on available- for-sale (AFS) and held-to-maturity (HTM) 
+securities in billions of dollars for each quarter of the projection horizon.  
+ 
+The Federal Reserve incorporates  its projection of expected credit losses on 
+securities in the allo wance for credit losses, in accordance with ASU 2016-13 
+Trading and counterparty losses 
+Projected trading and counterparty losses in billions of dollars for each quarter of 
+the projection horizon. 
+ 
+Includes mark-to-market and credit valuation adjustment losses  and losses arising 
+from the counterparty default scenario component applied to derivatives, securities 
+lending, and repurchase agreement activities. 
+ 
+Prior to the 2025 stress test , losses on private equity investments were included in 
+trading and counterparty losses.  
+ 
+Beginning in the 2025 stress test, losses on private equity investments  are not 
+included in trading and counterparty losses . 
+Trading losses 
+Projected trading losses in billions of dollars for each quarter of the projection 
+horizon. 
+ 
+Includes trading profit and loss (P&L) and issuer default losses (IDL). Consistent 
+with the Federal Reserve’s modeling principles, trading P&L is recognized in the 
+first quarter of the projection horizon and IDL is recognized across the nine -quarter 
+projection horizon. 
+ 
+Prior to the 2025 stress test, losses on private equity investments were included in 
+trading losses. 
+ 
+Beginning in the 2025 stress test, losses on private equity investments  are not 
+included in trading losses.  
+Counterparty losses 
+Projected counterparty losses in billions of dollars for each quarter of the projection 
+horizon. 
+ 
+Includes credit valuation adjustment and the largest counterparty default 
+component. Consistent with the Federal Reserve’s modeling principles, 
+counterparty losses are recognized in the first quarter of the projection horizon.  
+Other losses/gains 
+Projected other losses/gains in billions of dollars for each quarter of the projection 
+horizon. 
+ 
+Prior to the 2025 stress test,  included projected change in the fair -value of loans 
+held for sale or held for investment and measured under the fair -value option, 
+losses/gains on hedges on loans measure d at fair value or amortized cost. 
+ 
+Beginning in the 2025 stress test, includes projected change in the fair -value of 
+loans held for sale or held for investment and measured under the fair -value 
+option, losses/gains on hedges on loans measured at fair value or amortized cost, 
+and losses on private equity investments.  
+ 
+Variable Description 
+Losses on private equity investments 
+Projected losses on private equity investments in billions of dollars for each quarter of 
+the projection horizon. 
+ 
+Prior to the 2025 stress test, private equity exposures were stressed using the global 
+market shock component and were recognized in the first quarter of the projection 
+horizon, consistent with the Federal Reserve’s modeling principles. 
+ 
+Beginning in the 2025 stress test, private equity exposures are stressed using the 
+macroeconomic scenario. 
+Net income before taxes  
+Projected net income before taxes in billions of dollars for each quarter of the 
+projection horizon. 
+Other comprehensive income  
+Projected other comprehensive income in billions of dollars for each quarter of the 
+projection horizon. Other comprehensive income is only calculated for firms subject to 
+Category I or II standards or firms that opt in to including accumulated other 
+comprehensive income (AOCI) in their calculation of capital. 
+AOCI included in capital  
+Projected AOCI included in capital in billions of dollars for each quarter of the 
+projection horizon. 
+Tax expense Projected tax expense in billions of dollars for each quarter of the projection horizon.  
+Deferred tax assets arising from net operating loss and tax credit 
+carryforwards, net of any related valuation  allowances and net of deferred 
+tax liabilities, deducted from CET1  
+Projected deferred tax assets from net operating loss and tax credit carryforwards, net 
+of any related valuation allowances and net of deferred tax liabilities, deducted from 
+CET1, in billions of dollars for each quarter of the projection horizon. 
+Deferred tax assets arising from temporary differences that could not be 
+realized through net operating loss carrybacks, net of related valuation 
+allowances and net of deferred tax liabilities, deducted from CET1  
+Projected deferred tax assets from temporary differences that could not be realized 
+through net operating loss carrybacks, net of related valuation allowances and net of 
+deferred tax liabilities, deducted from CET1, in billions of dollars for each quarter of the 
+projection horizon.  
+ 

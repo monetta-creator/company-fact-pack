@@ -1,0 +1,21 @@
+doc_id: fed-stress/2026-final-supervisory-stress-test-scenarios-20260204.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2026-final-supervisory-stress-test-scenarios-20260204.pdf
+url: https://www.federalreserve.gov/publications/files/2026-final-supervisory-stress-test-scenarios-20260204.pdf
+retrieved_at: '2026-08-20T03:15:41Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2026-final-supervisory-stress-test-scenarios-20260204.pdf
+  role: raw
+  sha256: 2b25a6244909d22dfb73824d153f24763e1fd851d3adaeffb46039d6463b39c8
+  size: 1862605
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 06c6b0d9b891f28c6d93808a58ba83300ad8bcc4270d2f4f0e2b4ea9d2ef49a1
+  size: 94784
+  stored: corpus

@@ -1,0 +1,21 @@
+doc_id: fed-stress/2026-scenario-review-of-comments.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2026-scenario-review-of-comments.pdf
+url: https://www.federalreserve.gov/supervisionreg/files/2026-scenario-review-of-comments.pdf
+retrieved_at: '2026-08-20T03:15:42Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2026-scenario-review-of-comments.pdf
+  role: raw
+  sha256: 858962b6b738a8e51188d14acca05b7bdaaad3af1e971f3fdaa2a3fb36fe9dec
+  size: 530753
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 7c306de7831f700c98222c3ba17e4534721d6e0c92c02c7b81ae08a37268fae5
+  size: 119151
+  stored: corpus

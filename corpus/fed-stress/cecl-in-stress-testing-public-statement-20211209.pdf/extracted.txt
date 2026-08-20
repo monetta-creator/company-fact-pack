@@ -1,0 +1,64 @@
+ 
+Page 1 of 2 
+December 9, 2021  
+Board of Governors of the Federal Reserve System 
+Statement on the current expected credit loss methodology (CECL) and stress testing 
+ 
+In 2016, the Financial Accounting Standards Board issued Accounting Standards Update No. 
+2016-13, which introduced the current expected credit loss methodology or CECL. CECL requires 
+firms to recognize lifetime expected credit losses for financial assets m easured at amortized cost, 
+rather than those credit losses that are probable of having been incurred, in their allowance for 
+credit losses as of the financial reporting date. The majority of banking organizations  currently 
+subject to Federal Reserve superv isory stress testing adopted CECL on January 1, 2020, with all 
+such organizations scheduled to have adopted CECL by 2023. Under the regulatory capital rule, 
+banking organizations have been allowed to phase in  the potential adverse impact of CECL  on 
+regulatory capital over a three- or five-year transition period.
+1  
+ 
+Prior to the transition to CECL,  the Federal Reserve stated that it intended to maintain its pre -
+existing framework for calculating allowances on credit losses in the supervisory stress t est 
+through the end of 2021 and, during that time, would evaluate appropriate future enhancements to 
+this framework.2 This statement provides additional information on the position that the Federal 
+Reserve plans to take on incorporating the CECL accounting standard into its supervisory stress 
+test. 
+ 
+The existing supervisory stress test framework  generally assumes that the level of the allowance 
+on credit losses at the end of a given quarter equals the amount needed to cover projected loan 
+losses over the next four quarters.  Because this calculation is based on projected losses under the 
+severely adverse scenario, it typically differs from a banking organization’s actual allowance on 
+credit losses at the beginning of the planning horizon, which is based on information available as 
+of the balance sheet date. Reflecting the uncertainty in the timing of when banking organizations 
+recognize losses, any difference between the actual allowance and the assumed allowance under 
+stress at the beginning of the planning horizon is spread out over the nine quarters of the planning 
+horizon to smooth its effect on capital. Despite differences in the horizon over which losses are 
+estimated, this approach is conceptually similar to the CECL standard, as both methods are based 
+on a forward-looking estimate of losses. 
+ 
+During the transition to CECL, the Federal Reserve and other federal bank regulatory agencies  
+stated their intention to continue  to closely monitor the  effect of CECL on bank capital, lending 
+practices, and aggregate level of loss absorbency through the economic cycle.
+3  In view of this 
+effort and the ongoing objectives to reduce uncertainty, allow for better capital planning at affected 
+ 
+1 See 12 C.F.R., part 217, subpart G. 
+2 See “Statement on the current expected credit loss methodology (CECL) and stress testing” (December 21, 2018), 
+available at https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20181221b1.pdf. 
+3 Moreover, the Consolidated Appropriations Act, 2020 (Public Law No: 116-93) directed the U.S. Department of 
+the Treasury in consultation with prudential regulators including the Federal Reserve to study the need, if any, for 
+changes to regulatory capital requirements necessitated by CECL. This study, available at 
+https://home.treasury.gov/system/files/216/The-CECL-Accounting-Standard-and-Financial-Institution-Regulatory-
+Capital-Study-9-15-20.pdf, noted that as of September 15, 2020, “a definitive assessment of the impact of CECL 
+was not feasible in light of the state of CECL implementation across financial institutions and current market 
+dynamics relating to the COVID-19 global pandemic.” 
+ 
+Page 2 of 2 
+firms, and gather relevant information on the impact of CECL, the Federal Reserve is  extending 
+the period of time over which it will maintain the current framework for allowance for credit losses 
+in the supervisory stress test through the 2023 stress testing cycle while continuing to evaluate 
+appropriate future enhancements. As previously noted, the Federal Reserve expects that the current 
+framework, by taking into account a banking organization’s allowances at the beginning of the 
+planning horizon, will continue to largely offset the impact in the supervisory stress test of CECL 
+on the allowance at the beginning of the planning horizon. 
+ 
+ 
+ 

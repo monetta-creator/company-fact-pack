@@ -1,0 +1,426 @@
+2026 Stress Test Results Data Dictionary   
+For further information on each variable, refer to the stress test results document for each exercise.  
+Variable  Mnemonic  Description  
+Exercise name  exercise_name  Exercise name  
+Effective date of the exercise  dt_exercise_quarter  Effective date of the exercise  
+RSSD identifier  id_rssd  
+A unique identifier assigned to institutions by the Federal 
+Reserve System  
+Bank name or bank group  disclosure_legal_name  Bank name or bank group  
+Scenario identifier  scenario_id  
+Scenario identifier:  
+2 is Supervisory Adverse  
+3 is Supervisory Severely Adverse  
+30 is Supervisory Alternative Severe  
+Scenario name   scenario_name  Scenario name   
+Tier 1 common ratio, actual  tier1_common_actual_rat  
+Actual tier 1 common ratio as of the effective date of the 
+exercise; banks are not subject to this capital 
+requirement as of 1/1/2015  
+Tier 1 common ratio, ending  tier1_common_end_rat  
+Projected tier 1 common ratio at the end of the projection 
+horizon; banks are not subject to this capital requirement 
+as of 1/1/2015  
+Tier 1 common ratio, minimum  tier1_common_min_rat  
+Projected minimum tier 1 common ratio over the 
+projection horizon; banks are not subject to this capital 
+requirement as of 1/1/2015  
+Common equity tier 1 capital ratio, actual  common_equity_tier1_actual_rat  
+Actual common equity tier 1 capital ratio as of the 
+effective date of the exercise; banks are subject to this 
+capital requirement as of 1/1/2015  
+Common equity tier 1 capital ratio, ending  common_equity_tier1_end_rat  
+Projected common equity tier 1 capital ratio at the end of 
+the projection horizon; banks are subject to this capital 
+requirement as of 1/1/2015  
+Common equity tier 1 capital ratio, minimum  common_equity_tier1_min_rat  
+Projected minimum common equity tier 1 capital ratio 
+over the projection horizon; banks are subject to this 
+capital requirement as of 1/1/2015  
+Tier 1 capital ratio, actual (2016 stress test and onward)  
+Tier 1 risk-based capital ratio, actual (prior to the 2016 
+stress test)  
+tier1_capital_actual_rat  Actual tier 1 capital ratio as of the effective date of the 
+exercise  
+Tier 1 capital ratio, ending (2016 stress test and onward)  
+Tier 1 risk-based capital ratio, ending (prior to the 2016 
+stress test 
+tier1_capital_end_rat  Projected tier 1 capital ratio at the end of the projection  
+horizon 
+   
+Variable  Mnemonic  Description  
+Tier 1 capital ratio, minimum (2016 stress test and onward)  
+Tier 1 risk-based capital ratio, minimum (prior to the 2016 
+stress test) 
+tier1_capital_min_rat Projected minimum tier 1 capital ratio over the projection 
+horizon  
+Total capital ratio, actual (2016 stress test and onward)  
+Total risk-based capital ratio, actual (prior to the 2016 stress 
+test) 
+total_capital_actual_rat  Actual total capital ratio as of the effective date of the 
+exercise  
+Total capital ratio, ending (2016 stress test and onward)  
+Total risk-based capital ratio, ending (prior to the 2016 stress 
+test) 
+total_capital_end_rat  Projected total capital ratio at the end of the projection 
+horizon  
+Total capital ratio, minimum (2016 stress test and onward)  
+Total risk-based capital ratio, minimum (prior to the 2016 stress 
+test) 
+total_capital_min_rat  Projected minimum total capital ratio over the projection 
+horizon  
+Tier 1 leverage ratio, actual  tier1_leverage_actual_rat  
+Actual tier 1 leverage ratio as of the effective date of the 
+exercise  
+Tier 1 leverage ratio, ending  tier1_leverage_end_rat  
+Projected tier 1 leverage ratio at the end of the projection 
+horizon  
+Tier 1 leverage ratio, minimum  tier1_leverage_min_rat  
+Projected minimum tier 1 leverage ratio over the 
+projection horizon  
+Supplementary leverage ratio, actual  supp_leverage_actual_rat  
+Actual supplementary leverage ratio as of the effective 
+date of the exercise   
+Banks subject to Category I, II, or III standards are 
+subject to this capital requirement as of 1/1/2020; 
+previously, advanced approaches banks were subject to 
+this requirement starting in 1/1/2018  
+Supplementary leverage ratio, ending  supp_leverage_end_rat  
+Projected supplementary leverage ratio at the end of the 
+projection horizon   
+Banks subject to Category I, II, or III standards are subject 
+to this capital requirement as of 1/1/2020; previously, 
+advanced approaches banks were subject to this 
+requirement starting in 1/1/2018  
+Supplementary leverage ratio, minimum  supp_leverage_min_rat  
+Projected minimum supplementary leverage ratio over 
+the projection horizon   
+ 
+Banks subject to Category I, II, or III standards are 
+subject to this capital requirement as of 1/1/2020; 
+previously, advanced approaches banks were subject to 
+this requirement starting in 1/1/2018  
+   
+Variable  Mnemonic  Description  
+Risk-weighted assets, general approach, actual  rwa_general_appr_actual_amt  
+Actual risk-weighted assets in billions of dollars as of the 
+effective date of the exercise calculated using the general 
+risk-based capital approach (available for the 2015 stress 
+test and prior)  
+Risk-weighted assets, general approach, ending rwa_general_appr_end_amt 
+Projected risk-weighted assets in billions of dollars at the  
+end of the projection horizon calculated using the general 
+risk-based capital approach (available for the 2015 stress 
+test and prior) 
+Risk-weighted assets, standardized approach, actual  
+ 
+ 
+rwa_standardized_appr_actual_amt 
+Actual risk-weighted assets in billions of dollars as of the 
+effective date of the exercise calculated using the 
+standardized capital risk-based approach  
+Risk-weighted assets, standardized approach, ending  rwa_standardized_appr_end_amt  
+Projected risk-weighted assets in billions of dollars at the 
+end of the projection horizon calculated using the 
+standardized capital risk-based approach  
+Loan losses, total  loss_total_loan_amt  
+Projected total loan losses in billions of dollars over the 
+projection horizon; excludes loans held for sale, loans 
+held for investment under the fair-value option, and  
+Paycheck Protection Program (PPP) loans  
+Loan loss rate, total  loss_total_loan_rate  
+Projected total loan losses as a percent of projected 
+average total loan balances over the projection horizon; 
+excludes loans held for sale, loans held for investment 
+under the fair -value option, and Paycheck Protection 
+Program (PPP) loans  
+Loan losses, first-lien mortgages, domestic  loss_dom_first_mtg_amt  
+Projected domestic first-lien mortgage losses in billions 
+of dollars over the projection horizon; excludes loans 
+held for sale, loans held for investment under the fair-
+value option, and Paycheck Protection Program (PPP) 
+loans  
+Loan loss rate, first-lien mortgages, domestic  loss_dom_first_mtg_rate  
+Projected domestic first-lien mortgage losses as a 
+percent of projected average domestic first-lien 
+mortgage balances over the projection horizon; excludes 
+loans held for sale, loans held for investment under the 
+fair-value option, and Paycheck Protection Program 
+(PPP) loans  
+Loan losses, junior liens and HELOCs, domestic  loss_dom_jr_lien_heloc_amt  
+Projected domestic second-lien mortgages and domestic 
+home equity lines of credit (HELOCs) losses in billions of 
+dollars over the projection horizon; excludes loans held 
+for sale, loans held for investment under the fair-value 
+option, and Paycheck Protection Program (PPP) loans  
+   
+Variable  Mnemonic  Description  
+Loan loss rate, junior liens and HELOCs, domestic  loss_dom_jr_lien_heloc_rate  
+Projected domestic second-lien mortgages and domestic 
+home equity lines of credit (HELOCs) losses as a percent 
+of projected average domestic second-lien mortgage and 
+HELOC balances over the projection horizon; excludes 
+loans held for sale, loans held for i nvestment under the 
+fair-value option, and Paycheck  
+Protection Program (PPP) loans  
+Loan losses, commercial and industrial loss_comml_ind_loan_amt  
+ 
+Projected commercial and industrial loan losses in billions 
+of dollars over the projection horizon; excludes loans held 
+for sale, loans held for investment under the fair -value 
+option, and Paycheck Protection Program  
+(PPP) loans 
+ 
+Includes:  
+Commercial and industrial loans  
+Corporate and business cards  
+Small business loans 
+Loan loss rate, commercial and industrial  loss_comml_ind_loan_rate  
+Projected commercial and industrial loan losses as a 
+percent of projected average commercial and industrial 
+loan balances over the projection horizon; excludes 
+loans held for sale, loans held for investment under the 
+fair-value option, and Paycheck Protection Program  
+(PPP) loans  
+  
+Includes:  
+Commercial and industrial loans  
+Corporate and business cards  
+Small business loans  
+Loan losses, commercial real estate, domestic  loss_dom_cre_loan_amt  
+Projected commercial real estate (CRE) loan losses in 
+billions of dollars over the projection horizon; excludes 
+loans held for sale, loans held for investment under the 
+fair-value option, and Paycheck Protection Program 
+(PPP) loans  
+Includes:  
+Domestic owner-occupied CRE loans  
+Domestic construction loans  
+Domestic multifamily loans  
+Domestic non-owner occupied CRE loans  
+    
+  
+Variable  Mnemonic  Description  
+Loan loss rate, commercial real estate, domestic  loss_dom_cre_loan_rate  
+Projected CRE loan losses as a percent of projected 
+average CRE loan balances over the projection horizon; 
+excludes loans held for sale, loans held for investment 
+under the fair -value option, and Paycheck Protection 
+Program (PPP) loans  
+  
+Includes:  
+Domestic owner-occupied CRE loans  
+Domestic construction loans  
+Domestic multifamily loans  
+Domestic non-owner occupied CRE loans  
+Loan losses, credit cards  loss_credit_card_loan_amt  
+Projected domestic and international credit card loan 
+losses in billions of dollars over the projection horizon; 
+excludes loans held for sale, loans held for investment 
+under the fair -value option, and Paycheck Protection 
+Program (PPP) loans  
+Loan loss rate, credit cards loss_credit_card_loan_rate 
+Projected domestic and international credit card loan  
+losses as a percent of projected average domestic and 
+international credit card loan balances over the 
+projection horizon; excludes loans held for sale, loans  
+held for investment under the fair -value option, and 
+Paycheck Protection Program (PPP) loans 
+Loan losses, other consumer loss_other_consumer_loan_amt 
+Projected other consumer loan losses in billions of 
+dollars over the projection horizon; excludes loans held 
+for sale, loans held for investment under the fair -value 
+option, and Paycheck Protection Program (PPP) loans  
+  
+Includes:  
+Student loans  
+Domestic auto loans  
+International auto loans  
+Domestic other consumer loans  
+International other consumer loans 
+Loan loss rate, other consumer loss_other_consumer_loan_rate 
+Projected other consumer loan losses as a percent of 
+projected average other consumer loan balances over 
+the projection horizon; excludes loans held for sale, 
+loans held for investment under the fair-value option, 
+and Paycheck Protection Program (PPP) loans  
+ 
+Includes:  
+Student loans  
+Domestic auto loans  
+International auto loans  
+Domestic other consumer loans  
+International other consumer loans 
+Variable  Mnemonic  Description  
+Loan losses, other loans  loss_other_loan_amt  
+Projected other loan losses in billions of dollars over the 
+projection horizon; excludes loans held for sale, loans 
+held for investment under the fair-value option, and  
+Paycheck Protection Program (PPP) loans  
+  
+Includes:  
+Agricultural loans  
+Domestic farm loans  
+International farm loans  
+International owner-occupied CRE loans  
+International construction loans  
+International multifamily loans  
+International non-owner occupied CRE loans  
+International first-lien mortgages  
+International second-lien mortgages  
+Loans to foreign governments  
+Loans to financial institutions  
+Loans for purchasing and carrying securities  
+Other non-consumer loans  
+Other leases  
+Loan loss rate, other loans loss_other_loan_rate 
+Projected other loan losses as a percent of projected  
+average other loan balances over the projection horizon; 
+excludes loans held for sale, loans held for investment  
+under the fair-value option, and Paycheck Protection  
+Program (PPP) loans  
+  
+Includes:  
+Agricultural loans  
+Domestic farm loans  
+International farm loans  
+International owner-occupied CRE loans  
+International construction loans  
+International multifamily loans  
+International non-owner occupied CRE loans  
+International first-lien mortgages  
+International second-lien mortgages  
+Loans to foreign governments  
+Loans to financial institutions  
+Loans for purchasing and carrying securities  
+Other non-consumer loans  
+Other leases 
+    
+Variable  Mnemonic  Description  
+Pre-provision net revenue  revenue_preprovision_net_amt  
+Projected pre-provision net revenue in billions of dollars 
+over the projection horizon  
+Pre-provision net revenue rate  revenue_preprovision_net_rate  
+Projected pre-provision net revenue as a percent of 
+projected average total assets over the projection 
+horizon  
+Net interest income  income_net_interest_amt  
+Projected net interest income in billions of dollars over 
+the projection horizon (available for the 2019 stress test 
+and onward)  
+Net interest income rate  income_net_interest_rate  
+Projected net interest income as a percent of projected 
+average total assets over the projection horizon 
+(available for the 2019 stress test and onward)  
+Noninterest income  income_noninterest_amt  
+Projected noninterest income in billions of dollars over 
+the projection horizon (available for the 2019 stress test 
+and onward)  
+Noninterest income rate  income_noninterest_rate  
+Projected noninterest income as a percent of projected 
+average total assets over the projection horizon 
+(available for the 2019 stress test and onward)  
+Noninterest expense  expense_noninterest_amt  
+Projected noninterest expense in billions of dollars over 
+the projection horizon (available for 2019 stress test and 
+onward)   
+Noninterest expense rate  expense_noninterest_rate  
+Projected noninterest expense as a percent of projected 
+average total assets over the projection horizon 
+(available for the 2019 stress test and onward)  
+Other Revenue revenue_other_amt 
+DISCONTINUED SERIES: Projected other revenue in 
+billions of dollars over the projection horizon; includes 
+one-time income and expense items not included in pre-
+provision net revenue  
+ 
+Provisions for loan and lease losses (June 2020 stress test and  
+onward) Provisions (prior to the June 2020 stress test)   provision_amt 
+In the June 2020 stress test and onward, projected 
+provisions in loan and lease losses in billions of dollars 
+over the projection horizon.   
+Prior to the June 2020 stress test, projected provisions in 
+billions of dollars over the projection horizon  
+  
+ 
+Variable  Mnemonic  Description  
+Credit losses on investment securities (AFS/HTM) – June 2020 
+stress test and onward  
+Realized losses/gains on investment securities (AFS/HTM) – 
+prior to the June 2020 stress test  
+loss_securities_amt  
+In the June 2020 stress test and onward, projected credit 
+losses on available-for-sale (AFS) and held-to-maturity 
+(HTM) securities in billions of dollars over the projection 
+horizon. For banks that have adopted ASU 2016-13, the 
+Federal Reserve incorporated its projection of expected 
+credit losses on securities in the allowance for credit 
+losses.  
+Prior to the June 2020 stress test, projected realized 
+losses/gains on available -for-sale (AFS) and held-to -
+maturity (HTM) securities in billions of dollars over the 
+projection horizon  
+Trading and counterparty losses  loss_trading_counterparty_amt  
+Projected trading and counterparty losses in billions of 
+dollars over the projection horizon; includes mark -to-
+market and credit valuation adjustment (CVA) losses and 
+losses arising from the counterparty default scenario 
+component applied to derivatives, securities lending, and 
+repurchase agreement activities 
+ 
+In the 2025 stress test and onward, projected trading and 
+counterparty losses do not include losses on private 
+equity investments. 
+ 
+Prior to the 2025 stress test, losses on private equity 
+investments were included as part of projected trading 
+and counterparty losses. 
+Other losses/gains  loss_other_amt  
+In the 2022 stress test and onward, projected other 
+losses in billions of dollars over the projection horizon; 
+includes projected change in fair value of loans held for 
+sale and loans held for investment measured under the 
+fair-value option, losses/gains o n hedges on loans 
+measured at fair value or amortized cost, and goodwill 
+impairment losses  
+Prior to the 2022 stress test, projected other losses in 
+billions of dollars over the projection horizon; includes 
+projected change in fair value of loans held for sale and 
+loans held for investment measured under the fair-value 
+option, and goodwill impairment losses  
+In the 2025 stress test and onward, losses on private 
+equity investments are included in projected other 
+losses/gains. 
+ 
+Prior to the 2025 stress test, projected other losses/gains 
+did not include losses on private equity investments. 
+   
+Variable  Mnemonic  Description  
+Net income before taxes  income_pretax_net_amt  
+Projected net income before taxes in billions of dollars 
+over the projection horizon  
+Net income before taxes rate  income_pretax_net_rate  
+Projected net income before taxes as a percent of 
+projected average total assets over the projection 
+horizon  
+Other comprehensive income income_other_comprehensive_amt 
+Projected other comprehensive income (OCI) in billions 
+of dollars over the projection horizon 
+ 
+In the June 2020 stress test and onwards, other 
+comprehensive income is only calculated for banks 
+subject to Category I or II standards or banks that opt-in 
+to including accumulated other comprehensive income 
+(AOCI) in their calculation of capital   
+ 
+Prior to the June 2020 stress test, advanced approaches 
+banks and banks that opted into the advanced 
+approaches treatment of accumulated other 
+comprehensive income were subject to this requirement 
+AOCI included in capital, actual  aoci_incl_capital_actual_amt  
+Actual AOCI in billions of dollars as of the effective date 
+of the exercise  
+AOCI included in capital, ending aoci_incl_capital_end_amt  
+Projected AOCI in billions of dollars at the end of the 
+projection horizon 
+ 

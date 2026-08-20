@@ -1,0 +1,21 @@
+doc_id: fed-stress/cecl-in-stress-testing-public-statement-20211209.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file cecl-in-stress-testing-public-statement-20211209.pdf
+url: https://www.federalreserve.gov/supervisionreg/files/cecl-in-stress-testing-public-statement-20211209.pdf
+retrieved_at: '2026-08-20T03:15:44Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: cecl-in-stress-testing-public-statement-20211209.pdf
+  role: raw
+  sha256: 68ec1be545f8206679e4c9a36e1ade0b47291e7ad4dab8a27e9dfc40a6012eb0
+  size: 128354
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: ba79db54b8bc85515f93fd47a3a49e9e0a70efd34962b6eae2d3defb1ffe3e5f
+  size: 4592
+  stored: corpus

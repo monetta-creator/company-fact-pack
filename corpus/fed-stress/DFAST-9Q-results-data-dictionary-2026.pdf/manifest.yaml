@@ -1,0 +1,21 @@
+doc_id: fed-stress/DFAST-9Q-results-data-dictionary-2026.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file DFAST-9Q-results-data-dictionary-2026.pdf
+url: https://www.federalreserve.gov/supervisionreg/files/DFAST-9Q-results-data-dictionary-2026.pdf
+retrieved_at: '2026-08-20T03:15:42Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: DFAST-9Q-results-data-dictionary-2026.pdf
+  role: raw
+  sha256: f359b7a972a1b174500408d349f881b20391428b9a8e0e82e273528cf4732e30
+  size: 156821
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b42f5c430375ed7a4ab9e881fb99512ef32f41dc9fdbb44d4cfd8e173de28699
+  size: 22327
+  stored: corpus

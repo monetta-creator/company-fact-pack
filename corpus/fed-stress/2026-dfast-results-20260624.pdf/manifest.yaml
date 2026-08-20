@@ -1,0 +1,21 @@
+doc_id: fed-stress/2026-dfast-results-20260624.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2026-dfast-results-20260624.pdf
+url: https://www.federalreserve.gov/publications/files/2026-dfast-results-20260624.pdf
+retrieved_at: '2026-08-20T03:15:40Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2026-dfast-results-20260624.pdf
+  role: raw
+  sha256: aeecec4fa0f8872601d5d8f02f515520fdc302b61f934e24131147dfd7d6fbef
+  size: 2099540
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b9c00c1832c160eb4bf1b0329ac45e9336b239ca539680e4cca850a0644bbfcb
+  size: 171461
+  stored: corpus

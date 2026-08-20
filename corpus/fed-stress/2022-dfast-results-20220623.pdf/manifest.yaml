@@ -1,0 +1,21 @@
+doc_id: fed-stress/2022-dfast-results-20220623.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2022-dfast-results-20220623.pdf
+url: https://www.federalreserve.gov/publications/files/2022-dfast-results-20220623.pdf
+retrieved_at: '2026-08-20T03:15:29Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2022-dfast-results-20220623.pdf
+  role: raw
+  sha256: 5977cfb80bb216a84568fa067393746e13c4b49df3b05eff9c64d6336228ea87
+  size: 3312911
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9425fc847ec8ef594ed9b5d5872e098bc71e8b8eab67a2af8b89fef01e39832d
+  size: 179338
+  stored: corpus

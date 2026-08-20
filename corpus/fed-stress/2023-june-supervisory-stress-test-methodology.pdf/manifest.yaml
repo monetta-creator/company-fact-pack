@@ -1,0 +1,21 @@
+doc_id: fed-stress/2023-june-supervisory-stress-test-methodology.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2023-june-supervisory-stress-test-methodology.pdf
+url: https://www.federalreserve.gov/publications/files/2023-june-supervisory-stress-test-methodology.pdf
+retrieved_at: '2026-08-20T03:15:33Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2023-june-supervisory-stress-test-methodology.pdf
+  role: raw
+  sha256: d073e8e14dea820f5c2b8439bec56bb74b41c5bf3bb82c51bf5075e46153d50e
+  size: 2222470
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1e7be7260fdae5be9a50d951cbb53b928a89d2de8fa7d09bc17f0fd54d5e4099
+  size: 236593
+  stored: corpus

@@ -1,0 +1,21 @@
+doc_id: fed-stress/2025-stress-test-scenarios-20250205.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2025-stress-test-scenarios-20250205.pdf
+url: https://www.federalreserve.gov/publications/files/2025-stress-test-scenarios-20250205.pdf
+retrieved_at: '2026-08-20T03:15:39Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2025-stress-test-scenarios-20250205.pdf
+  role: raw
+  sha256: 02bdf5490170171f7b81e6e5484eb47a466a675042f19f8e7c26c47ed49966a4
+  size: 1833466
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 737178b248390c7f70971014ac04f6029f39a06794b8ffa4e91761b38da98955
+  size: 64943
+  stored: corpus

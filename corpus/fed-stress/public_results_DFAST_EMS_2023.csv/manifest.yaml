@@ -1,0 +1,21 @@
+doc_id: fed-stress/public_results_DFAST_EMS_2023.csv
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file public_results_DFAST_EMS_2023.csv
+url: https://www.federalreserve.gov/supervisionreg/files/public_results_DFAST_EMS_2023.csv
+retrieved_at: '2026-08-20T03:15:46Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: public_results_DFAST_EMS_2023.csv
+  role: raw
+  sha256: 7332222e588776eb6e8ba546255bb6f8f31cafddb78ac77634667eb8dfda38dc
+  size: 1015
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 590f590ee0da6686799bca30992e7e08a69d51fefbf4dde3dd27d0af70701321
+  size: 1005
+  stored: corpus

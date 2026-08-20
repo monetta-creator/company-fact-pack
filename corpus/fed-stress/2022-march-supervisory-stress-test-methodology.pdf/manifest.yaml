@@ -1,0 +1,21 @@
+doc_id: fed-stress/2022-march-supervisory-stress-test-methodology.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2022-march-supervisory-stress-test-methodology.pdf
+url: https://www.federalreserve.gov/publications/files/2022-march-supervisory-stress-test-methodology.pdf
+retrieved_at: '2026-08-20T03:15:31Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2022-march-supervisory-stress-test-methodology.pdf
+  role: raw
+  sha256: 270c7c9c1430685718a2f20aee5b28c3d0acab109139aae0afbe0c9e0903af7d
+  size: 3363215
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 70dcf2102f7c45787f8e0498ea333d474f783db46f0f44453ea14944c3b00538
+  size: 236116
+  stored: corpus

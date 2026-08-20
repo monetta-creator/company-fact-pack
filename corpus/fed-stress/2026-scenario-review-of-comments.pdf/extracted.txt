@@ -1,0 +1,1592 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Review of Comments and Summary of Changes to the  
+Proposed 2026 Stress Test Scenarios 
+ 
+February 2026 
+  
+ 
+ 
+ 
+ 
+Table of Contents 
+I. Baseline Scenario .................................................................................................................. 4 
+A. General Comments ........................................................................................................... 5 
+B. Unemployment Rate ......................................................................................................... 6 
+C. Real GDP ........................................................................................................................... 6 
+D. Inflation (Annualized CPI)............................................................................................... 7 
+E. 3-Month Treasury ............................................................................................................. 7 
+F. 5-Year Treasury ................................................................................................................ 7 
+G. 10-Year Treasury .............................................................................................................. 8 
+H. Prime Rate ......................................................................................................................... 8 
+I. Mortgage Rates ................................................................................................................. 8 
+J. BBB Yields ......................................................................................................................... 9 
+K. BBB Spread (Against 10Y) ............................................................................................... 9 
+L. Equity Prices...................................................................................................................... 9 
+M. VIX ..................................................................................................................................... 9 
+N. House Prices .................................................................................................................... 10 
+O. Commercial Real Estate Prices ...................................................................................... 10 
+P. International Variables .................................................................................................. 10 
+II. Severely Adverse Scenario ................................................................................................. 12 
+A. Comments on the Character and Design of the Proposed 2026 Severely Adverse 
+Scenario .................................................................................................................................... 13 
+B. Unemployment Rate ....................................................................................................... 16 
+C. House Prices .................................................................................................................... 17 
+D. Mortgage Spreads ........................................................................................................... 17 
+E. Equity Prices.................................................................................................................... 19 
+F. VIX ................................................................................................................................... 22 
+G. BBB Spreads .................................................................................................................... 23 
+H. CRE Prices ....................................................................................................................... 27 
+I. 5-year Treasury ............................................................................................................... 28 
+J. 10-year Treasury ............................................................................................................. 30 
+K. Other Domestic Variables .............................................................................................. 31 
+L. International Variables .................................................................................................. 32 
+ 
+ 
+ 
+III. Global Market Shock Component for the Severely Adverse Scenario .......................... 34 
+A. General Comments ......................................................................................................... 34 
+B. Equity Dividend Shock ................................................................................................... 41 
+C. Agency Deliverable and Non-Deliverable Pass-Through Securities .......................... 42 
+D. Non-Investment Grade Cash Bonds .............................................................................. 44 
+E. Requests for Additional Information or Documentation ............................................ 44 
+IV. Largest Counterparty Default Component for the Severely Adverse Scenario ........... 46 
+V. Macro Model for Stress Testing ........................................................................................ 50 
+VI. Other Comments Received................................................................................................. 52 
+A. Seeking Comment on Scenarios ..................................................................................... 52 
+B. Duration of Comment Period ........................................................................................ 54 
+C. Jump-off Values .............................................................................................................. 55 
+D. Additional Scenario Variable Guides and Discretion in Scenario Design ................. 57 
+ 
+  
+4 Review of Comments: Baseline Scenario 
+ 
+ 
+Review of Comments on Proposed 2026 Stress Test Scenarios 
+In October 2025, the Board of Governors of the Federal Reserve System (Board) 
+requested comment on the scenarios it proposed to use to conduct the 2026 supervisory stress 
+test.1  The Board received 5 comments on the proposal.  The comments received by the Board 
+represent a range of views and include thoughtful engagement with the proposal.   
+This document summarizes the comments received on the proposed 2026 supervisory 
+stress test scenarios.  Each section of this document is organized according to the components of 
+the final 2026 supervisory stress test scenarios, and includes a summary of the comments 
+received and an explanation of any changes to the components described in each section.  
+Documentation describing the proposed 2026 supervisory stress test scenarios is available at the 
+following link: https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2026.htm. 
+The Board separately requested comment on its proposal to enhance the transparency and 
+public accountability of the Board’s stress tests (the Enhanced Transparency and Public 
+Accountability proposal).2  The Board will respond to any comments on aspects of the Enhanced 
+Transparency and Public Accountability proposal together with all comments received on that 
+proposal. 
+I. Baseline Scenario 
+The proposed 2026 supervisory stress test baseline scenario for U.S. real activity, 
+inflation, and interest rates was similar to consensus projections from the September 2025 Blue 
+ 
+1  See Board, Proposed 2026 Stress Test Scenarios (October 2025), available at 
+https://www.federalreserve.gov/aboutthefed/boardmeetings/2026-proposed-supervisory-stress-
+test-scenarios-20251024.pdf.  
+2  See Board, Enhanced Transparency and Public Accountability of the Supervisory Stress Test 
+Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer 
+Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL, 90 FR 51856 
+(November 18, 2025). 
+5 Review of Comments: Baseline Scenario 
+ 
+ 
+Chip Financial Forecasts released on August 29, 2025, and the August 2025 Blue Chip 
+Economic Indicators released on August 11, 2025.3  The long-term components of the baseline 
+scenario for U.S. real activity, inflation, and interest rates were similar to the March 2025 Blue 
+Chip release.  The proposed baseline scenario paths for the other scenario variables were 
+constructed according to the macro model for Stress Testing4 discussed in the Board’s proposed 
+2025 Policy Statement on the Scenario Design Framework for Stress Testing (proposed 2025 
+Scenario Design Policy Statement).5  The proposed baseline scenario featured moderate 
+economic growth.  This proposed scenario is not a forecast of the Federal Reserve. 
+The final 2026 baseline scenario for U.S. real activity, inflation, and interest rates is 
+similar to consensus projections from the January 2026 Blue Chip Financial Forecasts released 
+on December 30, 2025, and the January 2026 Blue Chip Economic Indicators released on 
+January 9, 2026.6  The long-term components of the final baseline scenario for U.S. real activity, 
+inflation, and interest rates are similar to the October 2025 Blue Chip release. 
+The following subsections describe the values for the proposed baseline scenario, 
+summarize the comments received on each component, and address any comments received. 
+A. General Comments  
+As described below in section V, one commenter raised questions about how the 
+trajectories for several variables, such as GDP, disposable income, inflation, and the 3-month 
+ 
+3  See Wolters Kluwer Legal and Regulatory Solutions, Blue Chip Economic Indicators and Blue 
+Chip Financial Forecasts. 
+4  See Board, Supervisory Stress Test Documentation – Macroeconomic Model Guide (October 
+2025), available at https://www.federalreserve.gov/supervisionreg/files/macroeconomic-model-
+guide.pdf. 
+5  The proposed 2025 Scenario Design Policy Statement is included in the Board’s Enhanced 
+Transparency and Public Accountability proposal.  See supra note 2. 
+6  Id. 
+6 Review of Comments: Baseline Scenario 
+ 
+ 
+U.S. Treasury securities rate, are produced through the Board’s macro model for Stress Testing.  
+The commenter explained that they could not replicate the Board’s proposed values for these and 
+other variables based on the model documentation provided.  This comment is addressed below 
+in section V.  For each of the variable values described below, the final values for these variables 
+were determined according to the process described in section V.  
+Additionally, one commenter raised questions about how the Board would determine the 
+final jump-off values for each year’s scenarios, including the 2026 scenario.  This comment is 
+addressed below in section VI.   
+No other comments were received on the Board’s proposed baseline scenario.  A 
+summary of changes in the final 2026 baseline scenario is described in this section below. 
+B. Unemployment Rate  
+In the proposed 2026 baseline scenario, the unemployment rate would move up to 4.6 
+percent in the first quarter of 2026, and would stay at that level until the third quarter of 2026, 
+before gradually declining to 4.2 percent in the third quarter of 2028, where it would remain 
+through the end of the scenario. 
+In the final 2026 baseline scenario, the unemployment rate moves up to 4.6 percent in the 
+first quarter of 2026, and stays at that level through the third quarter of 2026, before gradually 
+declining to 4.2 percent by the end of the scenario. 
+C. Real GDP  
+In the proposed 2026 baseline scenario, real GDP growth would rise from 0.8 percent in 
+the fourth quarter of 2025 to 2 percent by the first quarter of 2027 and would hover around that 
+rate for the rest of the scenario. 
+7 Review of Comments: Baseline Scenario 
+ 
+ 
+In the final 2026 baseline scenario, real GDP growth rises from 1 percent in the fourth 
+quarter of 2025 to 2.1 percent by the first quarter of 2027 and hovers around that rate for the rest 
+of the scenario. 
+D. Inflation (Annualized CPI)  
+In the proposed 2026 baseline scenario, inflation (annualized CPI), measured as the 
+quarterly change in the CPI and reported as an annualized rate, would gradually decline from 3.4 
+percent at the end of 2025 to 2.2 percent in the first quarter of 2027, where it remains through the 
+end of the scenario. 
+In the final 2026 baseline scenario, inflation gradually declines from 2.8 percent at the 
+end of 2025 to 2.2 percent in the first quarter of 2028, where it remains through the end of the 
+scenario. 
+E. 3-Month Treasury  
+In the proposed 2026 baseline scenario, the 3-month Treasury rate would decrease from 
+4.0 percent at the end of 2025 to 3.8 percent in the first quarter of 2026, after which it would 
+decline to 3.3 percent in the fourth quarter of 2026.  It would remain there through the first 
+quarter of 2028, after which it gradually declines to 3.1 percent through the end of the scenario. 
+In the final 2026 baseline scenario, the 3-month Treasury rate decreases from 3.7 percent 
+at the end of 2025 to 3.1 percent in the fourth quarter of 2026, and hovers around that level 
+through the remainder of the scenario. 
+F. 5-Year Treasury  
+In the proposed 2026 baseline scenario, the 5-year Treasury yield would decrease from 
+3.9 percent in the fourth quarter of 2025 to 3.8 percent in the first quarter of 2026 and then would 
+decline gradually to 3.6 percent by the end of the scenario. 
+8 Review of Comments: Baseline Scenario 
+ 
+ 
+In the final 2026 baseline scenario, the 5-year Treasury yield hovers around 3.7 percent, 
+its value in the fourth quarter of 2025, until the fourth quarter of 2027, when it ticks up to 3.9 
+percent.  It then remains at that level for the rest of the scenario.  
+G. 10-Year Treasury  
+In the proposed 2026 baseline scenario, the 10-year Treasury yield would decrease from 
+4.3 percent in the fourth quarter of 2025 to 4.2 percent in the first quarter of 2026 and then would 
+decline gradually to 3.9 percent by the end of the scenario.   
+In the final 2026 baseline scenario, the 10-year Treasury yield hovers around 4.1 percent, 
+its value in the fourth quarter of 2025, for the duration of the scenario. 
+H. Prime Rate  
+In the proposed 2026 baseline scenario, the prime rate would follow a path similar to 
+short-term interest rates, but would sit at a level 3 percentage points higher, reflecting the typical 
+spread between the prime rate and the top of the federal funds target range. 
+In the final 2026 baseline scenario, the prime rate follows a path similar to short-term 
+interest rates, but sits at a level 3 percentage points higher, reflecting the typical spread between 
+the prime rate and the top of the federal funds target range. 
+I. Mortgage Rates  
+In the proposed 2026 baseline scenario, mortgage rates would decline gradually from 6.4 
+percent at the end of 2025 to 5.5 percent by the fourth quarter of 2028, where they remain for the 
+rest of the scenario. 
+In the final 2026 baseline scenario, mortgage rates decline gradually from 6.2 percent at 
+the end of 2025 to 5.7 percent by the third quarter of 2028 where they remain for the rest of the 
+scenario. 
+ 
+9 Review of Comments: Baseline Scenario 
+ 
+ 
+J. BBB Yields  
+In the proposed 2026 baseline scenario, yields on BBB-rated corporate bonds would 
+hover around their level in the fourth quarter of 2025 throughout the scenario. 
+In the final 2026 baseline scenario, yields on BBB-rated corporate bonds rise gradually 
+from 5.1 percent in the fourth quarter of 2025 to 5.6 percent in the fourth quarter of 2027 and 
+remain at that level through the end of the scenario. 
+K. BBB Spread (Against 10Y)  
+In the proposed 2026 baseline scenario, the spread between yields on BBB-rated bonds 
+and yields on 10-year Treasury securities would increase gradually to a level of 1.6 percentage 
+points by the third quarter of 2027 and remain around that level through the rest of the scenario. 
+In the final 2026 baseline scenario, the spread between yields on BBB-rated bonds and 
+yields on 10-year Treasury securities increases gradually from 1 percentage point in the fourth 
+quarter of 2025 to a level of 1.5 percentage points by the first quarter of 2028 where it remains 
+through the rest of the scenario. 
+L. Equity Prices  
+In the proposed 2026 baseline scenario, equity prices would increase about 4.3 percent 
+per year throughout the scenario. 
+In the final 2026 baseline scenario, equity prices increase between about 4 and 5 percent 
+per year throughout the scenario. 
+M. VIX  
+In the proposed 2026 baseline scenario, equity market volatility, as measured by the VIX, 
+would increase gradually from 23 percent in the fourth quarter of 2025 to 25 percent in the third 
+quarter of 2027, where it remains through the end of the scenario. 
+10 Review of Comments: Baseline Scenario 
+ 
+ 
+In the final 2026 baseline scenario, the VIX declines from 26 percent in the fourth quarter 
+of 2025 to 22 percent in the second quarter of 2026, after which it gradually increases to 25 
+percent by the end of the scenario. 
+N. House Prices  
+In the proposed 2026 baseline scenario, nominal house prices would decline somewhat 
+through the first quarter of 2027 before gradually increasing through the remainder of the 
+scenario. 
+In the final 2026 baseline scenario, nominal house prices increase gradually for the 
+duration of the scenario. 
+O. Commercial Real Estate Prices 
+In the proposed 2026 baseline scenario, commercial real estate prices would increase 
+about 4.3 percent per year. 
+In the final 2026 baseline scenario, commercial real estate prices increase between about 
+4 and 5 percent per year. 
+P. International Variables  
+In the proposed 2026 baseline scenario, real GDP growth in developing Asia would have 
+increased from 2.8 percent to 5.6 percent in the third quarter of 2026, after which it would 
+gradually decline to 4.1 percent in the third quarter of 2027.  It would then fluctuate between 4.8 
+percent and 4.2 percent through the end of the scenario.  Real GDP growth in the euro area 
+would have increased from 0.3 percent at the end of 2025 to 2 percent by the third quarter of 
+2026.  It would then decline gradually to 1.1 percent in the second quarter of 2027, after which it 
+would fluctuate between 1.2 percent and 1.5 percent through the end of the scenario.  Real GDP 
+growth in the United Kingdom would have increased from 0.4 percent at the end of 2025 to 1.8 
+percent by the third quarter of 2026, after which it would gradually decline to 1.1 percent in the 
+11 Review of Comments: Baseline Scenario 
+ 
+ 
+second quarter of 2027.  It would then fluctuate between 1.2 percent and 1.4 percent through the 
+end of the scenario.  GDP growth in Japan begins at negative 0.4 percent in the fourth quarter of 
+2025 and increases to 1.8 percent in the third quarter of 2026.  It would then gradually decline to 
+0.2 percent through the third quarter of 2027, after which it would hover between 0.4 percent and 
+1.1 percent through the end of the scenario.  Consumer price inflation in the euro area would 
+increase from 1.8 percent to 2 percent in the second quarter of 2027 and then hovers around that 
+level for the rest of the scenario.  Consumer price inflation in the United Kingdom would decline 
+from 2.7 percent to 2.1 percent in the fourth quarter of 2026 and then hovers around that level 
+through the end of the scenario.  Inflation in Japan would have increased from 1.8 percent in the 
+fourth quarter of 2025 to 2.4 percent in the second quarter of 2028, where it would remain 
+through the end of the scenario.  The inflation rate in developing Asia would have increased 
+gradually from 1.3 percent to 2.2 percent by the third quarter of 2027 and then hover around 
+there for the rest of the scenario. 
+In the final 2026 baseline scenario, real GDP growth in developing Asia increases from 
+3.7 percent at the end of 2025 to 5.2 percent in the third quarter of 2026, after which it gradually 
+declines to 3.9 percent in the second quarter of 2027.  It then fluctuates between 3.9 percent and 
+4.6 percent through the end of the scenario.  Real GDP growth in the euro area increases from 
+0.5 percent at the end of 2025 to 1.7 percent by the third quarter of 2026.  It then declines 
+gradually to 1.3 percent in the third quarter of 2027 and hovers around that level through the end 
+of the scenario.  Real GDP growth in the United Kingdom increases from 0.7 percent at the end 
+of 2025 to 1.4 percent by the third quarter of 2026.  It then declines to 1.3 percent in the first 
+quarter of 2028 and remains at that level through the end of the scenario.  GDP growth in Japan 
+increases from 0.6 percent in the fourth quarter of 2025 to 0.9 percent in the second quarter of 
+12 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+2026.  It then gradually declines to 0.6 percent by the second quarter of 2028 and hovers around 
+that level through the end of the scenario.  Consumer price inflation in the euro area increases 
+from 1.6 percent in the fourth quarter of 2025 to 2 percent in the second quarter of 2027 and then 
+hovers around that level for the rest of the scenario.  Consumer price inflation in the United 
+Kingdom declines from 2.8 percent in the fourth quarter of 2025 to 2 percent in the fourth 
+quarter of 2026 and then hovers around that level through the end of the scenario.  Inflation in 
+Japan decreases from 2.1 percent in the fourth quarter of 2025 to 1.8 percent in the second 
+quarter of 2026, and hovers around that level for the remainder of the scenario.  The inflation 
+rate in developing Asia increases gradually from 1 percent in the fourth quarter of 2025 to 2.1 
+percent by the third quarter of 2028 and remains there for the rest of the scenario. 
+II. Severely Adverse Scenario 
+The proposed 2026 severely adverse scenario was characterized by a severe global 
+recession triggered by an abrupt decline in risk appetite that causes substantial declines in risky 
+asset prices and declines in risk-free interest rates.  During the first months of this proposed 
+scenario, financial market functioning is impaired, leading to substantial additional volatility.  
+Those disruptions spill over into large reductions in household demand for goods and services 
+and significantly reduce employment and business investment.  The low levels of risk appetite 
+and the declines in income and wealth persist and lead to a protracted recession in the United 
+States and abroad.  This proposed scenario is a hypothetical scenario designed to assess the 
+strength and resilience of banks and does not represent a forecast of the Federal Reserve. 
+The following subsections describe the values for the proposed severely adverse scenario, 
+summarize the comments received on each component, and address any comments received. 
+13 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+A. Comments on the Character and Design of the Proposed 2026 Severely Adverse 
+Scenario 
+The Board uses the severely adverse scenario to conduct the supervisory stress test.  The 
+severely adverse scenario is a hypothetical severe global recession comprised of a set of 
+conditions that affect the U.S. economy or the financial condition of firms subject to the stress 
+test, and includes the global market shock component for applicable firms.   
+The Board received comments on the general character of the proposed severely adverse 
+scenario.  While no commenters proposed that the Board should adopt a fundamentally different 
+type of scenario, one commenter stated that the proposed 2026 severely adverse scenario and 
+global market shock components were overly severe and implausible given current market 
+dynamics.  In particular, and as described in the sections below, the commenter stated that values 
+for certain variables were too severe, and that the individual variables within the proposed 2026 
+scenario would interact in an implausible manner.  This commenter recommended that the 
+individual variables should interact in a coherent manner, suggesting that the Board should 
+consider historical precedent not only in selecting individual variable values, but in the broader 
+design of the scenario.  To avoid procyclicality, the commenter recommended that asset classes 
+in the early stage of recovery be subjected to smaller shocks, and further stated that the 
+calibration of shocks should reflect the current level of the relevant variables.   
+The severity of the proposed and final 2026 severely adverse scenario was informed by 
+historical experience, the existing guides for the unemployment rate and house prices in the 2019 
+Scenario Design Policy Statement,7 and the Board’s policy in setting the other values in this 
+scenario as set forth in that policy statement.8  The Board also referenced how these variables 
+ 
+7  See 12 CFR 252, App’x A, section 4.2.2. 
+8  See 12 CFR 252, App’x A, section 4.2.3. 
+14 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+would be established under the Board’s proposed 2025 Scenario Design Policy Statement, which 
+generally provides more detailed and prescriptive guides for these other variables, as well as 
+scenario design principles for setting these variables.9  Finally, the Board considered the 
+statutory and regulatory purposes of the supervisory stress test, to help ensure that banks are 
+sufficiently capitalized to withstand stress under a range of market outcomes.10 
+While the Scenario Design Policy Statement establishes that the Board’s scenario design 
+process is informed by historical experience, the Board’s scenario design process recognizes that 
+“historical relationships between macroeconomic variables could change over time”11 and that 
+the scenario should be forward-looking, “introduce[ing] elements outside of the realm of 
+historical experience into the supervisory stress test.”12   
+The Board has determined that the aggregate severity of the final 2026 scenario is 
+appropriate to help ensure that large banks are sufficiently capitalized and able to lend to 
+households and businesses even in a severe recession.  Setting a particular aggregate severity 
+level for several variables is supported by the available academic literature, and while it 
+deemphasizes salient risks in individual stress test scenarios, it increases predictability of 
+scenarios, and helps promote the stability of the stress test scenarios year-over-year.13   
+ 
+9  See proposed 2025 Scenario Design Policy Statement. 
+10  See 12 U.S.C. 5365(i)(1)(A).  
+11  12 CFR 252, App’x A, section 3.1(d). 
+12  12 CFR 252, App’x B, section 1.2(b).  See also section 2.4(a): “The supervisory scenarios 
+may potentially incorporate events that have not occurred historically.  It is not necessarily 
+consistent with the purpose of a stress testing exercise to assume that the future will be like the 
+past.”  These design principles are also consistent with those more detailed expectations 
+described in the proposed 2025 Scenario Design Policy Statement. 
+13  See E. Afanasyeva et al., Evaluating Empirical Regularities in Variable Comovement in 
+Stress Test Scenarios, FEDS Notes (Sep. 19, 2025), 
+ 
+15 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+The final 2026 scenario variables resemble conditions that would characterize post-war 
+U.S. recessions, including the 2007-2009 financial crisis.14  While the co-occurrence of stress 
+across several variables within the final severely adverse scenario may not resemble a 
+specifically observed post-war U.S. recession, the Board recognizes that recessions have not 
+been identical.  The Board also assessed additional data that has become available following the 
+publication of the proposed 2026 scenario, and determined that it was appropriate to set the 
+severity of the scenario based on the original calibration of values in the upper one-third of the 
+proposed ranges for the scenario variables, after they are adjusted for incoming data.15  In 
+independently determining the final values of the severely adverse scenario for the final 2026 
+scenarios, the Board carefully considered comments about the severity of the individual variables 
+and the aggregate severity of the variables, as described in this section II.  The paths of variables 
+are in line with the Board’s stress testing principle of conservatism that guides the Board’s 
+development of the supervisory stress test,16 and would also be consistent with the design 
+principles outlined in the Board’s proposed 2025 Scenario Design Policy Statement.17 
+Finally, the Board received comments on the proposed 2025 Scenario Design Policy 
+Statement, including with respect to the overall design of the stress test scenarios and the 
+ 
+https://www.federalreserve.gov/econres/notes/feds-notes/evaluating-empirical-regularities-in-
+variable-comovement-in-stress-test-scenarios-20250919.html, and citations within. 
+14  Id. 
+15  The Board’s process for adjusting the proposed 2026 scenario variable paths as incoming data 
+became available was described in the proposed 2026 scenario.  See “Methodology to Update the 
+Scenarios to Incorporate Additional Data Releases” in the Board’s proposed 2026 scenarios, 
+available at https://www.federalreserve.gov/publications/files/2025-stress-test-scenarios-
+20250205.pdf.  
+16  See section 1.6 of the Board’s Stress Testing Policy Statement, 12 CFR 252, App’x B.   
+17  See section 4.2.2(f) of the proposed 2025 Scenario Design Policy Statement, 90 FR 51856, 
+51946 (November 18, 2025).   
+16 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+formation of the guides for certain macroeconomic variables.  The Board will consider these 
+comments together with any other feedback from the public on issues in relation to any finalized 
+amendments to the Board’s Scenario Design Policy Statement.  The comment deadline for such 
+input is February 21, 2026.  
+B. Unemployment Rate  
+In the proposed 2026 severely adverse scenario, the unemployment rate would have 
+climbed to a peak of 10 percent in the third quarter of 2027, a 5.5 percentage point increase 
+relative to its fourth-quarter 2025 level.  The unemployment rate would have reached its peak in 
+the seventh quarter of the scenario. The final 2026 severely adverse scenario adopts these 
+variable paths as proposed. 
+For the final 2026 severely adverse scenario, the unemployment rate climbs to a peak of 
+10 percent in the third quarter of 2027, a 5.5 percentage point increase relative to its fourth-
+quarter 2025 level.  The unemployment rate reaches its peak in the seventh quarter of the 
+scenario. 
+The Board addressed comments on the severity and plausibility of this aspect of the 
+proposal, in part, in section II.A above.  Consistent with the Board’s 2019 Scenario Design 
+Policy Statement, the Board set the unemployment rate in consideration of the Board’s existing 
+guide for setting the unemployment rate under the severely adverse scenario.  This guide 
+specifies that the unemployment rate increases between 3 to 5 percentage points from its initial 
+level over the course of 6 to 8 calendar quarters, or to 10 percent, whichever level is higher.  
+Given current conditions and the jump-off value for the unemployment rate, an increase to 10 
+percent was determined to be appropriate and is consistent with the guide described in the 2019 
+Scenario Design Policy Statement, and would also be consistent with the proposed 2025 
+Scenario Design Policy Statement. 
+17 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+C. House Prices  
+In the proposed 2026 severely adverse scenario, house prices would have fallen steadily 
+through the fourth quarter of 2027, reaching a trough that is about 29 percent below their level in 
+the fourth quarter of 2025.  
+For the final 2026 severely adverse scenario, house prices fall steadily through the fourth 
+quarter of 2027, reaching a trough that is about 30 percent below their level in the fourth quarter 
+of 2025.  While house prices reach the same trough level as in the proposed scenario, the decline 
+of 30 percent is slightly more than the decline in the proposed scenario owing to the slightly 
+higher jump-off value of the ratio of house prices to disposable personal income in the final 
+scenario.  
+The Board addressed a comment on the severity and plausibility of this aspect of the 
+proposal, in part, in section II.A above.  Consistent with the Board’s 2019 Scenario Design 
+Policy Statement, the Board set the value for house prices in consideration of the Board’s guide 
+for setting this variable under the severely adverse scenario.  This guide specifies the typical 
+decline in the HPI-DPI ratio will be at a minimum 25 percent from its starting value, or enough 
+to bring the ratio down to its Great Recession trough.  Given current conditions and the jump-off 
+value for house prices, a decrease to a trough of 30 percent was determined to be appropriate and 
+is consistent with the guide described in the 2019 Scenario Design Policy Statement, and would 
+also be consistent with the proposed 2025 Scenario Design Policy Statement. 
+D. Mortgage Spreads  
+In the proposed 2026 severely adverse scenario, the spread between mortgage rates and 
+10-year Treasury yields would have widened 1.3 percentage points to reach a level of 3.4 
+percentage points by the third quarter of 2026 before narrowing to a level of about 2.4 
+percentage points at the end of the severely adverse scenario.  The increase in the mortgage 
+18 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+spread in the first quarter of the scenario would have been 62 percent of the total jump-off-to-
+peak increase in the mortgage spread. 
+For the final 2026 severely adverse scenario, the spread between mortgage rates and 10-
+year Treasury yields widens 1.3 percentage points to reach a level of 3.4 percentage points by the 
+third quarter of 2026 before narrowing to a level of about 2.4 percentage points at the end of the 
+severely adverse scenario.  While the mortgage spread reaches the same peak level as in the 
+proposed scenario, the increase in the spread of 1.3 percentage points is slightly lower than in the 
+proposed scenario owing to the slightly higher jump-off value of the spread in the final scenario.  
+Relatedly, 62 percent of the jump-off-to-peak increase in the mortgage spread occurs in the first 
+quarter of the scenario.  
+One commenter, when describing their views of the proposed value for commercial real 
+estate in the severely adverse scenario (discussed below in section II.H), commented that they 
+believed that similar issues of severity and procyclicality would be applicable to the Board’s 
+proposed values for mortgage spreads.  The commenter did not recommend a specific alternative 
+calibration.  
+The Board addressed comments regarding the severity and plausibility of the severely 
+adverse scenario in section II.A.  Given the established severity of the unemployment rate 
+described above in section II.B, current conditions, and the jump off value for the spread 
+between mortgage rates and 10-year Treasury yields, the final paths were determined to be 
+appropriate.18  Additional factors considered by the Board included the paths of mortgage 
+ 
+18  The final path for mortgage spreads is also consistent with the guide described in the proposed 
+2025 Scenario Design Policy Statement.  In the proposed mortgage spreads guide, mortgage 
+spreads would increase between 70 and 160 basis points, to a minimum of 300 basis points.  
+19 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+spreads of past severely adverse scenarios, such as in 2020 and 2021, and that mortgage spreads 
+reached 284 basis points as recently as the second quarter of 2023.19  
+E. Equity Prices  
+In the proposed 2026 severely adverse scenario, equity prices would have fallen about 54 
+percent from the fourth quarter of 2025 through the third quarter of 2026.  The decline in equity 
+prices in the first quarter of the scenario would have been 67 percent of the total decline in 
+equity, while 17 percent would have occurred in the second quarter. 
+In the final 2026 severely adverse scenario, equity prices fall about 58 percent from the 
+fourth quarter of 2025 through the third quarter of 2026.  The decline in equity prices in the first 
+quarter of the scenario is 67 percent of the total decline in equity prices, while 17 percent occurs 
+in the second quarter. 
+One commenter cited the proposed calibration of the equity price guide and value for the 
+2026 stress test and stated that the proposed guides for the guide-based variables do not 
+sufficiently explain the calibration of the peak or trough value, or the trajectory to that value.  
+The commenter stated that the guide would permit a 60 percent maximum decline, which 
+materially exceeds the decline observed during the 2007-2009 financial crisis, and such a three-
+quarter rate of change would more than double any rate observed historically.   
+The Board addressed comments regarding the severity and plausibility of the severely 
+adverse scenario in section II.A.   
+In establishing the paths for equity prices, the Board considered the current conditions 
+and the jump off value for equity prices, as well as historical experience.   In particular, several 
+recessions featured a decline of around 50 percent.  In particular, the equity price declines in the 
+ 
+19  See supra note 2. 
+20 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+1973 recession and the 2001 recession were 46 percent, whereas the decline in the 2007-2009 
+financial crisis measured 48 percent.20  As described above in section II.A, the Board’s forward-
+looking approach to scenario design supports selecting an equity price trough that may exceed 
+historical events when appropriate, which the Board determined to adopt in the final 2026 
+scenario.  In the final 2026 scenario, the equity prices path meaningfully increases scenario 
+severity (i.e., the equity prices decrease is larger) while equity market valuations are relatively 
+high or rising.   
+As a result, this path helps ensure that firms are resilient to outsized losses if valuations 
+reduce over time or suddenly.  It also avoids adding procyclicality to the scenario because it 
+would mechanically suggest a commensurate reduction in severity in a given scenario where 
+equity prices have fallen significantly in the period prior to the jump-off date of the stress test 
+scenarios. 
+The equity prices path in the final 2026 scenario illustrates how the Board can apply the 
+proposed guide for equity prices that is described in the proposed 2025 Scenario Design Policy 
+Statement to produce a predictable and appropriate severity level for equity prices, as established 
+in this final 2026 scenario.21  
+Additionally, the Board considered one comment that said that the proposed guide for 
+equity prices permits a maximal decline in equity prices that exceed the decline observed during 
+ 
+20  See supra note 2 at 51898. 
+21  In the proposed equity prices guide, the equity price value would fall by around 50 percent 
+plus or minus up to 10 percent, depending on the performance of equity prices over the 12-month 
+period prior to the jump-off value.  When equity prices have risen over the past 12 months, 
+equity prices will fall to a trough level below the jump-off value of 50 percent plus one half of 
+the percentage increase in equity prices up to a maximum of 10 percent.  When equity prices 
+have decreased over the past 12 months, equity prices will fall to a trough level below the jump-
+off value of 50 percent minus one half of the percentage decrease in equity prices, up to a 
+maximum of 10 percent. 
+21 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+the 2007-2009 financial crisis, and that the paths for equity prices in the proposed 2026 scenario 
+included a trough and pace of the decline in equity prices that considerably exceeds that 
+observed historically.  The final specification for the equity prices trough is discussed above.  
+In terms of the rate of decline in equity prices for the final 2026 scenario, the Board 
+considered historical events in establishing this rate of decline.  A frontloaded decline is 
+consistent with the experience of equity prices in the index of leading economic indicators and 
+the empirical evidence from periods of equity market weakness.22  Across episodes of stock 
+market distress, the average share of the decline realized in the two quarters preceding the trough 
+amounts to 63 percent, with one episode measuring a much higher 88 percent in one quarter (in 
+1962) and most measuring 50 percent or more for these two quarters (for example, 52 percent in 
+the 2007-2009 financial crisis).23  The final 2026 scenario specification of the rate of equity price 
+decline aligns with this historical evidence.  While the specific combination of the severity of the 
+trough and the trajectory to trough in this final 2026 scenario may not have occurred historically, 
+the final 2026 scenario reflects the Board’s forward-looking approach, as discussed in section 
+II.A.  
+Since the maximal decline portion of this comment relates to the proposed 2025 Scenario 
+Design Policy Statement, and not to the specification for the equity prices path for the final 2026 
+scenario, the Board will consider that specific portion together with comments on that proposal.  
+ 
+22  In the academic literature, stock prices are well-known to be fast-moving or forward-looking 
+variables that react to shocks fast.  One prominent example is the study by B. Bernanke, J. 
+Boivin, & P. Eliasz, Measuring the Effects of Monetary Policy: a Factor-Augmented Vector 
+Autoregressive (FAVAR) Approach, 120 Q. J. of Econ. 387-422 (2005) (classifying stock market 
+prices as fast-moving variables that respond to shocks on impact).  This discussion is also 
+included in the Board’s proposed 2025 Scenario Design Policy Statement, see supra note 2. 
+23  The episodes of stock market distress considered include the recessions of 1969, 1973, 2001, 
+the 2007-2009 financial crisis as well as the stock market decline in 1962. 
+22 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+F. VIX  
+In the proposed 2026 severely adverse scenario, the VIX, measured as the highest daily 
+closing value per quarter, would have reached a peak of 72 percent in the second quarter of 2026.  
+The proposed VIX level would have remained above 60 percent until the second quarter of 2027. 
+In the final 2026 severely adverse scenario, the VIX level reaches a peak of 72 percent in 
+the second quarter of 2026.   
+Similar to other macroeconomic scenario variables, one commenter stated that the Board 
+did not provide sufficient explanation for how it assessed systemic risks and chose to calibrate 
+variables, including the VIX level, near or in the upper one-third of their ranges of severity.  
+Comments regarding the severity and plausibility of the severely adverse scenario are addressed 
+in section II.A. 
+Additionally, one commenter stated that the proposed VIX level remains at or close to its 
+peak for a longer period over the course of the proposed 2026 scenario than has been observed 
+historically.  The commenter explained that this difference was likely due to the linear reversion 
+approach the Board used to determine the peak-to-endpoint path and suggests that an exponential 
+decay approach would be more appropriate.  
+The Board considered whether an exponential decay approach would be more 
+appropriate.  In evaluating this comment, the Board considered that this approach may have a 
+strong historical fit to the data.  However, the Board’s selection of a linear peak-to-endpoint path 
+is consistent with the convergence properties of the other variables in the final 2026 scenario.  
+Additionally, the recovery of the VIX level is consistent with the broader scenario narrative, 
+which features GDP continuing to fall and the unemployment rate continuing to rise through 
+later quarters of the scenario (sixth and seventh quarters respectively).  The Board also 
+considered academic research finding evidence that indicates that the VIX level would remain 
+23 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+elevated when economic activity is weak.24  The Board will consider the future use of this 
+approach, as described in the proposed 2025 Scenario Design Policy Statement, together with 
+other comments on the Board’s Enhanced Transparency and Public Accountability proposal. 
+As discussed above, the Board expects to address comments on the Board’s proposed 
+changes to its stress testing framework together with other comments on the Board’s Enhanced 
+Transparency and Public Accountability proposal, including its proposed guide for the VIX 
+level, when any final policy action is completed. 
+G. BBB Spreads  
+In the proposed 2026 severely adverse scenario, the spread between yields on BBB-rated 
+bonds and yields on 10-year Treasury securities would have increased 4.4 percentage points by 
+the third quarter of 2026, reaching a level of 5.7 percentage points.  Seventy percent of the jump-
+off-to-peak increase in the BBB spread would have occurred in the first quarter of the scenario. 
+In the final 2026 severely adverse scenario, the spread between yields on BBB-rated 
+bonds and yields on 10-year Treasury securities increases 4.7 percentage points by the third 
+quarter of 2026, reaching a level of 5.7 percentage points.  While the BBB spread reaches the 
+same peak level as in the proposed scenario, the increase in the spread of 4.7 percentage points is 
+somewhat higher than the increase of 4.4 percentage points in the proposed scenario owing to the 
+somewhat lower jump-off value of the spread in the final scenario.  Seventy-two percent of the 
+jump-off-to-peak increase in the BBB spread occurs in the first quarter of the scenario. 
+ 
+24  This approach is also described in the Board’s proposed 2025 Scenario Design Policy 
+Statement.  See supra note 2 at 51900, note 174, citing N. Bloom, Fluctuations in 
+Uncertainty, Journal of Economic Perspectives (2014), 
+https://www.aeaweb.org/articles?id=10.1257/jep.28.2.153.  
+24 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+Similar to comments on other macroeconomic scenario variables, one commenter stated 
+that the Board did not provide sufficient explanation for how it assessed systemic risks and chose 
+to calibrate variables, including the BBB spread, near or in the upper one-third of their ranges of 
+severity.  Comments regarding the severity and plausibility of the severely adverse scenario are 
+addressed in section II.A. 
+One commenter asserted that the severity of increases in BBB credit spreads in the 
+proposed 2026 scenario should be moderated to better align with current market evidence and 
+historical maximums, noting that, in the commenter’s view, financial system leverage is 
+currently lower than during the 2007-2009 financial crisis.  Specifically, the commenter 
+recommended that the BBB spread be set at a 350-basis-point increase to peak at 480 basis 
+points.  However, the commenter stated that even this value is itself conservative and disregards 
+post-2007-2009 financial crisis reforms, which in the commenter’s view, have reduced bank 
+leverage.  The commenter stated that if the Board retains the proposed BBB spread path, it 
+should justify the path in light of the proposed scenario and principles in the Enhanced 
+Transparency and Accountability proposal.  The commenter observed that the proposed 2026 
+scenario compresses a five-quarter increase in the BBB spread observed during the 2007-2009 
+financial crisis into a three-quarter window in the scenario.  
+The BBB spread can be understood as a reflection of the assessment by bond market 
+participants of borrowers’ ability to service that debt, rather than solely the leverage in the 
+banking system.  The final value for the BBB spread is consistent with the broader scenario 
+narrative, which depicts an “abrupt decline in risk appetite that causes substantial declines in 
+25 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+risky asset prices…” and in which “[a]t times during the first months of this scenario, financial 
+market functioning is impaired, leading to substantial additional volatility.”25 
+Further, as described above in section II.A, the Board’s supervisory scenarios can 
+incorporate events that may not have occurred historically, including with respect to the pace or 
+timing of stress.26  Yet, the final BBB spread value is similar to the value observed during the 
+2007–2009 financial crisis, where a 595 basis point spread occurred, as measured by the 
+quarterly average of ICE BofA U.S. Corporate 7-10 Year Yield-to-Maturity Index relative to the 
+10-year Treasury yield. 27   Weekly measurements from the same time period were even higher, 
+reaching 688 basis points.28  In consideration of these historical experiences, the Board 
+determined that the final value for the BBB spread was appropriate. 
+In terms of the pace of stress, the Board considered historical evidence and academic 
+literature, which indicated that the highest share of spread increases tends to occur in the first 
+quarter.29  As explained in the proposed Scenario Design Policy Statement, in the 2007-2009 
+ 
+25  See supra note 1. 
+26  See supra note 16. 
+27  This data was also presented in the Board’s proposed 2025 Scenario Design Policy Statement.  
+See 90 FR 51896, 51917 (November 18, 2025). 
+28  Weekly average calculated using ICE BofA U.S. Corporate 7-10 Year Yield-to-Maturity 
+Index (ICE Data Indices, LLC) and the yield on 10-year U.S. Treasury notes, constructed by 
+Federal Reserve staff based on the Svensson smoothed term structure model.  See L. Svensson, 
+Estimating Forward Interest Rates with the Extended Nelson-Siegel Method, 3 Sveriges 
+Riksbank Q. Rev. 13 -26 (1995). 
+29  In the academic literature, spreads are well-known to be contemporaneous indicators that 
+move the most at the onset of a stress event or crisis.  For instance, Krishnamurthy (2025) 
+documents rapid changes in spreads at the onset of financial crises, whereas Bernanke (2005) 
+classify spreads and stock market prices as “fast-moving” variables that respond to shocks on 
+impact. A. Krishnamurthy & T. Muir, How Credit Cycles across a Financial Crisis, 80 J. of Fin. 
+1339-78 (2025) (“Krishnamurthy (2025)”); B. Bernanke et al., Measuring the Effects of 
+Monetary Policy: A Factor-Augmented Vector Autoregressive (FAVAR) Approach, 120 Q.J. of 
+ 
+26 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+financial crisis, the largest increase in the spread (about 67 percent of the jump-off) occurred in a 
+single quarter following the bankruptcy of Lehman Brothers.30  A very similar result emerges 
+when considering the Enron/Dotcom stress episode and 1990 bond market stress episode.31  On 
+average (across all three bond market stress episodes), about 66 percent of the increase to the 
+peak in the spread was realized in a single quarter after the onset of the stress episode.  
+Considering this evidence, and the Board’s forward looking scenario design process, the Board 
+determined that it is reasonable to set the BBB spread path as an increase in BBB spread from 
+100 to 575 basis points occurring over a three-quarter period, rather than the somewhat less rapid 
+spread increase from 165 to 595 basis points over five quarters, which occurred during the 2007–
+2009 financial crisis.   
+As mentioned, comments regarding the severity and plausibility of the severely adverse 
+scenario are addressed in section II.A.  Given the established severity of the unemployment rate 
+described above in section II.B, current conditions, and the jump off value for the BBB spread, 
+the final path was determined to be appropriate.32   
+ 
+Econ. 387-422 (2005).  Caldara (2016), supra note 182, provides empirical evidence of such 
+behavior of spreads in response to financial shocks and uncertainty shocks. 
+30  See supra note 2, at 51917. 
+31  For a more detailed discussion of the Enron/Dotcom episode, see D. Romer, Preventing the 
+Next Catastrophe: Where Do We Stand? (Conference paper); Rethinking Macro Policy II: First 
+Steps and Early Lessons Conference (2013); M. Bordo & J. Haubrich, Deep Recessions, Fast 
+Recoveries, and Financial Crises: Evidence from the American Record, 55 Econ. Inquiry 527-41 
+(2017).  The 1990 bond market stress episode is discussed, for example, in M. Wolfson, 
+Financial Crises: Understanding the Postwar U.S. Experience (1994). 
+32  The final path for the BBB spread is also consistent with the guide described in the proposed 
+2025 Scenario Design Policy Statement.  In the proposed BBB spreads guide, BBB spreads 
+would increase 100 basis points or to a range between 500 and 600 basis points, whichever is 
+higher.  
+27 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+H. CRE Prices  
+In the proposed 2026 severely adverse scenario, CRE prices would have reached a trough 
+in the fourth quarter of 2027 that would have been 40 percent below their level at the end of 
+2025.  CRE prices would have reached their trough in the eighth quarter of the scenario. 
+In the final 2026 severely adverse scenario, CRE prices reach a trough in the fourth 
+quarter of 2027 that is 39 percent below their level at the end of 2025.  Although the trough value 
+is unchanged from the proposal, a decline of 39 percent would be slightly smaller than the 
+proposed decline of 40 percent, and is due to the slightly lower jump-off value from the proposal 
+for CRE prices.  CRE prices reach their trough in the eighth quarter of the scenario. 
+One commenter stated that the proposed severity of the decline in CRE prices in the 2026 
+severely adverse scenario is overly severe, based on the proposed scenario design principles, and 
+that such proposed severity is not sufficiently explained.  This commenter explained that the 
+decline in CRE prices in the proposed 2026 scenario would be higher than the decline 
+experienced in the 2025 scenario, despite similar jump-off levels and a lower nominal GDP 
+decline in the 2026 scenario, as compared with the 2025 scenario.  The commenter also asserted 
+that the more severe decline is inappropriate given that, in the commenter’s opinion, CRE 
+lending standards have tightened and CRE prices, vacancy rates, and rent growth have stabilized 
+relative to last year.  The commenter stated that this degree of severity in the proposed 2026 
+scenario would increase procyclicality.  The commenter recommended that the Board reconsider 
+the proposed decline in CRE prices or provide additional explanation that compares the proposed 
+decline in CRE prices to that used in the 2025 severely adverse scenario.    
+Additionally, the final CRE price decline is consistent with character and narrative for the 
+2026 severely adverse scenario, in which a severe shock to financial markets propagates through 
+the economy and results in a severe, prolonged recession with high unemployment most similar 
+28 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+to that of the 2007–2009 financial crisis.  The final severity of the CRE price decline is similar to 
+the value observed during the 2007–2009 financial crisis.33   
+Importantly, each year’s scenario is an independent exercise, and a decline of 39 percent 
+is in line with the Board’s proposal for the 2026 severely adverse scenario to make an initial 
+calibration for most of the scenario variables for which the Board retains some flexibility in or 
+near the upper one-third of their ranges of severity.  Nonetheless, the Board recognized that a 39 
+percent decline is in line with past severely adverse scenarios, as the scenarios for 2021 through 
+2024 featured similar declines, while the 30 percent decline in the 2025 scenario was an outlier 
+specific to the overall 2025 severely adverse scenario.  
+The Board addressed comments regarding the severity and plausibility of the severely 
+adverse scenario in section II.A.  Given the established severity of the unemployment rate 
+described above in section II.B, current conditions, and the jump off value for CRE prices, the 
+final path was determined to be appropriate.34    
+I. 5-year Treasury 
+In the proposed 2026 severely adverse scenario, the 5-year Treasury yield would have 
+fallen 2.5 percentage points to 1.3 percent, reaching its trough by the fourth quarter of 2026.  The 
+decline in the 5-year Treasury yield would be frontloaded, with about 55 percent of its decline 
+occurring in the first quarter of the scenario. 
+In the final 2026 severely adverse scenario, the 5-year Treasury yield falls 2.4 percentage 
+points to 1.3 percent, reaching its trough by the fourth quarter of 2026.  While the 5-year 
+ 
+33 See supra note 2, at 51894  
+34  The final path for CRE prices is also consistent with the guide described in the proposed 2025 
+Scenario Design Policy Statement.  In the proposed CRE prices guide, CRE prices fall between 
+30 percent and 45 percent based on the Board’s assessment of CRE indicators.  
+29 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+Treasury yield reaches the same trough level as in the proposed scenario, the fall in the yield of 
+2.4 percentage points is slightly smaller than that in the proposed scenario owing to the slightly 
+lower jump-off value of the yield in the final scenario.  The decline in the 5-year Treasury yield 
+is frontloaded, with about 54 percent of its decline occurring in the first quarter of the scenario.35 
+One commenter observed that the term spread between short- and long-term Treasury 
+securities was relatively constant, and provided the view that this approach would not be 
+consistent with historical data, without providing further information. 
+The Board has determined to use the rate paths as generated by the macro model for 
+Stress Testing.  This approach would provide a transparent and predictable method for 
+generating the paths of these variables.  The Board notes that yield spreads in the final 2026 
+severely adverse scenario recover more quickly as compared to the proposed severely adverse 
+scenario.  Specifically, both the spread between the 5-year Treasury yield and 3-month Treasury 
+rate and the spread between the 10-year Treasury yield and 3-month Treasury rate begin to 
+recover before the end of the 13-quarter scenario horizon.  These adjustments reflect updated 
+data following additional economic data releases that became available after the publication of 
+the proposed 2026 scenarios. 
+Historically, the spreads between the 5-year yield and the 3-month Treasury rate, and 
+between the 10-year yield and the 3-month Treasury rate, behaved similarly during the 2001Q1-
+2001Q4 recession.  When focusing on a 13-quarter period beginning at 2001Q1, which matches 
+the scenario horizon, the spreads first peak five quarters after the onset of the recession.  
+Subsequently, the spreads gradually decline, then remain relatively stable through the 13-quarter 
+ 
+35  The difference in the pace of the decline in the 5-year Treasury yield in the final 2026 
+scenario relative to that in the proposed 2026 scenario arises because the numbers for scenario 
+paths are rounded to the nearest decimal place. 
+30 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+horizon.  Overall, the paths from the trough to the end of the 13-quarter horizon do not show a 
+consistent trend.  Similarly, the trajectories of these spreads follow comparable patterns during 
+the 1990Q3-1991Q1 recession and the 2007-2009 financial crisis: the spreads initially increase 
+relatively rapidly, then stabilize and remain at a higher level throughout the following quarters. 
+J. 10-year Treasury  
+In the proposed 2026 severely adverse scenario, the 10-year Treasury yield would have 
+fallen 2 percentage points to 2.3 percent, reaching its trough by the fourth quarter of 2026.  The 
+decline in the 10-year Treasury yield would be frontloaded, with about 55 percent of its decline 
+occurring in the first quarter of the scenario. 
+In the final 2026 severely adverse scenario, the 10-year Treasury yield falls 1.8 
+percentage points to 2.3 percent, reaching its trough by the fourth quarter of 2026.  While the 10-
+year Treasury yield reaches the same trough level as in the proposed scenario, the fall in the yield 
+of 1.8 percentage points is slightly smaller than that in the proposed scenario owing to the 
+slightly lower jump-off value of the spread in the final scenario.  The decline in the 10-year 
+Treasury yield is frontloaded, with about 56 percent of its decline occurring in the first quarter of 
+the scenario.36 
+The Board did not receive comment specifically on the proposed 2026 severely adverse 
+scenario’s 10-year Treasury yield.  A comment related to term spreads is described and 
+addressed above in section II.I. 
+ 
+36  The difference in the pace of the decline in the 10-year Treasury yield in the final 2026 
+scenario relative to that in the proposed 2026 scenario arises because the numbers for scenario 
+paths are rounded to the nearest decimal place. 
+31 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+K. Other Domestic Variables 
+In the proposed 2026 severely adverse scenario, the proposed scenario paths for real 
+GDP, inflation, and the 3-month Treasury rate were generated by the macro model for Stress 
+Testing, when given the path for the unemployment rate.  Real GDP would have declined 4.8 
+percent from the fourth quarter of 2025 to its trough in the second quarter of 2027, before 
+recovering to the level at the jump-off.  Real disposable income would decline about 1 percent in 
+the proposed scenario from the fourth quarter of 2025 to its trough in the fourth quarter of 2026, 
+before recovering and gradually surpassing its level at the jump-off.  Inflation, measured as the 
+quarterly change in the CPI and reported as an annualized rate, would have fallen from 3.4 
+percent in the fourth quarter of 2025 to 1.1 percent in the second quarter of 2027 and then would 
+gradually increase only to 1.3 percent by the end of the scenario.  The 3-month Treasury rate 
+would fall significantly from 4 percent in the fourth quarter of 2025 to 0.1 percent by the second 
+quarter of 2026 and would remain there for the remainder of the scenario. 
+In the final 2026 severely adverse scenario, the proposed scenario paths for real GDP, 
+inflation, and the 3-month Treasury rate are generated by the macro model for Stress Testing, 
+when given the path for the unemployment rate.  Real GDP declines 4.6 percent from the fourth 
+quarter of 2025 to its trough in the second quarter of 2027, before recovering to the level at the 
+jump-off.  Real disposable income declines about 1 percent in the proposed scenario from the 
+fourth quarter of 2025 to its trough in the fourth quarter of 2026, before recovering and gradually 
+surpassing its level at the jump-off.  Inflation, measured as the quarterly change in the CPI and 
+reported as an annualized rate, falls from 2.8 percent in the fourth quarter of 2025 to 1 percent in 
+the fourth quarter of 2026 and then gradually increases only to 1.3 percent by the end of the 
+scenario.  The 3-month Treasury rate falls significantly from 3.7 percent in the fourth quarter of 
+32 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+2025 to 0.1 percent by the second quarter of 2026 and remains there for the remainder of the 
+scenario. 
+One commenter asserted that the trajectories of several of the modeled variables in the 
+proposed scenario (including GDP, disposable income, inflation, and the 3-month U.S. Treasury 
+securities rate) reflect deviations from the macroeconomic model that are not explained.  This 
+comment is discussed in greater detail in section V.   
+L. International Variables  
+In the proposed 2026 severely adverse scenario, real GDP in the euro area, the United 
+Kingdom, and Japan would have declined about 7.5 percent relative to its value in the proposed 
+baseline scenario by the end of 2026, with this gap persisting for the remainder of the scenario.  
+As a result, these advanced economies would have experienced recessions with real GDP 
+declining from jump-off to trough by 5.9 percent in the euro area, 6.1 percent in the United 
+Kingdom, and 6.2 percent in Japan.  In developing Asia, real GDP would have slowed down and 
+run about 3 percent below baseline by the end of 2026, returning to its baseline level by the end 
+of the scenario.  Over the same period, inflation would have declined about 3 percentage points 
+below baseline in the advanced economies, and 5 percentage points below baseline in developing 
+Asia, returning to its baseline level by the end of the scenario.  The U.S. dollar would have 
+appreciated about 15 percent against the euro and the British pound, while it would have 
+depreciated mildly against the Japanese yen by 1 percent, consistent with its historical behavior 
+between the first quarter of 2008 and the first quarter of 2009.  Exchange rates return to their 
+jump-off values by the end of the scenario.  The deviation of each international scenario variable 
+33 Review of Comments: Severely Adverse Scenario 
+ 
+ 
+from its baseline path or from its jump-off value would be similar to that observed during the 
+2007–2009 financial crisis.37 
+In the final 2026 severely adverse scenario, real GDP in the euro area, the United 
+Kingdom, and Japan declines about 7.5 percent relative to its value in the final baseline scenario 
+by the end of 2026, with this gap persisting for the remainder of the scenario.  As a result, these 
+advanced economies experience recessions with real GDP declining from jump-off to trough by 
+6.1 percent in the euro area, 6.3 percent in the United Kingdom, and 6.7 percent in Japan.  In 
+developing Asia, real GDP slows down and runs about 3 percent below baseline by the end of 
+2026, returning to its baseline level by the end of the scenario.  Over the same period, inflation 
+declines about 3 percentage points below baseline in the advanced economies, and 5 percentage 
+points below baseline in developing Asia, returning to their baseline levels by the end of the 
+scenario.  The U.S. dollar appreciates about 15 percent against the euro and the British pound, 
+while it depreciates mildly against the Japanese yen by 1 percent, consistent with its historical 
+behavior between the first quarter of 2008 and the first quarter of 2009.  Exchange rates return to 
+their jump-off values by the end of the scenario.  The deviation of each international scenario 
+variable from its baseline path or from its jump-off value would be similar to that observed 
+during the 2007–2009 financial crisis, as in the proposed 2026 scenarios. 
+The Board did not receive any comments specifically regarding the proposed paths of 
+international variables.  Therefore, any changes from the proposed paths of these variables 
+reflect the incorporation of data releases that resulted in changes to from the jump-off and 
+baseline scenario values. 
+ 
+37  See supra note 2, figure 9 at 51925.  
+34 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+III. Global Market Shock Component for the Severely Adverse Scenario 
+The proposed 2026 global market shock component would have been characterized by 
+heightened market expectations of persistently high inflation, higher commodity prices, and a 
+global recession.  The scenario would have had certain elements in common with prior episodes 
+of market reactions to periods of expected high inflation combined with low growth, such as the 
+oil crisis of the 1970s.  Both short-term and long-term Treasury rates would have risen sharply 
+driven by higher inflation expectations.  Heightened inflation expectations would have driven 
+commodity prices upward.  The expected fall in economic activity would have led to notable 
+equity price declines across global markets.  Concerns about corporate credit defaults in light of 
+the economic slowdown would have led to wider credit spreads.  The U.S. dollar would have 
+strengthened, and exhibited large gains against the euro and moderate gains against the Japanese 
+yen driven by higher yields in the U.S. 
+The following subsections describe the values for the final 2026 global market shock 
+component of the severely adverse scenario, summarize the comments received on each 
+component, and address any comments received. 
+A. General Comments 
+The proposed 2026 global market shock would include simultaneous stress across risk 
+factors.  According to one commenter, such simultaneous shocks across asset classes have never 
+been observed before and do not appear to consider recent dynamics in these markets.  The 
+commenter argued that the scenarios and global market shock should be coherent and plausible.    
+The commenter also recommended, in order to enable public feedback, that the Board provide 
+further explanation for why such correlations are appropriate.  
+Given the statutory and regulatory purposes of stress testing, the design of the global 
+market shock component of the supervisory stress test is intended to help ensure that large banks 
+35 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+are sufficiently capitalized and able to lend to households and businesses even in a severe 
+recession.38  The global market shock component differs from the macroeconomic scenarios in 
+several ways, including by applying an instantaneous shock to a large number of risk factors that 
+determine the mark-to-market value of trading positions, while the macroeconomic scenarios 
+supply a projected path of economic variables that affect traditional banking activities over the 
+entire planning period.39  As an add-on component to the macroeconomic scenarios, it has “no 
+assumed effect on other aspects of the stress tests such as balances, revenues, or other losses.”40  
+As a result, the market shock component “may not be always directionally consistent with the 
+macroeconomic scenario.”41 
+To design the global market shock, the Board generally establishes a standardized set of 
+market shocks that apply to all companies with significant trading activity.  The global market 
+shock component has more than 20,000 specific risk factor shocks, which has resulted in more 
+comparability in the GMS results across companies subject to it.  However, the Board has 
+explained that the benefit of comprehensiveness and consistency is “at least partly offset by the 
+potential difficulty in creating shocks that are coherent and internally consistent, particularly as 
+the framework for developing market shocks deviates from historical events.”42 
+As in the 2019 Scenario Design Policy Statement, the Board may base the market shocks 
+on a single historical episode, multiple historical periods, hypothetical but plausible events, or 
+some combination of historical episodes and hypothetical events, which the Board refers to as a 
+ 
+38  See 12 U.S.C. 5365(i)(1)(A); 12 CFR 252, App’x B, section 2.7. 
+39  12 CFR 252, App’x A, section 5(a). 
+40  12 CFR 252, App’x A, section 6. 
+41  Id. 
+42  12 CFR 252, App’x A, section 5.2.1(c). 
+36 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+“hybrid approach,” and which the Board adopted in the 2019 Scenario Design Policy Statement 
+and applied for the final 2026 scenarios.43  Depending on the type of hypothetical events, a 
+scenario based on such events may result in changes in risk factors that were not previously 
+observed.44  This approach, and its implications, have several similarities to the macroeconomic 
+scenario design considerations explained in section II.A with respect to the severity and 
+coherence of a given scenario. 
+With respect to historical correlations, and as noted above, the Board considered 
+historically observed values when calibrating the global market shock component.  The Board 
+also considered its existing approach for formulating the market shock component in the 2019 
+Scenario Design Policy Statement,45 and the stress test principles outlined in the 2019 Stress 
+Testing Policy Statement.46  To generate the values for the global market shock component, the 
+Board used the “GMS model” it published in connection with the proposed 2026 scenarios.47  
+The Board also considered its own supervisory expertise and experience, and referenced the 
+approach outlined in its proposed 2025 Scenario Design Policy Statement.48  
+The 2019 Scenario Design Policy Statement emphasizes that stress test scenarios are 
+hypothetical conditions, aimed at assessing the strength and resilience of companies’ capital in 
+various economic and financial environments rather than at providing forecasts of likely 
+ 
+43  12 CFR 252, App’x A, section 5.2.2(b). 
+44  12 CFR 252, App’x A, section 5.2.2(a). 
+45  12 CFR 252, App’x A, section 5.2. 
+46  12 CFR 252, App’x B. 
+47  See Board, Supervisory Stress Test Documentation – Global Market Shock Component, 
+(October 2025), available at https://www.federalreserve.gov/supervisionreg/files/gms-model.pdf.  
+48  See supra note 2. 
+37 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+economic conditions.49  As stated above in section II.A, the Board’s scenario design process 
+recognizes that “historical relationships between macroeconomic variables could change over 
+time”50 and that the scenario should be forward-looking, “introduce[ing] elements outside of the 
+realm of historical experience into the supervisory stress test.”51  Given these principles, stress 
+scenarios may not assume that the future will repeat events from the past, and a scenario based 
+on hypothetical events may result in changes in risk factors that have not been previously 
+observed, resulting in correlations that may not be strictly observed in the past.  The Board 
+affirms that this approach is appropriate for formulating the global market shock for the final 
+2026 stress test scenarios. 
+With respect to scenario coherence and as described in the 2019 Scenario Design Policy 
+Statement, the Board uses a hybrid approach combining historical episodes and hypothetical 
+events to generate coherent market shock scenarios.52  This approach is intended to help ensure 
+“internal consistency” in the scenario, given its grounding in historical episodes, while also 
+providing “considerable flexibility” to generate relevant and variable global market shocks.53  
+Historical experience is not the only factor in assessing the plausibility of the overall global 
+market shock component.  Plausible scenarios may include the cooccurrence of multiple stress 
+events that may happen in future stressed conditions, even if they have not occurred in the past.   
+ 
+49  12 CFR 252, App’x A, section 2(b). 
+50  12 CFR 252, App’x A, section 3.1(d). 
+51  12 CFR 252, App’x B, section 1.2(b).  See also section 2.4(a):  “The supervisory scenarios 
+may potentially incorporate events that have not occurred historically.  It is not necessarily 
+consistent with the purpose of a stress testing exercise to assume that the future will be like the 
+past.” 
+52  12 CFR 252, App’x A, section 5.2.2(b). 
+53  12 CFR 252, App’x A, section 5.2.2(b). 
+38 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+As outlined in the 2026 supervisory stress test documentation on the global market shock 
+component, the Board’s approach to designing the proposed 2026 global market shock included 
+the following three elements to balance historical experience with hypothetical scenario 
+components.54  First, starting from the scenario narrative, primary risk factor shocks were 
+determined based on percentiles of historical data.55  The selected percentile depended on the 
+narrative, current market conditions, and firms’ trading positions.  Second, the Board used 
+statistical models based on historical data to generate plausible correlations between changes to 
+primary risk factors and all other scenario shocks.56  Given the complexity of risk factors, the 
+Board partitioned the full set of risk factors into asset classes and models risk factors within each 
+class separately.57  Coherence between asset classes is established based on pair-wise historical 
+correlations between primary risk factors, insofar as these are representative of their respective 
+asset classes.58  Third, and finally, the Board may apply adjustments to ensure joint consistency 
+with the scenario narrative, as outlined in the existing Stress Test Policy Statement.59  
+For these reasons described above, the Board believes the general approach to, and 
+design of, the proposed 2026 global market shock was appropriate and has been primarily 
+retained in the final 2026 global market shock.  However, to enhance the overall coherence of the 
+global market shock component, the Board will reduce the severity of commodity shocks in the 
+final 2026 global market shock.  For example, the shock to oil prices would be reduced from 77 
+ 
+54  See Supervisory Stress Test Documentation: Global Market Shock Component (Oct. 2025), 
+https://www.federalreserve.gov/supervisionreg/files/gms-model.pdf.  
+55  Id. 
+56  Id. 
+57  Id. 
+58  Id. 
+59  12 CFR 252, App’x A, section 6. 
+39 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+percent, as proposed, to 27.9 percent,60 so that the joint calibration of the oil price and credit 
+spread shocks (350 bps for BBB-rated bonds) would be better supported by historical 
+experience.61  This adjustment promotes consistency across shocks and improves the joint 
+plausibility of shocks, without materially affecting the overall severity of the 2026 scenario or 
+revising the character of the 2026 scenario.  Final values for commodity shocks reflecting this 
+adjustment are shown in the Scenario Data and Model Documentation available on the Board’s 
+website.62 
+Additionally, one commenter stated that the 2026 model documentation for the global 
+market shock demonstrates that the Board retains significant discretion in the specification of 
+global market shock primary risk factor shocks.  The commenter observed that the Board would 
+consider qualitative descriptions of the severity of the shock, mapped onto quantitative shocks, 
+based on percentile ranges of historical data, which could lead to actual levels of shocks varying 
+enormously.  To illustrate this point, the commenter provided data related to the Board’s global 
+market shock GARCH-t methodology that showed how the percentile of the shock severity can 
+impact the magnitude of the shock.  The commenter explained that this discretion could drive 
+significant differences year to year in scenario shock values, which would likely cause volatility 
+in bank capital requirements.  
+ 
+60  Additional commodities that will have lower severities include gold and aluminum.  The full 
+list of updates are available on the Board’s website at 2026 Final Severely Adverse Market 
+Shock (all shocks) (Excel), https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-
+2026.htm.  
+61  During the 2007-2009 financial crisis, oil prices increased over 20 percent while the credit 
+spread widened over 350 bps.  Likewise, during the COVID period, the credit spread widened 
+over 250 bps, and commodity prices increased substantially due to supply chain disruptions.  
+62  https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2026.htm.  
+40 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+The comment letter asserted that the Board should provide further explanation as to how 
+it selected the severity and the particular level within the range implied by the severity for each 
+primary shock in the global market shock component of the proposed 2026 severely adverse 
+scenario. 
+As explained earlier in this section, in the Scenario Design Policy Statement63 and the 
+2026 supervisory stress test documentation on the global market shock component,64 the Board 
+considers multiple sources of information when determining the shock size for primary risk 
+factors, including the scenario narrative, current market conditions, and firms’ trading positions.  
+The percentile ranges, outlined in the 2026 supervisory stress test documentation on the global 
+market shock component, allow the Board to specify shocks that are consistent with both the 
+severity dictated by the narrative and current market conditions, and to adjust when conditions 
+change during the comment period.   
+Compared with fixed percentages, percentile ranges allow the Board to make updates, 
+based on the scenario narrative, market conditions, and firms’ trading positions, in a dynamic 
+way that can, in some cases, promote the stability of the global market shock component year to 
+year.  While the scenario narrative determines the severity category and associated relevant 
+percentile range, nuances in the narrative may necessitate the selection of shocks from different 
+ends of the range.  In addition, changes in market conditions and firms’ trading positions impact 
+the severity of shocks.  For example, a relative shock that is considered severe in one 
+environment may not be considered severe in others.  Finally, the percentile ranges allow the 
+Board to select primary risk factor shock values that are coherent and internally consistent, 
+ 
+63  12 CFR 252, App’x A, section 5.2. 
+64  See Supervisory Stress Test Documentation: Global Market Shock Component (Oct. 2025), 
+https://www.federalreserve.gov/supervisionreg/files/gms-model.pdf.  
+41 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+which may not be achievable if the severity category is mapped to fixed percentiles.  In 
+consideration of these factors and the Board’s model documentation of the global market shock, 
+the Board determined that particular severity levels for each primary shock in the final global 
+market shock component were reasonable and appropriate. 
+Finally, the Board received comments on the proposed 2025 Scenario Design Policy 
+Statement, including with respect to the design of the global market shock component in future 
+scenarios.  The Board will consider these comments together with any other feedback from the 
+public on issues in relation to any finalized amendments to the Board’s Scenario Design Policy 
+Statement.  The comment deadline for such input is February 21, 2026.  
+Therefore, except as described throughout this section III, the Board intends to finalize 
+the global market shock as proposed.  
+B. Equity Dividend Shock 
+The proposed 2026 global market shock specified a 20 percent decline in equity 
+dividends.  One commenter stated that the proposed equity dividend shock is too high relative to 
+the equity spot price shock.  The commenter suggested that the equity dividend shock should 
+reflect a 10 percent decline rather than a 20 percent decline, in order to match the proposed 
+equity spot shock of 15 percent, given that the moves of these variables are correlated during 
+stress.  
+The Board believes the severities of the proposed shocks to equity spot and equity 
+dividend prices to be both jointly consistent and supported by historical evidence.  As explained 
+above in section III.A, the Board considers a variety of information and factors in setting the 
+values for these variables in the global market shock component.  With respect to the equity 
+dividend shock component, the Board considered information presented by a commenter that 
+compared equity spot and dividend performance in a recent period and during the 2007-2009 
+42 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+financial crisis.  The Board also considered data from a broader time period, including 
+observations from stresses that occurred in 2020 related to the COVID-19 period stresses, where 
+short-term dividends abruptly decline more than longer term dividends.  As a result, the Board 
+assesses the difference between the proposed 2026 equity dividend shock and the equity spot 
+shock to be consistent with historical experience and appropriate for the final 2026 scenarios. 
+Therefore, the Board has finalized the shocks to equity spot and equity dividend prices as 
+proposed.   
+C. Agency Deliverable and Non-Deliverable Pass-Through Securities 
+The proposed 2026 global market shock did not distinguish between deliverable and non-
+deliverable pass-through securities, applying the same general pass-through spread shock for 
+deliverable and non-deliverable pass-through securities.  This proposed shock to pass-through 
+securities was over 10 basis points larger than the shock to To-Be-Announced (“TBA”) 
+securities.65  Specifically, the proposed 2026 global market shock specified a pass-through 
+spread shock of 46.4 basis points, and a TBA spread shock of 34.9 basis points.   
+One commenter recommended that the Board distinguish between deliverable and non-
+deliverable pass-through securities, with a lower shock applied to deliverable pass-through 
+securities.  The commenter stated that the proposed general pass-through shock for the 
+deliverable pass-through securities is too severe, leading to a potential inconsistency between 
+prices for deliverable securities and TBA securities.  The commenter recommended that the 
+ 
+65  A pass-through security is an investment made up of a pool of mortgage loans where the 
+payments from mortgage borrowers are collected and passed on to investors.  Deliverable pass-
+through securities consist of standard conventional mortgage loans and can be included 
+(“delivered”) in TBA securities.  Therefore, in general, deliverable pass-through and TBA 
+securities have similar prices.  Non-deliverable pass-through securities are comprised of pools of 
+non-standard mortgages and can be priced lower than deliverable pass-through or TBA 
+securities. 
+43 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+Board lower the general pass-through shock to account for a larger share of the deliverable pass-
+through securities in this category and to mitigate the potential inconsistency between prices for 
+deliverable securities and TBA securities.  Alternatively, the commenter suggested the Board 
+conduct a special data collection to assist with this adjustment for the 2026 stress test. 
+The Board considered the comment and agreed that TBA and deliverable pass-through 
+securities share important common characteristics, which, in the Board’s judgment, warranted an 
+assumption that the spreads for these two types of securities may move closely together in 
+practice.  For example, the Board considered that both types of securities have similar maturity 
+and coupons, and that deliverable securities may ultimately be delivered into TBA securities.  As 
+a result, the Board determined to reduce the magnitude of the spread shock to deliverable pass-
+through securities to equal the TBA shock.     
+In order to adjust the spread shock to pass-through securities, the Board selected a 
+weighting between deliverable and non-deliverable pass-through securities, as well as an 
+estimate of how the shocks should differ between deliverable and non-deliverable pass-through 
+securities, respectively.  Given present limitations in firm reporting related to these different 
+exposures, precise data is not available to calibrate the share of the deliverable and non-
+deliverable pass-through securities with respect to firms’ pass-through securities balances.  So, 
+the Board considered available academic literature and data reports, and selected a 90 percent 
+weighting that assumed that most of the securities in this category would be deliverable 
+securities, and that the shock for non-deliverable securities should feature a higher shock.66  
+ 
+66  See L. Goodman, J. Parrott, and B. Ryan, Ironing Out the Wrinkles of the Single 
+Security, Housing Finance Policy Center (2020), 
+https://www.urban.org/sites/default/files/publication/101541/ironing_out_the_wrinkles_of_the_s
+ingle security 0.pdf ; J. Vickery, and J. Wright, TBA Trading and Liquidity in the Agency MBS 
+ 
+44 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+Applying this weighting, the Board adjusted the pass-through spread shock in the final 2026 
+global market shock component to be 37.4 basis points.  The Board will evaluate any additional 
+information about these markets, as it becomes available, and may adjust these assumptions in 
+the future.   
+D. Non-Investment Grade Cash Bonds 
+One commenter stated that shocks to non-investment grade cash bonds were too severe, 
+given current market conditions.  The proposed 2026 global market shock to non-investment 
+grade cash bonds included shocks for BB, B, and CCC-rated cash bonds of 818, 1126, and 1522 
+basis points, respectively.  The Board considers the level of severity of non-investment grade 
+cash bonds to be consistent with historical experience.  Specifically, the Board considered data 
+from the 2007-2009 financial crisis period, which indicated that the shocks to BB, B, and CCC-
+rated cash bonds from that period were similar to or higher than the proposed 2026 global market 
+shock values for these cash bonds.  Therefore, the Board determined it was reasonable and 
+appropriate to finalize the shocks to non-investment grade cash bonds as proposed. 
+E. Requests for Additional Information or Documentation 
+In issuing the proposed 2026 global market shock, the Board published market value-
+based shocks for the published securitized product shocks.  One commenter stated that, in 
+addition to the published market value-based shocks, the Board should also publish scenario 
+spread shocks to capture the capital impact of changes in bond duration.   
+ 
+Market, FRBNY Economic Policy Review (2013), 
+https://www.newyorkfed.org/medialibrary/media/research/epr/2013/1212vick.pdf; and 
+FINRA, Structured Product Activity Reports and Tables, https://www.finra.org/finra-
+data/browse-catalog/structured-product-activity-reports-and-tables.  
+45 Review of Comments: Global Market Shock Component for the Severely Adverse Scenario 
+ 
+ 
+In keeping with the Board’s principle of consistency and comparability, as outlined in the 
+Stress Testing Policy Statement,67 the Board is only publishing market value-based shocks.  This 
+approach, as compared with a spread shock-based approach, avoids imposing additional burden 
+on firms, as they would have to make additional assumptions to obtain market value-based 
+shocks, given the spread shocks.  Such additional assumptions would introduce inconsistency 
+across firms, and could make firms’ results less consistent and comparable.   
+In response to the commenter’s concern that market value-based shocks do not capture 
+the capital impact of changes in bond duration, the Board is clarifying that the global market 
+shock methodology, as set forth in the 2026 supervisory stress test documentation on the global 
+market shock component, does take duration risks into consideration in setting market value-
+based shocks.68  More specifically, using spread shocks as an input, the Board calculates market 
+value-based shocks via full-revaluation, which captures the impact of duration.69  Therefore, the 
+Board is not publishing scenario spread shocks as part of the final 2026 global market shock.  
+As part of the 2026 supervisory stress test documentation on the global market shock 
+component and the Board’s Enhanced Transparency and Public Accountability proposal, the 
+Board proposed publishing a simplified set of shocks and providing a mapping from the 
+simplified shocks to the full list of currently provided shocks in future scenarios.  One 
+commenter stated that this mapping should be published for comment or the Board should 
+continue to publish relative shocks.   
+ 
+67  12 CFR 252, App’x B, section 1.3. 
+68  See Supervisory Stress Test Documentation: Global Market Shock Component (October 
+2025), https://www.federalreserve.gov/supervisionreg/files/gms-model.pdf.  
+69  Id.  
+46 Review of Comments: Largest Counterparty Default Component for the Severely Adverse Scenario 
+ 
+ 
+In addressing this comment, the Board has published a mapping file concurrently with the 
+final 2026 scenarios, which contains detailed instructions for relative shock conversions and 
+instructions on how to map from the simplified template to the original full template.  These 
+instructions include (1) the mapping between the simplified shock template and the original 
+shock template, (2) instructions on how to calculate foreign exchange crosses for non-U.S. 
+dollar-denominated pairs, (3) descriptions of risk factors to use for conversions of absolute 
+shocks to relative shocks on the as-of date, and (4) descriptions of any interpolation and 
+extrapolation methods involved in the relative shock conversions.   
+As stated previously, the Board will consider comments on issues related to the Board’s 
+Enhanced Transparency and Public Accountability proposal together with other comments 
+submitted on that proposal.  The comment deadline for such input is February 21, 2026. 
+IV. Largest Counterparty Default Component for the Severely Adverse Scenario 
+Large firms with substantial trading or custodial operations are required to incorporate a 
+counterparty default scenario component into their supervisory severely adverse scenario for 
+2026 and recognize associated losses in the first quarter of the scenario.70  This component 
+involves the unexpected default of the firm’s largest counterparty.  The counterparty default 
+scenario component is an add-on to the Board’s severely adverse scenario.  The as-of date for the 
+counterparty default scenario component is the same as-of date as for the global market shock 
+component.  
+ 
+70  The Board may require a company to include one or more additional components in its 
+severely adverse scenario in the annual stress test based on the company’s financial condition, 
+size, complexity, risk profile, scope of operations, or activities, or based on risks to the U.S. 
+economy.  See 12 CFR 238.143(b)(2)(ii); 12 CFR 252.14(b)(2)(ii); 12 CFR 252.54(b)(2)(ii). 
+47 Review of Comments: Largest Counterparty Default Component for the Severely Adverse Scenario 
+ 
+ 
+In the proposed 2026 scenario, the Board explained that, in identifying its largest 
+counterparty, a firm subject to the counterparty default component would not consider certain 
+entities.71  In addition to certain sovereign entities and qualified central counterparties, certain 
+multilateral development banks and supranational entities (International Bank for Reconstruction 
+and Development, International Monetary Fund, Bank for International Settlements, European 
+Commission, and European Central Bank) would not be considered for the counterparty default 
+component to better align the treatment of these entities across regulatory exercises.  The Board 
+is separately proposing to revise the list of sovereign entities excluded from the counterparty 
+default component in its Enhanced Transparency and Public Accountability proposal.  
+However, one commenter recommended that the 2026 scenario exclude from the scope of 
+the largest counterparty default component all sovereign and public sector entity counterparty 
+exposures that receive an internal credit rating equivalent to AA- or higher, as calculated by a 
+firm’s second-line credit risk management function.  The commenter stated that the proposed use 
+of a median rating, which the Board proposed would be used if there were discrepancies between 
+ 
+71  Under the proposed 2026 scenario, in identifying its largest counterparty, a firm subject to the 
+counterparty default component would not consider certain sovereign entities (Canada, France, 
+Germany, Italy, Japan, the United Kingdom, and the United States), certain multilateral 
+development banks and supranational entities (International Bank for Reconstruction and 
+Development, International Monetary Fund, Bank for International Settlements, European 
+Commission, and European Central Bank), or qualifying central counterparties (QCCPs).  See 
+the definition of a QCCP at 12 CFR 217.2.  Note that although the International Bank for 
+Reconstruction and Development would have been excluded, the other subsidiaries of World 
+Bank Group (including the International Development Association, International Finance 
+Corporation, Multilateral Investment Guarantee Agency, and International Centre for Settlement 
+of Investment Disputes) would have been considered when selecting the firm’s largest 
+counterparty.  U.S. intermediate holding companies would not have been required to include any 
+affiliate as a counterparty.  An affiliate of a company includes a parent of the company, as well 
+as any other firm that is consolidated with the company under applicable accounting standards, 
+including U.S. generally accepted accounting principles or International Financial Reporting 
+Standards.  See 12 CFR 252.171(b) & (f). 
+48 Review of Comments: Largest Counterparty Default Component for the Severely Adverse Scenario 
+ 
+ 
+internal ratings across firms, or the alternative use of credit-default swap spreads, would add 
+unnecessary complexity and uncertainty to the stress test.  
+The commenter also stated that the list of multilateral development banks (MDBs) 
+excluded from the largest counterparty default component should be further expanded to include 
+all MDBs that are rated AA- or better under a firm’s internal credit rating system.  
+The commenter also recommended that, if the Board does not utilize AA- equivalent 
+internal ratings as the basis for sovereign and public sector entity exclusions, the Board should 
+instead exclude sovereigns, public sector entities, and MDBs from the largest counterparty 
+default component when exposures to such sovereigns receive a 0 percent risk weight under the 
+Board’s capital rule, or exposures to public sector entities that receive a 20 percent risk weight.  
+The commenter also asserted that the Board should revise counterparty aggregation 
+principles utilized in the largest counterparty default component so that sovereign agencies, 
+central banks, sovereign wealth funds, and state-sponsored entities are treated like the relevant 
+related sovereign.  The commenter stated that this approach would align with bank credit risk 
+management principles. 
+The Board appreciates feedback on question 9 of the proposed 2026 scenarios, which 
+invited feedback on how the separate proposal to exclude certain additional sovereign entities 
+from the counterparty default component should be incorporated into the 2026 global market 
+shock.  For the final 2026 scenario, the Board is adopting the largest counterparty default 
+exclusions described in the Enhanced Transparency and Public Accountability proposal, as the 
+proposed set of excluded counterparties would recognize the lower risk of default associated 
+with sovereigns of high credit quality instead.  Therefore, for the 2026 stress test, the United 
+States and sovereign entities rated AA- or higher based on the internal ratings of firms, in 
+49 Review of Comments: Largest Counterparty Default Component for the Severely Adverse Scenario 
+ 
+ 
+addition to the qualifying central counterparties, affiliates of an intermediate holding company, 
+and certain multilateral and supranational entities that were excluded for the 2025 stress test, will 
+be excluded before calculating the default loss for each candidate to be a firm’s largest 
+counterparty.72  If there are discrepancies between internal ratings across firms’ internal ratings, 
+the Board will use the median rating.  As explained in the Board’s proposed market risk model 
+documentation, the selection of the median rating is intended to avoid overweighting outlier 
+ratings submitted by a firm or firms that may underestimate the risk posed by a given 
+counterparty, which could reduce the conservatism of the stress test.73  In connection with that 
+the Board’s Enhanced Transparency and Public Accountability proposal,74 the Board will 
+continue to consider alternatives for future stress tests.  The Board will consider comments 
+received on this issue in connection with that proposal.     
+Separately, one commenter recommended that the Board reconsider its current 
+assumption of 90 percent loss given default in the largest counterparty default component.  
+According to the commenter, this loss given default rate should be reconsidered in order to align 
+the largest counterparty default component with firms’ business-as-usual capital management.  
+Alternatively, the commenter requested the Board provide supporting data and analysis justifying 
+this assumption.  The Board expects to consider this comment together with other comments on 
+the Board’s Enhanced Transparency and Public Accountability proposal.   
+ 
+72  For the 2026 stress test, exposures to qualifying central counterparties, affiliates of 
+intermediate holding companies, certain multilateral development banks and supranational 
+entities, and sovereign entities rated AA- of higher based on firms’ internal ratings will be 
+excluded from the largest counterparty default component. 
+73  See Board, Supervisory Stress Test Documentation - Market Risk Models (October 2025), 
+available at https://www.federalreserve.gov/supervisionreg/files/market-risk-models.pdf.  
+74  The proposed LCPD model description is provided in the Board’s Market Risk Models 
+Documentation.  See id.  
+50 Review of Comments: Macro Model for Stress Testing 
+ 
+ 
+V. Macro Model for Stress Testing 
+The Board published model documentation describing the macro model for Stress 
+Testing that the Board used in developing values for certain variables in the proposed 2026 stress 
+test.75  
+As described above in sections I and II, the Board received a comment that asserted that 
+the trajectories of several of the modeled variables (including GDP, disposable income, inflation, 
+and the 3-month U.S. Treasury securities rate) reflect deviations from the macroeconomic model 
+for stress testing that are not explained.  The commenter particularly notes that the decline in real 
+GDP in the proposed scenario appears to be larger than the decline implied by the Board’s macro 
+model for Stress Testing.  The commenter provided an example showing a GDP decline of 4.8 
+percent in the proposed scenarios, compared to an approximately 4.1 percent decline that should 
+result from the macro model for stress testing, according to the commenter’s analysis. 
+The commenter recommended that the Board describe and explain adjustments made 
+from model-implied outputs of these variables to arrive at the proposed values for the 2026 
+severely adverse scenario and the methodology used to make such adjustments, including 
+specifying a range of permitted adjustments.  The commenter asserted that these descriptions are 
+necessary to meet the Board’s legal requirements. 
+Additionally, one commenter observed that there may have been an error in the Board’s 
+model documentation for the Board’s macro model for Stress Testing.76  The commenter 
+ 
+75  See Board, Supervisory Stress Test Documentation – Macroeconomic Model Guide (October 
+2025), available at https://www.federalreserve.gov/supervisionreg/files/macroeconomic-model-
+guide.pdf. 
+76  Id.  
+51 Review of Comments: Macro Model for Stress Testing 
+ 
+ 
+suggested that, in equation D1, one sign in the equation should be negative, instead of positive as 
+the Board had published. 
+As described in the proposed 2026 scenarios, the paths for real GDP, real disposable 
+income, inflation, and the 3-month Treasury rate are generated by the separately published macro 
+model for Stress Testing, given the path for the unemployment rate and other modeled factors.77 
+The macro model for Stress Testing includes factors inherited from the baseline 
+projection in addition to its Okun’s Law equation in determining the simulated path of real GDP.  
+These factors are determined by parsing the baseline path for real GDP and the baseline 
+unemployment rate, given by the Blue Chip survey forecasts, conditional on baseline paths for 
+potential GDP and the natural rate of unemployment.  As initially published, the macro model 
+for Stress Testing documentation did not provide the specifications of the process that 
+determines the trajectories of potential GDP or the natural rate of unemployment.78  In response 
+to comments and to further improve the transparency and public accountability of the 
+supervisory stress test, the Board is providing additional details in the final documentation for 
+the macro model for Stress Testing that outlines the specifications by which the natural rate of 
+unemployment and potential GDP are determined in the baseline scenario. 
+Additionally, the Board’s final documentation for the macro model for Stress Testing 
+adjusts equation D1 so that the relevant sign is negative, instead of positive, as was erroneously 
+included in the proposed model documentation.  This change in documentation does not affect 
+the values produced by the macro model for Stress Testing in the proposed or final 2026 stress 
+ 
+77  Id.  
+78  The output of the macro model for Stress Testing is described in the documentation on the 
+Board’s website, see supra note 4, and has been specifically structured and calibrated to fulfill 
+the needs of the stress testing program.  As such, the variable paths prescribed by it should not be 
+interpreted as economic forecasts of the Board or the Federal Open Market Committee (FOMC).  
+52 Review of Comments: Other Comments Received 
+ 
+ 
+test scenarios, because this error was solely in the public documentation and had the correct sign 
+in the production model used by the Board to generate values for the scenarios.  
+VI. Other Comments Received 
+The Board also received comments on other issues, some of which pertain to aspects of the 
+Board’s Enhanced Transparency and Public Accountability proposal that are not specific to the 
+2026 scenarios.  This section summarizes those comments. 
+A. Seeking Comment on Scenarios 
+One commenter welcomed the Board’s efforts to provide transparency and the 
+opportunity for public feedback on the proposed scenarios.  This commenter asserted that these 
+efforts are critical to complying with legal requirements.  The commenter argued that the models 
+and scenarios are used to determine firms’ binding capital requirements under the stress capital 
+buffer requirement and have the force and effect of law.  
+However, another commenter opposed the Board’s action to invite comment on the 2026 
+scenarios, and the proposed process for subjecting the scenarios to public comment.  In 
+particular, the commenter was concerned that institutions subject to the test would be able to 
+comment on, and by doing so, influence the severity of, the scenario used to test those same 
+institutions.  The commenter explained their view that public comment would undermine the 
+scenario design process and result in scenarios that are more repetitive and tied to historical 
+events, and therefore, less likely to capture salient and unseen or under-appreciated risks.  
+This commenter further stated that inviting comment on the scenario design process and 
+principles for public comment would expose the Board to greater litigation risk.  The commenter 
+explained that this step would enable the banking industry to sue the Board on each aspect of its 
+scenario design process. 
+53 Review of Comments: Other Comments Received 
+ 
+ 
+Finally, another commenter supported the proposal, stating that it was logical and 
+welcome. 
+The Board’s proposed 2026 scenarios, as well as the separately issued Enhanced 
+Transparency and Public Accountability proposal was issued in order to provide the public with 
+more information about the stress test models and scenarios and to help ensure that the public has 
+an opportunity to comment on the models and scenarios.79  While the Board has increased the 
+transparency of the stress test program over time, disclosing additional information about the 
+stress test, including by seeking comment on the proposed 2026 scenarios prior to their 
+finalization, was intended to further increase transparency and improve public accountability.  
+This increase in transparency and public accountability would be expected to further instill 
+confidence in the fairness of the supervisory stress tests.  The disclosure of the 2026 scenarios 
+created a new mechanism for obtaining feedback from the public, including academics, financial 
+analysts, and firms.  In implementing this mechanism for the 2026 scenarios, the Board 
+endeavored to support the purposes of the supervisory stress test, including by assessing firms’ 
+resilience to a range of hypothetical stress events, and balancing features that might add to 
+procyclicality in the financial system.  
+The Board received comments on its proposal for annually seeking comment on the stress 
+test scenarios.  The Board will consider these comments about seeking comment on future stress 
+test scenarios together with any other feedback from the public on issues in relation to any 
+finalized amendments to Regulations Y, LL, and YY.  The comment deadline for such input is 
+February 21, 2026.80 
+ 
+79  See supra note 2. 
+80  The public can provide comment on this proposal on the Board’s website: 
+https://www.federalreserve.gov/apps/forms/proposals/FR-2025-0063-01.  
+54 Review of Comments: Other Comments Received 
+ 
+ 
+B. Duration of Comment Period 
+The Board requested comment on its severely adverse scenario for the 2026 supervisory 
+stress test on October 24, 2025, with a due date of December 1, 2025, for comments.  One 
+commenter asked the Board to explain the rationale for the relatively short comment period.  
+This commenter stated that, given the importance of the proposed scenario in contributing to 
+stress test results, the limited time frame may not be sufficient for stakeholders to provide 
+meaningful feedback. 
+Under its existing regulations, the Board must publish the final scenarios by February 15 
+of each year.81  To allow sufficient time to review and consider all comments received, and to 
+finalize the 2026 scenarios by February 15, the Board requested comment on the scenarios by 
+December 1, 2025. 
+The Board does not consider an extension of the comment period to be warranted, given 
+the depth of comments submitted, the operational challenges involved in any reduction in time to 
+finalize the scenarios by February 15, 2026, and the absence of a request for an extension of time 
+to comment.   
+The Board’s separate Enhanced Transparency and Public Accountability proposal 
+remains open for comments from the public.  Given the breadth of materials included with that 
+proposal, one commenter requested an extension of the comment period on that proposal from 
+January 22, 2026, until February 21, 2026.  To allow interested parties more time to analyze the 
+ 
+81  12 CFR 238.132(b); 12 CFR 238.143(b)(1); 12 CFR 252.14(b)(1); 12 CFR 252.44(b); 12 CFR 
+252.54(b)(1). 
+55 Review of Comments: Other Comments Received 
+ 
+ 
+issues and prepare comments on the Enhanced Transparency and Public Accountability proposal, 
+the Board granted that requested extension on November 21, 2025.82   
+C. Jump-off Values 
+The paths of scenario variables in the Board’s scenarios are typically applied relative to 
+the jump-off values for the variables.  Regarding the Board’s previous stress test scenarios, the 
+Board published scenarios by February 15 of each year based on data available through mid-
+January for variable values as of the end of the preceding year.  As a result, the jump-off values 
+for those scenarios were known for most variables at the time of publication.  Other jump-off 
+values were determined using procedures discussed in the proposed 2026 scenarios, with 
+additional information describing these procedures in the newly added Appendix C to the 
+Board’s macro model for Stress Testing, published with these final 2026 scenarios.83  From these 
+jump-off values, the Board applies the paths of scenario variables.    
+For the 2026 stress test, the jump-off values are as of December 31, 2025, as in previous 
+years.  The proposed 2026 scenario was published on October 24, 2025, based on data released 
+through August 29, 2025.  However, since final data as of December 31, 2025, was not yet 
+available when the Board issued the proposal, the Board used the process described in the 
+proposed 2026 scenario and the updated model documentation to determine the jump-off point 
+for scenario variables.  In the proposed 2026 scenarios, the Board explained that the jump-off 
+ 
+82  See Board, Federal Reserve Board announces it will extend until February 21, 2026, the 
+comment period on proposal to improve stress test model and scenario transparency and 
+accountability (Nov. 21, 2025), available at 
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251121a.htm.  
+83  “Methodology to Update the Scenarios to Incorporate Additional Data Releases” in the 
+Board’s proposed 2026 scenarios, available at 
+https://www.federalreserve.gov/publications/files/2025-stress-test-scenarios-20250205.pdf; 
+Appendix C to the Board’s macro model for Stress Testing, available at 
+https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2026.htm. 
+56 Review of Comments: Other Comments Received 
+ 
+ 
+values for applicable variables would be updated when actual data for December 31, 2025, 
+becomes available in January, such as with respect to equity prices, the VIX level, and the 
+unemployment rate, and that updated values would be provided for other variables using 
+methodology described in the proposed 2026 scenarios and the macro model for Stress Testing 
+documentation.84    
+However, one commenter asserted that the Board did not provide sufficient transparency 
+or guardrails regarding how the Board would determine the final jump-off values for each year’s 
+scenarios.  The commenter observed that the insufficient transparency would be particularly 
+relevant for the proposed 2026 scenarios since some variable data relies on government-
+produced reports and data that may be affected by the recent government shutdown.  The 
+commenter recommended that the Board further explain how it would revise the jump-off values 
+for these variables in the final 2026 scenarios, and that the final scenarios should be broadly 
+aligned with the proposed scenarios in terms of overall severity, in order to comply with the legal 
+requirements. 
+In considering these comments, the Board acknowledges that clarifications to existing 
+disclosures could improve the public’s understanding of how the Board determines the values for 
+the final scenarios.  The Board is also interested in public input on how to best communicate its 
+scenario design process, and if other changes to the Board’s stress test calendar, such as moving 
+the jump-off date to September 30 of each year, could mitigate data-related challenges that 
+would repeat in future public comment processes if the proposed scenarios were published for 
+comment prior to the availability of data that would be as-of December 31 of a given year.  The 
+Board has invited comment on that proposed change and other structural changes to the stress 
+ 
+84  See id.  
+57 Review of Comments: Other Comments Received 
+ 
+ 
+test calendar in the Enhanced Transparency and Public Accountability proposal, with comments 
+due on February 21, 2026.85  
+Nevertheless, to address this comment, the Board has supplemented the explanation in 
+the Board’s macro model for Stress Testing to clarify in the methodology the Board used to 
+determine the jump-off values in the final 2026 scenario.86  In addition, the Board has updated 
+the documentation to clarify how the determination of jump-off values may have been affected 
+by the recent government shutdown.  The Board will consider additional enhancements to the 
+Board’s process for setting the jump-off values for future scenarios together with comments on 
+the Enhanced Transparency and Public Accountability proposal. 
+D. Additional Scenario Variable Guides and Discretion in Scenario Design 
+As part of the Board’s separate Enhanced Transparency and Public Accountability 
+proposal, the Board proposed to implement guides outlining the paths for additional scenario 
+variables.  As proposed, these additional guides would be incorporated into the Board’s Scenario 
+Design Policy Statement.87  One commenter explained that, in their view, the proposed guides 
+would make the severely adverse scenario in future stress tests more predictable and therefore, 
+more easily gamed by firms subject to the supervisory stress test.  In the commenter’s view, the 
+predictability of the scenarios would also provide “false comfort” to the public that banks had 
+sufficient capital. 
+Another commenter expressed concern that an annual scenario could be decided at the 
+Board’s discretion, circumventing the public comment process.  This commenter expressed 
+ 
+85  See supra note 2. 
+86  The documentation is available on the Board’s website.  See 
+https://www.federalreserve.gov/supervisionreg/dfa-stress-tests-2026.htm.  
+87  12 CFR 252, App’x A. 
+58 Review of Comments: Other Comments Received 
+ 
+ 
+particular concern that the proposed amendments to the Scenario Design Policy Statement 
+indicated that the framework would permit deviation from the ranges and values provided in the 
+proposed guides (such as due to the Board’s identification of salient risks), without being 
+thoroughly described and explained in the proposed scenarios.  The commenter stated that a 
+certain degree of discretion would not be consistent with the legal requirements.  
+The commenter asserted further that the discretion in the scenario design process could 
+result in variables moving in ways that do not make economic sense or are not appropriately 
+correlated with the movements of other variables, which could cause volatility in bank capital 
+requirements. 
+The Board received feedback on the Board’s proposed 2025 Scenario Design Policy 
+Statement, which was published for comment as part of the Enhanced Transparency and Public 
+Accountability proposal.  The Board discusses these concerns, as applied to its process for 
+selecting variables for the severely adverse scenario in the final 2026 scenario, in section II of 
+this document.  The Board will review comments on its proposed changes to the proposed 2025 
+Scenario Design Policy Statement together with other comments on the Board’s Enhanced 
+Transparency and Public Accountability proposal. 
+ 

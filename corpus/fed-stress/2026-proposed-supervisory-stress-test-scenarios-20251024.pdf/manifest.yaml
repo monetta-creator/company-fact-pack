@@ -1,0 +1,21 @@
+doc_id: fed-stress/2026-proposed-supervisory-stress-test-scenarios-20251024.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2026-proposed-supervisory-stress-test-scenarios-20251024.pdf
+url: https://www.federalreserve.gov/aboutthefed/boardmeetings/2026-proposed-supervisory-stress-test-scenarios-20251024.pdf
+retrieved_at: '2026-08-20T03:15:47Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2026-proposed-supervisory-stress-test-scenarios-20251024.pdf
+  role: raw
+  sha256: e13b18ef24221dc6984d53bdffff95b61fce2237946193e49ea88e4c7be98623
+  size: 1863674
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cb6b6c853a6563375f639f2e1688330d1a951b005787c267963d00f72545ea2d
+  size: 95520
+  stored: corpus
