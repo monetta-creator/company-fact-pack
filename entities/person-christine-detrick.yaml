@@ -1,0 +1,15 @@
+id: person-christine-detrick
+name: Christine Detrick
+type: person
+status: active
+aliases: []
+summary: Director; Former Director, Head of the Americas Financial Services Practice,
+  Bain & Company
+edges:
+- type: director_of
+  target: cof
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: edgar-cof/DEF14A_2026-03-25_0001193125-26-124131
+  locator: board/executive sections

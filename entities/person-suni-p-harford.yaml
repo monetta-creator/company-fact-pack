@@ -1,0 +1,14 @@
+id: person-suni-p-harford
+name: Suni P. Harford
+type: person
+status: active
+aliases: []
+summary: Director; Former President, UBS Asset Management
+edges:
+- type: director_of
+  target: cof
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: edgar-cof/DEF14A_2026-03-25_0001193125-26-124131
+  locator: board/executive sections
