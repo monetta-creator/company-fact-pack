@@ -1,0 +1,281 @@
+# Governed metric definitions (D3): numbers are answered ONLY from observations of
+# these metrics, never from prose. One blessed definition per metric_id.
+
+# --- GAAP (XBRL companyfacts; entity = holding co) ---
+- metric_id: net-interest-income
+  name: Net interest income
+  formula: Interest income minus interest expense, as reported (GAAP).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap (see xbrl_map.yaml candidates)"
+  dims_allowed: [tag]
+- metric_id: noninterest-income
+  name: Non-interest income
+  formula: Total non-interest income as reported (GAAP).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap"
+  dims_allowed: [tag]
+- metric_id: total-net-revenue
+  name: Total net revenue
+  formula: Net interest income plus non-interest income (company-reported revenue tag).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap"
+  dims_allowed: [tag]
+- metric_id: provision-credit-losses
+  name: Provision for credit losses
+  formula: Provision for credit losses charged to earnings (CECL from 2020; incurred-loss before).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap"
+  dims_allowed: [tag]
+  notes: Basis change at CECL adoption (2020-01-01) — compare across 2019/2020 with care.
+- metric_id: net-income
+  name: Net income
+  formula: Net income attributable to the company (GAAP).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:NetIncomeLoss"
+  dims_allowed: [tag]
+- metric_id: eps-diluted
+  name: Diluted EPS
+  formula: Diluted earnings per common share (GAAP).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:EarningsPerShareDiluted"
+  dims_allowed: [tag]
+- metric_id: total-assets
+  name: Total assets
+  formula: Total consolidated assets (GAAP, period end).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:Assets"
+  dims_allowed: [tag]
+- metric_id: total-deposits
+  name: Total deposits
+  formula: Total deposits (GAAP, period end).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:Deposits"
+  dims_allowed: [tag]
+- metric_id: loans-hfi
+  name: Loans held for investment
+  formula: Gross loans held for investment before allowance (period end).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap financing receivable tags"
+  dims_allowed: [tag]
+- metric_id: allowance-credit-losses
+  name: Allowance for credit losses
+  formula: Allowance for credit losses on loans (period end).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap allowance tags"
+  dims_allowed: [tag]
+- metric_id: stockholders-equity
+  name: Stockholders' equity
+  formula: Total stockholders' equity (period end).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:StockholdersEquity"
+  dims_allowed: [tag]
+- metric_id: noninterest-expense
+  name: Non-interest expense
+  formula: Total non-interest expense (GAAP).
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:NoninterestExpense"
+  dims_allowed: [tag]
+- metric_id: marketing-expense
+  name: Marketing expense
+  formula: Marketing expense as reported.
+  basis: gaap
+  unit: USD
+  source_schedule: "XBRL us-gaap:MarketingExpense"
+  dims_allowed: [tag]
+- metric_id: cet1-ratio
+  name: CET1 capital ratio
+  formula: Common equity tier 1 capital / risk-weighted assets (Basel III standardized).
+  basis: regulatory
+  unit: ratio
+  source_schedule: "XBRL banking-regulation tags; FR Y-9C HC-R"
+  dims_allowed: [tag]
+
+# --- FDIC (bank subsidiaries; api.fdic.gov RIS fields; USD thousands) ---
+- metric_id: bank-total-assets
+  name: Bank total assets
+  formula: Total assets of the insured institution (Call Report).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field ASSET"
+- metric_id: bank-total-deposits
+  name: Bank total deposits
+  formula: Total deposits of the insured institution.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field DEP"
+- metric_id: bank-net-income
+  name: Bank net income
+  formula: Net income of the insured institution (YTD as reported by RIS).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field NETINC"
+- metric_id: bank-net-loans
+  name: Bank net loans and leases
+  formula: Net loans and leases.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field LNLSNET"
+- metric_id: bank-credit-card-loans
+  name: Bank credit card loans
+  formula: Credit card loans outstanding.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field LNCRCD"
+- metric_id: bank-equity
+  name: Bank equity capital
+  formula: Total equity capital.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC RIS field EQ"
+- metric_id: bank-roa
+  name: Bank return on assets
+  formula: Annualized net income / average assets (as computed by FDIC).
+  basis: regulatory
+  unit: pct
+  source_schedule: "FDIC RIS field ROA"
+- metric_id: bank-roe
+  name: Bank return on equity
+  formula: Annualized net income / average equity (as computed by FDIC).
+  basis: regulatory
+  unit: pct
+  source_schedule: "FDIC RIS field ROE"
+- metric_id: bank-nim
+  name: Bank net interest margin
+  formula: Net interest income / average earning assets (as computed by FDIC).
+  basis: regulatory
+  unit: pct
+  source_schedule: "FDIC RIS field NIMY"
+- metric_id: sod-deposits
+  name: Summary of Deposits branch deposits
+  formula: Deposits by branch per FDIC SOD survey (June 30 each year), rolled up by state.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FDIC SOD field DEPSUMBR"
+  dims_allowed: [state]
+
+# --- FR Y-9C (holding co; USD thousands) ---
+- metric_id: y9c-total-assets
+  name: Y-9C total assets
+  formula: Total consolidated assets per FR Y-9C Schedule HC.
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC item 12 (BHCK2170)"
+- metric_id: y9c-total-loans
+  name: Y-9C total loans and leases
+  formula: Loans and leases, net of unearned income (HC-C).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC-C (BHCK2122)"
+- metric_id: y9c-credit-card-loans
+  name: Y-9C credit card loans
+  formula: Credit cards and related plans to individuals (HC-C item 6.a).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC-C (BHCKB538)"
+- metric_id: y9c-cc-past-due-30-89
+  name: Y-9C credit card loans past due 30-89 days
+  formula: Credit card loans past due 30-89 days and still accruing (HC-N).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC-N (BHCKB575)"
+- metric_id: y9c-cc-past-due-90plus
+  name: Y-9C credit card loans past due 90+ days
+  formula: Credit card loans past due 90 days or more and still accruing (HC-N).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC-N (BHCKB576)"
+- metric_id: y9c-cc-charge-offs
+  name: Y-9C credit card charge-offs
+  formula: Credit card loans charged off, calendar YTD (HI-B).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HI-B (BHCKB514)"
+- metric_id: y9c-cc-recoveries
+  name: Y-9C credit card recoveries
+  formula: Recoveries on credit card loans, calendar YTD (HI-B).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HI-B (BHCKB515)"
+- metric_id: y9c-net-income
+  name: Y-9C net income
+  formula: Net income attributable to holding company, calendar YTD (HI).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HI (BHCK4340)"
+- metric_id: y9c-net-interest-income
+  name: Y-9C net interest income
+  formula: Net interest income, calendar YTD (HI).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HI (BHCK4074)"
+- metric_id: y9c-total-deposits
+  name: Y-9C total deposits (domestic)
+  formula: Domestic interest-bearing plus non-interest-bearing deposits (HC).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C HC (BHDM6631 + BHDM6636)"
+- metric_id: y9c-allowance
+  name: Y-9C allowance for credit losses
+  formula: Allowance for loan and lease losses / credit losses (HC).
+  basis: regulatory
+  unit: USD_thousands
+  source_schedule: "FR Y-9C (BHCK3123)"
+
+# --- Card trust (monthly 10-D servicer reports) ---
+- metric_id: trust-principal-receivables
+  name: Trust principal receivables
+  formula: Principal receivables in the securitization trust at month end.
+  basis: trust
+  unit: USD
+  source_schedule: "Form 10-D monthly servicer report"
+- metric_id: trust-payment-rate
+  name: Trust monthly payment rate
+  formula: Principal collections / beginning principal receivables for the monthly period.
+  basis: trust
+  unit: pct
+  source_schedule: "Form 10-D monthly servicer report"
+- metric_id: trust-yield
+  name: Trust portfolio yield (annualized)
+  formula: Annualized finance-charge and fee collections / principal receivables.
+  basis: trust
+  unit: pct
+  source_schedule: "Form 10-D monthly servicer report"
+- metric_id: trust-charge-off-rate
+  name: Trust net charge-off rate (annualized)
+  formula: Annualized net principal charge-offs / principal receivables.
+  basis: trust
+  unit: pct
+  source_schedule: "Form 10-D monthly servicer report"
+- metric_id: trust-delinq-30plus
+  name: Trust 30+ day delinquency rate
+  formula: Receivables 30+ days delinquent / total receivables at month end.
+  basis: trust
+  unit: pct
+  source_schedule: "Form 10-D monthly servicer report"
+- metric_id: trust-excess-spread
+  name: Trust excess spread
+  formula: Three-month-average excess spread as reported in the servicer report.
+  basis: trust
+  unit: pct
+  source_schedule: "Form 10-D monthly servicer report"
+
+# --- External signal ---
+- metric_id: complaint-count
+  name: CFPB complaint count
+  formula: Count of CFPB consumer complaints received in the month, by product.
+  basis: external
+  unit: count
+  source_schedule: "CFPB consumer complaint database"
+  dims_allowed: [product]

@@ -1,0 +1,67 @@
+# XBRL tag -> metric mapping. For each metric the FIRST tag present in companyfacts
+# wins (chosen tag recorded in dims.tag). kind: duration|instant. unit_key selects the
+# companyfacts units entry. Filer tag usage drifts across years — candidates absorb that.
+
+- metric_id: net-interest-income
+  kind: duration
+  unit_key: USD
+  tags: [InterestIncomeExpenseNet, InterestIncomeExpenseAfterProvisionForLoanLoss]
+- metric_id: noninterest-income
+  kind: duration
+  unit_key: USD
+  tags: [NoninterestIncome]
+- metric_id: total-net-revenue
+  kind: duration
+  unit_key: USD
+  tags: [RevenuesNetOfInterestExpense, Revenues]
+- metric_id: provision-credit-losses
+  kind: duration
+  unit_key: USD
+  tags: [ProvisionForLoanLeaseAndOtherLosses, ProvisionForCreditLossExpenseReversal,
+         CreditLossExpenseReversal, ProvisionForLoanAndLeaseLosses,
+         ProvisionForCreditLosses, ProvisionForOtherCreditLosses]
+- metric_id: net-income
+  kind: duration
+  unit_key: USD
+  tags: [NetIncomeLoss]
+- metric_id: eps-diluted
+  kind: duration
+  unit_key: USD/shares
+  tags: [EarningsPerShareDiluted]
+- metric_id: total-assets
+  kind: instant
+  unit_key: USD
+  tags: [Assets]
+- metric_id: total-deposits
+  kind: instant
+  unit_key: USD
+  tags: [Deposits]
+- metric_id: loans-hfi
+  kind: instant
+  unit_key: USD
+  tags: [FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss,
+         NotesReceivableGross, LoansAndLeasesReceivableNetOfDeferredIncome,
+         LoansAndLeasesReceivableGrossCarryingAmount]
+- metric_id: allowance-credit-losses
+  kind: instant
+  unit_key: USD
+  tags: [FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest,
+         FinancingReceivableAllowanceForCreditLosses,
+         LoansAndLeasesReceivableAllowance]
+- metric_id: stockholders-equity
+  kind: instant
+  unit_key: USD
+  tags: [StockholdersEquity, StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest]
+- metric_id: noninterest-expense
+  kind: duration
+  unit_key: USD
+  tags: [NoninterestExpense, OperatingExpenses]
+- metric_id: marketing-expense
+  kind: duration
+  unit_key: USD
+  tags: [MarketingExpense, MarketingAndAdvertisingExpense, AdvertisingExpense]
+- metric_id: cet1-ratio
+  kind: instant
+  unit_key: pure
+  tags: [CommonEquityTierOneCapitalToRiskWeightedAssets,
+         BankingRegulationCommonEquityTier1RiskBasedCapitalRatioActual]

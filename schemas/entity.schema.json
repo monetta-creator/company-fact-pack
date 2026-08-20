@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://factpack.local/schemas/entity.schema.json",
+  "title": "Entity spine record",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common.schema.json#/$defs/slug" },
+    "name": { "type": "string", "minLength": 1 },
+    "type": { "enum": ["holding_co", "bank", "trust", "segment", "person", "brand", "subsidiary", "network", "regulator", "peer"] },
+    "status": { "enum": ["active", "merged", "dissolved", "divested", "historical"] },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "identifiers": {
+      "type": "object",
+      "properties": {
+        "cik": { "type": "string", "pattern": "^\\d{10}$" },
+        "rssd": { "type": "string" },
+        "fdic_cert": { "type": "string" },
+        "lei": { "type": "string" },
+        "ticker": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": { "enum": ["parent_of", "subsidiary_of", "merged_into", "acquired", "issues", "services", "segment_of", "officer_of", "director_of", "regulated_by", "competitor_of"] },
+          "target": { "$ref": "common.schema.json#/$defs/slug" },
+          "valid_from": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+          "valid_to": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] }
+        },
+        "required": ["type", "target"],
+        "additionalProperties": false
+      }
+    },
+    "summary": { "type": "string" },
+    "epistemic_status": { "$ref": "common.schema.json#/$defs/epistemic_status" },
+    "as_of": { "$ref": "common.schema.json#/$defs/iso_date" },
+    "valid_from": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "valid_to": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "sources": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/source_ptr" } }
+  },
+  "required": ["id", "name", "type", "status", "epistemic_status", "as_of", "sources"],
+  "additionalProperties": false
+}

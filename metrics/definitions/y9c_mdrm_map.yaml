@@ -1,0 +1,39 @@
+# FR Y-9C MDRM code -> metric mapping. Codes drift across form revisions, so each
+# carries a validity window (null = open). Confirm against the quarter's MDRM
+# dictionary when a code stops matching.
+- metric_id: y9c-total-assets
+  codes:
+    - {code: BHCK2170, valid_from: null, valid_to: null}
+- metric_id: y9c-total-loans
+  codes:
+    - {code: BHCK2122, valid_from: null, valid_to: null}
+- metric_id: y9c-credit-card-loans
+  codes:
+    - {code: BHCKB538, valid_from: null, valid_to: null}
+- metric_id: y9c-cc-past-due-30-89
+  codes:
+    - {code: BHCKB575, valid_from: null, valid_to: null}
+- metric_id: y9c-cc-past-due-90plus
+  codes:
+    - {code: BHCKB576, valid_from: null, valid_to: null}
+- metric_id: y9c-cc-charge-offs
+  codes:
+    - {code: BHCKB514, valid_from: null, valid_to: null}
+- metric_id: y9c-cc-recoveries
+  codes:
+    - {code: BHCKB515, valid_from: null, valid_to: null}
+- metric_id: y9c-net-income
+  codes:
+    - {code: BHCK4340, valid_from: null, valid_to: null}
+- metric_id: y9c-net-interest-income
+  codes:
+    - {code: BHCK4074, valid_from: null, valid_to: null}
+- metric_id: y9c-allowance
+  codes:
+    - {code: BHCK3123, valid_from: null, valid_to: null}
+# y9c-total-deposits = BHDM6631 + BHDM6636 (summed by the extractor)
+- metric_id: y9c-total-deposits
+  sum: true
+  codes:
+    - {code: BHDM6631, valid_from: null, valid_to: null}
+    - {code: BHDM6636, valid_from: null, valid_to: null}

@@ -1,0 +1,16 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --no-group dev
+      - run: uv run python -m scripts.validate.run_all
+      # Model-dependent steps (enrichment, evals, briefs) run locally only —
+      # this job is the deterministic gate: schemas, references, staleness, orphans.

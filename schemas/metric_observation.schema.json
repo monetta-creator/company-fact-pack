@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://factpack.local/schemas/metric_observation.schema.json",
+  "title": "Metric observation (one JSONL line)",
+  "type": "object",
+  "properties": {
+    "obs_id": { "type": "string", "minLength": 8 },
+    "metric_id": { "$ref": "common.schema.json#/$defs/slug" },
+    "entity_id": { "$ref": "common.schema.json#/$defs/slug" },
+    "period": { "$ref": "common.schema.json#/$defs/period" },
+    "period_type": { "enum": ["instant", "month", "quarter", "fy", "ytd"] },
+    "value": { "type": "number" },
+    "unit": { "type": "string" },
+    "dims": { "type": "object" },
+    "source_ptr": { "$ref": "common.schema.json#/$defs/source_ptr" },
+    "as_of": { "$ref": "common.schema.json#/$defs/iso_date" },
+    "valid_from": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "valid_to": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "epistemic_status": { "$ref": "common.schema.json#/$defs/epistemic_status" },
+    "superseded_by": { "anyOf": [{ "type": "string" }, { "type": "null" }] }
+  },
+  "required": ["obs_id", "metric_id", "entity_id", "period", "period_type", "value", "unit", "source_ptr", "as_of", "epistemic_status"],
+  "additionalProperties": false
+}

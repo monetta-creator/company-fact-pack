@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://factpack.local/schemas/common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "epistemic_status": {
+      "enum": ["settled", "reported", "estimated", "contested", "superseded", "draft"]
+    },
+    "iso_date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "iso_datetime": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}[T ]\\d{2}:\\d{2}" },
+    "period": {
+      "type": "string",
+      "description": "FY2024, 2024Q2, 2024-06 (month), or 2024-06-30 (instant)",
+      "pattern": "^(FY\\d{4}|\\d{4}Q[1-4]|\\d{4}-\\d{2}(-\\d{2})?)$"
+    },
+    "bitemporal": {
+      "type": "object",
+      "properties": {
+        "valid_from": { "anyOf": [{ "$ref": "#/$defs/iso_date" }, { "type": "null" }] },
+        "valid_to": { "anyOf": [{ "$ref": "#/$defs/iso_date" }, { "type": "null" }] },
+        "as_of": { "$ref": "#/$defs/iso_date" }
+      },
+      "required": ["as_of"]
+    },
+    "source_ptr": {
+      "type": "object",
+      "description": "Pointer into the corpus: doc_id must resolve to a manifest; locator narrows within the doc",
+      "properties": {
+        "doc_id": { "type": "string", "minLength": 3 },
+        "locator": { "anyOf": [{ "type": "string" }, { "type": "null" }] }
+      },
+      "required": ["doc_id"],
+      "additionalProperties": false
+    },
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" }
+  }
+}

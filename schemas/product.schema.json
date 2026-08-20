@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://factpack.local/schemas/product.schema.json",
+  "title": "Effective-dated product record",
+  "type": "object",
+  "properties": {
+    "product_id": { "$ref": "common.schema.json#/$defs/slug" },
+    "issuer_entity_id": { "$ref": "common.schema.json#/$defs/slug" },
+    "name": { "type": "string", "minLength": 1 },
+    "agreement_doc_id": { "type": "string" },
+    "effective_from": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "effective_to": { "anyOf": [{ "$ref": "common.schema.json#/$defs/iso_date" }, { "type": "null" }] },
+    "terms": {
+      "type": "object",
+      "properties": {
+        "purchase_apr": { "type": "string" },
+        "cash_apr": { "type": "string" },
+        "penalty_apr": { "type": "string" },
+        "annual_fee": { "type": "string" },
+        "late_fee": { "type": "string" },
+        "balance_transfer_fee": { "type": "string" },
+        "foreign_transaction_fee": { "type": "string" },
+        "rewards": { "type": "string" },
+        "extracted": { "type": "object", "description": "Free-form extra extracted terms" }
+      },
+      "additionalProperties": false
+    },
+    "epistemic_status": { "$ref": "common.schema.json#/$defs/epistemic_status" },
+    "as_of": { "$ref": "common.schema.json#/$defs/iso_date" },
+    "sources": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/source_ptr" } }
+  },
+  "required": ["product_id", "issuer_entity_id", "name", "agreement_doc_id", "epistemic_status", "as_of"],
+  "additionalProperties": false
+}

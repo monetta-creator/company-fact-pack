@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://factpack.local/schemas/metric_definition.schema.json",
+  "title": "Governed metric definition",
+  "type": "object",
+  "properties": {
+    "metric_id": { "$ref": "common.schema.json#/$defs/slug" },
+    "name": { "type": "string", "minLength": 1 },
+    "formula": { "type": "string", "description": "Prose definition; optional expression in terms of other metric_ids" },
+    "basis": { "enum": ["gaap", "regulatory", "trust", "managed", "supervisory", "external"] },
+    "unit": { "type": "string", "description": "USD, USD_millions, pct, ratio, count" },
+    "source_schedule": { "type": "string", "description": "e.g. 'FR Y-9C Schedule HC-N item 5.a' or 'XBRL us-gaap:Revenues'" },
+    "dims_allowed": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": "string" }
+  },
+  "required": ["metric_id", "name", "formula", "basis", "unit", "source_schedule"],
+  "additionalProperties": false
+}
