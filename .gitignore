@@ -1,0 +1,10 @@
+# Compiled artifacts, caches, bulk downloads — never committed.
+# Provenance for uncommitted raw files is the SHA-256 in each manifest.
+build/
+inbox/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.DS_Store
