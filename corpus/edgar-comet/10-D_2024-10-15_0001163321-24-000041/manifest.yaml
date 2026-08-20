@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2024-10-15_0001163321-24-000041
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2024-10-15 (period 2024-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332124000041/form10-dseptember2024.htm
+retrieved_at: '2026-08-20T02:56:26Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dseptember2024.htm
+  role: raw
+  sha256: e49a5d4cc974e2e320b660d2a57f2e2579892f29fcd7a03b5eca94881e36ff1a
+  size: 33820
+  stored: corpus
+- name: exhibit9912002-ccseptember.htm
+  role: exhibit
+  sha256: 222ea1d959d5705852a3db1805f47cb94351618c90e93b47530e338ee51f6628
+  size: 152111
+  stored: corpus
+- name: exhibit992nhsseptember2024.htm
+  role: exhibit
+  sha256: e9adab03c5d2ec7c174f6584aeaf83d4e9bc9afea41d9748f703f91b2af28ef3
+  size: 396175
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: fd1c98475d9ffd70a407e3364cf34ffac5d4217a17979884ade91970dc934b4c
+  size: 42406
+  stored: corpus
+filed_date: '2024-10-15'
+period_end: '2024-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001163321-24-000041
+  form: 10-D
+  items: ''

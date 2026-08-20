@@ -1,0 +1,109 @@
+false 0001393612 0001393612 2020-04-22 2020-04-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 22, 2020
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+( 224 ) 405-0900
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+[TABLE]
+Securities registered pursuant to Section 12(b) of the Act
+Title of each class | Trading symbol(s) | Name of each exchange on which registered
+Common Stock, par value $0.01 per share | DFS | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On April 22, 2020 , Discover Financial Services (the “Company”) released financial information with respect to the quarter ended March 31, 2020 . Copies of the press release, financial data supplement and financial results presentation containing this information are attached hereto as exhibits and incorporated herein by reference.
+
+The information contained in this Item 2.02 of this Current Report on Form 8-K, including the exhibits, is furnished pursuant to Item 2.02 of Form 8-K and shall not be deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly stated by specific reference in such filing.
+
+Table of Contents
+
+Item 8.01. | Other Matters
+
+In light of recent developments relating to the coronavirus disease 2019 ("COVID-19") pandemic, we are supplementing our risk factors disclosed in our annual report on Form 10-K for the year ended December 31, 2019. The following risk factor should be read in conjunction with the risk factors described in our annual report on Form 10-K.
+
+The COVID-19 pandemic has and is expected to continue to have a material adverse effect on our business, results of operations and financial condition.
+
+The COVID-19 pandemic has had an unprecedented impact on a global scale. As a result of the COVID-19 pandemic and the measures implemented to contain the pandemic, economic activity has declined both on a national and global level and unemployment has risen at a record pace. The depth and duration of this economic contraction is unknown and currently unpredictable. Federal and state governments and agencies have put in place programs to mitigate and respond to the impact of the pandemic. These programs are in their early stages and it is too early to tell how successful these measures will be. It is also unclear whether the measures employed to date are exhaustive, or whether federal and state governments and agencies may take additional action that could impact our business.
+
+The impact of the COVID-19 pandemic and the resulting economic contraction has impacted and is expected to continue to adversely impact our financial results. As consumers lose their jobs or are unable to find work due to the COVID-19 pandemic and the implementation of measures implemented to slow the spread of COVID-19, they may become increasingly unable to repay their loans on time. The length of the pandemic and the long-term negative economic impact in relation to increased unemployment could lead to increased customer delinquencies and charge-offs, which would cause an increase to our allowance for credit losses which would adversely affect our profitability. We have put various programs in place to assist affected borrowers during the pandemic. The programs generally provide borrowers with flexibility to make monthly payments, including allowing customers to skip payments without penalty, or in certain cases, accrual of interest. The terms and conditions of the programs are subject to change and enrollment levels may fluctuate based on those changes as well as the depth and duration of the economic contraction. As the number of loans enrolled in these programs increases, our financial results will be adversely impacted in the short term due to forgone interest. The impact on the U.S. economy and the consumer credit environment may continue after the COVID-19 pandemic has subsided; the pace of recovery is uncertain and unpredictable. Additionally, in connection with the economic contraction due to COVID-19, we have decreased our marketing activities, which may adversely impact our ability to attract new customers and grow market share.
+
+Given the nature of the crisis, our financial and economic models may be unable to accurately predict and respond to the impact of the economic contraction or lasting changes to consumer behaviors, which in turn may limit our ability to manage credit risk and avoid higher charge-off rates. Additionally, due to the nature and novelty of the crisis, our credit and economic models may not be able to adequately predict or forecast credit losses, sales, receivables, or other financial metrics during and after the crisis, which could result in our reserves being too large or insufficient. For more information see the risk factor entitled " Our risk management framework and models for managing risks may not be effective in mitigating our risk of loss " in our annual report on Form 10-K year ended December 31, 2019.
+
+As governments have put measures in place to contain the pandemic by requiring all non-essential businesses to close and/or their employees work from home and discouraging or prohibiting people generally from leaving their homes, our sales volume, credit card loan growth, interchange revenue and net-to-net volume have declined. The economic contraction and associated slowdown in travel and transaction volume may have a material adverse impact on the financial condition of some of our Diners Club franchises. In the past, we have extended financial support to franchises experiencing financial stress.
+
+Beginning March 13, 2020, we have transitioned nearly all of our employees to working from home. Previously, only a small portion of employees worked from a location other than one of our offices. As we adapt to this new way of working, it may become less effective and as a result our ability to design and implement new products, services or features may be adversely impacted. Additionally, in the event that a meaningful portion of our call center agents become ill due to COVID-19 or otherwise are unable to work effectively, our ability to meet our internal measures for customer service may be adversely effected. The pandemic has required us and our third-party vendors to activate business continuity programs and make ongoing adjustments to operations. To the extent that these plans and back up servicing and other strategies and adjustments are either not available, insufficient or cannot be implemented in whole or in part, we may be exposed to legal, regulatory, reputational, operational, information security or financial risk. Finally, as nearly all of our employees are working from home, we are increasingly reliant on a handful of vendors, including those we have no direct relationship with such as our employees' internet service providers, to maintain reliable high speed access to our internal network. Failure by such third-party providers would impact our operations. Efforts by us, our vendors, and their vendors to continue to adapt operations to this new environment, may introduce additional vulnerabilities to the Company’s operations and information security programs and systems in ways we have not previously contemplated or otherwise prepared for.
+
+There are no comparable recent events that provide guidance as to the effect the spread of COVID-19 as a global pandemic may have, and, as a result, the ultimate impact of the outbreak and the economic recovery following the containment of the outbreak is highly uncertain and subject to change. We do not yet know the full extent of the impacts on our business, our operations or the global economy as a whole. However, the effects have had and are expected to continue to have a material impact on our results of operations and heighten many of our known risks described in the risk factors disclosed in our annual report on Form 10-K for the year ended December 31, 2019.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of the Company dated April 22, 2020 containing financial information for the quarter ended March 31, 2020
+99.2 |  | Financial Data Supplement of the Company for the quarter and the Three Months Ended March 31, 2020
+99.3 |  | Financial Results Presentation of the Company for the quarter ended March 31, 2020
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101)
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | DISCOVER FINANCIAL SERVICES
+ |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: D. Christopher Greene
+ |  |  |  | Title: Vice President, Secretary and Deputy General Counsel
+[/TABLE]

@@ -1,0 +1,24 @@
+doc_id: cfpb-complaints/dfs
+source: cfpb-complaints
+source_tier: A
+doc_type: complaints-csv
+title: CFPB complaints slice (dfs)
+url: https://files.consumerfinance.gov/ccdb/complaints.csv.zip
+retrieved_at: '2026-08-20T03:15:11Z'
+entity_ids:
+- dfs
+fetcher: cfpb_complaints v2
+files:
+- name: complaints.csv.gz
+  role: raw
+  sha256: e7394ffaf23ceda8364bcba1de8f6a64f584e274deb60a26031cdf0c324a2785
+  size: 8460014
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 6b38feaef81eca7b9a5faefac3e694b879c516f384c822f1f304191e8fcdf523
+  size: 129
+  stored: corpus
+meta:
+  rows: 44516
+  filter: ^DISCOVER

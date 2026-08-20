@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2019-02-15_0000927628-19-000066
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-02-15 (period 2019-02-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000066/jan2019creditmetricsform8-k.htm
+retrieved_at: '2026-08-20T02:54:43Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: jan2019creditmetricsform8-k.htm
+  role: raw
+  sha256: 703826502fcdb8b0aa1cf667e3962530f7fd6e20ff26c74bdba76f2b689ba73e
+  size: 39187
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b8fe23cdb8c3b613c5fe22465559bfa4dc0696402f91b095526d742161fd3ea2
+  size: 3729
+  stored: corpus
+filed_date: '2019-02-15'
+period_end: '2019-02-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000066
+  form: 8-K
+  items: 7.01,9.01

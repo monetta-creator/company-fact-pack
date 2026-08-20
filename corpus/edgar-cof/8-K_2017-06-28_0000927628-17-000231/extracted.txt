@@ -1,0 +1,141 @@
+8-K 1 a8-kdated6282017.htm 8-K DATED 6 28 2017 Document created using Wdesk 1 Copyright 2017 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+__________________________________
+
+FORM 8-K
+
+__________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+June 28, 2017
+
+Date of Report (Date of earliest event reported)
+
+__________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+__________________________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+__________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 8.01 | Other Events.
+
+On June 28, 2017, Capital One Financial Corporation (the “Company”) issued a press release announcing that the Board of Governors of the Federal Reserve had completed its review under the Comprehensive Capital Analysis and Review (“CCAR”) process and that it did not object to the Company’s proposed capital plan. As a condition to not objecting to the Company’s capital plan, the Federal Reserve Board is requiring the Company to resubmit its capital plan by December 28, 2017 to address certain weaknesses in the capital planning process. If the Federal Reserve Board objects to the resubmitted capital plan, it may restrict subsequent capital distributions.
+
+The Company also announced that its Board of Directors has authorized the repurchase of up to $1.85 billion of shares of the Company’s common stock beginning in the third quarter of 2017 through the second quarter of 2018. In addition, the Company expects to maintain its quarterly dividend of $0.40 per share, subject to approval by its Board of Directors. A copy of the Company’s press release is attached as Exhibit 99.1 to this Form 8-K and is incorporated herein by reference.
+
+The timing and exact amount of any common stock repurchases will depend on various factors, including market conditions, opportunities for growth and the Company’s capital position and amount of retained earnings. The Company’s share repurchase program does not include specific price targets, may be executed through open market purchases or privately negotiated transactions, including utilizing Rule 10b5-1 programs, and may be suspended at any time.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated June 28, 2017
+[/TABLE]
+
+Cautionary Statements Regarding Forward-Looking Statements.
+
+The attached press release and information provided pursuant to Items 8.01 and 9.01 contain forward-looking statements, which involve a number of risks and uncertainties. The Company cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that the Company files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2016.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: June 28, 2017 | By: | /s/ John G. Finneran, Jr.
+ |  | John G. Finneran, Jr.
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated June 28, 2017
+[/TABLE]
+
+
+=== EXHIBIT a2017ccarexhibit991.htm ===
+
+EX-99.1 2 a2017ccarexhibit991.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2017 Workiva Exhibit
+
+Exhibit 99.1
+
+Media Release
+
+Contact
+
+Sie Soheili
+
+Sie.Soheili@capitalone.com
+
+For Immediate Release: June 28, 2017
+
+Capital One's CCAR Capital Plan Receives Conditional Non-Objection from the Federal Reserve
+
+Capital One expects to repurchase up to $1.85 billion of shares of common stock through the end of the second quarter of 2018; expects to maintain current quarterly dividend of $0.40 per share
+
+McLean, Va., June 28, 2017 -- Capital One Financial Corporation (NYSE: COF) today announced that the Federal Reserve Board has completed its 2017 Comprehensive Capital Analysis and Review ("CCAR") and did not object to Capital One's proposed capital plan. As a condition to not objecting to the company’s capital plan, the Federal Reserve Board is requiring the company to resubmit its capital plan by December 28, 2017 to address certain weaknesses in its capital planning process. If the Federal Reserve Board objects to the resubmitted capital plan, it may restrict subsequent capital distributions.
+
+The company expects to maintain its quarterly dividend of $0.40 per share, subject to approval by its Board of Directors. In addition, the company's Board of Directors has authorized the repurchase of up to $1.85 billion of shares of the company's common stock beginning in the third quarter of 2017 through the end of the second quarter of 2018.
+
+“We will resubmit our capital plan and are fully committed to addressing the Federal Reserve’s concerns with our capital planning process in a timely manner.” said Richard D. Fairbank, Chairman and Chief Executive Officer. “The capital distributions communicated in today’s announcement were assumed in the 2017 EPS guidance we provided on our first quarter earnings call. Consistent with our normal quarter-end processes, we expect to affirm or update our guidance on our second quarter earnings call scheduled for July 20, 2017.”
+
+The timing and exact amount of any Capital One common stock repurchases will depend on various factors, including market conditions, opportunities for growth, and the company's capital position and amount of retained earnings. Capital One's share repurchase program does not include specific price targets, may be executed through open market purchases or privately negotiated transactions, including utilizing Rule 10b5-1 programs, and may be suspended at any time.
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2016.
+
+About Capital One
+
+Capital One Financial Corporation ( www.capitalone.com ) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $241.2 billion in deposits and $348.5 billion in total assets as of March 31, 2017. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of
+
+financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol "COF" and is included in the S&P 100 index.

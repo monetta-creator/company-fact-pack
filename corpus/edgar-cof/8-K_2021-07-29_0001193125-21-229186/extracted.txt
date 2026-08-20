@@ -1,0 +1,128 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 --12-31 0000927628 2021-07-26 2021-07-26 0000927628 us-gaap:CommonStockMember 2021-07-26 2021-07-26 0000927628 us-gaap:SeriesGPreferredStockMember 2021-07-26 2021-07-26 0000927628 us-gaap:SeriesHPreferredStockMember 2021-07-26 2021-07-26 0000927628 cof:SeriesIPreferredStockMember 2021-07-26 2021-07-26 0000927628 cof:SeriesJPreferredStockMember 2021-07-26 2021-07-26 0000927628 cof:SeriesKPreferredStockMember 2021-07-26 2021-07-26 0000927628 cof:SeriesLPreferredStockMember 2021-07-26 2021-07-26 0000927628 cof:M0.800SeniorNotesDue2024Member 2021-07-26 2021-07-26 0000927628 cof:M1.650SeniorNotesDue2029Member 2021-07-26 2021-07-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+July 26, 2021
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive McLean , Virginia 22102 |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G |  | COF PRG |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H |  | COF PRH |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L |  | COF PRL |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.03 | Material Modification to Rights of Security Holders.
+
+On July 29, 2021, Capital One Financial Corporation (the “Company”) issued and sold 17,000,000 depositary shares (“Depositary Shares”), each representing a 1/40th ownership interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N, $0.01 par value (the “Series N Preferred Stock”), with a liquidation preference of $25 per Depositary Share (equivalent to $1,000 per share of Series N Preferred Stock). The Company filed a Certificate of Designations (the “Certificate of Designations”) with the Secretary of State of the State of Delaware, establishing the voting rights, powers, preferences and privileges, and the relative, participating, optional or other rights, and the qualifications, limitations or restrictions thereof, of the Series N Preferred Stock on July 28, 2021. Holders of the Depositary Shares will be entitled to all proportional rights and preferences of the Series N Preferred Stock (including dividend, voting, redemption and liquidation rights).
+
+Under the terms of the Series N Preferred Stock, the ability of the Company to pay dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the Series N Preferred Stock, is subject to restrictions in the event that the Company does not declare and either pay or set aside a sum sufficient for payment of dividends on the Series N Preferred Stock for the immediately preceding dividend period.
+
+The description of the terms of the Series N Preferred Stock is qualified in its entirety by reference to the Certificate of Designations, which is included as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+Item 5.03 | Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+The Certificate of Designations became effective upon filing with the Secretary of State of the State of Delaware and it amends the Company’s Restated Certificate of Incorporation. The terms of the Series N Preferred Stock are more fully described in Item 3.03 of this Current Report on Form 8-K and the Certificate of Designations which is included as Exhibit 3.1 to this Current Report on Form 8-K, both of which are incorporated by reference herein.
+
+Item 8.01 | Other Events.
+
+Preferred Stock Offering
+
+On July 26, 2021, the Company entered into an Underwriting Agreement (the “Underwriting Agreement”) with BofA Securities, Inc., J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, RBC Capital Markets, LLC, UBS Securities LLC and Wells Fargo Securities, LLC, as the representatives of the several underwriters named therein (collectively, the “Underwriters”), pursuant to which the Company agreed to sell to the Underwriters 17,000,000 Depositary Shares, each representing a 1/40 th ownership interest in a share of the Series N Preferred Stock.
+
+The Underwriting Agreement relating to this transaction contains customary representations, warranties and agreements of the Company, conditions to closing, indemnification rights and obligations of the parties, and termination provisions. Under the terms of the Underwriting Agreement, the Company agreed to indemnify the Underwriters against certain specified types of liabilities, including liabilities under the Securities Act of 1933, as amended, and to contribute to payments the Underwriters may be required to make in respect of these liabilities.
+
+The net proceeds of the offering of the 17,000,000 Depositary Shares were approximately $411.8 million after deducting underwriting commissions and estimated offering expenses. The offering was made pursuant to the prospectus supplement dated July 26, 2021 and the accompanying prospectus dated March 12, 2021, filed with the Securities and Exchange Commission pursuant to the Company’s effective registration statement on Form S-3 (File No. 333-254191) (the “Registration Statement”). The following documents are being filed with this Current Report on Form 8-K and are incorporated by reference into the Registration Statement: (a) the Underwriting Agreement, (b) the Certificate of Designations, (c) the Deposit Agreement dated July 29, 2021, between the Company, Computershare Trust Company, N.A., as Depositary, Computershare Inc. and the holders from time to time of the depositary receipts described therein, to which Deposit Agreement the Form of Depositary Receipt is attached as Exhibit A, and (d) a validity opinion with respect to the Depositary Shares and the Series N Preferred Stock.
+
+Fixed-to-Floating Rate Notes Offering
+
+In addition, on July 29, 2021, Capital One Financial Corporation (the “Company”) closed the public offering of $1,000,000,000 aggregate principal amount of its 2.359% Fixed-to-Floating Rate Subordinated Notes due 2032 (the “Notes”), pursuant to an underwriting agreement (the “Underwriting Agreement”) with BofA Securities, Inc., Citigroup Global Markets Inc., Goldman, Sachs & Co. LLC, J.P. Morgan Securities LLC and Capital One Securities, Inc., as representatives of the several underwriters listed therein. The Notes were issued pursuant to a Subordinated Indenture dated as of August 29, 2006 between the Company and The Bank of New York Mellon Trust Company, N.A., formerly known as The Bank of New York, as Indenture Trustee. The Notes have been registered under the Securities Act of 1933, as amended, by a registration statement on Form S-3 (File No. 333-254191).
+
+The foregoing description of the Underwriting Agreement, Notes and other documents relating to this transaction does not purport to be complete and is qualified in its entirety by reference to the full text of these securities and documents, forms or copies of which are attached as exhibits to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+1.1 |  | Underwriting Agreement for the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N, dated July 26, 2021
+1.2 |  | Underwriting Agreement for the 2.359% Fixed-to-Floating Rate Subordinated Note due 2032, dated July 27, 2021
+3.1 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N, dated July 28, 2021
+4.1 |  | Deposit Agreement, dated July 29, 2021
+4.2 |  | Subordinated Indenture dated as of August 29, 2006 between Capital One Financial Corporation and The Bank of New York Mellon Trust Company, N.A., formerly known as The Bank of New York, as trustee (incorporated by reference to Exhibit 4.1 of the Company’s Report on Form 8-K, filed on August 31, 2006)
+4.3 |  | Form of 2.359% Fixed-to-Floating Rate Subordinated Note due 2032
+5.1 |  | Opinion of Davis Polk & Wardwell LLP as to the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N, dated July 29, 2021
+5.2 |  | Opinion of Davis Polk & Wardwell LLP as to the 2.359% Fixed-to-Floating Rate Subordinated Notes due 2032, dated July 29, 2021
+23.1 |  | Consent of Davis Polk & Wardwell LLP as to the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N (included in Exhibit 5.1)
+23.2 |  | Consent of Davis Polk & Wardwell LLP as to the 2.359% Fixed-to-Floating Rate Subordinated Notes due 2032 (included in Exhibit 5.2)
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: July 29, 2021 |  | By: |  | /s/ Matthew W. Cooper
+ |  | Name: |  | Matthew W. Cooper
+ |  | Title: |  | General Counsel
+[/TABLE]

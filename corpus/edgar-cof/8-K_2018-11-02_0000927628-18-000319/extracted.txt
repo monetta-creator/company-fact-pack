@@ -1,0 +1,138 @@
+8-K 1 a8-kdated1122018.htm 8-K Document created using Wdesk 1 Copyright 2018 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+November 2, 2018
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 8.01 Other Events.
+
+On November 2, 2018, Capital One Financial Corporation (the “Company”) issued a press release with a reminder to warrant holders that the Company’s publicly traded warrants to purchase common stock are set to expire on November 14, 2018. The New York Stock Exchange (NYSE) has notified the Company that it will suspend trading in the warrants before the opening of trading on November 12, 2018. Any warrant not exercised prior to Depository Trust & Clearing Corporation’s (DTCC) cutoff time on November 14, 2018, will expire and become void, and the holder will not receive any shares of the Company’s common stock. A copy of the Company’s press release is attached as Exhibit 99.1 to this Form 8-K and is incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated November 2, 2018
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: | November 2, 2018 | By: | /s/ | Matthew W. Cooper
+ |  |  |  | Matthew W. Cooper
+ |  |  |  | General Counsel
+[/TABLE]
+
+2
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated November 2, 2018
+[/TABLE]
+
+3
+
+
+=== EXHIBIT exhibit991-pressreleasexwa.htm ===
+
+EX-99.1 2 exhibit991-pressreleasexwa.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2018 Workiva Exhibit
+
+Exhibit 99.1
+
+Media Release
+
+[TABLE]
+ |  | Media Sie Soheili Media Relations 703.720.3929 sie.soheili@capitalone.com
+ |  | Danielle Dietz Investor Relations 703-720-2455 danielle.dietz@capitalone.com
+[/TABLE]
+
+Capital One Issues Reminder Regarding
+
+Expiration of Common Stock Warrants
+
+MCLEAN, Va. ( November 2, 2018 ) Capital One Financial Corporation (NYSE: COF) (“Company”) today issued a reminder to warrant holders that the Company’s publicly traded warrants to purchase common stock are set to expire on November 14, 2018.
+
+The New York Stock Exchange (NYSE) has notified the Company that it will suspend trading in the warrants before the opening of trading on November 12, 2018. Any warrant not exercised prior to Depository Trust & Clearing Corporation’s (“DTCC”) cutoff time on November 14, 2018, will expire and become void, and the holder will not receive any shares of the Company’s common stock.
+
+As of September 30, 2018, there were approximately 830 thousand warrants outstanding. The warrants have an exercise price of $41.945 per share.
+
+Holders of warrants who wish to exercise their warrants should contact the broker or custodian through which they hold their warrants for instructions on how to exercise the warrants. Brokers and custodians are encouraged to contact the warrant agent, Computershare Inc, or DTCC well in advance of the expiration date.
+
+Further information regarding the warrants is available on the Company’s website at www.capitalone.com, under the heading Investor Relations: “Warrant Information.”
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $247.2 billion in deposits and $362.9 billion in total assets as of September 30, 2018. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Visit the Capital One newsroom for more Capital One news .
+
+# # #

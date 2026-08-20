@@ -1,0 +1,143 @@
+false 0001393612 0001393612 2020-10-28 2020-10-28
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): October 28, 2020
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On October 28, 2020, Discover Financial Services (the “Company”) announced that Edward W. McGrogan senior vice president, controller and chief accounting officer, will retire from the Company effective as of December 31, 2020. The Company also announced that Shifra Kolsky, the Company’s assistant controller, will replace Mr. McGrogan as senior vice president, chief accounting officer and controller effective as of November 2, 2020. In connection with Ms. Kolsky’s election as senior vice president, controller and chief accounting officer, she will be entitled to an annual salary of $324,000 and she will be eligible for annual equity awards under the Company’s Amended and Restated 2014 Omnibus Incentive Plan.
+
+Ms. Kolsky has been with Discover for 11 years and was promoted to Vice President, Assistant Controller in 2015. Prior to that, she was Director, Corporate Accounting and Reporting. Prior to working for Discover, Kolsky was an Audit Senior Manager for Deloitte & Touche from 2002 to 2008, Director of Finance for JCDS Las Vegas from 2001 to 2002, and an Audit Manager for Arthur Anderson from 1994 to 2001.
+
+The Company’s news release announcing Mr. McGrogan’s retirement and Ms. Kolsky’s appointment is attached to this report as Exhibit 99.1 and is incorporated by reference into this Item 5.02.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press release of the Company dated October 28, 2020.
+104 |  | Inline XBRL for the cover page of this Current Report on 8-K.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: October 28, 2020 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  | Title: |  | Vice President, Secretary and Deputy General Counsel
+[/TABLE]
+
+
+=== EXHIBIT d74441dex991.htm ===
+
+EX-99.1 2 d74441dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER NAMES SHIFRA KOLSKY NEW CONTROLLER & CHIEF ACCOUNTING OFFICER
+
+Riverwoods, IL, Oct. 28, 2020 – Discover Financial Services announced today that Shifra Kolsky, Vice President and Assistant Controller, will take
+over the role of Senior Vice President, Controller & Chief Accounting Officer, on Nov. 2, 2020. She will serve on the company’s Management Committee. Kolsky replaces Ed McGrogan, who plans to retire at the end of 2020 after 12 years
+with the company.
+
+Kolsky has been with Discover for 11 years and was promoted to Vice President, Assistant Controller in 2015. Prior to that, she was
+Director, Corporate Accounting and Reporting. She was instrumental in driving several key initiatives, including significant accounting changes and compliance with the Sarbanes-Oxley Act. Kolsky also oversaw implementation of robotic process
+automation in the finance function. She is a member of the Company’s Diversity, Equity & Inclusion Steering Council. Prior to working for Discover, Kolsky was an Audit Senior Manager for Deloitte & Touche from 2002 to 2008,
+Director of Finance for JCDS Las Vegas from 2001 to 2002, and an Audit Manager for Arthur Anderson from 1994 to 2001.
+
+McGrogan was elected
+Controller & Chief Accounting Officer by the Board of Directors in December 2012, and promoted to Senior Vice President in 2016. Prior to that, he was Vice President, Reporting and Accounting Services. He joined Discover in 2008 as
+Director, External Reporting. McGrogan led the integration of the company’s finance and accounting functions for Discover’s acquisitions, helped guide the implementation of Bank Holding Company Reporting requirements, and oversaw
+significant accounting changes, including the new Current Expected Credit Losses accounting standard, securitization consolidation and revenue recognition.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the
+Discover card, America’s cash rewards pioneer, and offers private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network
+comprised of Discover Network, with millions of merchant and cash access locations; PULSE, one of the nation’s leading ATM/debit networks; and Diners Club International, a global payments network with acceptance around the world. For more
+information, visit www.discover.com/company.
+
+Contacts
+
+Media
+
+Jon Drummond
+
+jondrummond@discover.com
+
+224-405-1888
+
+@Discover_News
+
+Investor Relations
+
+Craig Streem
+
+craigstreem@discover.com
+
+224-405-5923

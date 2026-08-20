@@ -1,0 +1,176 @@
+8-K 1 d328974d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) October 1, 2022
+
+[TABLE]
+Commission File Number of Issuing Entity: 333-75276 |  | Commission File Number of Issuing Entity: |  | 000-25762
+Central Index Key Number of Issuing Entity: 0001163321 |  | Central Index Key Number of Issuing Entity: |  | 0000922869
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST |  | CAPITAL ONE MASTER TRUST
+(Exact name of issuing entity as specified in its charter) |  | (Exact name of issuing entity as specified in its charter)
+(Issuing Entity of the Notes) |  | (Issuing Entity of the Collateral Certificate)
+[/TABLE]
+
+Central Index Key Number of Depositor: 0001162387
+
+CAPITAL ONE FUNDING, LLC
+
+(Exact name of Depositor as specified in its charter)
+
+Central Index Key Number of Sponsor: 0000047288
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+(Successor to Capital One Bank (USA), National Association)
+
+(Exact name of sponsor as specified in its charter)
+
+[TABLE]
+Virginia |  | 333-75276-01 |  | 54-2058720
+(State or other jurisdiction of incorporation) |  | (Commission File
+ Number) |  | (IRS Employer Identification
+ No.)
+1600 Capital One Drive
+ Room 27907-A
+ McLean, Virginia |  |  |  | 22102
+(Address of Principal Executive Office) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code (804) 284-2500
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):
+
+[ ] Written communication pursuant to
+Rule 425 under the Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-22 under the Exchange Act (17 CFR 240.14a-22)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of each exchange on which registered
+N/A |  | N/A |  | N/A
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+ ☐
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+
+Section 6 – Asset Backed Securities
+
+Item 6.02 – Change of Servicer.
+
+As discussed
+below under “Item 8.01. Other Events,” upon the merger of Capital One Bank (USA), National Association (“COBNA”) with and into Capital One, National Association (“CONA”), with CONA as the surviving entity, CONA
+assumed all rights, duties and obligations of COBNA in any capacity relating to the Capital One Master Trust (“COMT”) and the Capital One Multi-asset Execution Trust (“COMET”), including responsibility for originating credit card
+accounts and servicing the credit card receivables held by COMT.
+
+CONA is a national banking association, and a wholly-owned direct subsidiary of Capital
+One Financial Corporation (the “Corporation”), a bank holding company incorporated in Delaware on July 21, 1994. CONA’s principal executive offices are located at 1680 Capital One Drive, McLean, Virginia, 22102. CONA offers a
+broad spectrum of financial products and services to consumers, small businesses and commercial clients. CONA is a member of the Federal Reserve System, and its deposits are insured up to the applicable limits by the Federal Deposit Insurance
+Corporation.
+
+The Corporation is a diversified financial services holding company with assets totaling approximately $440 billion as of June 30,
+2022. The Corporation and its subsidiaries offer a broad array of financial products and services to consumers, small businesses and commercial clients.
+
+COBNA (or its affiliates) had been the servicer for COMT and had been servicing the credit card receivables in COMT since before November 22, 1994 (when
+it operated as a division of Signet Bank/Virginia, a wholly owned subsidiary of Signet Banking Corporation).
+
+Pursuant to a pooling agreement, the
+servicer is responsible for servicing, collecting, enforcing and administering the receivables in accordance with its customary and usual procedures for servicing receivables comparable to the receivables and the lending guidelines.
+
+Servicing activities to be performed by the servicer include: collecting and recording payments, communicating with accountholders, investigating payment
+delinquencies, card embossing, evaluating the increase of credit limits, providing billing and tax records to accountholders and maintaining internal records for each account. Managerial and custodial services performed by the servicer on behalf of
+COMT include providing assistance in any inspections of the documents and records relating to the accounts and receivables by the master trust trustee pursuant to the pooling agreement, maintaining the agreements, documents and files relating to the
+accounts and receivables as custodian for COMT and providing related data processing and reporting services for investor certificateholders of any series and on behalf of the master trust trustee.
+
+The servicer’s rights and obligations with respect to servicing the credit card receivables held by COMT are described in the prospectus filed with the
+SEC on June 8, 2022, which is included as
+
+part of the Registration Statement on Form SF-3 relating to the notes of COMET (File Nos. 333-262382, 333-262382-01, and 333-262382-02).
+
+Section 8 – Other Events.
+
+Item 8.01. Other
+Events.
+
+On October 1, 2022, the Corporation completed the merger of its wholly-owned subsidiary, COBNA with and into CONA, a wholly-owned subsidiary
+of the Corporation, with CONA as the surviving entity. By virtue of the merger, all property and rights and all of the liabilities and obligations of COBNA as they existed at the time of the merger became the property and rights and liabilities and
+obligations of CONA, which also became the successor to COBNA in each of its capacities in relation to Capital One Funding, LLC, as transferor, COMT and COMET, including as sponsor, servicer and asset originator.
+
+In connection with the merger, succession and related events described above, the documents listed below under “Item 9.01(d). Exhibits” were
+executed on October 1, 2022.
+
+Section 9 – Financial Statements and Exhibits.
+
+Item 9.01 (d). Exhibits.
+
+Exhibit Index
+
+Each of the following are filed as an Exhibit to this Report.
+
+[TABLE]
+Exhibit Number |  | Description
+Exhibit 3.1.1 |  | Second Amendment to Amended and Restated Limited Liability Company Agreement, dated as of October
+1, 2022, to the Amended and Restated Limited Liability Company Agreement of Capital One Funding, LLC, dated as of July 31, 2002, as amended by the First Amendment thereto, dated as of March 1, 2008.
+Exhibit 4.1.1 |  | Omnibus Securitization Agreements Assignment and Assumption Agreement, dated as of October 1, 2022.
+Exhibit 4.1.2 |  | Third Amendment to the Amended and Restated Receivables Purchase Agreement, dated as of October 1, 2022, to the Amended and Restated Receivables Purchase Agreement, dated as of August
+1, 2002, as amended and restated as of July 1, 2007, as amended by the First Amendment thereto, dated as of March 1, 2008, and as amended by the Second Amendment thereto, dated as of March 17, 2016.
+[/TABLE]
+
+[TABLE]
+Exhibit 4.1.3 |  | Second Amendment to Amended and Restated Pooling and Servicing Agreement, dated as of October 1, 2022, to the Amended and Restated Pooling and Servicing Agreement, dated as of September
+30, 1993, as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007 and March 17, 2016, and as amended by the First Amendment thereto, dated as of January 27, 2017.
+Exhibit 4.1.4 |  | First Amendment to Amended and Restated Series 2002-CC Supplement, dated as of October
+1, 2022, to the Amended and Restated 2002-CC Supplement, dated as of October 9, 2002, as amended and restated as of March 17, 2016.
+Exhibit 4.1.5 |  | First Amendment to Indenture, dated as of October 1, 2022, to the Indenture, dated as of October 9, 2002, as amended and restated as of January 13, 2006 and March 17, 2016.
+Exhibit 4.1.6 |  | Second Amendment to the Asset Pool 1 Supplement, dated as of October 1, 2022, to the Asset Pool 1 Supplement, dated as of October
+9, 2002, as amended by the First Amendment thereto, dated March 1, 2008.
+Exhibit 4.1.7 |  | Second Amendment to Transfer and Administration Agreement, dated as of October 1, 2022, to the Transfer and Administration Agreement, dated as of October
+9, 2002, as amended by the First Amendment thereto, dated as of March 1, 2008.
+Exhibit 4.1.8 |  | First Amendment to Defaulted Receivables Supplemental Servicing Agreement, dated as of October 1, 2022, to the Defaulted Receivables Supplemental Servicing Agreement, dated as of July 15, 2010.
+Exhibit 4.1.9 |  | First Amendment to Dispute Resolution Agreement, dated as of October 1, 2022, to the Dispute Resolution Agreement, dated as of March 17, 2016.
+Exhibit 4.1.10 |  | First Amendment to Asset Representations Review Agreement, dated as of October 1, 2022, to the Asset Representations Review Agreement, dated as of March 17, 2016.
+Exhibit 4.1.11 |  | First Amendment to Subservicing Agreement, dated as of October 1, 2022, to the Subservicing Agreement, dated as of January 1, 2006.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+CAPITAL ONE FUNDING, LLC
+Acting solely in its capacity as depositor of Capital One Master Trust and Capital One Multi-asset Execution Trust
+By: |  | /s/ Eric D. Bauder
+ |  | Name: Eric D. Bauder
+ |  | Title: Assistant Vice President
+[/TABLE]
+
+October 3, 2022

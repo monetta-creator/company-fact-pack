@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2021-11-05_0000927628-21-000310
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-11-05 (period 2021-11-04)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762821000310/cof-20211104.htm
+retrieved_at: '2026-08-20T02:54:21Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20211104.htm
+  role: raw
+  sha256: 84fa298a1d067c4efc7cd846d6fcb38932761fcfc5408e6ad1ff3caf2ddc9e23
+  size: 61565
+  stored: corpus
+- name: exhibit991-pressreleasedat.htm
+  role: exhibit
+  sha256: c3da611d7b60030b205bfab2856ed13cb88f7ff7d3d473d9c7096e31caa6b278
+  size: 10128
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 882c0e7cb92b96c950d93f10338ea75c740b9c812aee2e048de8a9dc15c75446
+  size: 10654
+  stored: corpus
+filed_date: '2021-11-05'
+period_end: '2021-11-04'
+extraction_method: lxml
+meta:
+  accession: 0000927628-21-000310
+  form: 8-K
+  items: 5.02,9.01

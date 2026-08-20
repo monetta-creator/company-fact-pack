@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/8-K_2018-09-13_0001193125-18-272850
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-09-13 (period 2018-09-13)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312518272850/d623504d8k.htm
+retrieved_at: '2026-08-20T02:55:49Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d623504d8k.htm
+  role: raw
+  sha256: e1b92ee315848c796d9afef3ab8a38fc012cea98367d2642107c4ca5f99c1c94
+  size: 17727
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: dccb8673ab095aa9c021af12078b8a7d78429846a6ed97b30e04a2ae14bef4e5
+  size: 4820
+  stored: corpus
+filed_date: '2018-09-13'
+period_end: '2018-09-13'
+extraction_method: lxml
+meta:
+  accession: 0001193125-18-272850
+  form: 8-K
+  items: 2.03,9.01

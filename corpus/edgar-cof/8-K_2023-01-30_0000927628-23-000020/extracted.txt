@@ -1,0 +1,143 @@
+false 0000927628 0000927628 2023-01-26 2023-01-26 0000927628 us-gaap:CommonStockMember 2023-01-26 2023-01-26 0000927628 cof:SeriesIPreferredStockMember 2023-01-26 2023-01-26 0000927628 cof:SeriesJPreferredStockMember 2023-01-26 2023-01-26 0000927628 cof:SeriesKPreferredStockMemberMember 2023-01-26 2023-01-26 0000927628 cof:SeriesLPreferredStockMemberMember 2023-01-26 2023-01-26 0000927628 cof:SeriesNPreferredStockMember 2023-01-26 2023-01-26 0000927628 cof:SeniorNotesDue2024Member 2023-01-26 2023-01-26 0000927628 cof:SeniorNotesDue2029Member 2023-01-26 2023-01-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+January 26, 2023
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) On January 26, 2023, the Compensation Committee (the “Committee”) and the independent members of the Board of Directors (the “Independent Directors”) of Capital One Financial Corporation (the “Company”) approved the 2023 compensation plans for Mr. Richard D. Fairbank, the Company’s Chairman and Chief Executive Officer, and the Company’s other current executives who are named executive officers (the “Named Executive Officers”). Consistent with the Company’s long-standing practice, the compensation plans take effect immediately and are designed to directly link Mr. Fairbank’s and the Named Executive Officers’ compensation with the Company’s performance over multiple time horizons and to align their interests with the interests of the Company’s stockholders. In addition, the Committee and the Independent Directors approved incentive awards to Mr. Fairbank and the Named Executive Officers for the 2022 performance year.
+
+2022 Incentive Award for the Chief Executive Officer
+
+In February 2022, the Committee and the Independent Directors approved a 2022 compensation plan for Mr. Fairbank that included the opportunity to receive a year-end incentive award in early 2023 based on the Company’s actual performance in 2022. Any such award would consist of performance share awards, and also could consist of deferred cash, an equity-based award, or both. The Committee’s and the Independent Directors’ determination regarding whether to make the year-end incentive award, the form of the awards and the value of the awards, was based on a qualitative evaluation of multiple factors, and all awards are completely at-risk based on the Company’s performance. After evaluating the Company’s performance in 2022, on January 26, 2023, the Committee and the Independent Directors approved a year-end incentive award to Mr. Fairbank totaling $26.125 million. The awards consist of:
+
+1. Performance share awards with an approximate aggregate value of $16.53 million ("CEO Performance Shares"), under which Mr. Fairbank may receive from 0% to 150% of a total target number of 142,372 shares of the Company’s common stock based on the Company’s performance over the three-year period from January 1, 2023 through December 31, 2025 (“Performance Period”). Approximately $4.13 million of the CEO Performance Shares (the “TSR PSUs”) will vest based entirely on the Company’s total shareholder return (“TSR”) relative to the Company’s peers over the Performance Period. $12.4 million of the CEO Performance Shares (the “Financial PSUs”) will vest based on the Company’s performance against a combination of two metrics: Common Dividends plus Growth of Tangible Book Value per share (“Growth of Shareholder Value”) and Adjusted Return on Tangible Common Equity (“Adjusted ROTCE”), as previously described in the Proxy Statement for the 2022 Annual Stockholder Meeting (the “2022 Proxy Statement”) with respect to the performance shares granted to Mr. Fairbank in February 2022. TSR, Growth of Shareholder Value and Adjusted ROTCE will each be assessed relative to a peer group consisting of companies in the KBW Bank Sector index, excluding custody banks. After the end of the Performance Period, the Committee will certify the Company’s performance and issue the corresponding number of shares of the Company’s common stock, if any, for each of the performance share awards.
+
+2. A deferred cash bonus in the amount of $4.25 million. The deferred cash bonus is mandatorily deferred for three years into the Company’s Voluntary Non-Qualified Deferred Compensation Plan and will pay out in the first calendar quarter of 2026.
+
+3. A grant of 24,555 restricted stock units (“RSUs”) with a grant date value of $2.85 million. The RSUs will vest in full on February 15, 2026, and settle in cash based on the Company’s average stock price over the fifteen trading days preceding the vesting date. The RSUs are subject to the same performance-based vesting provisions as described in the 2022 Proxy Statement with respect to the cash-settled RSUs granted to Mr. Fairbank in February 2022.
+
+2023 Compensation Plan for the Chief Executive Officer
+
+On January 26, 2023, the Committee and the Independent Directors approved a structure for Mr. Fairbank’s 2023 compensation plan that is substantially similar to the structure of Mr. Fairbank’s 2022 compensation plan and consists of an equity-based award in the form of RSUs and an opportunity to receive a year-end incentive award in early 2024 based on the Company’s actual performance in 2023. Similar to Mr. Fairbank’s 2022 plan, the awards provided for under the 2023 plan are completely
+
+1
+
+at-risk based on the Company’s performance, with payout opportunities deferred for three years. As in previous compensation plans for Mr. Fairbank, the 2023 compensation plan does not provide for a cash salary.
+
+Under the plan, on January 26, 2023, the Committee and the Independent Directors granted Mr. Fairbank 21,539 RSUs with a grant date value of $2.5 million that will vest in full on February 15, 2026 and settle in cash based on the Company’s average stock price over the fifteen trading days preceding the vesting date.
+
+Mr. Fairbank also has an opportunity to receive a year-end incentive award in early 2024 based on the Company’s actual performance in 2023 and Mr. Fairbank's contributions to such performance, solely at the discretion of the Committee and the Independent Directors. Any such award (a) will consist of performance share awards, including an award of TSR PSUs and Financial PSUs, under which he may receive from 0% to 150% of a target number of shares of the Company’s common stock based on the Company’s performance over the three year period from January 1, 2024 through December 31, 2026, and (b) may also consist of deferred cash, an equity-based award, or both. The Committee and the Independent Directors will have sole discretion on whether to make the year-end incentive award, the form of the awards and the value of the awards. The Committee and the Independent Directors will base these determinations on a qualitative evaluation of multiple factors, and any such awards will be completely at-risk based on the Company’s performance.
+
+2022 Incentive Awards for the Named Executive Officers
+
+On January 26, 2023, the Committee and the Independent Directors granted the Named Executive Officers awards that consisted of a cash incentive award, stock-settled RSUs, and performance shares in recognition of the Company’s and the executives’ performance in 2022. The terms and conditions of these cash incentive and equity awards are the same as the awards granted to the Named Executive Officers, as described in the 2022 Proxy Statement. Specifically, the stock-settled RSUs are subject to the same performance-based vesting provisions as described in the 2022 Proxy Statement with respect to the stock-settled RSUs granted to the Named Executive Officers in February 2022. The number of performance shares earned at vesting is based on relative performance and absolute performance measures, as described in the 2022 Proxy Statement with respect to the performance shares granted to the Named Executive Officers in February 2022.
+
+2023 Compensation Plan for the Named Executive Officers
+
+On January 26, 2023, the Committee and the Independent Directors approved a 2023 compensation plan for the Named Executive Officers, other than Mr. Fairbank, that is substantially similar to the structure of Named Executive Officers’ 2022 compensation plan. The total target compensation for 2023 for such Named Executive Officers ranges between $4.97 million and $6.73 million and consists of:
+
+1. Approximately 20% of the total target compensation for each Named Executive Officer will be paid as regular cash salary throughout the performance year.
+
+2. Approximately 25% of the total target compensation for each Named Executive Officer will consist of an opportunity to receive a cash incentive award in early 2024. The amount of any such cash incentive award will be determined solely in the discretion of the Committee and the Independent Directors based on a variety of company performance factors assessing the Company’s actual performance in 2023.
+
+3. The remaining approximately 55% of the total target compensation for each Named Executive Officer is expected to consist of equity incentive awards in the form of (a) restricted stock units that settle in shares of the Company’s common stock and (b) performance share awards. The equity incentive awards will be subject to the same terms and conditions as the equity incentive awards granted to the Named Executive Officers in 2022, as described in the 2022 Proxy Statement, and the awards, if any, will be granted to the Named Executive Officers in early 2024 solely in the discretion of the Committee and the Independent Directors and will be completely at-risk based on the individual executive’s performance in 2023.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+2
+
+[TABLE]
+Exhibit No. |  | Description
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: January 30, 2023 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+4

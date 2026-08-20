@@ -1,0 +1,24 @@
+doc_id: fdic/sod_cobna
+source: fdic
+source_tier: A
+doc_type: fdic-sod
+title: FDIC sod cobna
+url: https://api.fdic.gov/banks/sod?filters=CERT:33954
+retrieved_at: '2026-08-20T02:37:57Z'
+entity_ids:
+- cobna
+fetcher: fdic v1
+files:
+- name: sod.json
+  role: raw
+  sha256: 10164cc268359fcaa5191fe36412233659f1eaab0f56dbe4b2c796c74b0f4631
+  size: 43343
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: fe13652977868923f7bea988ecb9979f7fbcb36525e64a842d304e1ed61c3b45
+  size: 75
+  stored: corpus
+meta:
+  cert: '33954'
+  rows: 29

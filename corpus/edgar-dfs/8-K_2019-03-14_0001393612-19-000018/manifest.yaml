@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2019-03-14_0001393612-19-000018
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-03-14 (period 2019-03-14)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361219000018/monthlycreditcardstats2-28.htm
+retrieved_at: '2026-08-20T02:55:46Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: monthlycreditcardstats2-28.htm
+  role: raw
+  sha256: 7e55143504af1a0f21df9bb63d03a7ef847596b65f455676d78b47f8ad4df8c8
+  size: 37597
+  stored: corpus
+- name: exhibit9912-28x19.htm
+  role: exhibit
+  sha256: 0d1b2bdcb7099f46723c3e4658e64c784db84c0d41304088c65c2ffeee205184
+  size: 74155
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4ac4818065d63fba9db838fc0d45d63da75be304c4880bcf67a5add956e0d7b9
+  size: 7767
+  stored: corpus
+filed_date: '2019-03-14'
+period_end: '2019-03-14'
+extraction_method: lxml
+meta:
+  accession: 0001393612-19-000018
+  form: 8-K
+  items: 7.01,9.01

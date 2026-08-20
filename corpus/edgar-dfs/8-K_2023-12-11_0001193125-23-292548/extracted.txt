@@ -1,0 +1,194 @@
+false 0001393612 0001393612 2023-12-07 2023-12-07
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 7, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(c)
+
+On December 7, 2023, the Board of Directors (the “ Board ”) of Discover Financial Services (the “ Company ”) appointed Michael G. Rhodes as Chief Executive Officer and President of the Company and as a member of the Board, effective March 6, 2024 or such earlier date as mutually agreed between the Company and Mr. Rhodes as Mr. Rhodes’ start date (the “ Effective Date ”). In addition, on December 7, 2023, the Board of Directors (the “ Bank Board ”) of Discover Bank (the “ Bank ”) appointed Mr. Rhodes as President of the Bank and a member of the Bank Board as of the Effective Date. Mr. Owen, who has been serving as Interim Chief Executive Officer and President since August 14, 2023, will continue to serve as a director of each of the Company and the Bank as of the Effective Date.
+
+Mr. Rhodes has more than 25 years of experience in the financial services industry. Mr. Rhodes currently serves as Group Head for Canadian Personal Banking at TD Bank Group and previously served as Group Head, Innovation, Technology and Shared Services at TD Bank Group from 2017 to 2021 and as Head of the Consumer Bank and Wealth Management at TD Bank from 2015 to 2017. Mr. Rhodes joined TD Bank in 2011 to lead the North American Credit Card and Merchant Services business. Mr. Rhodes’ experience also includes leadership roles at both Bank of America and MBNA America Bank. Mr. Rhodes earned his Master of Business Administration from the Wharton School of Business at the University of Pennsylvania and holds a Bachelor of Science in engineering from Duke University.
+
+Mr. Rhodes has no family relationships with any director or executive officer of the Company. There are no arrangements or understandings between Mr. Rhodes and any other person pursuant to which Mr. Rhodes was selected as the Company’s Chief Executive Officer, and there are no transactions involving Mr. Rhodes that would be required to be reported under Item 404(a) of Regulation S-K.
+
+(e)
+
+Mr. Rhodes and the Company entered into a letter agreement on December 7, 2023, which provides the terms and conditions pursuant to which Mr. Rhodes will serve as Chief Executive Officer of the Company. Pursuant to the terms of the letter agreement, Mr. Rhodes initially will receive a base salary of $1,000,000, an annual short-term incentive award target of 200% of base salary pursuant to the Company’s short-term incentive program, and a long-term incentive award target of $7,000,000 pursuant to the Company’s 2023 Omnibus Incentive Plan and subject to the terms and conditions applicable to other members of senior management. In addition, Mr. Rhodes will receive (i) a make-whole equity award in consideration of equity compensation forgone at his current employer of $7,100,000 in the form of RSUs, which will vest in equal installments on December 31, 2024, 2025 and 2026 subject to continued employment, (ii) a make-whole cash award in consideration of cash compensation forgone at his current employer of $1,500,000, and (iii) a transition award of $750,000, payable on the Effective Date. In the event Mr. Rhodes is terminated by the Company for cause or resigns without good reason before the first anniversary of the Effective Date, he will be required to repay the make-whole cash award and transition award. In the event Mr. Rhodes is terminated by the Company without cause or resigns for good reason, any unvested portion of his make-whole equity award will continue vesting in accordance with its vesting schedule, subject to the effectiveness of a release of claims. In the event Mr. Rhodes’ employment with the Company terminates due to death or disability, any unvested portion of the make-whole equity award will accelerate immediately, subject to the effectiveness of a release of claims.
+
+Mr. Rhodes will be eligible to participate in the Company’s Severance Plan and Change in Control Severance Policy, which are described in the Company’s most recent proxy statement filed with the Securities and Exchange Commission on March 17, 2023, under the heading “Potential Payments upon a Termination or Change in Control.” If the Company terminates Mr. Rhodes’ employment without cause or he resigns for good reason before the second anniversary of the Effective Date, in lieu of any cash severance under the Severance Plan or Change in Control Severance Policy, and subject to the effectiveness of a release of claims, Mr. Rhodes will be entitled to cash
+
+severance equal to one and one half times the sum of base salary and target short-term incentive opportunity or, if such termination occurs within six months prior to or 24 months after a change in control, two times the sum of base salary and target short-term incentive opportunity.
+
+The foregoing description of the letter agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the letter agreement, which is attached hereto as Exhibit 10.1, and incorporated herein by reference.
+
+Item 8.01. Other Events.
+
+Copies of the press release announcing this change is attached as Exhibit 99.1 to this report.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Letter Agreement, dated as of December 7, 2023 between Discover Financial Services and Michael Rhodes.
+99.1 |  | Press Release of the Company dated December 11, 2023.
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: December 11, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]
+
+
+=== EXHIBIT d626255dex991.htm ===
+
+EX-99.1 3 d626255dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+FOR IMMEDIATE RELEASE
+
+Discover Financial Services Appoints Michael G. Rhodes Chief Executive Officer and President
+
+Rhodes Brings More than 25 Years of Consumer Banking, Financial, and Technology
+
+Leadership to the Role
+
+Riverwoods, IL,
+December 11, 2023 – Discover Financial Services (NYSE: DFS) today announced that the Company’s Board of Directors (the “Board”) has appointed Michael G. Rhodes Chief Executive Officer and President,
+effective on or before March 6, 2024, at which time he will be appointed to the Company’s Board of Directors. He will also serve as President of Discover Bank and will be appointed to the Discover Bank Board of Directors, effective the
+same date.
+
+John Owen, who has been serving as interim Chief Executive Officer and President of the Company and interim President of Discover Bank since
+August 14, 2023, will continue in this capacity until Mr. Rhodes officially joins Discover, after which Mr. Owen will continue to serve as a member of the Company’s Board of Directors and the Discover Bank Board of Directors.
+
+Mr. Rhodes is an accomplished financial industry executive bringing more than 25 years of experience to Discover. He most recently was the Group
+Head, Canadian Personal Banking at TD Bank Group. In that role Mr. Rhodes was responsible for a retail product division that served customers through a network of more than 1,000 branches, telephone support, and award-winning online and mobile
+capabilities. Since joining TD in 2011 to lead the North American Credit Card and Merchant Services business, Mr. Rhodes has also served as the Group Head, Innovation, Technology and Shared Services from 2017 to 2021. He brings deep expertise
+in the financial services industry and his prior roles include senior leadership positions at Bank of America and MBNA America Bank.
+
+Tom Maheras, Chair
+of the Board, said, “Michael’s appointment follows a comprehensive search process to identify the right leader to help the Company deliver on its strategic and financial goals. He is an experienced executive and proven leader who has
+worked in a variety of roles within the payments and banking industry around the globe and has a track record of successfully leading sophisticated financial services operations. I am confident that under his leadership, Discover will be able to
+reach its full potential and take care of its customers at the highest industry levels while continuing to advance its commitments to enhancing compliance, risk management and corporate governance.”
+
+Mr. Rhodes said, “I am honored to be joining Discover at such an important time for the Company and leading its 20,000 employees to deliver on their
+important mission of helping people achieve brighter financial futures. Throughout my career I’ve developed a clear understanding of what it takes to deliver a great customer experience at every touch point, and I am confident that with its
+strong foundation and employee-base, Discover is well-positioned to capitalize on the market opportunities ahead. I look forward to working with Tom and the management team and the rest of my colleagues, as Discover continues to advance its culture
+with a focus on compliance and serving customers while driving sustainable long-term financial performance.”
+
+Mr. Maheras concluded, “On behalf of the entire Board, I would also like to thank John for his
+leadership as we conducted our search for a permanent CEO. The Board and I look forward to continuing to benefit from John’s experience and insights as a member of our Board.”
+
+About Michael Rhodes
+
+Mr. Michael Rhodes joins
+Discover from TD Bank Group, where he served as Group Head for Canadian Personal Banking, the largest retail bank in Canada serving more than 13 million customers. Prior to that position Mr. Rhodes served as TD Bank’s Group Head,
+Innovation, Technology and Shared Services from 2017 to 2021 and previously served as Head of the Consumer Bank and Wealth Management at TD Bank, America’s Most Convenient Bank ® , where he
+helped drive industry leading growth, achieving several JD Power wins for Customer Experience, and substantially improving employee engagement. Mr. Rhodes joined TD in 2011 to lead the North American Credit Card and Merchant Services business.
+
+Mr. Rhodes’ experience also includes stints in leadership roles at both Bank of America and MBNA America Bank. He has worked in Canada, the
+United States, the United Kingdom, Spain, and Ireland in a variety of roles within payments and banking, including CEO of a portfolio company backed by a top-tier private equity fund, GTCR; CEO of MBNA Europe
+Bank Limited; and Chief Marketing Officer of MBNA America Bank. Mr. Rhodes earned his Master of Business Administration from the Wharton School at the University of Pennsylvania and holds a Bachelor of Science in engineering from Duke
+University.
+
+Michael is active in supporting several important social causes and currently serves on the Board of Trustees of Duke University. Prior
+community boards include the United Way of Delaware, the Boys and Girls Club, the Thurgood Marshall Scholarship Fund, Christiana Care Health Systems, the Delaware Symphony Orchestra, and Winterthur Garden Museum and Library.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the
+Discover ® card, America’s cash rewards pioneer, and offers private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking
+business. It operates the Discover Global Network ® comprised of Discover Network, with millions of merchants and cash access locations;
+PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance
+around the world. For more information, visit www.discover.com/company.
+
+Investor Contact:
+
+Eric Wasserstrom
+
+Investor Relations
+
+224-405-4555
+
+investorrelations@discover.com
+
+Media Contact:
+
+Leslie Sutton
+
+Corporate Communications
+
+224-405-1747
+
+lesliesutton@discover.com

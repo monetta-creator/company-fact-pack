@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2021-06-15_0001193125-21-191291
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-06-15 (period 2021-06-15)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312521191291/d51934d8k.htm
+retrieved_at: '2026-08-20T02:58:05Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d51934d8k.htm
+  role: raw
+  sha256: f92f90e66fca5fc498d6143aba675b7911d567ca17907462ee923504b7ab294f
+  size: 29807
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 65bccac52204bd76b7d3890f82bfcb1cb74e1c146666ee79dc4d4e4a287604c8
+  size: 4993
+  stored: corpus
+filed_date: '2021-06-15'
+period_end: '2021-06-15'
+extraction_method: lxml
+meta:
+  accession: 0001193125-21-191291
+  form: 8-K
+  items: '8.01'

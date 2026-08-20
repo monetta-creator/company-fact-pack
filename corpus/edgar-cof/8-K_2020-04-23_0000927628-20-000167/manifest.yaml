@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2020-04-23_0000927628-20-000167
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-04-23 (period 2020-04-23)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762820000167/q12020earningsrelease8-k.htm
+retrieved_at: '2026-08-20T02:46:55Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: q12020earningsrelease8-k.htm
+  role: raw
+  sha256: d9444835f6549f73b67ee030e701252a8c3b12de0cb9bdc2c77cbe52a02b074e
+  size: 69452
+  stored: corpus
+- name: q12020earningsrelease-ex991.htm
+  role: exhibit
+  sha256: 0f7ac0e9d7fffb4998c5817dc0025e78442b2053cd3415a447ebc824bb2b398f
+  size: 54972
+  stored: corpus
+- name: q12020earningsrelease-ex992.htm
+  role: exhibit
+  sha256: 11cf415317798998b58f12260563b8591bb3edc6a66b00c4afe23089d62a13f0
+  size: 2688217
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: be54fca541e6d03b3a00d7c571d6269a37b334395489f081ea60b8b787dcfd00
+  size: 94442
+  stored: corpus
+filed_date: '2020-04-23'
+period_end: '2020-04-23'
+extraction_method: lxml
+meta:
+  accession: 0000927628-20-000167
+  form: 8-K
+  items: 2.02,8.01,9.01

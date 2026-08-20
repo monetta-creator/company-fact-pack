@@ -1,0 +1,99 @@
+8-K 1 d684967d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current
+Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 28, 2019
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission
+File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction
+ of incorporation) |  | (IRS Employer
+ Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road, Riverwoods, Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or
+former address, if changed since last report)
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act or Rule 12b-2 of the Exchange Act.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+On January 28, 2019, the Company priced its offering of $600,000,000 aggregate principal amount of 4.500% Senior Notes due 2026 (the
+“Notes”), at a public offering price of 99.840% of the aggregate principal amount, and entered into an underwriting agreement with Barclays Capital Inc., Goldman Sachs & Co. LLC and Merrill Lynch, Pierce, Fenner & Smith
+Incorporated, as representatives of the underwriters listed on Schedule 1 thereto (the “Underwriting Agreement”) relating to the Notes. The sale of the Notes closed on January 31, 2019. The Notes were issued pursuant to a Senior
+Indenture, dated as of June 12, 2007, between the Company and U.S. Bank National Association, as trustee. The offering of the Notes has been registered under the Securities Act of 1933, as amended, by the Company pursuant to its Registration
+Statement on Form S-3 (Registration No. 333-225830). The Underwriting Agreement and the form of Note are filed as Exhibit 1.1 and Exhibit 4.1, respectively, to this
+Current Report on Form 8-K and are incorporated herein by reference. In connection with the issuance of the Notes, Sidley Austin LLP provided the Company with the legal opinion attached to this Current Report
+on Form 8-K as Exhibit 5.1.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+1.1 |  | Underwriting Agreement, dated January 28, 2019, between the Company and Barclays Capital Inc., Goldman Sachs & Co. LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated, as representatives to the several
+Underwriters listed on Schedule 1 thereto, relating to the Company’s senior notes offering
+4.1 |  | Form of 4.500% Senior Note due 2026
+5.1 |  | Opinion of Sidley Austin LLP
+23.1 |  | Consent of Opinion of Sidley Austin LLP (included in Exhibit 5.1)
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: January 31, 2019 |  |  |  |  |  | By: /s/ D. Christopher Greene
+ |  |  |  |  |  | Name: D. Christopher Greene
+ Title: Vice President, Acting General Counsel and Secretary
+[/TABLE]

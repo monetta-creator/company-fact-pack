@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2020-12-15_0001163321-20-000031
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2020-12-15 (period 2020-11-30)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332120000031/form10-dnovember2020.htm
+retrieved_at: '2026-08-20T02:57:02Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dnovember2020.htm
+  role: raw
+  sha256: e2216bcf31b3fec303585b5aeca3f29fa9f04c9bbf5cf569e526f3ed913ddc9c
+  size: 32761
+  stored: corpus
+- name: exhibit9912002-ccnovember2.htm
+  role: exhibit
+  sha256: 9c188eaa235e62f394b83b98c95f282f0114e6c99c8a6cff2691bd292eaca521
+  size: 157035
+  stored: corpus
+- name: exhibit992nhsnovember2020.htm
+  role: exhibit
+  sha256: 9e2de732292f40028a52014a35775140e7d9e95c8d6e984e4613f607b61dcad6
+  size: 465753
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 554e45853d77bb4a15f5a32f5c0721606bf90a1f119074c72b4a41199c31b266
+  size: 43937
+  stored: corpus
+filed_date: '2020-12-15'
+period_end: '2020-11-30'
+extraction_method: lxml
+meta:
+  accession: 0001163321-20-000031
+  form: 10-D
+  items: ''

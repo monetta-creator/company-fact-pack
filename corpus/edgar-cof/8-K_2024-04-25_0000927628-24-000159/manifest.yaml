@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2024-04-25_0000927628-24-000159
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2024-04-25 (period 2024-04-25)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762824000159/cof-20240425.htm
+retrieved_at: '2026-08-20T02:46:04Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20240425.htm
+  role: raw
+  sha256: a71572df826d6fb77f8bb568ba6d3dfd789140b9277f255a5c29526a188769cd
+  size: 40297
+  stored: corpus
+- name: ex991march2024creditmetrics.htm
+  role: exhibit
+  sha256: f2c82b0e757a26e5a052d81afc9c8e3ac3cf198b45e4a5da6b953d25aec3f0ea
+  size: 23467
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: a7851469fa8fef27b11b5236e6875fb996d6ba5a5f44b47a87e2f4e5077d8560
+  size: 7539
+  stored: corpus
+filed_date: '2024-04-25'
+period_end: '2024-04-25'
+extraction_method: lxml
+meta:
+  accession: 0000927628-24-000159
+  form: 8-K
+  items: 7.01,9.01

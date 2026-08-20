@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2021-10-28_0001393612-21-000043
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2021-10-28 (period 2021-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361221000043/dfs-20210930.htm
+retrieved_at: '2026-08-20T02:33:59Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20210930.htm
+  role: raw
+  sha256: c5d9035a9ccfbc7fe937f5e7706e2a32d44b8caa5aed910864ec83dd7aceec84
+  size: 4533049
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 8e9656677b319bc95515a8bbd8e9257b8d90111d75d7663d676ec1ddcd1253e2
+  size: 359570
+  stored: corpus
+filed_date: '2021-10-28'
+period_end: '2021-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001393612-21-000043
+  form: 10-Q
+  items: ''

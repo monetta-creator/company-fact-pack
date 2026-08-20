@@ -1,0 +1,948 @@
+#2020-056 
+ 
+UNITED STATES OF AMERICA 
+DEPARTMENT OF THE TREASURY 
+OFFICE OF THE COMPTROLLER OF THE CURRENCY 
+ 
+ 
+In the Matter of: 
+ 
+Citibank, National Association 
+Sioux Falls, South Dakota 
+ 
+) 
+) 
+) 
+) 
+) 
+ 
+ 
+AA-EC-2020-64 
+ 
+ CONSENT ORDER 
+ 
+WHEREAS, the Office of the Comptroller of the Currency (“OCC”) has supervisory 
+authority over Citibank, National Association (“Bank”); 
+WHEREAS, the OCC intends to initiate cease and desist proceedings against the Bank 
+pursuant to 12 U.S.C. § 1818(b), through the issuance of a Notice of Charges, for deficiencies in 
+its data governance, risk management, and internal controls that constitute unsafe or unsound 
+practices and that contributed to violations of law or regulation; 
+WHEREAS, in the interest of cooperation and to avoid additional costs associated with 
+administrative and judicial proceedings with respect to the above matter, the Bank, by and 
+through its duly elected and acting Board of Directors (“Board”), consents to the issuance of 
+this Consent Order (“Order”), by the OCC through the duly authorized representative of the 
+Comptroller of the Currency (“Comptroller”); and 
+NOW, THEREFORE, pursuant to the authority vested in the OCC by Section 8(b) of 
+the Federal Deposit Insurance Act, as amended, 12 U.S.C. § 1818(b), the OCC hereby orders 
+that: 
+  
+2 
+ 
+ARTICLE I 
+JURISDICTION 
+(1) The Bank is an “insured depository institution” as that term is defined in  
+12 U.S.C. § 1813(c)(2). 
+(2) The Bank is a national banking association within the meaning of 12 U.S.C. 
+§ 1813(q)(1)(A), and is chartered and examined by the OCC. See 12 U.S.C. § 1 et seq. 
+(3) The OCC is the “appropriate Federal banking agency” as that term is defined in 
+12 U.S.C. § 1813(q) and is therefore authorized to initiate and maintain this cease and desist 
+action against the Bank pursuant to 12 U.S.C. § 1818(b). 
+ARTICLE II 
+COMPTROLLER’S FINDINGS 
+ The Comptroller finds, and the Bank neither admits nor denies, the following: 
+(1) For several years, the Bank has failed to implement and maintain an enterprise-
+wide risk management and compliance risk management program, internal controls, or a data 
+governance program commensurate with the Bank’s size, complexity, and risk profile.  
+(2) The OCC has identified the following deficiencies, noncompliance with  
+12 C.F.R. Part 30, Appendix D, “OCC Guidelines Establishing Heightened Standards for 
+Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured 
+Federal Branches,” or unsafe or unsound practices with respect to the Bank’s enterprise-wide 
+risk management and compliance risk management program: 
+(a) failure to establish effective front-line units and independent risk 
+management as required by 12 C.F.R. Part 30, Appendix D; 
+(b) failure to establish an effective risk governance framework as required by 
+12 C.F.R. Part 30, Appendix D; 
+3 
+ 
+(c) failure of the Bank’s enterprise-wide risk management policies, standards, 
+and frameworks to adequately identify, measure, monitor, and control 
+risks; and 
+(d) failure of compensation and performance management programs to 
+incentivize effective risk management. 
+(3) The OCC has identified unsafe or unsound practices with respect to the Bank’s 
+internal controls, including, among other things, an absence of clearly defined roles and 
+responsibilities and noncompliance with multiple laws and regulations. 
+(4) The OCC has identified the following deficiencies, noncompliance with  
+12 C.F.R. Part 30, Appendix D, or unsafe or unsound practices with respect to the Bank’s data 
+quality and data governance, including risk data aggregation and management and regulatory 
+reporting:  
+(a) failure to establish effective front-line units, independent risk 
+management, internal audit, and control functions as required by 12 C.F.R. 
+Part 30, Appendix D; 
+(b) inability to develop and execute on a comprehensive plan to address data 
+governance deficiencies, including data quality errors and failure to 
+produce timely and accurate management and regulatory reporting; and 
+(c) inadequate reporting to the Board on the status of data quality and 
+progress in remediating identified deficiencies.  
+(5) In addition to the deficiencies, noncompliance with 12 C.F.R. Part 30, Appendix 
+D, and unsafe or unsound practices detailed in paragraphs (2) – (4) above, the OCC has 
+determined that Board and senior management oversight is inadequate to ensure timely, 
+4 
+ 
+appropriate actions to correct the serious and longstanding deficiencies and unsafe or unsound 
+practices in the areas of risk management, internal controls, and data governance at the Bank. 
+Furthermore, inadequate reporting to the Board hinders its ability to provide effective oversight.  
+(6) By reason of the foregoing conduct, the Bank was in noncompliance with  
+12 C.F.R. Part 30, Appendix D, and engaged in unsafe or unsound practices that were part of a 
+pattern of misconduct. 
+(7) The foregoing conduct also contributed to violations of law and regulation and 
+continuous noncompliance with 12 C.F.R. Part 30, Appendix D. Among other things, the Bank’s 
+deficiencies in internal controls and compliance risk management have contributed to violations 
+of laws and regulations and the OCC assessed civil money penalties in 2019 based specifically 
+on violations of the Fair Housing Act, 42 U.S.C. § 3601—19, and its implementing regulation, 
+24 C.F.R. Part 100; violations of the holding period for other real estate owned, 12 U.S.C. § 29 
+and 12 C.F.R. § 34.82; and in 2020 based specifically on violations of the Flood Disaster 
+Protection Act, as amended, 42 U.S.C. § 4012a(f), and its implementing regulations, specifically 
+12 C.F.R. § 22.7(a). 
+(8) The Bank has begun taking corrective action and has committed to taking all 
+ 
+ necessary and appropriate steps to remedy the deficiencies identified by the OCC.  
+ 
+ARTICLE III 
+ 
+COMPLIANCE COMMITTEE 
+(1) Within fifteen (15) days of the effective date of this Order, the Board shall 
+appoint a Compliance Committee of at least five (5) members of which a majority shall be 
+directors of the Bank who are not employees or officers of the Bank or any of its subsidiaries or 
+affiliates. The Board shall submit in writing to the Examiner-in-Charge the names of the 
+5 
+ 
+members of the Compliance Committee within ten (10) days of their appointment. In the event 
+of a change of the membership, the Board shall submit in writing to the Examiner-in-Charge 
+within ten (10) days the name of any new or resigning committee member. The Compliance 
+Committee shall monitor and oversee the Bank’s compliance with the provisions of this Order. 
+The Compliance Committee shall meet at least quarterly and maintain minutes of its meetings. 
+(2) Within one hundred twenty (120) days of the effective date of this Order, and on a 
+quarterly basis thereafter, the Compliance Committee shall submit to the Board a written 
+progress report setting forth in detail: 
+(a) reporting of data quality that includes metrics that are accurate and 
+meaningful; 
+(b) a description of the corrective actions needed to achieve compliance with 
+each Article of this Order and the associated milestones; 
+(c) the specific corrective actions undertaken to comply with each Article of 
+this Order and the associated milestones; and 
+(d) the results and status of the corrective actions. 
+(3) Upon receiving each written progress report, the Board shall forward a copy of 
+the report, with any additional comments by the Board, to the Examiner-in-Charge within forty-
+five (45) days of the end of each calendar quarter.  
+ARTICLE IV 
+COMPREHENSIVE ACTION PLAN 
+(1) The Bank shall develop an acceptable Consent Order Action Plan (“COAP”) 
+detailing the remedial actions necessary to achieve compliance with Articles VI through XII of 
+this Order. Separately, the Bank shall develop an acceptable Data Governance Plan (“DGP”) 
+6 
+ 
+detailing the remedial actions necessary to achieve compliance with Article V. Collectively, the 
+DGP and the COAP are referred to in this Order as “the Comprehensive Action Plan.” At the 
+time the Bank is required to submit the DGP pursuant to Article V, Paragraph (2), the Bank 
+shall submit the Comprehensive Action Plan to the Examiner-in-Charge for review and prior 
+written determination of no supervisory objection by the Deputy Comptroller. In addition to the 
+required contents of the DGP set forth in Article V, the Comprehensive Action Plan shall 
+specify: 
+(a) a description of the corrective actions needed to achieve compliance with 
+each Article of this Order; 
+(b)  reasonable and well-supported timelines for completion of the corrective 
+actions required by this Order, including the associated milestones; and 
+(c) the person(s) responsible for completion of the corrective actions required 
+by this Order.  
+(2) In the event the Deputy Comptroller requires changes to either the DGP or the 
+COAP, the Bank shall incorporate the required changes into the appropriate Plan and submit the 
+revised DGP or COAP to the Examiner-in-Charge for review and prior written determination of 
+no supervisory objection by the Deputy Comptroller. 
+(3) Upon receipt of a written determination of no supervisory objection from the 
+Deputy Comptroller, the Board, or a designated Board Committee, shall ensure the Bank has 
+timely adopted and implemented all corrective actions required by this Order, and shall verify 
+the Bank adheres to the Comprehensive Action Plan, including the timelines set forth within the 
+Plan.  
+7 
+ 
+(4) The Bank shall not take any action that will cause a significant deviation from, or 
+material change to, the Comprehensive Action Plan. Where the Bank considers modifications to 
+the DGP or COAP appropriate, the Bank shall submit a revised DGP or COAP containing the 
+proposed modifications to the Examiner-in-Charge for prior written determination of no 
+supervisory objection by the Deputy Comptroller. Upon receipt of a written determination of no 
+supervisory objection from the Deputy Comptroller, the Board, or a designated Board 
+Committee, shall ensure the Bank has timely adopted and implemented all corrective actions 
+required by this Order, and shall verify the Bank adheres to the revised DGP or COAP. 
+(5) Upon written request by the Deputy Comptroller or the Examiner-in-Charge, the 
+Bank shall modify the Comprehensive Action Plan to address deficiencies in Matters Requiring 
+Attention if such deficiencies substantially relate to Articles V thorough XII of this Order.   
+(6) Within ninety (90) days of receipt of a prior written determination of no 
+supervisory objection to the DGP and COAP, and on a quarterly basis thereafter, the Bank shall 
+prepare, and shall submit to the Board, a written DGP and COAP progress report setting forth in 
+detail: 
+(a) the specific corrective actions undertaken to comply with each Article of 
+this Order and to achieve associated milestones, 
+(b) the results and status of the corrective actions,  
+(c) a listing of all changes made to the Plans since the last progress report, and  
+(d) a description of the outstanding corrective actions needed to achieve 
+compliance with each Article of this Order and the party or parties 
+responsible for the completion of outstanding corrective actions. 
+The Board shall forward a copy of the report, with any additional comments by the Board, to the 
+8 
+ 
+Examiner-in-Charge within forty-five (45) days of the end of each calendar quarter. 
+(7) Within one hundred twenty (120) days of receipt of a prior written determination 
+of no supervisory objection to the Comprehensive Action Plan and annually thereafter, the 
+Bank’s Internal Audit department shall complete an assessment of the Bank’s progress towards 
+implementing and adhering to the Plan. The findings shall be memorialized in writing and 
+include the root causes and thematic analysis of any identified significant deficiencies. Within 
+thirty (30) days of completing the assessment, the findings shall be provided to the Compliance 
+Committee and the Examiner-in-Charge. 
+ARTICLE V 
+DATA GOVERNANCE PROGRAM 
+(1) Within one hundred twenty (120) days of the effective date of this Order, the 
+Bank shall perform an  analysis of its current data quality, aggregation, and management and  
+regulatory reporting policies, procedures, and processes, including its End-User-Computing  
+(“EUC”) processes, (collectively, “current data governance state”) to identify all gaps between  
+the Bank’s current data governance state and the ongoing and planned corrective actions required  
+to address all known data governance and EUC-related deficiencies identified by the Bank or the  
+OCC, and submit a report of the analysis (the “Data Governance Gap Analysis Report”)  to the  
+Examiner-in Charge.  
+(2)  Within ninety (90) days after the submission of the Data Governance Gap 
+Analysis Report, the Bank shall submit to the Examiner-in-Charge, for review and prior written 
+determination of no supervisory objection by the Deputy Comptroller, an acceptable DGP as 
+required by Article IV, Paragraph (1), designed to improve the Bank’s Data Governance 
+Program. The Data Governance Program, addressed through the DGP, shall ensure that data, 
+throughout its lifecycle, is accurate, consistent, timely, and complete and there is integrity in 
+9 
+ 
+processing in order to facilitate timely and accurate management and regulatory reporting so 
+that management can make prompt and effective decision-making during normal times and 
+periods of stress. 
+In addition to the requirements set forth in Article IV with respect to the DGP, the DGP 
+shall include: 
+(a) The remaining corrective action as identified in the analysis required by 
+   Paragraph (1) of this Article and identify the specific outcomes the Bank 
+   expects the remaining corrective action to achieve. 
+(b) A comprehensive data governance framework, operating model, and  
+management oversight that, at a minimum, shall: 
+(i) Establish clear roles, responsibilities, and accountability for 
+respective front-line units, independent risk management, internal 
+audit, and relevant control functions.  
+(ii) Identify the skills and expertise needed to execute the DGP and 
+any gaps with current staff, along with a program to develop, 
+attract, and retain talent and maintain appropriate staffing levels to 
+fulfill respective roles in the Bank’s Data Governance Program. 
+(iii) Ensure adequate financial resources to develop and implement the 
+DGP, and procedures for notifying the OCC of any material 
+changes: 
+1. to the financial resources allocated in the DGP that 
+received a written determination of no supervisory 
+objection; and 
+10 
+ 
+2. between the amount of financial resources actually 
+expended in connection with the DGP versus the amount 
+allocated in the DGP that received a written determination 
+of no supervisory objection. 
+(iv) Establish and ensure adherence to consistent and comprehensive 
+data policies, procedures, and standards.  
+(v) Strengthen procedures and processes for  identifying, reporting,  
+monitoring, escalating, and remediating all data quality concerns. 
+(vi) Strengthen procedures and processes for the continuous 
+improvement of data quality. 
+(vii) Implement policies, procedures, and processes for identifying and  
+    reporting significant exceptions to the Data Governance Program, 
+     DGP, or the policies, procedures, or processes adopted pursuant to 
+     this Paragraph to the Board or a designated Board Committee and 
+     either Board or designated Board Committee approval of the 
+     exception or timely remediation if not approved by the Board or 
+     designated Board Committee. 
+(viii) Implement a comprehensive training program on the Bank’s Data 
+     Governance Program for all personnel responsible for data quality, 
+     data aggregation, management and/or regulatory reporting, 
+     including the monitoring, testing, and/or validation of data quality, 
+     aggregation, and/or reporting, and adherence to the DGP. 
+11 
+ 
+(c) The comprehensive enterprise-wide adoption of improved foundational 
+capabilities for data quality, risk aggregation, and reporting. 
+(d) The thorough redesign of data architecture, re-engineering of processes, 
+and modernization of system applications and information technology 
+infrastructure that at a minimum shall: 
+(i) maximize straight-through processing and minimize manual  
+ 
+inputting and adjustments; 
+ 
+(ii) simplify and consolidate applications with common functionalities,  
+ 
+eliminate disparate systems, and strengthen data quality controls;   
+ 
+(iii) ensure that ledger and reporting systems are standardized to the  
+ 
+fullest extent possible; 
+ 
+(iv) ensure consistent adoption of authoritative data sources, reference  
+ 
+data sets, enterprise-data sets; and those ledger and reporting  
+ 
+systems that are standardized; 
+ 
+(v)  define enterprise-data sets that are shared across sectors and 
+ 
+business units;  
+.    
+(vi) establish inventory control over authoritative data sources and  
+ 
+reference data; and  
+ 
+(vii) ensure consistent enterprise-wide adherence by all business units  
+ 
+and third parties to standardized technology solutions and 
+ 
+minimize sector variances. 
+ 
+(e) Complete implementation of all improvements to data and systems relied 
+upon for liquidity risk management including:  
+12 
+ 
+(i) Board-approved tolerances for internal liquidity data quality 
+reporting metrics; 
+(ii) systems and reporting being produced in accordance with 
+timeframes needed by management to make decisions; 
+(iii) identification, inventory, and evaluation of limitations of all 
+systems and data sources required for report generation, and the 
+development and implementation of the corrective action 
+necessary to address these limitations; 
+(iv) procedures and testing requirements for validation of system(s) 
+data that feeds into liquidity reporting; and 
+(v) procedures and processes to ensure that senior management reports 
+to the Board include significant liquidity concentrations to ensure 
+they are within the Board’s risk tolerances. 
+(f) An EUC Tools Framework that shall, at a minimum, include: 
+ 
+(i) an action plan to reduce EUC tools required to achieve and 
+maintain complete, timely, and accurate regulatory, management, 
+and risk reporting during normal times and during times of stress; 
+(ii) the updating and implementation of enterprise-wide policies, 
+procedures, standards, and controls, as needed, for the use of EUC 
+tools; 
+(iii) policies and procedures to ensure that independent risk 
+management verifies the Bank’s compliance, on an ongoing basis, 
+13 
+ 
+with policies, procedures, standards, and controls for the use of 
+EUC tools; and 
+(iv) ongoing processes to inventory, track, and report compliance with 
+the policies, procedures, standards, and controls for the use of EUC 
+tools. 
+ARTICLE VI 
+ENTERPRISE-WIDE RISK MANAGEMENT PROGRAM  
+(1)  At the time the Bank is required to submit the DGP pursuant to Article V, 
+Paragraph (2), the Bank shall submit to the Examiner-in-Charge, for review and prior written 
+determination of no supervisory objection by the Deputy Comptroller, an acceptable Enterprise-
+Wide Risk Management Plan (“ERMP”) containing a complete description of the actions that 
+are necessary and appropriate to achieve compliance with this Article, including timeframes for 
+corrective action. In the event the Deputy Comptroller directs the Bank to revise the ERMP, the 
+Bank shall promptly make the necessary and appropriate revisions and submit the revised 
+ERMP to the Examiner-in-Charge for review and prior written determination of no supervisory 
+objection by the Deputy Comptroller. 
+(2) The Enterprise-Wide Risk Management Program, addressed through the ERMP, 
+shall, at a minimum, include enhancements that result in: 
+(a) Enterprise-wide risk management policies to improve the identification of 
+growing, emerging, or otherwise material concentrations and idiosyncratic 
+risks and better define exposures to such risks.  
+(b) A risk appetite framework that ensures: 
+(i) For risks with a quantitative risk appetite statement, the 
+development of metrics that align to the top risks within each key 
+14 
+ 
+risk area, including appropriately meaningful limits that reflect the 
+Board’s risk tolerances, which tolerances shall be tied to risk 
+appetite metrics utilized by front-line units.  
+(ii) Qualitative statements specify how risks will be measured. 
+(iii) Qualitative assessments within risk appetite reporting clearly 
+   indicate whether a risk is consistent with the Board-approved 
+   Risk Appetite Statement and that the conclusion is adequately 
+    supported and documented. 
+(c) A requirement that each front-line unit implement and adhere to a 
+comprehensive risk control self-assessment framework, to include:  
+(i) a description of the scope of all operations;  
+(ii) all significant risks associated with operations;  
+(iii) specific controls for each identified risk; and  
+(iv) an assessment of the controls, risk management, and compliance 
+  with the Bank’s risk appetite and associated limits or thresholds. 
+(d) The establishment and documentation of the responsibility and 
+accountability for risk management related functions in each front-line 
+unit and independent risk management unit including the establishment of 
+procedures and processes that clearly define risk management related roles 
+and responsibilities for each unit, and that ensures compliance with 
+enterprise-wide corporate policies, and laws and regulations.  
+15 
+ 
+(e) A program in each front-line unit and independent risk management unit 
+to measure, monitor, aggregate, limit, and control risks consistent with the 
+Bank’s: 
+(i) risk appetite statement and established policies relating to this 
+statement; 
+(ii) concentration risk limits and established policies relating to these 
+limits; 
+(iii) strategic, capital, and liquidity plans;  
+(iv) stress testing; and 
+(v) processes for new or modified product or services approval.  
+(f) The establishment of additional or modified key risk indicator metrics at 
+both the enterprise and line of business, or group, levels.  
+(g) The identification of the skills and expertise needed to execute the ERMP 
+and of any gaps with current staff, along with a program to develop, 
+attract, and retain talent and maintain appropriate staffing levels to fulfill 
+respective roles in the Bank’s enterprise-wide risk management 
+framework. 
+(h) Written policies and procedures to ensure that independent risk 
+management promotes effective oversight and control of risks that is 
+appropriately independent of the related line of business and that it has the 
+requisite stature, authority, and resources, including sufficient staffing to 
+provide such oversight and control. At a minimum, independent risk 
+management shall:  
+(i) review and enhance, as appropriate, its management structure to 
+16 
+ 
+ensure that it promotes effective and independent oversight and 
+control of risks; and 
+(ii) develop and implement effective monitoring and testing measures 
+for risks to ensure business lines, as relevant, follow applicable 
+laws, regulations, policies, and procedures, and properly remediate 
+any identified deficiencies; and to ensure effective testing of 
+design and execution of risk controls. 
+(i) Enterprise-wide policies and processes to ensure effective risk governance 
+and oversight when lines of business are realigned or redesigned. 
+(j)  Procedures and processes for identifying, reporting, escalating, and 
+remediating limit breaches, significant compliance concerns, and 
+significant risk management concerns and for documenting the 
+identification, reporting, escalation, and remediation of such concerns.   
+(k) A comprehensive training program for front-line and independent risk 
+management staff on the Bank’s Enterprise-Wide Risk Management 
+Program. 
+(l) Procedures and processes for identifying and reporting to the Board 
+significant exceptions to the Enterprise-Wide Risk Management Program, 
+ERMP, or the policies, procedures, or processes adopted pursuant to this 
+Paragraph and for requiring either Board approval of the exception or 
+timely remediation of the exception if not approved by the Board. 
+ (3) Upon receipt of a written determination of no supervisory objection to the ERMP, 
+the Board shall ensure that the Bank implements and adheres to the ERMP. Any proposed 
+changes or material deviation from the ERMP required by Paragraph (1) of this Article shall be 
+17 
+ 
+submitted in writing to the Examiner-in-Charge for review and prior written determination of no 
+supervisory objection by the Deputy Comptroller. 
+ARTICLE VII 
+COMPLIANCE RISK MANAGEMENT 
+(1) At the time the Bank is required to submit the DGP pursuant to Article V, 
+Paragraph (2), the Bank shall submit to the Examiner-in-Charge, for review and prior written 
+determination of no supervisory objection by the Deputy Comptroller, an acceptable 
+Compliance Risk Management Plan (“CRMP”) containing a complete description of the actions 
+that are necessary and appropriate to achieve compliance with this Article, including timeframes 
+for corrective action. In the event the Deputy Comptroller directs the Bank to revise the CRMP, 
+the Bank shall promptly make the necessary and appropriate revisions and submit the revised 
+CRMP to the Examiner-in-Charge for review and prior written determination of no supervisory 
+objection by the Deputy Comptroller. 
+(2) The Compliance Risk Management Program, addressed through the CRMP, shall, 
+at a minimum, include enhancements that result in: 
+(a) An effective compliance risk governance framework that establishes the 
+    roles, responsibilities, and accountability for respective front-line units and 
+    independent compliance risk management. 
+(b) The establishment of and adherence to policies, processes, and control 
+systems within front-line units to assess, measure, and limit regulatory 
+compliance exposures on an ongoing basis commensurate with the risk 
+profile and risk appetite of the Bank. 
+(c) The establishment of and adherence to policies, processes, and control 
+systems within independent compliance risk management to assess, 
+18 
+ 
+measure, aggregate, and limit regulatory compliance exposures on an 
+ongoing basis commensurate with the risk profile and risk appetite of the 
+Bank. 
+(d) Establishment of and adherence to procedures and processes designed to 
+result in compliance with laws, regulations, and Enterprise-wide corporate 
+policies. 
+(e) Establishment and implementation of and adherence to procedures and 
+processes to ensure that Enterprise-wide corporate policies are timely 
+updated on a periodic and as-needed basis to address changes in applicable 
+laws and regulations and to ensure the policies comply with the effective 
+date of such laws and regulations.  
+ (f) An effective, independent monitoring and testing function supported by 
+sufficiently skilled staff and resources that provides risk-based scope and 
+coverage to provide credible challenge and escalation of issues identified 
+by front-line units. 
+ (g) Enterprise-wide policies and processes to promote effective compliance 
+   governance and to develop and maintain an effective change management 
+   program to include the Bank’s products, services, geographies, and/or 
+   customer types. 
+ (h) A program to provide for effective third-party compliance risk 
+management.  
+ (i) Compliance information systems to measure, track, and report risk. 
+ (j) Procedures and processes for identifying, reporting, escalating, and 
+19 
+ 
+   remediating significant compliance concerns, including compliance 
+   risk management concerns, and for documenting the identification, 
+   reporting, escalation, and remediation of such concerns. 
+ (k) A comprehensive training program for front-line units, independent 
+   compliance risk units, and internal audit staff that addresses relevant state 
+   and federal laws and regulations and impending publicly-announced 
+   changes to state and federal laws and regulations. 
+ (3) Upon receipt of a written determination of no supervisory objection to the CRMP, 
+the Board shall ensure that the Bank implements and adheres to the CRMP. Any proposed 
+changes or material deviation from the CRMP required by Paragraph (1) of this Article shall be 
+submitted in writing to the Examiner-in-Charge for review and prior written determination of no 
+supervisory objection by the Deputy Comptroller. 
+ARTICLE VIII 
+CAPITAL PLANNING AND REPORTING 
+ (1) The Bank shall improve the Bank’s capital planning processes that shall, at a 
+minimum, ensure: 
+(a) the development of and adherence to effective governance over capital 
+planning and calculations; 
+(b) that capital and risk-weighted assets are appropriately identified and 
+reported; and 
+(c) that periodic assessments of the Bank’s capital calculations and 
+management and regulatory reporting ensure the capital calculations 
+adequately take into account the Bank’s size, complexity, and overall risk 
+profile.  
+20 
+ 
+ARTICLE IX 
+INTERNAL CONTROLS  
+(1) The Bank shall enhance the Bank’s internal controls to ensure, at a minimum, that 
+there are: 
+(a) Processes that require the relevant line(s) of business or another unit of the 
+    Bank, including front-line units and independent risk management, to: 
+(i) Perform analyses (or assess analyses previously performed) to 
+diagnose the root cause(s) of the underlying issues that led to 
+internal control related concerns identified by internal audit and/or 
+federal regulators since 2017 and during the time this Order is in 
+effect. The analysis shall, at a minimum, include: 
+1. the identification of control gaps, potential exposures, and 
+escalation issues;  
+2. the extent of the issue and root cause (i.e. whether systemic); 
+3. controllable and uncontrollable factors; and 
+4. evaluation of the relevant control design(s) and operating 
+control effectiveness.  
+(ii) Develop action plans to remediate the root cause(s), and implement 
+internal controls and oversight, where necessary, to prevent further 
+internal control-related concerns.  
+(iii) Assess whether any identified root cause issues may affect other 
+lines of business, products, or services and development of action 
+21 
+ 
+plans to remediate or prevent internal related concerns in those 
+other areas.   
+(b) Processes and procedures to ensure that the limit framework considers the 
+ unique aspects and complexity of the businesses and products to which the 
+  limit framework applies and adequately protects the Bank against levels of 
+  risk.  
+(c) Processes and procedures for reassessing limits whenever there are 
+    changes to the related methodology and assumptions.    
+(d) Policies, processes, and procedures for improving reporting to the Board 
+ and senior management that, at a minimum, shall: 
+(i) capture significant enterprise-level concentrations, exposures, and 
+limit breaches; and 
+(ii) include relevant underlying analysis of current and emerging risks, 
+ growth trends, and geographical concentrations. 
+ARTICLE X 
+STAFFING AND TECHNOLOGY RESOURCE ASSESSMENT 
+(1) At the time the Bank is required to submit the DGP required by Article V, 
+Paragraph (2), the Bank shall conduct and submit to the Board, with a copy to the Examiner-in-
+Charge, a Staffing Assessment (“Staffing Assessment”) for the Bank’s front-line unit functions 
+responsible for risk management, independent risk management functions, and the Bank’s 
+internal audit function to ensure the allocation of adequate resources. At a minimum, the 
+Staffing Assessment will: 
+(a) Identify the number of staff along with the aggregate skills and expertise 
+needed to execute and sustain a safe and sound system of internal controls 
+22 
+ 
+and risk management for the risk management functions of front-line 
+units, independent risk management functions, and internal audit and 
+identify any gaps in those aggregate skills and/or expertise within the 
+Bank’s current staff, including the appropriateness of where the staff has 
+more than one role across functions or business lines (“dual roles”) or 
+where staff has supervisors in more than one function or business (“matrix 
+reporting”). 
+  (b) Detail how the Bank will address any gaps or deficiencies, including dual 
+roles or matrix reporting, identified pursuant to Paragraph (1)(a) of this 
+Article. 
+(c) Ensure the Board performs an annual review of all dual roles and matrix 
+reporting and documents in writing its approval or disapproval of the dual 
+roles and matrix reporting. 
+  (d) Ensure a robust staffing model that provides for ongoing monitoring of the 
+Bank’s aggregate staffing for the risk management related functions in the 
+front-line units, independent risk management functions, and internal audit 
+function, including addressing the number, skill, and expertise gaps, and 
+dual roles and matrix reporting as identified. 
+(2) At the time the Bank is required to submit the DGP required by Article V, 
+Paragraph (2), the Bank shall conduct and submit to the Board, with a copy to the Examiner-in-
+Charge, a Technology Resource Assessment (“Technology Resource Assessment”) for the 
+Bank’s control functions that will provide for the allocation of adequate technology resources. 
+At a minimum, the Technology Resource Assessment will: 
+23 
+ 
+(a) Identify the number and types of technology resources needed to 
+    execute and sustain a safe and sound system of internal controls and risk 
+    management for control functions and identify any gaps in the number 
+    and/or types of resources currently allocated to control functions. 
+  (b) Detail how the Bank will address any gaps or deficiencies identified 
+    pursuant to Paragraph (2)(a) of this Article.  
+  (c) Ensure a robust resource model that provides for ongoing monitoring of 
+ the Bank’s allocation of technology resources for control functions, 
+ including addressing gaps in the number and types of resources as 
+ identified. 
+(3) The Compliance Committee shall ensure that management corrects any 
+deficiencies identified by the Staffing and Technology Resource Assessments and implements 
+any plans or recommendations resulting from these Assessments. 
+(4) Thereafter, the Compliance Committee shall ensure that the Bank, at least as 
+frequently as annually, evaluates: 
+(a) the number, skills, expertise, and roles of the staff in the aggregate for risk 
+management related functions in the front-line units, independent risk 
+management functions, and internal audit functions to determine if there 
+are any material deficiencies or gaps in skills or expertise or dual roles and 
+develops a plan to address any identified gaps, deficiencies, or dual roles; 
+and 
+(b) the number and types of technology resources in the control functions to 
+determine if there are any material deficiencies or gaps in the number or 
+24 
+ 
+types of such resources and develops a plan to address any identified gaps 
+or deficiencies. 
+ARTICLE XI 
+RESTRICTIONS ON SIGNIFICANT NEW ACQUISITIONS  
+(1) The Bank shall submit a request to the Examiner-in-Charge for prior written 
+determination of no supervisory objection by the Deputy Comptroller to any significant new  
+acquisitions, including portfolio or business acquisitions. Such request shall include a 
+certification by an appropriate member of the Executive Management Team, made after the 
+Bank has conducted an appropriate review process and analysis (“review process”), that 
+activities relating to the significant new acquisition, will comply with applicable laws and 
+regulations and that the activities would be integrated into any relevant remediations. In 
+addition, the request shall include relevant financial information related to the significant new  
+acquisition.  
+ (2) Within thirty (30) days of the effective date of this Order, the Bank shall submit to 
+the Examiner-in-Charge, for prior written determination of no supervisory objection by the 
+Deputy Comptroller, a plan detailing the proposed review process required by Paragraph (1) of 
+this Article. The proposed review process shall include the criteria the Bank will use to 
+determine if a new acquisition is significant and any categories of ordinary course transactions 
+that will be excluded from the definition of “significant new acquisition” (e.g. securitizations). 
+Once the Bank receives prior written determination of no supervisory objection from the Deputy 
+Comptroller to the review process, the Bank shall adopt, implement, and thereafter adhere to the 
+review process in submitting any request under Paragraph (1) of this Article. With the exception 
+of ordinary course transactions, such as hedging, market making, and securitization transactions 
+(to the extent consistent with recent historical levels), the Bank shall not complete any new 
+25 
+ 
+portfolio or business acquisitions until it has received prior written determination of no 
+supervisory objection to the review process from the Deputy Comptroller. 
+ (3) After the Bank has submitted a request with respect to any significant new 
+acquisition, the Bank may not complete the acquisition until the Bank receives prior written 
+determination of no supervisory objection from the Deputy Comptroller. 
+ARTICLE XII 
+BOARD AND MANAGEMENT OVERSIGHT 
+(1) The Bank shall enhance the effectiveness of oversight by the Board and senior 
+management in carrying out their oversight and governance of the Bank that shall, at a 
+minimum, ensure: 
+(a) Governance processes that shall provide for: 
+(i) review and credible challenge by a senior management risk 
+  committee;  
+(ii) a process for employees in the relevant business line or who are 
+responsible for developing, executing, or validating the 
+Comprehensive Action Plan to escalate concerns about decisions 
+with which they disagree to appropriate senior management; and 
+(iii) documented mapping and enhancement of senior management and 
+     Board committee risk reporting lines to ensure that there is 
+     effective, independent oversight of front-line units. 
+ (b) Board approval of the Risk Appetite Statement, on an annual basis, after 
+   an assessment of the prior year’s Board-approved Risk Appetite 
+   Statement, to ensure that quantitative metrics and limits and qualitative 
+   statements are relevant to the Bank’s top risks. Any necessary changes 
+26 
+ 
+   shall be made to the Risk Appetite Statement prior to the Board approval. 
+   This assessment and the rationale for determining whether any changes 
+   need to be made shall be documented. 
+ (c) Enterprise-wide policies and procedures for tracking, managing, and 
+   reporting current and former employee complaints, and ensuring any 
+   themes are appropriately identified and reported to a designated Board 
+   Committee. 
+ (d) A review by the Project Manager Office (PMO) staff of all current 
+   projects within the scope of the official PMO’s duties, which review shall 
+   be completed at or before the time the Bank is required to submit the DGP 
+   pursuant to Article V, Paragraph (2). In conducting the review, PMO staff 
+   shall: 
+(i) ensure that all current projects are being executed in accordance 
+  with regulatory principles and internal policy and standards;  
+(ii) document all gaps and deficiencies in the project management 
+function that were identified during this review, and develop an 
+action plan to address the identified gaps and deficiencies; and  
+(iii) issue a report to the appropriate business unit and independent risk 
+    management function that describes the gaps and deficiencies 
+    identified during this review and includes the action plan to 
+    address them.  
+ (e) Policies and procedures for improving the Bank’s project management to 
+   ensure that projects are managed, monitored, and reported appropriately. 
+27 
+ 
+   These shall, at a minimum, include: 
+ (i) Ensuring that all project plans clearly identify the specific desired 
+   outcomes. 
+(ii) Ensuring timely and comprehensive reviews by the Project 
+Manager Officer or Bank’s Project Management Council (“PMC”), 
+or its functional equivalent, as appropriate, of projects that fail to 
+meet the deadlines set forth in the original project plan, which 
+reviews shall determine the root cause(s) of the failure, and 
+ensuring the root causes of such failures are timely addressed. 
+(iii) A methodology to improve project planning sufficient to track and 
+evaluate, during the project’s lifecycle, the performance and 
+progress of projects and the personnel assigned to the project.  
+(iv) Assessing senior management in the project management function 
+to ensure project management senior management are appropriate 
+in terms of numbers, skills, and expertise to effectively plan, 
+manage, monitor, and report on projects, and ensuring that any 
+identified gaps are addressed.  
+(f) Prior to implementing new activities, products, services, or implementing 
+realignments or redesigns of business units, products, or services, the 
+development and implementation of formal governance and policies, 
+procedures, and processes (collectively, “governance and processes”) that 
+shall, at a minimum, include: 
+(i) Appropriate controls and risk management systems to ensure that 
+28 
+ 
+   risks are appropriately identified, measured, monitored, and 
+   controlled. 
+(ii) An approval process that ensures approvals are timely, conducted 
+ by the appropriate personnel, and documented. The approval 
+process shall include a review of the governance and processes 
+   required by this subparagraph. 
+(g) A description of the actions that the Board and Audit Committee will each 
+take to further improve its oversight of senior management, including holding 
+senior management accountable for implementing and maintaining the 
+corrective action required by this Order. This shall, at a minimum, include: 
+(i) Procedures and processes to ensure that reports to the Board, the 
+Audit Committee, and senior management are transparent and 
+comprehensive and contain thorough and complete analysis, 
+including thematic analysis. 
+(ii) Policies and procedures to ensure the Bank timely, fully, and 
+effectively remediates all matters requiring attention identified by 
+the OCC. 
+(iii) Policies and procedures to ensure that compensation and other 
+incentives are consistent with risk management objectives and 
+measurement standards including: 
+1. appropriate consequences for senior management and line 
+of business management for violations of the Bank’s 
+policies, applicable laws and regulations, and adverse risk 
+outcomes and control deficiencies; and 
+29 
+ 
+2. procedures and processes to ensure that compensation and 
+other incentives for senior management, independent risk 
+managers, and line of business management are consistent 
+with risk management objectives and measurement 
+standards and safe and sound operations. 
+ARTICLE XIII 
+GENERAL BOARD RESPONSIBILITIES 
+(1) The Board shall ensure that the Bank has timely adopted and implemented all 
+corrective actions required by this Order, and shall verify that the Bank adheres to the corrective 
+actions and they are effective in addressing the Bank’s deficiencies that resulted in this Order. 
+(2) In each instance in which this Order imposes responsibilities upon the Board, it is 
+intended to mean that the Board shall: 
+  (a) authorize, direct, and adopt corrective actions on behalf of the Bank as 
+    may be necessary to perform the obligations and undertakings imposed on 
+    the Board by this Order; 
+  (b) ensure the Bank has sufficient processes, management, personnel, control 
+    systems, and corporate and risk governance to implement and adhere to all 
+   provisions of this Order; 
+  (c) require that Bank management and personnel have sufficient training and 
+    authority to execute their duties and responsibilities pertaining to or 
+    resulting from this Order; 
+  (d) hold Bank management and personnel accountable for executing their 
+    duties and responsibilities pertaining to or resulting from this Order; 
+  (e) require appropriate, adequate, and timely reporting to the Board by Bank 
+30 
+ 
+    management of corrective actions directed by the Board to be taken 
+    under the terms of this Order; and 
+   (f) address any noncompliance with corrective actions in a timely and 
+    appropriate manner. 
+ARTICLE XIV 
+WAIVERS 
+(1) The Bank, by executing and consenting to this Order, waives: 
+(a) any and all rights to the issuance of a Notice of Charges pursuant to  
+12 U.S.C. § 1818; 
+  (b)  any and all procedural rights available in connection with the issuance of 
+    this Order; 
+(c) any and all rights to a hearing and a final agency decision pursuant to  
+12 U.S.C. § 1818 and 12 C.F.R. Part 19; 
+  (d) any and all rights to seek any type of administrative or judicial review of 
+    this Order;  
+  (e) any and all claims for fees, costs, or expenses against the OCC, or any of 
+    its officers, employees, or agents related in any way to this enforcement 
+    matter or this Order, whether arising under common law or under the 
+    terms of any statute, including, but not limited to, the Equal Access to 
+   Justice Act, 5 U.S.C. § 504 and 28 U.S.C. § 2412; 
+  (f) any and all rights to assert this proceeding, the consent to and/or the 
+    issuance of this Order, as the basis for a claim of double jeopardy in any 
+   pending or future proceeding brought by the United States Department of 
+31 
+ 
+   Justice or any other governmental entity; and 
+  (g) any and all rights to challenge or contest the validity of this Order. 
+ARTICLE XV 
+OTHER PROVISIONS 
+(1) Regarding the effect of this Order, and unless the OCC informs the Bank 
+otherwise in writing with respect to any or all of the subparts below: 
+(a) pursuant to 12 C.F.R. § 5.3(g)(5), the Bank may be treated as an “eligible 
+  bank” for the purposes of 12 C.F.R. Part 5, subject to the requirements 
+  contained in 12 C.F.R. § 5.3(g)(1)-(4); 
+(b) pursuant to 12 C.F.R. § 5.51(c)(7)(ii), the Bank is not subject to the 
+restrictions in 12 C.F.R. § 5.51 requiring prior notice to the OCC of 
+changes in directors and senior executive officers or the limitations on 
+golden parachute payments set forth in 12 C.F.R. Part 359, subject to the 
+requirements contained in 12 C.F.R. § 5.51(c)(7)(i), (iii); and 
+(c) pursuant to 12 C.F.R. § 24.2(e)(4), the Bank may be treated as an “eligible 
+  bank” for the purposes of 12 C.F.R. Part 24, subject to the requirements 
+  contained in 12 C.F.R. § 24.2(e)(1)-(3). 
+(2) This Order supersedes all prior OCC communications issued pursuant to 
+12 C.F.R. §§ 5.3(g)(5), 5.51(c)(7)(ii), and 24.2(e)(4). 
+ARTICLE XVI 
+CLOSING 
+(1) This Order is a settlement of the cease and desist proceeding against the Bank 
+contemplated by the OCC, based on the unsafe or unsound practices and violations of law 
+described in the Comptroller’s Findings set forth in Article II of this Order. The OCC releases 
+32 
+ 
+and discharges the Bank from all potential liability for a cease and desist order that has been or 
+might have been asserted by the OCC based on the practices and violations described in Article 
+II of this Order, to the extent known to the OCC as of the effective date of this Order. 
+Notwithstanding this release, the OCC expects the Bank to expeditiously undertake all 
+necessary and appropriate actions to achieve compliance with this Order. The OCC expressly 
+reserves its right to assess future civil money penalties, or take other supervisory and/or 
+enforcement actions, including in circumstances where the OCC determines that the Bank is not 
+making sufficient and sustainable progress towards achieving compliance with this Order. Such 
+actions could include issuing a cease and desist order pursuant to 12 U.S.C. § 1818(b)(6) that 
+imposes additional business restrictions, including possible limitations on the declaration or 
+payment of dividends, and/or requires the Bank to make changes to its senior executive officers 
+or any and/or all members of the Board. Moreover, nothing in this Order, however, shall prevent 
+the OCC from: 
+(a) instituting enforcement actions other than a cease and desist order against 
+    the Bank based on the Comptroller’s Findings set forth in Article II of this 
+    Order; 
+(b) instituting enforcement actions against the Bank based on any other 
+findings; 
+(d) instituting enforcement actions against institution-affiliated parties (as 
+defined by 12 U.S.C. § 1813(u)) based on the Comptroller’s Findings set 
+forth in Article II of this Order, or any other findings; or 
+(e) utilizing the Comptroller’s Findings set forth in Article II of this Order in 
+33 
+ 
+future enforcement actions against the Bank or its institution-affiliated 
+parties to establish a pattern or the continuation of a pattern. 
+(2) Nothing in this Order is a release, discharge, compromise, settlement, dismissal,  
+or resolution of any actions, or in any way affects any actions that may be or have been brought 
+by any other representative of the United States or an agency thereof, including, without 
+limitation, the United States Department of Justice. 
+(3) This Order is: 
+(a) a “cease-and-desist order issued upon consent” within the meaning of  
+12 U.S.C. § 1818(b); 
+(b) a “cease-and-desist order which has become final” within the meaning of 
+  12 U.S.C. § 1818(e); 
+(c) an “order issued with the consent of the depository institution” within the 
+  meaning of 12 U.S.C. § 1818(h)(2); 
+(d) an “effective and outstanding . . . order” within the meaning of 12 U.S.C. 
+ § 1818(i); and 
+(e) a “final order” within the meaning of 12 U.S.C. § 1818(i)(2) and (u). 
+(4) This Order is effective upon its issuance by the OCC, through the Comptroller’s 
+duly authorized representative. Except as otherwise expressly provided herein, all references to 
+“days” in this Order shall mean calendar days, and the computation of any period of time 
+imposed by this Order shall not include the date of the act or event that commences the period of 
+time. The provisions of this Order shall remain effective except to the extent that, and until such 
+time as, such provisions are amended, suspended, waived, or terminated in writing by the OCC, 
+through the Comptroller’s duly authorized representative. If the Bank seeks an extension, 
+34 
+ 
+amendment, suspension, waiver, or termination of any provision of this Order, or within any plan 
+or program submitted pursuant to this Order, the Board or Board-designee shall submit a written 
+request to the Deputy Comptroller asking for relief. Any request submitted pursuant to this 
+paragraph shall include a statement setting forth in detail the special circumstances that prevent 
+the Bank from complying with the relevant provision(s) of the Order or plan or program 
+submitted pursuant to this Order, and shall be accompanied by relevant supporting 
+documentation. The OCC’s decision concerning a request submitted pursuant to this paragraph, 
+which will be communicated to the Board in writing, is final and not subject to further review. 
+(5) The Bank will not be deemed to be in compliance with this Order until it has 
+adopted, implemented, and adhered to all of the corrective actions set forth in each Article of this 
+Order; the corrective actions are effective in addressing the Bank’s deficiencies; and the OCC 
+has verified and validated the corrective actions. An assessment of the effectiveness of the 
+corrective actions requires sufficient passage of time for the Bank to demonstrate the sustained 
+effectiveness of the corrective actions. 
+(6) This Order is not a contract binding on the United States, the United States 
+Treasury Department, the OCC, or any officer, employee, or agent of the OCC and neither the 
+Bank nor the OCC intends this Order to be a contract. 
+(7) Each citation, guidance, or issuance referenced in this Order includes any 
+subsequent citation, guidance, or issuance that replaces, supersedes, amends, or revises the 
+referenced cited citation, guidance, or issuance. 
+(8) No separate promise or inducement of any kind has been made by the OCC, or by 
+its officers, employees, or agents, to cause or induce the Bank to consent to the issuance of this 
+Order. 
+35 
+ 
+(9) All reports, plans, or programs submitted to the OCC pursuant to this Order shall 
+be forwarded, by overnight mail or via email, to the following: 
+   Greg Sullivan 
+Examiner-in-Charge 
+   Citibank, N.A. 
+   388 Greenwich St, Floor 20 
+   New York, NY 10013 
+ 
+or such other individuals or addresses as directed by the OCC. 
+ 
+(10) The terms of this Order, including this paragraph, are not subject to amendment or 
+modification by an extraneous expression, prior agreements, or prior arrangements between the 
+parties, whether oral or written. 
+ 
+IN TESTIMONY WHEREOF, the undersigned, authorized by the Comptroller as his duly 
+authorized representative, has hereunto set his signature on behalf of the Comptroller. 
+ 
+ //s// Digitally Signed, Dated: 2020.10.07 
+Greg J. Coleman 
+Deputy Comptroller 
+Large Bank Supervision 
+ 
+  
+36 
+ 
+IN TESTIMONY WHEREOF, the undersigned, as the duly elected and acting Board of  
+ 
+Directors of Citibank, N.A. have hereunto set their signatures on behalf of the Bank.  
+ 
+  /s/          October 2, 2020  
+ 
+Barbara J. Desoer (Chair) 
+/s/  
+ Date 
+October 2, 2020 
+Michael L. Corbat 
+/s/  
+ Date 
+October 2, 2020 
+Ellen M. Costello 
+/s/  
+ Date 
+October 2, 2020 
+Duncan P. Hennes 
+/s/  
+ Date 
+October 2, 2020 
+S. Leslie Ireland 
+/s/  
+ Date 
+October 2, 2020 
+James S. Turley 
+/s/  
+ Date 
+October 2, 2020 
+ Deborah C. Wright   Date 
+    

@@ -1,0 +1,169 @@
+8-K 1 d762950d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 25, 2019
+
+[TABLE]
+Commission File Number: |  | Commission File Number: |  | Commission File Number: |  | Commission File Number:
+333-141703-02; 333-167413; 333-191359; 333-205455-01;
+ 333-228025-02 |  | 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 333-228025-01;
+ 000-23108 |  | 333-205455;
+ 333-228025 |  | 333-141703-01;
+ 333-167413-01;
+ 333-191359-01;
+ 033-54804
+DISCOVER CARD EXECUTION NOTE
+ TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING
+ LLC |  | DISCOVER BANK
+(Exact name of issuing
+ entity in respect of the notes
+ as specified in charter) |  | (Exact name of issuing
+ entity in respect of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor
+ as specified in charter) |  | (Exact name of sponsor as
+ specified in charter)
+Delaware |  | Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the depositor) |  | (State or jurisdiction of
+ incorporation or organization
+ of the sponsor)
+c/o Wilmington Trust Company
+ Rodney Square North 1100
+North Market Street Wilmington, Delaware
+ 19890-0001 |  | c/o Discover Bank
+ 12 Read’s Way New
+Castle, Delaware 19720 |  | Discover Funding LLC
+ 12 Read’s Way New
+Castle, Delaware 19720 |  | Discover Bank
+ 12 Read’s Way New
+Castle, Delaware 19720
+(Address of principal
+ executive offices of the
+ issuing entity) |  | (Address of principal
+ executive offices of the
+ issuing entity) |  | (Address of principal
+ executive offices of the
+ depositor) |  | (Address of principal
+ executive offices of the
+ sponsor)
+[/TABLE]
+
+51-0020270
+
+(IRS Employer Identification No. of
+
+the sponsor and depositor)
+
+47-4047337
+
+(IRS Employer Identification No. of
+
+the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading
+ Symbol(s) |  | Name of each exchange
+ on which registered
+N/A |  | N/A |  | N/A
+[/TABLE]
+
+Item 1.01 Entry Into a Material Definitive Agreement
+
+On June 25, 2019, Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, entered into
+the Class A(2019-A) Terms Document. A copy of the Class A(2019-A) Terms Document is filed as Exhibit 4.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 8.01. Other Events
+
+Unregistered Sale of Class A(2019-A) Notes . On June 25, 2019, Discover
+Card Execution Note Trust sold the DiscoverSeries Class A(2019-A) Notes (the “ Notes ”) in reliance upon the exemption contained in Section 4(2) of the Securities Act of 1933, as
+amended. The initial principal amount of the Notes was $0, which amount may be increased from time to time, up to a maximum principal amount of $500,000,000. The Notes will be sold at par value for cash, with no applicable underwriting discounts or
+commissions. The Notes have an expected maturity date of July 15, 2022, which may be extended from time to time. Interest to be paid on the Notes will be a floating rate which will generally be based on LIBOR, the federal funds effective rate
+or the prime rate, but may be based on the pass-through costs of the purchaser’s commercial paper program, plus a margin. In connection with this issuance, the investor interest in receivables represented by the collateral certificate issued by
+the Discover Card Master Trust I that secures the DiscoverSeries Notes will be increased to the outstanding principal amount of the Notes any time there is an increase in the principal amount of the Notes. Discover Card Execution Note Trust will pay
+the net proceeds from the issuance to Discover Funding LLC in exchange for the increase in the investor interest in receivables represented by the collateral certificate.
+
+Item 9.01 Exhibits
+
+Exhibit 4.1 |  | Class A(2019-A) Terms Document between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee.
+
+INDEX TO EXHIBITS
+
+[TABLE]
+Exhibit No. |  | Description
+Exhibit 4.1 |  | Class A(2019-A) Terms Document between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+Date: June 28, 2019
+
+[TABLE]
+Discover Funding LLC
+ (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as
+registrant under Commission File Numbers 333-205455 and 333-228025)
+By: |  | /s/ Patricia S. Hall
+ |  | Patricia S. Hall
+ |  | Vice President, Chief Financial Officer and Treasurer
+Discover Bank
+ (as registrant under Commission File Numbers
+ 333-141703-01, 333-167413-01 and
+ 333-191359-01)
+By: |  | /s/ Patricia S. Hall
+ |  | Patricia S. Hall
+ |  | Vice President, Chief Financial Officer and Assistant Treasurer
+[/TABLE]

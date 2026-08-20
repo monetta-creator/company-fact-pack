@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2019-05-15_0000927628-19-000212
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-05-15 (period 2019-05-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000212/april2019creditmetricsform.htm
+retrieved_at: '2026-08-20T02:54:41Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: april2019creditmetricsform.htm
+  role: raw
+  sha256: 3aa64d4b62125b382505dfbd6f6241cf6b7a7ecc0089ee507da5133f97d4d3ca
+  size: 41590
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 338ed6298139dde5903a0553bc46ada80a50765c0cb6049a4adab2cea1755735
+  size: 4984
+  stored: corpus
+filed_date: '2019-05-15'
+period_end: '2019-05-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000212
+  form: 8-K
+  items: 7.01,9.01

@@ -1,0 +1,176 @@
+false 0001393612 0001393612 2023-11-29 2023-11-29
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 29, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events.
+
+On November 29, 2023, the Boards of Directors of Discover Financial Services and Discover Bank authorized management to stop accepting new applications for student loans February 1, 2024, explore the sale of the Discover Student Loans portfolio, and pursue the transfer of servicing of such loans to a third-party provider. A copy of the press release announcing such matter is attached as Exhibit 99.1 to this report.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of the Registrant dated November 29, 2023
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated November 29, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]
+
+
+=== EXHIBIT d465927dex991.htm ===
+
+EX-99.1 2 d465927dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER FINANCIAL SERVICES TO EXPLORE
+
+SALE OF DISCOVER STUDENT LOANS PORTFOLIO
+
+Company to Pursue Transfer of Servicing to Third-Party Provider and Plans to Cease Student Loan Originations February 1, 2024
+
+Riverwoods, IL, Nov. 29, 2023 – Discover Financial Services (NYSE: DFS) today announced that the Company’s Board of Directors
+(the “Board”) has authorized Discover management to explore the sale of the Discover Student Loans portfolio and the transfer of servicing of these loans to a third-party provider as it pursues strategic alternatives for the Discover
+Student Loans business.
+
+Additionally, Discover will stop accepting new applications for student loans February 1, 2024. There is no impact to
+current Discover Student Loans customers or their loans or payments at this time.
+
+“Discover’s Board regularly reviews the strategic fit of all
+of our businesses, with a focus on providing exceptional customer service and allocating resources to optimize returns,” said John Owen, Discover’s interim CEO and President. “During a recent review, the Board determined that
+exploring the sale and transfer of servicing of Discover’s student loans is aligned with those priorities, better enabling Discover to focus on our core banking products, capitalize on our growth opportunities and deliver long-term shareholder
+value. We are committed to a path forward that enables a seamless transition for our customers as they advance their education and financial goals.”
+
+Discover has retained Wells Fargo Securities, LLC as its financial advisor and Skadden, Arps, Slate, Meagher & Flom LLP as its legal advisor to
+support its exploration of strategic alternatives for Discover Student Loans.
+
+There is no deadline or definitive timetable set for completion of this
+process, and the Company does not intend to disclose developments unless and until the Board approves a specific transaction or determines that further disclosure is appropriate. Any decision by the Board to pursue or not pursue a strategic
+alternative for Discover Student Loans will be aligned with the Board’s objectives of maximizing shareholder value and strengthening the Company’s businesses and will be subject to then prevailing market conditions.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the
+Discover ® card, America’s cash rewards pioneer, and offers private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking
+business. It operates the Discover Global Network ® comprised of Discover Network, with millions of merchants and cash access locations;
+PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance
+around the world. For more information, visit www.discover.com/company.
+
+This press release contains forward-looking statements within the meaning of the
+Private Securities Litigation Reform Act of 1995. Such statements, which speak to our expected business and financial performance, among other matters, contain words such as “believe,” “expect,” “anticipate,”
+“intend,” “plan,” “aim,” “will,” “may,” “should,” “could,” “would,” “likely,” “forecast,” and similar expressions.
+
+Such statements are based on the current beliefs and expectations of our management and are subject to significant risks and uncertainties. Actual results may differ materially from those set
+forth in the forward-looking statements. These forward-looking statements speak only as of the date of this press release and there is no undertaking to update or revise them as more information becomes available.
+
+The following factors, among others, could cause actual results to differ materially from those set forth in the forward-looking statements: changes in
+economic variables, such as the availability of consumer credit, the housing market, energy costs, the number and size of personal bankruptcy filings, the rate of unemployment, the levels of consumer confidence and consumer debt and investor
+sentiment; the impact of current, pending and future legislation, regulation, supervisory guidance and regulatory and legal actions, including, but not limited to, those related to accounting guidance, tax reform, financial regulatory reform,
+consumer financial services practices, anti-corruption and funding, capital and liquidity; the actions and initiatives of current and potential competitors; our ability to manage our expenses; our ability to successfully achieve card acceptance
+across our networks and maintain relationships with network participants and merchants; our ability to sustain and grow our personal loan and home loan products; difficulty obtaining regulatory approval for, financing, closing, transitioning,
+integrating or managing the expenses of acquisitions of or investments in new businesses, products or technologies; our ability to manage our credit risk, market risk, liquidity risk, operational risk, legal and compliance risk and strategic risk;
+the availability and cost of funding and capital; access to deposit, securitization, equity, debt and credit markets; the impact of rating agency actions; the level and volatility of equity prices, commodity prices and interest rates, currency
+values, investments, other market fluctuations and other market indices; losses in our investment portfolio; limits on our ability to pay dividends and repurchase our common stock; limits on our ability to receive payments from our subsidiaries;
+fraudulent activities or material security breaches of our or others’ key systems; our ability to remain organizationally effective; our ability to increase or sustain Discover card usage or attract new customers; our ability to maintain
+relationships with merchants; the effect of political, economic and market conditions, geopolitical events, climate change, pandemics and unforeseen or catastrophic events; our ability to introduce new products and services; our ability to manage
+our relationships with third-party vendors, as well as those with which we have no direct relationship such as our employees’ internet service providers; our ability to maintain current technology and integrate new and acquired systems and
+technology; our ability to collect amounts for disputed transactions from merchants and merchant acquirers; our ability to attract and retain employees; our ability to protect our reputation and our intellectual property; our ability to comply with
+regulatory requirements; and new lawsuits, investigations or similar matters or unanticipated developments related to current matters. We routinely evaluate and may pursue acquisitions of or investments in businesses, products, technologies, loan
+portfolios or deposits, which may involve payment in cash or our debt or equity securities. In addition, there can be no assurance that the sale transaction or loan servicing transfer discussed in this press release will be completed, or that any
+condition or requirement to effectuate such sale or transfer, including any regulatory condition or requirement, will be satisfied.
+
+Additional factors
+that could cause the company’s results to differ materially from those described in the forward-looking statements can be found under “Risk Factors,” “Business—Competition,” “Business—Supervision and
+Regulation” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the company’s Annual Report on Form 10-K for the year ended December 31,
+2022, “Risk Factors” and “Management’s Discussion & Analysis of Financial Condition and Results of Operations” in the company’s Quarterly Report on Form 10-Q for the
+quarters ended September 30, 2023, June 30, 2023, and March 31, 2023 which are filed with the SEC and available at the SEC’s internet site ( http://www.sec.gov ) and subsequent reports on Forms 8-K.
+
+Investor Contact:
+
+Eric Wasserstrom
+
+Investor Relations
+
+224-405-4555 investorrelations@discover.com
+
+Media Contact:
+
+Matthew Towson
+
+Public Relations
+
+224-405-5649
+
+matthewtowson@discover.com

@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-04-24_0000927628-18-000166
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-04-24 (period 2018-04-24)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000166/march2018creditmetricsform.htm
+retrieved_at: '2026-08-20T02:54:52Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: march2018creditmetricsform.htm
+  role: raw
+  sha256: 4413045daa40ea08c9ecf9309cd3e265999a4512c9d262d4063b5788ba08af65
+  size: 39226
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 0e4542396d8dc1936a1027748d1151893ab04e1ab7813a67a118deccd8a320d1
+  size: 3716
+  stored: corpus
+filed_date: '2018-04-24'
+period_end: '2018-04-24'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000166
+  form: 8-K
+  items: 7.01,9.01

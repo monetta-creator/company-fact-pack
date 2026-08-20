@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2022-10-03_0001193125-22-256335
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-10-03 (period 2022-10-01)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312522256335/d328974d8k.htm
+retrieved_at: '2026-08-20T02:56:43Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d328974d8k.htm
+  role: raw
+  sha256: 6b17378a701af19a33921b7485c9f2673e32bee0200e187e2cd15c08a8b4cbd2
+  size: 33564
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 114770e333bc0d02956abfd9d13b6c159c3c2b27e8b8ea614f5af8c72594653e
+  size: 10447
+  stored: corpus
+filed_date: '2022-10-03'
+period_end: '2022-10-01'
+extraction_method: lxml
+meta:
+  accession: 0001193125-22-256335
+  form: 8-K
+  items: 6.02,8.01,9.01

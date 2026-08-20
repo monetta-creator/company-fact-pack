@@ -1,0 +1,72 @@
+8-K 1 a8-kdated31617.htm 8-K Document created using Wdesk 1 Copyright 2017 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+__________________________________
+
+FORM 8-K
+
+__________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+March 14, 2017
+
+Date of Report (Date of earliest event reported)
+
+__________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+__________________________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+__________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Item 5.02 | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) Effective on March 14, 2017, Capital One Financial Corporation (the “Company”) entered into a Non-Competition Agreement (the “Agreement”) with R. Scott Blackley, its Chief Financial Officer. The Agreement restricts Mr. Blackley from providing certain competitive services to any entity for a period of one year following separation from the Company. In consideration of these restrictions, the Agreement provides that if Mr. Blackley's employment is terminated by the Company for any reason other than death, disability or cause, Mr. Blackley will be entitled to receive payments equal to fifteen percent of Mr. Blackley’s total target compensation, subject to other terms and conditions, including compliance with the non-competition restrictions. Subject to such terms, Mr. Blackley would also be entitled to receive up to one year of subsidized health insurance premiums under COBRA, if Mr. Blackley is eligible and elects such coverage. There are no payments under the Agreement if Mr. Blackley terminates his employment voluntarily or if benefits are payable to him under a change of control agreement.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: March 16, 2017 | By: | /s/ John G. Finneran, Jr.
+ |  | John G. Finneran, Jr.
+ |  | General Counsel and Corporate Secretary
+[/TABLE]

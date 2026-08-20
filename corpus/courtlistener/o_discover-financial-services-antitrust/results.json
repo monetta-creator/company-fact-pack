@@ -1,0 +1,1017 @@
+[
+ {
+  "absolute_url": "/opinion/8730072/in-re-payment-card-interchange-fee-merchant-discount-antitrust-litigation/",
+  "attorney": "Robbins Geller Rudman & Dowd LLP, San Diego, CA, Robins, Kaplan, Miller & Ciresi L.L.P., Minneapolis, MN, Berger & Montague, P.C., Philadelphia, PA, for Class Plaintiffs., Arnold & Porter LLP, Holwell Shuster & Goldberg LLP, New York, NY, for Defendant Visa U.S.A. Inc., Morrison & Foerster LLP, New York, NY, for Defendant Bank of America., O\u2019Melveny & Myers LLP, New York, NY, for Defendant Capital One Bank (USA)., Sidley Austin LLP, Chicago, IL, for Defendant Citibank, N.A., Kutak Rock LLP, Omaha, NE, for Defendant First National Bank of Omaha., Jones Day, Washington, DC, for Defendant National City Corporation., Alston & Bird LLP, Atlanta, GA, for Defendant SunTrust Banks, Inc., Friedman Law Group LLP, New York, NY, for Plaintiffs in No. 05-cv-5074., Constantine Cannon LLP, New York, NY, for Plaintiff NATSO, Inc., Vorys, Safer, Seymour and Pease LLP, Columbus, OH, for Objector Target Corporation., Schlam, Stone & Dolan, LLP, New York, NY, for Amicus Curiae U.S. Public Research Interest Group., Boies, Schiller & Flexner LLP, New York, NY, for Objector American Express Co., Miller & Chevalier Chartered, Washington, DC, for Objector Blue Cross Blue Shield Entities., Law Offices of Edward F. Siegel, Denver, CO, for Objector Vicente Consulting LLC., Joshua R. Furman Law Corp., Sherman Oaks, CA, for Objector Jon M. Zimmerman., Ohio Attorney General Mike DeWine, Columbus, OH, for Objector State of Ohio., Kenny Nachwalter, P.A., Miami, FL, Sperling & Slater, Chicago, IL, Hangley Aronchick Segal Pudlin & Schiller, Harrisburg, PA, for the Individual Plaintiffs., Willkie Farr & Gallagher LLP, New York, NY, Paul, Weiss, Rifkind, Wharton & Garrison LLP, Washington, DC, for Defendant MasterCard International Incorporated., Shearman & Sterling LLP, New York, NY, for Defendant Barclays Bank., Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY, for Defendant JPMorgan Chase & Go., Keating Muething & Klekamp PLL, Cincinnati, OH, for Defendant Fifth Third Bancorp., Wilmerhale, New York, NY, for Defendant HSBC Finance Corporation., Pullman & Comley, LLC, Bridgeport, CT, for Defendant Texas Independent Bancshares, Inc., Patterson Belknap Webb & Tyler LLP, New York, NY, for Defendant Wachovia Bank, NA., Freedman Boyd Daniels Hollander Goldberg & Cline, P.A., Albuquerque, NM, for Plaintiffs in No. 05-cv-5075., Quinn Emanuel, New York, NY, for Objector Home Depot U.S.A., Inc., Emery, Celli, Brinckerhoff & Abady LLP, New York, NY, for Objector National Retail Federation., Perkins Coie LLP, San Francisco, CA, for Objector First Data Corporation., Kirkland & Ellis, New York, NY, for Objector Discover Financial Services., The Law Offices of John J. Pentz, Sud-bury, MA, for Defendant Daviss Donuts and Deli., Thrash Law Firm, P.A., Little Rock, AR, for R & M Objectors., State of California Department of Justice, Office of the Attorney General, San Francisco, CA, for Objector State of California.",
+  "caseName": "In re Payment Card Interchange Fee & Merchant Discount Antitrust Litigation",
+  "caseNameFull": "In re PAYMENT CARD INTERCHANGE FEE AND MERCHANT DISCOUNT ANTITRUST LITIGATION",
+  "citation": [
+   "986 F. Supp. 2d 207",
+   "87 Fed. R. Serv. 3d 589",
+   "2013 WL 6510737",
+   "2013 U.S. Dist. LEXIS 179340"
+  ],
+  "citeCount": 9,
+  "cluster_id": 8730072,
+  "court": "District Court, E.D. New York",
+  "court_citation_string": "E.D.N.Y",
+  "court_id": "nyed",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-12-13",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No. 05-MD-1720 (JG)(JO)",
+  "docket_id": 65995996,
+  "judge": "Gleeson",
+  "lexisCite": "2013 U.S. Dist. LEXIS 179340",
+  "meta": {
+   "timestamp": "2024-06-22T21:12:45.945861Z",
+   "date_created": "2022-11-26T07:24:58.200647Z",
+   "score": {
+    "bm25": 99.546616
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8713271,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T18:30:00.089615Z",
+     "date_created": "2022-11-26T07:24:58.212478Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nMEMORANDUM AND ORDER\n\nJOHN GLEESON, District Judge:\nCONTENTS\nA. Preliminary Statement.......................................................214\n1. Structure of a Credit Card Transaction; Interchange Fees....................214\n2. The Default Interchange Rule; Honor-all-Cards Rules; Anti-Steering Rules ...................................",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8713271
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/2471675/discover-financial-services-v-visa-usa-inc/",
+  "attorney": "Colin Ryle Kass, Michael Scott Becker, Patrick Maxwell Bryan, Kirkland & Ellis LLP (Washington), Washington, DC, Matthew L. Cantor, Jeffrey I. Shinder, Lloyd Edward Constantine, Constantine Cannon PC, Jennifer M. Hooper (Selendy), Laura Beth Kadetsky, Robert Samuel Cohen, Kirkland & Ellis LLP (NYC), New York, NY, William Harlow Pratt, Andrew George Horne, Kirkland and Ellis LLP, Palo Alto, CA, for Plaintiffs., Anthony D. Boecanfuso, Robert C. Mason, Susan G. Lee, Arnold & Porter LLP, Joseph Nicholas Froehlich, Lord, Bissell & Brook, LLP (NYC), Alexis Corine Lorenzo, Arman Y. Oruc, Joseph Frank Tringali, Scott Woodham Bulcao, Kevin James Ar-quit, Simpson Thacher & Bartlett LLP (NY), New York, NY, Ajay Bhanji Kundaria, Matthias Andreas Kamber, Paula Lenore Blizzard, Asim M. Bhansali, Keker & Van Nest LLP, San Francisco, CA, Erum Zehra Mirza, George Freeman Langendorf, Joseph Michael Catoe, Mona Luddy Benach, Patricia Lynn Stasco, Susan Booth Cassidy, Arnold & Porter, LLP, Washington, DC, Mona M. Stone, A. Kelly Turner, Lord, Bissell & Brook LLP (IL), Chicago, IL, for Defendants.",
+  "caseName": "Discover Financial Services v. Visa U.S.A. Inc.",
+  "caseNameFull": "DISCOVER FINANCIAL SERVICES, DFS Services, LLC, and Discover Bank, Plaintiffs, v. VISA U.S.A. INC., VISA International Service Association, MasterCard Incorporated, and MasterCard International Incorporated, Defendants",
+  "citation": [
+   "598 F. Supp. 2d 394",
+   "2008 U.S. Dist. LEXIS 63566",
+   "2008 WL 3884383"
+  ],
+  "citeCount": 5,
+  "cluster_id": 2471675,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2008-08-20",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "04-CV-7844 (BSJ)(DFE)",
+  "docket_id": 2338572,
+  "judge": "Barbara S. Jones",
+  "lexisCite": "2008 U.S. Dist. LEXIS 63566",
+  "meta": {
+   "timestamp": "2024-06-21T11:58:51.788645Z",
+   "date_created": "2014-10-30T23:29:07.465484Z",
+   "score": {
+    "bm25": 97.44731
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 1652,
+    "cites": [
+     104241,
+     106178,
+     106395,
+     107107,
+     107254,
+     107938,
+     108279,
+     109964,
+     110022,
+     110479,
+     111483,
+     111620,
+     111722,
+     112809,
+     131153,
+     201081,
+     609739,
+     685132,
+     697257,
+     748172,
+     783605,
+     1024016,
+     1607083,
+     2520977,
+     6936664,
+     6967467,
+     8408928,
+     8409862,
+     8959221,
+     9009817
+    ],
+    "download_url": null,
+    "id": 2471675,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T20:00:15.085784Z",
+     "date_created": "2013-10-30T09:45:20.554645Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "84553f4d031dc661784626b5a27ea475fe0f08a6",
+    "snippet": "\n(2008)\nDISCOVER FINANCIAL SERVICES, DFS Services, LLC, and Discover Bank, Plaintiffs,\nv.\nVISA U.S.A. INC., VISA International Service Association, MasterCard Incorporated, and MasterCard International Incorporated, Defendants.\nNo. 04-CV-7844 (BSJ)(DFE).\nUnited States District Court, S.D. New York.\nAugust 20, 2008.\n\nOPINION and ORDER\nBARBARA S.",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   2471675
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/1760607/discover-financial-services-dfs-services-llc-v-visa-usa-inc/",
+  "attorney": "Colin Ryle Kass, Michael Scott Becker, Patrick Maxwell Bryan, Kirkland & Ellis LLP, Washington, DC, Matthew L. Cantor, Jeffrey I. Shinder, Lloyd Edward Constantine, Constantine Cannon PC, Jennifer M. Hooper, Laura Beth Kadetsky, Robert Samuel Cohen, Kirkland & Ellis LLP, New York, NY, William Harlow Pratt, Andrew George Horne, Kirkland and Ellis LLP, Palo Alto, CA, for Plaintiffs., Anthony D. Boccanfuso, Robert C. Mason, Susan G. Lee, Arnold & Porter, LLP, Joseph Nicholas Froehlich, Lord, Bissell & Brook, LLP, Gary Richard Carney, Julia Tarver Mason, Kenneth Anthony Gallo, Paul, Weiss, Rifkind, Wharton & Garrison LLP, Kevin James Arquit, Arman Y. Oruc, Simpson Thacher & Bartlett LLP, Martin S. Hyman, Golenbock Eiseman Assor Bell & Peskoe LLP, New York, NY, Ajay Bhanji Kundaria, Matthias Andreas Kam-ber, Paula Lenore Blizzardy Asim M. Bhansali, Keker & Van Nest, LLP, San Francisco, CA, Erum Zehra Mirza, George Freeman Langendorf, Joseph Michael Ca-toe, Mona Luddy Benach, Patricia Lynn Stasco, Susan Booth Cassidy, Arnold & Porter LLP, Washington, DC, Mona M. Stone, A. Kelly Turner, Lord Bissell & Brook LLP, Chicago, IL, for Defendants.",
+  "caseName": "Discover Financial Services, DFS Services, LLC v. Visa U.S.A. Inc.",
+  "caseNameFull": "DISCOVER FINANCIAL SERVICES, DFS Services, LLC, and Discover Bank, Plaintiffs, v. VISA U.S.A. INC., Visa International Service Association, Mastercard Incorporated, and Mastercard International Incorporated, Defendants",
+  "citation": [
+   "582 F. Supp. 2d 501",
+   "2008 U.S. Dist. LEXIS 82441"
+  ],
+  "citeCount": 6,
+  "cluster_id": 1760607,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2008-10-14",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "04-CV-7844 (BSJ)(DFE)",
+  "docket_id": 1354479,
+  "judge": "Jones",
+  "lexisCite": "2008 U.S. Dist. LEXIS 82441",
+  "meta": {
+   "timestamp": "2024-06-21T05:56:32.341948Z",
+   "date_created": "2014-10-30T16:05:44.702141Z",
+   "score": {
+    "bm25": 88.93384
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     107938,
+     110831,
+     111777,
+     112903,
+     118271,
+     368855,
+     419638,
+     701265,
+     729928,
+     1292293,
+     2305250,
+     2471675,
+     2485163,
+     2563187,
+     2580693,
+     2974067
+    ],
+    "download_url": null,
+    "id": 1760607,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T11:54:28.805277Z",
+     "date_created": "2013-10-30T07:20:16.219389Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "1ebb18d5466bd7b76558b16ed2e6f4d0b9807d23",
+    "snippet": "\n582 F.Supp.2d 501 (2008)\nDISCOVER FINANCIAL SERVICES, DFS Services, LLC, and Discover Bank, Plaintiffs,\nv.\nVISA U.S.A. INC., Visa International Service Association, Mastercard Incorporated, and Mastercard International Incorporated, Defendants.\nNo. 04-CV-7844 (BSJ)(DFE).\nUnited States District Court, S.D. New York.\nOctober 14, 2008.\n*50",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   1760607
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9383865/in-re-payment-card-interchange-fee-and-merchant-discount-antitrust/",
+  "attorney": "",
+  "caseName": "In Re Payment Card Interchange Fee and Merchant Discount Antitrust",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 9383865,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2023-03-15",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "20-339-cv(L)",
+  "docket_id": 67012340,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-23T01:02:23.172835Z",
+   "date_created": "2023-03-15T15:00:44.687347Z",
+   "score": {
+    "bm25": 58.209858
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     91266,
+     181317,
+     216063,
+     402333,
+     563198,
+     661553,
+     780592,
+     790699,
+     796443,
+     1447275,
+     2327161,
+     2961544,
+     4392034,
+     4396211,
+     4399802,
+     4444415,
+     4513255,
+     4566352,
+     6985405,
+     8409368,
+     8411761,
+     8413706,
+     8414071,
+     8414259,
+     8414747,
+     8713928,
+     8776108,
+     9417339,
+     9423807,
+     9426837,
+     9429188,
+     9432653,
+     9441858,
+     9485780,
+     9888385
+    ],
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/28ee6792-2b5a-411b-a887-9787f39817bf/3/doc/20-339_complete_opn.pdf",
+    "id": 9379341,
+    "joined_by_ids": [],
+    "local_path": "pdf/2023/03/15/in_re_payment_card_interchange_fee_and_merchant_discount_antitrust.pdf",
+    "meta": {
+     "timestamp": "2025-11-28T19:00:12.501289Z",
+     "date_created": "2023-03-15T15:00:44.689503Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "97652a9ca97e846d9a77f3985e8891426ca02bde",
+    "snippet": "     20-339-cv(L)\n     In re Payment Card Interchange Fee and Merchant Discount Antitrust Litigation\n 1\n 2                        UNITED STATES COURT OF APPEALS\n 3                            FOR THE SECOND CIRCUIT\n 4                              ____________________\n 5\n 6                                    August Term, 2021\n 7\n 8   (Argued: March 16, 2022                               Decided:     March 15, 2023)\n 9\n10                        Docket Nos. 20-339(L), 20-340(CON),\n11                ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9379341
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/1571656/in-re-payment-card-interchange-fee-merchant-discount-antitrust-litigation/",
+  "attorney": "",
+  "caseName": "In Re Payment Card Interchange Fee & Merchant Discount Antitrust Litigation",
+  "caseNameFull": "In Re PAYMENT CARD INTERCHANGE FEE AND MERCHANT DISCOUNT ANTITRUST LITIGATION",
+  "citation": [
+   "562 F. Supp. 2d 392",
+   "2008 U.S. Dist. LEXIS 104299",
+   "2008 WL 2428213"
+  ],
+  "citeCount": 5,
+  "cluster_id": 1571656,
+  "court": "District Court, E.D. New York",
+  "court_citation_string": "E.D.N.Y",
+  "court_id": "nyed",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2008-05-14",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "05-MD-1720 (JG)(JO)",
+  "docket_id": 1136796,
+  "judge": "John Gleeson",
+  "lexisCite": "2008 U.S. Dist. LEXIS 104299",
+  "meta": {
+   "timestamp": "2024-06-21T04:43:16.146257Z",
+   "date_created": "2014-10-30T14:33:15.630154Z",
+   "score": {
+    "bm25": 42.54936
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 1216,
+    "cites": [
+     2716,
+     105408,
+     107254,
+     112744,
+     112809,
+     145730,
+     539814,
+     743583,
+     780352,
+     783605,
+     794387,
+     1236186,
+     1442497,
+     1458415,
+     1885231,
+     2327161,
+     2469364,
+     2482741,
+     2504509
+    ],
+    "download_url": null,
+    "id": 1571656,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T09:55:39.796514Z",
+     "date_created": "2013-10-30T06:48:49.015674Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "7d4403c98682cb31744d93a6495f5f28b8ac4039",
+    "snippet": "\n562 F.Supp.2d 392 (2008)\nIn re PAYMENT CARD INTERCHANGE FEE AND MERCHANT DISCOUNT ANTITRUST LITIGATION.\nNo. 05-MD-1720 (JG)(JO).\nUnited States District Court, E.D. New York.\nMay 14, 2008.\n\n\n*394 ORDER\n\nJOHN GLEESON, District Judge:\nHaving reviewed the objections to Magistrate Judge Orenstein's January 11, 20",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   1571656
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/1195070/ross-v-bank-of-america-na-usa/",
+  "attorney": "Merrill G. Davidoff, Berger & Montague, P.C., Philadelphia, PA (Ruthanne Gordon, Peter Nordberg, Charles Pearsall Goodwin, David A. Langer; Bonny E. Sweeney, Joseph D. Daley, Christopher M. Burke, Lerach Coughlin Stoia Geller Rud-man & Robbins LLP, San Diego, CA; Dennis Stewart, Hulett Harper Stewart, San Diego, CA, on the brief), Counsel of Record for Plaintiffs-Appellants., Robert D. Wick, Covington & Burling LLP, Washington, DC (Charles E. Buffon, Virginia M. Rosado Desilets; Peter E. Greene, Cyrus Amir-Mokri, Peter S. Julian, Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY, on the brief), for Defendants-Appellees JPMorgan Chase & Co. and Chase Bank USA, N.A., Paul W. Bartel, II, Davis Polk & Ward-well, New York, N.Y. (Arthur F. Golden, on the brief), for Defendants-Appellees Discover Financial Services, LLC (sued under its former name, Discover Financial Services, Inc.), Discover Bank and Novus Credit Services Inc., Benjamin R. Nagin, Sidley Austin LLP, New York, N.Y. (David F. Graham, Robert N. Hochman, Eric H. Grush, Sidley Austin LLP, Chicago, IL; John K. Van De Weert, Sidley Austin LLP, Washington, DC, on the brief), for Defendants-Appellees Citigroup Inc., Citibank (South Dakota), N.A., for itself and as successor-in-interest to Universal Bank, N.A. and Citibank USA, National Association; Universal Financial Corp., and Citicorp Diners Club Inc., Mark P. Ladner, Morrison & Foerster LLP, New York, N.Y. (William R. Wade-Gery, Michael H. Gifford; Christopher R. Lipsett, Wilmer Cutler Pickering Hale and Dorr LLP, New York, NY; Daniel Squire, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, DC, on the brief), for Defendants-Appellees Bank of America, N.A. (USA), MBNA America Bank, N.A., and MBNA America (Delaware), N.A., Andrew Frackman, O\u2019Melveny & Myers LLP, New York, N.Y. (Edward D. Hassi, John Tully, on the brief), for Defendants-Appellees Capital One Bank and Capital One, F.S.B., George A. Cumming, Jr., Morgan, Lewis & Bockius LLP, San Francisco, CA (Kent M. Roger; Harry T. Robins, Morgan, Lewis & Bockius LLP, New York, NY, on the brief), for Defendants-Appellees HSBC Finance Corporation and HSBC Bank Nevada, N.A., Alexander Geiger, Geiger and Rothen-berger, LLP, New York, N.Y. (Burt M. Rublin, Edward D. Rogers, Ballard Spahr Andrews & Ingersoll LLP, Philadelphia, PA, on the brief), for Defendants-Appel-lees Providian Financial Corp. and Providi-an National Bank.",
+  "caseName": "Ross v. Bank of America, N.A. (USA)",
+  "caseNameFull": "Robert ROSS, Andrea Kune, Woodrow Clark III, Herve Senequier, S. Byron Balbach Jr., Matthew Grabell, Paul Impellezzeri, on Behalf of Themselves and All Others Similarly Situated, Plaintiffs-Appellants, v. BANK OF AMERICA, N.A. (USA), Capital One Bank, Capital One F.S.B., J.P. Morgan Chase & Co., Chase Bank USA, N.A., Citigroup, Inc., Citibank (South Dakota), N.A., Citibank, USA N.A., Citicorp Diners Club Inc., Universal Bank, N.A., Universal Financial Corp., Novus Credit Services, Inc., Discover Financial Services, Inc., Discover Bank, HSBC Finance Corporation, MBNA America Bank, N.A., MBNA America Bank (Delaware), N.A., Providian Financial Corporation, Providian National Bank, Inc., Defendants-Appellees, American Express Travel Related Services Company, Interested-Party",
+  "citation": [
+   "524 F.3d 217",
+   "2008 U.S. App. LEXIS 8927",
+   "2008 WL 1836640"
+  ],
+  "citeCount": 155,
+  "cluster_id": 1195070,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2008-04-25",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Docket 06-4755-cv",
+  "docket_id": 524540,
+  "judge": "Levad, Sotomayor, Parker",
+  "lexisCite": "2008 U.S. App. LEXIS 8927",
+  "meta": {
+   "timestamp": "2024-06-21T02:20:31.934234Z",
+   "date_created": "2016-01-14T18:43:22.384101Z",
+   "score": {
+    "bm25": 21.952003
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     2716,
+     109301,
+     109586,
+     110831,
+     111677,
+     112348,
+     112747,
+     145701,
+     145730,
+     769977,
+     775931,
+     781624,
+     795745,
+     796422,
+     1447427,
+     6943869,
+     6966685,
+     8409947,
+     8410284
+    ],
+    "download_url": null,
+    "id": 1195070,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T05:39:52.891386Z",
+     "date_created": "2013-10-30T04:53:03.770798Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "54afa4daf2793b37e81904f9b5c62f56e9257bf2",
+    "snippet": "\n524 F.3d 217 (2008)\nRobert ROSS, Andrea Kune, Woodrow Clark III, Herve Senequier, S. Byron Balbach Jr., Matthew Grabell, Paul Impellezzeri, on behalf of themselves and all others similarly situated, Plaintiffs-Appellants,\nv.\nBANK OF AMERICA, N.A. (USA), Capital One Bank, Capital One F.S.B., J.P. Morgan Chase & Co., Chase Bank USA, N.A., Citigroup, Inc., Citibank (South Dakota), N.A., Citibank, USA N.A., Citicorp Diners Club Inc., Universal Ba",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [
+   1916,
+   2499,
+   3045
+  ],
+  "panel_names": [
+   "Pierre Nelson Leval",
+   "Barrington Daniels Parker Jr.",
+   "Sonia Sotomayor"
+  ],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   1195070
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/2960059/ross-v-bank-of-america-na-usa/",
+  "attorney": "",
+  "caseName": "Ross v. Bank of America N.A. (USA)",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 2960059,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2008-04-25",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "06-4755-CV",
+  "docket_id": 2817218,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-21T16:16:16.934766Z",
+   "date_created": "2015-09-17T18:20:26.915671Z",
+   "score": {
+    "bm25": 18.883255
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     2716,
+     109301,
+     109586,
+     110831,
+     111677,
+     112348,
+     112747,
+     145701,
+     145730,
+     731321,
+     775931,
+     781624,
+     795745,
+     796422,
+     1447427,
+     6966685,
+     8409947,
+     8410206,
+     8410284
+    ],
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/5abe95fd-56f5-433a-a0c6-21c71dfccb48/2/doc/06-4755-cv_opn.pdf",
+    "id": 2960059,
+    "joined_by_ids": [],
+    "local_path": "pdf/2008/04/25/ross_v._bank_of_america_n.a._usa.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T01:22:32.904278Z",
+     "date_created": "2015-09-17T17:39:55.238264Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "e907f19d39a4b6cc5ddc4aded2b16463cc7044bd",
+    "snippet": "06-4755- CV\nRoss v. Bank of America N.A. (USA)\n\n\n\n                        UNITED STATES COURT OF APPEALS\n                             FOR THE SECOND CIRCUIT\n                              _____________________\n\n                                   August Term, 2007\n\n(Argued: October 25, 2007                                         Decided: April 25, 2008)\n\n                                 Docket No. 06-4755-cv\n\n                                _____________________\n\n ROBERT ROSS, ANDREA KUNE, WOODRO",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   2960059
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8722617/state-ex-rel-louie-v-jp-morgan-chase-co/",
+  "attorney": "L. Richard Fried, Jr., Patrick F. McTernan, Cronin Fried Sekiya Kekina & Fairbanks, Honolulu, HI, J. Burton Leblanc, IV, Baron & Budd, P.C., Baton Rouge, LA, Kenneth J. Grunfeld, Richard M. Golomb, Golomb & Honik, P.C., Philadelphia, PA, Laura J. Baughman, S. Ann Saucer, Baron & Budd, P.C., Dallas, TX, for Plaintiff., Andrew Soukup, Robert D. Wick, Covington & Burling LLP, Frank G. Burt, Jorden Burt LLP, David L. Permut, Goodwin Procter LLP, Washington, DC, Emily Johnson Henn, Covington & Bur-ling LLP, Redwood Shores, CA, Thomas Benedict, Goodsill Anderson Quinn & Stifel LLLP, Michael C. Bird, Summer H.M. Fergerstrom, Tracey Lynn Kubota, Watanabe Ing LLP, Andrew L. Pepper, Margery S. Bronster, Bronster Hoshibata, Attorneys at Law, A Law Corporation, John P. Manaut, Lindsay N. McAneeley, William Matsujiro Harstad, Carlsmith Ball LLP Honolulu, Gail Y. Cosgrove, Kunio Kuwabe, Hisaka Stone Goto Yoshida Cos-grove & Ching, Patricia J. McHenry, William K. Shultz, Cades Schutte, Michael Purpura, Michael J. Scanlon, Carlsmith Ball LLP Honolulu, Honolulu, HI, David W. Moon, Jason Sung-Hyuk Yoo, Julia B. Strickland, Scott M. Pearson, Stroock & Stroock & Lavan LLP, Los Angeles, CA, James F. McCabe, James R. McGuire, Morrison & Foerster LLP, Patrick S. Thompson, Goodwin Procter LLP, San Francisco, CA, Edward Sherwin, Robert W. Trenchard, Wilmer Cutler Pickering Hale and Dorr LLP, New York, NY, for Defendants.",
+  "caseName": "State ex rel. Louie v. JP Morgan Chase & Co.",
+  "caseNameFull": "State of HAWAII, ex rel. David M. LOUIE, Attorney General v. JP MORGAN CHASE & CO., Chase Bank USA, N.A., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. HSBC Bank Nevada, N.A., HSBC Card Services, Inc., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Capital One Bank (USA), N.A. Capital One Services, LLC, and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Discovery Financial Services, Inc., Discover Bank, DFS Services, L.L.C., Assurant, Inc., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Bank of America Corporation, FIA Card Services, N.A., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. CitiGroup Inc., Citibank, N.A., Department Stores National Bank, and doe 1-20",
+  "citation": [
+   "921 F. Supp. 2d 1059"
+  ],
+  "citeCount": 14,
+  "cluster_id": 8722617,
+  "court": "District Court, D. Hawaii",
+  "court_citation_string": "D. Haw.",
+  "court_id": "hid",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-01-29",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Nos. 12-00263 LEK-KSC, 12-00266 LEK-KSC, 12-00268 LEK-KSC, 12-00269 LEK-KSC, 12-00270 LEK-KSC, 12-00271 LEK-KSC",
+  "docket_id": 65988539,
+  "judge": "Kobayashi",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T21:09:24.314019Z",
+   "date_created": "2022-11-26T06:19:45.134246Z",
+   "score": {
+    "bm25": 18.735357
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8705813,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-27T03:56:56.731004Z",
+     "date_created": "2022-11-26T06:19:45.140597Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nORDER GRANTING PLAINTIFF\u2019S MOTION FOR CERTIFICATION OF QUESTION FOR INTERLOCUTORY APPEAL AND MOTION TO STAY PROCEEDINGS\n\nLESLIE E. KOBAYASHI, District Judge.\nBefore the Court is Plaintiff the State of Hawaii, ex rel. David M. Louis, Attorney General\u2019s (the \u201cAttorney General\u201d) Motion for Certification of Question for Interlocutory Appeal Under 28 U.S.C. \u00a7 1292(b) and Motion to Stay Proceedings (\u201c",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8705813
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/2413401/lloyd-v-hovensa-llc/",
+  "attorney": "Lee J. Rohn, Law Offices of Lee J. Rohn, Christiansted, VI, for Plaintiff., David J. Comeaux, Ogletree Deakins Nash Smoak & Stewart, LLC, St. Thomas, VI, for Defendant Wyatt VI Inc., Linda J. Blair, Byrant Barnes & Moss, LLP, Christiansted, VI, for Defendant Ho-vensa LLC.",
+  "caseName": "Lloyd v. HOVENSA LLC.",
+  "caseNameFull": "Bruno LLOYD, Plaintiff, v. HOVENSA LLC. and Wyatt VI Inc., Defendants",
+  "citation": [
+   "243 F. Supp. 2d 346",
+   "2003 WL 223449",
+   "2003 U.S. Dist. LEXIS 3052"
+  ],
+  "citeCount": 4,
+  "cluster_id": 2413401,
+  "court": "District Court, Virgin Islands",
+  "court_citation_string": "D.V.I.",
+  "court_id": "vid",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2003-01-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "CIV.2002/121",
+  "docket_id": 2285770,
+  "judge": "Finch",
+  "lexisCite": "2003 U.S. Dist. LEXIS 3052",
+  "meta": {
+   "timestamp": "2024-06-21T11:28:30.626972Z",
+   "date_created": "2015-10-13T22:33:07.736489Z",
+   "score": {
+    "bm25": 14.830308
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     109254,
+     111513,
+     112584,
+     118029,
+     118394,
+     734222,
+     750078,
+     755163,
+     776913,
+     1461659,
+     1605429
+    ],
+    "download_url": null,
+    "id": 2413401,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T19:22:36.539546Z",
+     "date_created": "2013-10-30T09:25:36.794704Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "588e03d601f45ffcdb0602c78746af0415e35b99",
+    "snippet": "\n243 F.Supp.2d 346 (2003)\nBruno LLOYD, Plaintiff,\nv.\nHOVENSA LLC. and Wyatt VI Inc., Defendants.\nNo. CIV.2002/121.\nDistrict Court, Virgin Islands, D. St. Croix.\nJanuary 27, 2003.\n*347 Lee J. Rohn, Law Offices of Lee J. Rohn, Christiansted, VI, for Plaintiff.\nDavid J. Comeaux, Ogletree Deakins Nash Smoak & Stewart, LLC, ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   2413401
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/783605/united-states-v-visa-usa-inc-visa-international-corp-and/",
+  "attorney": "Adam D. Hirsh, U.S. Department of Justice, Antitrust Division, for R. Hewitt Pate, Deputy Assistant Attorney General (Catherine G. O\u2019Sullivan, Andrea Limmer, James R. Wade, Susan L. Edelheit, David C. Kully, Scott A. Scheele, William H. Stallings, on the brief), Washington, D.C., for Appellee., Stephen V. Bomse, Heller Ehrman White & McAuliffe LLP (M. Laurence Po-pofsky, Dale A. Rice, Scott A. Westrich, Richard A. Martin, on the briefs), San Francisco, Cal. for Appellant Visa U.S.A., Inc., Eugene F. Bannigan, Morgan, Lewis & Bockius LLP (John H. Shenefield, Michele A. Coffey, John D. Gordan, III, Brian A. Herman, on the briefs), New York, N.Y., for Appellant Visa International Service Association., Kenneth A. Gallo, Clifford Chance Rogers & Wells LLP (James C. Egan, Jr., Aimee H. Goldstein, Gary R. Carney, Clifford Chance Rogers & Wells LLP; Noah J. Hanft, General Counsel and Corporate Secretary, Eileen S. Simon, Vice President and Senior Litigation Counsel, MasterCard International Incorporated, on the briefs), New York, N.Y., for Appellant Mastercard International, Inc., Ian Ayres, Yale Law School (Robert Fellmeth, Center for Public Interest Law, on the brief), New Haven, Conn., for amici curiae Gray Panthers, The American Antitrust Institute, Inc., American Association of Business Persons with Disabilities, The Consumer Alliance, Consumers First, Inc., Self-Help for the Elderly, Consumer Alliance of the Southeast, California Small Business Association, The Consumer Research Institute, The Democratic Process Center, Inc., The Center for Public Interest Law, Consumer Fraud Watch, Americans for Competitive Telecommunications, Wireless Consumers Alliance, Inc., Electric Consumers\u2019 Alliance, Congress of California Seniors, Consumer Action, Arizona Consumers Council, Utility Consumers\u2019 Action Network, California Small Business Roundtable, Consumer Coalition of California, Jefferson County Committee for Economic Opportunity, The California Alliance for Consumer Protection, Florida Action Coalition Team, Consumers for Affordable and Reliable Services, Children\u2019s Advocacy Institute in support of affir-mance., Jonathan M. Jacobson, Akin, Gump, Strauss, Hauer & Feld, L.L.P. (Abid Qure-shi, Akin, Gump, Strauss, Hauer & Feld, L.L.P.; Louise M. Parent, Anne L. Segal, Stuart Alderoty, Marcy E. Wilkov, American Express Company; Janet L. McDavid, Hogan & Hartson, LLP, on the brief), New York, N.Y., for amicus curiae American Express Company in support of affir-mance., Eric F. Leon, Kirkland & Ellis (William H. Pratt, Kirkland & Ellis; Donald G. Kempf, Jr., Kelly McNamara Corley, Morgan Stanley), New York, N.Y., for amicus curiae Discover Financial Services, Inc. in support of affirmance., Steven M. Rutstein, Assistant Attorney General, for Richard Blumenthal, Attorney General of Connecticut (Rachel O. Davis; Betty D. Montgomery, Attorney General of Ohio, Mitchell L. Gentile; Bruce M. Botelho, Attorney General of Alaska, Clyde Sniffen, Jr.; Janet Napolitano, Attorney General of Arizona, Timothy A. Nelson, David D. Weinzweig; Bill Lock-yer, Attorney General of California, Peter Siggins, Richard Frank, Kathleen Foote, Barbara Motz; Robert R. Rigsby, Corporation Counsel for the District of Columbia, Charles L. Reischel, Don Resnikoff; Robert A. Butterworth, Attorney General of Florida, Patricia A. Conners, Thomas Gary; Alan G. Lance, Attorney General of Idaho; Thomas J. Miller, Attorney General of Iowa; Carla J. Stovall, Attorney General of Kansas, Rex G. Beasley; Richard P. Leyoub, Attorney General of Louisiana, Jane Bishop Johnson; G. Steven Rowe, Attorney General of Maine, Francis Acker-man; J. Joseph Curran, Jr., Attorney General of Maryland, Ellen Cooper; Thomas F. Reilly, Attorney General of Massachusetts, Betsy W. Whittey, Jennifer M. Gran-holm, Attorney General of Michigan, Thomas L. Casey, Paul R. Novak; Mike Hatch, Attorney General of Minnesota, Kristen M. Olsen; Frankie Sue Del Papa, Attorney General of Nevada, Timothy Hay; Wayne Stenehjem, Attorney General of North Dakota; W.A. Drew Edmondson, Attorney General of Oklahoma; D. Michael Fisher, Attorney General of Pennsylvania; Mark Barnett, Attorney General of South Dakota, Jeffrey P. Hallem; John Cornyn, Attorney General of Texas, Howard G. Baldwin, Jr., Jeffrey S. Boyd, Paul D. Carmona, Mark Tobey, Kim Van Winkle; Mark L. Shurtleff, Attorney General of Utah; William H. Sorrell, Attorney General of Vermont, Julie Brill, David Borsykowsky; Christine O. Gregoire, Attorney General of Washington, Tina E. Kondo, Marta Lowy; Darrell V. McGraw, Jr., Attorney General of West Virginia, Jill L. Miles, Douglas L. Davis; James E. Doyle, Attorney General of Wisconsin, Kevin O\u2019Connor, on the brief), Hartford, Conn., for amici curiae States of Connecticut, Ohio, Alaska, Arizona, California, Florida, Idaho, Iowa, Kansas, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, North Dakota, Oklahoma, Pennsylvania, South Dakota, Texas, Utah, Vermont, Washington, West Virginia, and Wisconsin, and the District of Columbia in support of affirmance.",
+  "caseName": "United States v. Visa U.S.A., Inc., Visa International Corp., and Mastercard International, Incorporated",
+  "caseNameFull": "UNITED STATES of America, Plaintiff-Appellee, v. VISA U.S.A., INC., Visa International Corp., and Mastercard International, Incorporated, Defendants-Appellants",
+  "citation": [
+   "344 F.3d 229",
+   "2003 U.S. App. LEXIS 19281",
+   "2003 WL 22138519"
+  ],
+  "citeCount": 49,
+  "cluster_id": 783605,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2003-09-17",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Docket 02-6074, 02-6076, 02-6078",
+  "docket_id": 744025,
+  "judge": "Oakes, Leval, Cabranes",
+  "lexisCite": "2003 U.S. App. LEXIS 19281",
+  "meta": {
+   "timestamp": "2024-12-05T18:15:54.379608Z",
+   "date_created": "2015-10-14T00:19:53.280288Z",
+   "score": {
+    "bm25": 13.137609
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     94932,
+     105408,
+     110747,
+     111239,
+     111373,
+     111677,
+     112425,
+     112744,
+     199875,
+     357904,
+     471263,
+     609739,
+     743006,
+     748172,
+     765473,
+     2285216,
+     2520977
+    ],
+    "download_url": "http://bulk.resource.org/courts.gov/c/F3/344/344.F3d.229.02-6078.02-6076.02-6074.html",
+    "id": 783605,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T13:55:11.895404Z",
+     "date_created": "2012-04-18T17:16:54Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "e589a2cd2fdec1c41e7dbea914515631be25638c",
+    "snippet": "\n\n\n  LEVAL, Circuit Judge.\n \n\n  The defendants, MasterCard International, Inc. (\u201cMasterCard\u201d), Visa U.S.A., Inc. (\u201cVisa U.S.A.\u201d), and Visa International, Inc. (\u201cVisa International\u201d), appeal from the judgment of the United States District Court for the Southern District of New York (Barbara S. Jones, /.), entered after a non-jury trial, finding that the defendants violated Section 1 of the S",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   783605
+  ],
+  "source": "RU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8726820/hood-v-jpmorgan-chase-co/",
+  "attorney": "George W. Neville, Geoffrey C. Morgan, Office of the Attorney General, Bridgette Williams Wiggins, Mississippi Attorney General\u2019s Office, Jackson, MS, Laura Jean Baughman, S. Ann Saucer, Baron & Budd, PC, Dallas, TX, for Plaintiff., Alan Walter Perry, Phillip S. Sykes, Forman, Perry, Watkins, Krutz & Tardy, LLP, Mark H. Tyson, Stephen T. Masley, McGlinchey Stafford, PLLC, H. Hunter Twiford, III, Taylor Allison Heck, McGlinchey Stafford, Christopher Daniel Meyer, Dorsey R. Carson, Jr., Burr & Forman, LLP, Jackson, MS, Andrew Soukup, Robert D. Wick, Covington & Burling, LLP, David L. Permut, Goodwin Procter, LLP, Washington, DC, David W. Moon, Jason S. Yoo, Julia Strickland, Strook, Strook & Lavan, LLP, Los Angeles, CA, Elizabeth T. Bufkin, Jeffrey S. Dilley, William Kurt Henke, Henke Bufkin, Clarksdale, MS, Noah A. Levine, Robert W. Trenchard, Wilmer Cutler Pickering Hale and Dorr, LLP, New York, NY, Charles E. Griffin, Butler, Snow, O\u2019Mara, Stevens & Cannada, PLLC, Ridgeland, MS, Markham R. Leventhal, Jorden Burt, LLP, Miami, FL, for Defendants.",
+  "caseName": "Hood v. JPMorgan Chase & Co.",
+  "caseNameFull": "Jim HOOD, Attorney General of The State of Mississippi, ex rel. The State of Mississippi v. JPMORGAN CHASE & CO., and Chase Bank USA, N.A., Defendants Jim Hood, Attorney General of The State Of Mississippi, ex rel. The State Of Mississippi v. HSBC Bank Nevada, N.A. HSBC Card Services, Inc. and HSBC Bank USA, N.A., Defendants Jim Hood, Attorney General of The State of Mississippi, ex rel. The State Of Mississippi v. Citigroup Inc. Citibank, N.A. and Department Stores National Bank, Defendant Jim Hood, Attorney General of The State of Mississippi, ex rel. The State of Mississippi v. Discover Financial Services, Inc. Discover Bank DFS Services, L.L.C. and American Bankers Management Company, Inc., Defendants Jim Hood, Attorney General of The State of Mississippi, ex rel. The State of Mississippi v. Bank of America Corporation and FIA Card Services, N.A., Defendants Jim Hood, Attorney General of The State of Mississippi, ex rel. The State of Mississippi v. Capital One Bank (USA) N.A., and Capital One Services, LLC",
+  "citation": [
+   "958 F. Supp. 2d 681",
+   "2013 WL 3946002",
+   "2013 U.S. Dist. LEXIS 107360"
+  ],
+  "citeCount": 0,
+  "cluster_id": 8726820,
+  "court": "District Court, S.D. Mississippi",
+  "court_citation_string": "S.D. Miss.",
+  "court_id": "mssd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-07-31",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Action Nos. 3:12-cv-565-WHB-LRA, 3:12-cv-571, 3:12-cv-572, 3:12-cv-573, 3:12-cv-574, 3:12-cv-575",
+  "docket_id": 65992743,
+  "judge": "Barbour",
+  "lexisCite": "2013 U.S. Dist. LEXIS 107360",
+  "meta": {
+   "timestamp": "2024-06-22T21:11:02.363964Z",
+   "date_created": "2022-11-26T06:57:13.337590Z",
+   "score": {
+    "bm25": 11.288329
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8710017,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T18:28:40.791568Z",
+     "date_created": "2022-11-26T06:57:13.348914Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nOPINION AND ORDER\n\nWILLIAM H. BARBOUR, JR., District Judge.\nThis cause is before the Court on the Motions of Plaintiff to Remand. Having considered the pleadings, the attachments thereto, as well as supporting and opposing authorities, the Court finds the Motions are not well taken and should be denied.\nI. Factual Background and Procedural History\nIn June of ",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8710017
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8720845/hawaii-ex-rel-louie-v-jp-morgan-chase-co/",
+  "attorney": "L. Richard Fried, Jr., Patrick F. McTernan, Cronin Fried Sekiya Kekina & Fairbanks, Honolulu, HI, J. Burton LeBlanc, IV, Baron & Budd, P.C., Baton Rouge, LA, Kenneth J. Grunfeld, Richard M. Golomb, Golomb & Honik, P.C., Philadelphia, PA, Laura J. Baughman, S. Ann Saucer, Baron & Budd, P.C., Dallas, TX, for Plaintiff., Andrew Soukup, Robert D. Wick, Covington & Burling LLP, David L. Permut, Goodwin Procter LLP, Washington, DC, Emily Johnson Henn, Covington & Bur-ling LLP, Redwood Shores, CA, Thomas Benedict, Goodsill Anderson Quinn & Stifel LLLP, Michael C. Bird, Summer H.M. Fergerstrom, Tracey Lynn Kubota, Watanabe Ing & Komeiji LLP, Andrew L. Pepper, Margery S. Bronster, Bronster Hoshibata, Attorneys at Law, John P. Manaut, Lindsay N. McAneeley, William Matsujiro Harstad, Michael Purpura, Michael J. Scanlon, Carlsmith Ball LLP, Gail Y. Cosgrove, Kunio Kuwabe, Hisaka Stone Goto Yoshida Cosgrove & Ching, Patricia J. McHenry, William K. Shultz, Cades Schutte, Honolulu, HI, David W. Moon, Jason Sung-Hyuk Yoo, Julia B. Strickland, Scott M. Pearson, Stroock & Stroock & Lavan LLP, Los Angeles, CA, James F. McCabe, James R. McGuire, Morrison & Foerster LLP, Patrick S. Thompson, Goodwin Procter LLP, San Francisco, CA, Edward Sherwin, Robert W. Trenchard, Wilmer Cutler Pickering Hale and Dorr LLP, New York, NY, for Defendants.",
+  "caseName": "Hawaii ex rel. Louie v. JP Morgan Chase & Co.",
+  "caseNameFull": "State of HAWAII, ex rel. David M. LOUIE, Attorney General v. JP MORGAN CHASE & CO., Chase Bank USA, N.A., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. HSBC Bank Nevada, N.A., HSBC Card Services, Inc., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Capital One Bank (USA), N.A. Capital One Services, LLC, and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Discovery Financial Services, Inc., Discover Bank, DFS Services, L.L.C., Assurant, Inc., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Bank of America Corporation, FIA Card Services, N.A., and Doe 1-20, Defendants State of Hawaii, ex rel. David M. Louie, Attorney General v. Citigroup Inc., Citibank, N.A., Department Stores National Bank, and Doe 1-20",
+  "citation": [
+   "907 F. Supp. 2d 1188",
+   "2012 WL 6019709"
+  ],
+  "citeCount": 0,
+  "cluster_id": 8720845,
+  "court": "District Court, D. Hawaii",
+  "court_citation_string": "D. Haw.",
+  "court_id": "hid",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2012-11-30",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Nos. 12-00263 LEK-KSC, 12-00266 LEK-KSC, 12-00268 LEK-KSC, 12-00269 LEK-KSC, 12-00270 LEK-KSC, 12-00271 LEK-KSC",
+  "docket_id": 65986767,
+  "judge": "Kobayashi",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T21:08:40.887066Z",
+   "date_created": "2022-11-26T06:04:44.311739Z",
+   "score": {
+    "bm25": 6.82788
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8704038,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-27T03:56:10.902025Z",
+     "date_created": "2022-11-26T06:04:44.331437Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\n*1191\nORDER DENYING PLAINTIFF\u2019S MOTION TO REMAND AND FOR COSTS AND FEES\n\nLESLIE E. KOBAYASHI, District Judge.\nPlaintiff the State of Hawaii, ex rel. David M. Louie, Attorney General (\u201cthe Attorney General\u201d) seeks to remand his lawsuits against several financial entities on the basis that, in each case, there was no federal jurisdiction f",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8704038
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7307839/ross-v-american-express-co/",
+  "attorney": "Merrill G. Davidoff, Esq., David A. Lan-ger, Esq., Charles P. Goodwin, Esq., Berger & Montague, P.C., Philadelphia, PA, Christopher M. Burke, Esq., Scott + Scott LLP, San Diego, CA, for Plaintiffs., Evan Chesler, Esq., Gary Bornstein, Esq., Rowan Wilson, Esq., Cravath, Swaine & Moore LLP, New York, NY, for Defendants American Express., Robert Y. Sperling, Esq., Malcom Cox, Esq., Ronald S. Betman, Esq., Winston & Strawn LLP, Chicago, IL, for Defendants Discover., David Graham, Esq., Theodore R Scarborough, Jr., Esq., Patrick E. Croke, Esq., Sidley Austin LLP, Chicago, IL, for Defendants Citigroup.",
+  "caseName": "Ross v. American Express Co.",
+  "caseNameFull": "This Document Relates to: Robert ROSS v. AMERICAN EXPRESS COMPANY, Defendants Robert Ross v. Bank of America, N.A. (USA)",
+  "citation": [
+   "35 F. Supp. 3d 407",
+   "2014 WL 1396492"
+  ],
+  "citeCount": 8,
+  "cluster_id": 7307839,
+  "court": "District Court, S.D. New York",
+  "court_citation_string": "S.D.N.Y.",
+  "court_id": "nysd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2014-04-10",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Nos. 04 Civ. 5723(WHP), 05 Civ. 7116(WHP)",
+  "docket_id": 64296316,
+  "judge": "III",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T13:33:11.157853Z",
+   "date_created": "2022-07-25T04:09:58.364045Z",
+   "score": {
+    "bm25": 6.161292
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7225742,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-07-08T21:05:40.950246Z",
+     "date_created": "2022-07-25T04:09:58.377546Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nOPINION & ORDER\n\nWILLIAM H. PAULEY III, District Judge:\nThe Plaintiffs\u2019 class actions allege that credit card issuers collusively adopted class-action-barring arbitration clauses in violation of the Sherman Act to prevent cardholders from redressing their injuries collectively through the courts. They seek injunctive relief prohibiting such clauses in cardholder agreements. Following the deni",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7225742
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ }
+]

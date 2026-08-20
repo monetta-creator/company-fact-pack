@@ -1,0 +1,133 @@
+false 0001393612 0001393612 2019-08-14 2019-08-14
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 14, 2019
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+( 224 ) 405-0900
+
+(Registrant's telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+[TABLE]
+Securities registered pursuant to Section 12(b) of the Act
+Title of each class | Trading symbol(s) | Name of each exchange on which registered
+Common Stock, par value $0.01 per share | DFS | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01 Regulation FD Disclosure.
+
+Discover Financial Services (the "Company") hereby furnishes the information in Exhibit 99.1 hereto, Monthly Credit Card Charge-off and Delinquency Statistics as of and for each of the twenty-four months ended July 31, 2019.
+
+_______________________
+
+The information contained in this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, is furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly stated by specific reference in such filing.
+
+_______________________
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Monthly Credit Card Charge-off and Delinquency Statistics as of and for each of the twenty-four months ended July 31, 2019.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: August 14, 2019 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  |  |  | Name: D. Christopher Greene
+ |  |  |  |  |  | Title: Vice President, Secretary and Deputy General Counsel
+[/TABLE]
+
+Exhibit Index
+
+[TABLE]
+Exhibit Number |  | Description
+99.1 |  | Monthly Credit Card Charge-off and Delinquency Statistics as of and for each of the twenty-four months ended July 31, 2019.
+101 |  | Interactive Data File — XBRL tags are embedded within the inline XBRL document.
+104 |  | Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).
+[/TABLE]
+
+
+=== EXHIBIT exhibit9917-31x19.htm ===
+
+EX-99.1 2 exhibit9917-31x19.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2019 Workiva Exhibit
+
+Exhibit 99.1
+
+Discover Financial Services
+
+Monthly Credit Card Charge-off and Delinquency Statistics
+
+As of and for each of the twenty-four months ended
+
+(dollars in billions)
+
+[TABLE]
+ |  | Jul 31, 2019 | Jun 30, 2019 | May 31, 2019 | Apr 30, 2019 | Mar 31, 2019 | Feb 28, 2019 | Jan 31, 2019 | Dec 31, 2018 | Nov 30, 2018 | Oct 31, 2018 | Sep 30, 2018 | Aug 31, 2018
+Ending Loans |  | $ | 73.3 |  | $ | 72.4 |  | $ | 71.9 |  | $ | 71.5 |  | $ | 70.8 |  | $ | 71.0 |  | $ | 72.0 |  | $ | 72.9 |  | $ | 71.4 |  | $ | 69.9 |  | $ | 69.3 |  | $ | 69.2 |
+Average Loans |  | $ | 72.6 |  | $ | 72.1 |  | $ | 71.4 |  | $ | 71.0 |  | $ | 70.5 |  | $ | 71.4 |  | $ | 72.1 |  | $ | 72.2 |  | $ | 70.2 |  | $ | 69.3 |  | $ | 69.2 |  | $ | 68.7 |
+Net Principal Charge-off Rate (1) |  | 3.23 | % | 3.54 | % | 3.48 | % | 3.46 | % | 3.42 | % | 3.81 | % | 3.30 | % | 3.41 | % | 3.24 | % | 3.03 | % | 3.17 | % | 3.14 | %
+Delinquency Rate (30 or more days) (2) |  | 2.37 | % | 2.34 | % | 2.33 | % | 2.38 | % | 2.45 | % | 2.49 | % | 2.49 | % | 2.43 | % | 2.43 | % | 2.40 | % | 2.32 | % | 2.23 | %
+ |  | Jul 31, 2018 | Jun 30, 2018 | May 31, 2018 | Apr 30, 2018 | Mar 31, 2018 | Feb 28, 2018 | Jan 31, 2018 | Dec 31, 2017 | Nov 30, 2017 | Oct 31, 2017 | Sep 30, 2017 | Aug 31, 2017
+Ending Loans |  | $ | 68.6 |  | $ | 67.8 |  | $ | 67.4 |  | $ | 66.4 |  | $ | 65.6 |  | $ | 65.7 |  | $ | 66.6 |  | $ | 67.3 |  | $ | 65.7 |  | $ | 64.0 |  | $ | 63.5 |  | $ | 63.3 |
+Average Loans |  | $ | 68.0 |  | $ | 67.4 |  | $ | 66.5 |  | $ | 65.9 |  | $ | 65.3 |  | $ | 66.0 |  | $ | 66.7 |  | $ | 66.5 |  | $ | 64.3 |  | $ | 63.5 |  | $ | 63.3 |  | $ | 62.7 |
+Net Principal Charge-off Rate (1) |  | 3.13 | % | 3.40 | % | 3.40 | % | 3.22 | % | 3.33 | % | 3.57 | % | 3.09 | % | 3.06 | % | 3.08 | % | 2.96 | % | 2.80 | % | 2.78 | %
+Delinquency Rate (30 or more days) (2) |  | 2.19 | % | 2.16 | % | 2.17 | % | 2.26 | % | 2.33 | % | 2.38 | % | 2.37 | % | 2.28 | % | 2.26 | % | 2.23 | % | 2.14 | % | 2.08 | %
+[/TABLE]
+
+(1) Represents net principal charge-off dollars (annualized) divided by average loans for the reporting period
+
+(2) Represents loans delinquent 30 or more days divided by ending loans
+
+The statistics presented above provide information regarding Discover Financial Services' total credit card portfolio. The data presented differs from the data reported by the Discover Card Master Trust I and, through the collateral certificate, the Discover Card Execution Note Trust (collectively, the “Trusts”), Discover Funding LLC and Discover Bank in their monthly Form 10-D reports filed with the Securities and Exchange Commission which reflects only credit card loans that have been securitized through the Trusts. The credit card loans that have been securitized through the Trusts do not possess identical characteristics with those of the total portfolio of Discover credit card loans, which reflects the aggregate of securitized and non-securitized credit card loans. Thus, the reported credit performance of the Trusts may, on a month-to-month basis, be better or worse than the credit performance of the total credit card portfolio. Reported differences may arise as a result of, among other things, differences in the mix and vintage of loans between the Trusts and the total portfolio, the use of beginning of month principal receivables balances to calculate charge-off statistics in the Trusts compared to the use of average loan balances over the reporting period used in the total portfolio statistics, and the calculation of the Trusts' net charge-off rate annualized on a 30/360 day count basis, as compared to an actual/actual day count basis for the total portfolio.

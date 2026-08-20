@@ -1,0 +1,15 @@
+id: cobna
+name: Capital One Bank (USA), National Association
+type: bank
+status: historical
+aliases:
+- COBNA
+identifiers:
+  fdic_cert: '33954'
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: fdic/financials_cobna
+  locator: null

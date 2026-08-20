@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2025-05-14_0001393612-25-000022
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-05-14 (period 2025-05-14)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361225000022/dfs-20250514.htm
+retrieved_at: '2026-08-20T02:55:15Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20250514.htm
+  role: raw
+  sha256: fd8c0e1b080701982d36c328cf2e4f6d7da34c13141ded491f291dfd7ae9d14c
+  size: 31985
+  stored: corpus
+- name: exhibit99104-30x25.htm
+  role: exhibit
+  sha256: d37efec23e21b4a01b4a5f6411b11f3e8dcf237192dc348a74b9e96047c38f03
+  size: 65362
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 75942e503613106bfaf0a90da8d112790fe4c04ba42376db15de2f992fcfeac2
+  size: 7978
+  stored: corpus
+filed_date: '2025-05-14'
+period_end: '2025-05-14'
+extraction_method: lxml
+meta:
+  accession: 0001393612-25-000022
+  form: 8-K
+  items: 7.01,9.01

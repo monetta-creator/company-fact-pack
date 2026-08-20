@@ -1,0 +1,33 @@
+doc_id: edgar-dcent/8-K_2019-11-13_0001193125-19-290982
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-11-13 (period 2019-11-07)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312519290982/d819828d8k.htm
+retrieved_at: '2026-08-20T02:51:12Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d819828d8k.htm
+  role: raw
+  sha256: 6224e32ae4206ed4f631e9ca5b7730344fe3b878638df23e145913eb909d2067
+  size: 24508
+  stored: corpus
+- name: d819828dex991.htm
+  role: exhibit
+  sha256: c7b85904bba3f050b16c1b140ec8fd8912b74f4b266e29b6871a46287444774f
+  size: 57075
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 58d2d76a99f447749fcf122d3883dbff67ce0efe961be924fb76a931335a9894
+  size: 33599
+  stored: corpus
+filed_date: '2019-11-13'
+period_end: '2019-11-07'
+extraction_method: lxml
+meta:
+  accession: 0001193125-19-290982
+  form: 8-K
+  items: 1.01,9.01

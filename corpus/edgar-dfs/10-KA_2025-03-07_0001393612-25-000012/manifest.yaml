@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-KA_2025-03-07_0001393612-25-000012
+source: edgar-dfs
+source_tier: A
+doc_type: 10-K/A
+title: 10-K/A filed 2025-03-07 (period 2024-12-31)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361225000012/dfs-20241231.htm
+retrieved_at: '2026-08-20T02:55:15Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20241231.htm
+  role: raw
+  sha256: 2444a3c9369c70a76fcf2c38797cd4a4d919fe45038692c27ef5db262dcca8b8
+  size: 750031
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c4ccfe729c4a626dfc655c33d1a70be410f9add51cdafcf07278473f7b750825
+  size: 153297
+  stored: corpus
+filed_date: '2025-03-07'
+period_end: '2024-12-31'
+extraction_method: lxml
+meta:
+  accession: 0001393612-25-000012
+  form: 10-K/A
+  items: ''

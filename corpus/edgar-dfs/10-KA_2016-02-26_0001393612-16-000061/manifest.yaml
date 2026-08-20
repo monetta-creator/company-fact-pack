@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/10-KA_2016-02-26_0001393612-16-000061
+source: edgar-dfs
+source_tier: A
+doc_type: 10-K/A
+title: 10-K/A filed 2016-02-26 (period 2015-12-31)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361216000061/dfs1231201510ka.htm
+retrieved_at: '2026-08-20T02:49:09Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs1231201510ka.htm
+  role: raw
+  sha256: e6488e3799edf77fd51460f7bceb45540e641371525e4211bbbdbbf391ce0942
+  size: 209887
+  stored: corpus
+- name: dfsex2112312015-10ka.htm
+  role: exhibit
+  sha256: 862f60bdfc9f6ec7871ea15e17b28eea6e231dfd69c9ef0578eb06307ffd0554
+  size: 17171
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 177f1c0e3c4d1c186480c187db59905e314933ead0c472a613ca88325f5b5fe6
+  size: 33483
+  stored: corpus
+filed_date: '2016-02-26'
+period_end: '2015-12-31'
+extraction_method: lxml
+meta:
+  accession: 0001393612-16-000061
+  form: 10-K/A
+  items: ''

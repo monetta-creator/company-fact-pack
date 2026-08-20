@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2025-10-28_0001193125-25-252630
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-10-28 (period 2025-10-24)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312525252630/d55584d8k.htm
+retrieved_at: '2026-08-20T02:56:17Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d55584d8k.htm
+  role: raw
+  sha256: 70cc32d0f0541f637d5def6b1abe2cb7fbfa2896b20594d94c65e86e818ea543
+  size: 22351
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 107892be07f57d9b3c8461941346443aa5343f4459fcbba0084fbccedad4de47
+  size: 4152
+  stored: corpus
+filed_date: '2025-10-28'
+period_end: '2025-10-24'
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-252630
+  form: 8-K
+  items: 8.01,9.01

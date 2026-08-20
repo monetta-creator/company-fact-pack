@@ -1,0 +1,1 @@
+XBRL companyfacts for DISCOVER FINANCIAL SERVICES (CIK 1393612). 719 tagged concepts across taxonomies: dei, invest, us-gaap. Machine data; see metrics layer.

@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/10-D_2022-09-12_0001407200-22-000025
+source: edgar-dcent
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2022-09-12 (period 2022-08-31)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720022000025/dcent-dcmt10xdx091222.htm
+retrieved_at: '2026-08-20T02:57:56Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: dcent-dcmt10xdx091222.htm
+  role: raw
+  sha256: 09088a3c8b8afe946bb3e4bfa1ccfc28f5ebdf53f85c65107e5a2bd23280974d
+  size: 47102
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: adc77be25ce05d26b40a67a56bd930547747fa5f4fcb56cb05576761553247f0
+  size: 9622
+  stored: corpus
+filed_date: '2022-09-12'
+period_end: '2022-08-31'
+extraction_method: lxml
+meta:
+  accession: 0001407200-22-000025
+  form: 10-D
+  items: ''

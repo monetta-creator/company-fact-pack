@@ -1,0 +1,24 @@
+doc_id: fdic/financials_cobna
+source: fdic
+source_tier: A
+doc_type: fdic-financials
+title: FDIC financials cobna
+url: https://api.fdic.gov/banks/financials?filters=CERT:33954
+retrieved_at: '2026-08-20T02:37:57Z'
+entity_ids:
+- cobna
+fetcher: fdic v1
+files:
+- name: financials.json
+  role: raw
+  sha256: 690d91ce9867fa05b525fdb047651741154c201fb7f788c922099cc9a2a9ccf4
+  size: 327219
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 66d31f41467a3cf58aea974dd313d6135dae32aa7959e7bbd5dec9e235bd86a2
+  size: 83
+  stored: corpus
+meta:
+  cert: '33954'
+  rows: 112

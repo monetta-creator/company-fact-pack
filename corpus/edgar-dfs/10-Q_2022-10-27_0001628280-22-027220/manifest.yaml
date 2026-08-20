@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2022-10-27_0001628280-22-027220
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2022-10-27 (period 2022-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000162828022027220/dfs-20220930.htm
+retrieved_at: '2026-08-20T02:33:54Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20220930.htm
+  role: raw
+  sha256: b2672d10d72e4db2f5feb18bf20b799e97c5735dce86c5ee99db5ad714137f29
+  size: 4518364
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c081bd7d2d9789cada81f31b9b2c42242fdb38af679bffb9a0ca3838c501888a
+  size: 336339
+  stored: corpus
+filed_date: '2022-10-27'
+period_end: '2022-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001628280-22-027220
+  form: 10-Q
+  items: ''

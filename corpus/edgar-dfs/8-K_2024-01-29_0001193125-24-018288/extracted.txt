@@ -1,0 +1,82 @@
+false 0001393612 0001393612 2024-01-25 2024-01-25
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 25, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e)
+
+On January 25, 2024, the Compensation and Leadership Development Committee (the “CLDC”) of the Boards of Directors of Discover Financial Services and Discover Bank (collectively, “Discover”) approved a restricted stock unit award for John T. Greene, Executive Vice President, Chief Financial Officer, to ensure his continued retention and engagement on key initiatives critical to Discover’s growth. The restricted stock unit award will be issued in February 2024 at the same time as the annual equity grants are made to eligible employees. The value of Mr. Greene’s restricted stock unit award will be $1,000,000, with (1) 50% to vest on February 1, 2027; and (2) 50% eligible to vest on the later of (a) the date on which the Discover Student Loan portfolio is sold or (b) the date on which the servicing of such loans has been successfully transferred to a third-party provider, provided that the earliest date on which this portion of the award may vest is February 22, 2025, and if both the sale of the portfolio and the transfer of such loans do not occur by February 1, 2027, this portion of the award will be forfeited.
+
+On January 25, 2024, the CLDC also approved a restricted stock unit award and a cash award for John B. Owen in recognition of his service as Interim Chief Executive Officer (“CEO”) and President of Discover. The awards are subject to Mr. Owen’s continued service as Interim CEO and President until the permanent CEO and President begins employment with Discover and will be issued on Mr. Owen’s last day of employment. Mr. Owen’s restricted stock unit award will have a grant date value equal to $1,600,000, will fully vest on the grant date, and will settle ratably over three years (with one-third settling on each of the first, second, and third anniversaries of the grant date). Mr. Owen’s cash award will have a value of $500,000.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | DISCOVER FINANCIAL SERVICES
+Date: January 29, 2024 |  | By: |  | /s/ Hope D. Mehlman
+ |  | Name: |  | Hope D. Mehlman
+ |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]

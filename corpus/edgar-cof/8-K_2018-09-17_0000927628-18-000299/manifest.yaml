@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-09-17_0000927628-18-000299
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-09-17 (period 2018-09-17)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000299/august2018creditmetricsfor.htm
+retrieved_at: '2026-08-20T02:54:47Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: august2018creditmetricsfor.htm
+  role: raw
+  sha256: 82cf84a7bfd00c65a4ea0b8391aab90b70e537ad0bbf0c333656ee93c6658a82
+  size: 39237
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 75d667adeb35ab5c2efed80251c86f787768dc6d8847d10bcd032d484b2a249c
+  size: 3727
+  stored: corpus
+filed_date: '2018-09-17'
+period_end: '2018-09-17'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000299
+  form: 8-K
+  items: 7.01,9.01

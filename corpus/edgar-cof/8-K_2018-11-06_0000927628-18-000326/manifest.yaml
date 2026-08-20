@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-11-06_0000927628-18-000326
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-11-06 (period 2018-11-01)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000326/a8-kdividendsnovember12018.htm
+retrieved_at: '2026-08-20T02:54:46Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsnovember12018.htm
+  role: raw
+  sha256: ee538df2af54d520eac93489f9c33030435ac797866cc037ea084ba267c753dc
+  size: 32964
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 94e9476dccf0b88d29e90f501a3b514250fa138b96edb3a6f06162de399ca48e
+  size: 4360
+  stored: corpus
+filed_date: '2018-11-06'
+period_end: '2018-11-01'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000326
+  form: 8-K
+  items: '8.01'

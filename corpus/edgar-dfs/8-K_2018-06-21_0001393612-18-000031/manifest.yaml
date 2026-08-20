@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2018-06-21_0001393612-18-000031
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-06-21 (period 2018-06-21)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361218000031/dodd-frankactstresstestres.htm
+retrieved_at: '2026-08-20T02:55:51Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dodd-frankactstresstestres.htm
+  role: raw
+  sha256: ed6e7e2631cb9ac37117015a8dc592932e50f5823f9fb325b4bce5a217674409
+  size: 37266
+  stored: corpus
+- name: exhibit99162118.htm
+  role: exhibit
+  sha256: 80e0685885966e2c10b63f26d777e164bf3bc7ec039285437926540f98686b14
+  size: 105006
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4256af506ac99468e6679fd0eac340a670034acabfb5d1fc7aaefbcb43125d08
+  size: 22085
+  stored: corpus
+filed_date: '2018-06-21'
+period_end: '2018-06-21'
+extraction_method: lxml
+meta:
+  accession: 0001393612-18-000031
+  form: 8-K
+  items: 7.01,9.01

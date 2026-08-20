@@ -1,0 +1,14 @@
+id: discover-bank
+name: Discover Bank
+type: bank
+status: historical
+aliases: []
+identifiers:
+  fdic_cert: '5649'
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: fdic/financials_discover-bank
+  locator: null

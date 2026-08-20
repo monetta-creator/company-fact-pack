@@ -1,0 +1,1666 @@
+[
+ {
+  "absolute_url": "/opinion/4674844/freshta-nayab-v-capital-one-bank-usa-na/",
+  "attorney": "",
+  "caseName": "Freshta Nayab v. Capital One Bank (Usa), Na",
+  "caseNameFull": "",
+  "citation": [
+   "942 F.3d 480"
+  ],
+  "citeCount": 87,
+  "cluster_id": 4674844,
+  "court": "Court of Appeals for the Ninth Circuit",
+  "court_citation_string": "9th Cir.",
+  "court_id": "ca9",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-10-31",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "17-55944",
+  "docket_id": 16409179,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-11-17T21:56:36.365647Z",
+   "date_created": "2019-10-31T18:00:28.831728Z",
+   "score": {
+    "bm25": 94.015816
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     89346,
+     95927,
+     96616,
+     97254,
+     104547,
+     109301,
+     112224,
+     112747,
+     118368,
+     131157,
+     145725,
+     145730,
+     145789,
+     145875,
+     359041,
+     488572,
+     549007,
+     687345,
+     750691,
+     1993216,
+     2620886,
+     3203656
+    ],
+    "download_url": "http://cdn.ca9.uscourts.gov/datastore/opinions/2019/10/31/17-55944.pdf",
+    "id": 4452097,
+    "joined_by_ids": [],
+    "local_path": "pdf/2019/10/31/freshta_nayab_v._capital_one_bank_usa_na.pdf",
+    "meta": {
+     "timestamp": "2025-11-17T21:56:36.414869Z",
+     "date_created": "2019-10-31T18:00:28.835546Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "a46add83d599b31037d3f6086baa7dd09599ea47",
+    "snippet": "                     FOR PUBLICATION\n\n   UNITED STATES COURT OF APPEALS\n        FOR THE NINTH CIRCUIT\n\n\n FRESHTA Y. NAYAB, individually and                No. 17-55944\n on behalf of others similarly situated,\n                   Plaintiff-Appellant,              D.C. No.\n                                                  3:16-cv-03111-\n                      v.                            CAB-MDD\n\n CAPITAL ONE BANK (USA), N.A.,\n               Defendant-Appellee.                    OPINION\n\n        A",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4452097
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "Civil",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4603591/keith-v-data-enters/",
+  "attorney": "",
+  "caseName": "Keith v. Data Enters.",
+  "caseNameFull": "",
+  "citation": [
+   "27 Neb. Ct. App. 23"
+  ],
+  "citeCount": 2,
+  "cluster_id": 4603591,
+  "court": "Nebraska Court of Appeals",
+  "court_citation_string": "Neb. Ct. App.",
+  "court_id": "nebctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-03-19",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "A-17-654",
+  "docket_id": 14796504,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T01:31:42.023351Z",
+   "date_created": "2019-03-26T13:06:13.783469Z",
+   "score": {
+    "bm25": 41.23416
+   }
+  },
+  "neutralCite": "27 Neb. Ct. App. 23",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     110460,
+     110484,
+     460105,
+     1277337,
+     1693854,
+     1711994,
+     1869864,
+     2188341,
+     2218483,
+     2369186,
+     2433573,
+     4123022,
+     4344267
+    ],
+    "download_url": "https://www.nebraska.gov/apps-courts-epub/public/viewOpinion?docId=N00006514PUB",
+    "id": 4380844,
+    "joined_by_ids": [],
+    "local_path": "pdf/2019/03/19/keith_v._data_enters._2.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T17:12:46.661924Z",
+     "date_created": "2019-03-26T13:06:13.796973Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "366ea5119c746413413ee89a8b88516f2fcdee60",
+    "snippet": "Nebraska Supreme Court Online Library\nwww.nebraska.gov/apps-courts-epub/\n03/26/2019 08:06 AM CDT\n\n\n\n\n                                                         - 23 -\n                                Nebraska Court of A ppeals A dvance Sheets\n                                     27 Nebraska A ppellate R eports\n                                               KEITH v. DATA ENTERS.\n                                                Cite as 27 Neb. App. 23\n\n\n\n\n                               Brady K eith,  ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4380844
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4884475/magruder-v-navy-federal-fin-group-llc/",
+  "attorney": "",
+  "caseName": "Magruder v. Navy Federal Fin. Group, LLC",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4884475,
+  "court": "District Court, District of Columbia",
+  "court_citation_string": "D.D.C.",
+  "court_id": "dcd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-05-19",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Action No. 2019-0057",
+  "docket_id": 59919138,
+  "judge": "Judge Randolph D. Moss",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:49:58.855932Z",
+   "date_created": "2021-05-19T19:01:23.276121Z",
+   "score": {
+    "bm25": 18.80664
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 2334,
+    "cites": [
+     170799,
+     220587,
+     435786,
+     528825,
+     590210,
+     687345,
+     772240,
+     801890,
+     1427219,
+     2477002,
+     2824673,
+     4018832,
+     4123655,
+     4157670,
+     4174308,
+     4191475,
+     4195934,
+     4199643,
+     4246033,
+     4299167,
+     4403305,
+     4409092,
+     4469352,
+     4531855,
+     4540020,
+     7238833,
+     7242045,
+     8410837,
+     8749023,
+     9414220,
+     9430489,
+     9432149,
+     9432577,
+     9433887,
+     9434546,
+     9434951,
+     9435055,
+     9435178,
+     9435339,
+     9823248,
+     9871432,
+     9878072,
+     9878852
+    ],
+    "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2019cv0057-70",
+    "id": 4688254,
+    "joined_by_ids": [],
+    "local_path": "pdf/2021/05/19/magruder_v._navy_federal_fin._group_llc.pdf",
+    "meta": {
+     "timestamp": "2025-11-27T09:24:40.440629Z",
+     "date_created": "2021-05-19T19:01:23.302876Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "028ff18e58a09140ba86af30451208a8b25024ab",
+    "snippet": "                              UNITED STATES DISTRICT COURT\n                              FOR THE DISTRICT OF COLUMBIA\n\n\n STEPHON MAGRUDER,\n\n                Plaintiff,\n\n        v.                                           Civil Action No. 19-57 (RDM)\n\n CAPITAL ONE, NAT\u2019L ASS\u2019N, et al.,\n\n                Defendants.\n\n\n                             MEMORANDUM OPINION AND ORDER\n\n       Plaintiff Stephon Magruder brought suit under the federal Fair Debt Collection Practices\n\nAct (\u201cFDCPA\u201d), 15 U.S.C. \u00a7 ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4688254
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "Civil",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4885259/magruder-v-navy-federal-fin-group-llc/",
+  "attorney": "",
+  "caseName": "Magruder v. Navy Federal Fin. Group, LLC",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4885259,
+  "court": "District Court, District of Columbia",
+  "court_citation_string": "D.D.C.",
+  "court_id": "dcd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-05-19",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Action No. 2019-0057",
+  "docket_id": 59925711,
+  "judge": "Judge Randolph D. Moss",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:50:11.572609Z",
+   "date_created": "2021-05-21T16:01:28.361314Z",
+   "score": {
+    "bm25": 18.66721
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 2334,
+    "cites": [
+     170799,
+     220587,
+     435786,
+     528825,
+     590210,
+     687345,
+     772240,
+     801890,
+     1427219,
+     2477002,
+     2824673,
+     4018832,
+     4123655,
+     4157670,
+     4174308,
+     4191475,
+     4195934,
+     4199643,
+     4246033,
+     4299167,
+     4403305,
+     4409092,
+     4469352,
+     4531855,
+     4540020,
+     7238833,
+     7242045,
+     8410837,
+     8749023,
+     9414220,
+     9430489,
+     9432149,
+     9432577,
+     9433887,
+     9434546,
+     9434951,
+     9435055,
+     9435178,
+     9435339,
+     9823248,
+     9871432,
+     9878072,
+     9878852
+    ],
+    "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2019cv0057-70",
+    "id": 4689038,
+    "joined_by_ids": [],
+    "local_path": "pdf/2021/05/19/magruder_v._navy_federal_fin._group_llc_1.pdf",
+    "meta": {
+     "timestamp": "2025-11-27T09:27:28.922080Z",
+     "date_created": "2021-05-21T16:01:28.379379Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "eca26a97df20830a35fc1c744c4ac06665e7d2d7",
+    "snippet": "                              UNITED STATES DISTRICT COURT\n                              FOR THE DISTRICT OF COLUMBIA\n\n\n STEPHON MAGRUDER,\n\n                Plaintiff,\n\n        v.                                           Civil Action No. 19-57 (RDM)\n\n CAPITAL ONE, NAT\u2019L ASS\u2019N, et al.,\n\n                Defendants.\n\n\n                             MEMORANDUM OPINION AND ORDER\n\n       Plaintiff Stephon Magruder brought suit under the federal Fair Debt Collection Practices\n\nAct (\u201cFDCPA\u201d), 15 U.S.C. \u00a7 ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4689038
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "Civil",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4847115/wengui-v-clark-hill-plc/",
+  "attorney": "",
+  "caseName": "Wengui v. Clark Hill Plc",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4847115,
+  "court": "District Court, District of Columbia",
+  "court_citation_string": "D.D.C.",
+  "court_id": "dcd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-01-12",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Action No. 2019-3195",
+  "docket_id": 29100097,
+  "judge": "Judge James E. Boasberg",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:40:29.681576Z",
+   "date_created": "2021-01-12T21:00:35.936569Z",
+   "score": {
+    "bm25": 17.17527
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 313,
+    "cites": [
+     149672,
+     184564,
+     255675,
+     381283,
+     403325,
+     654186,
+     732420,
+     751170,
+     758719
+    ],
+    "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2019cv3195-49",
+    "id": 4650894,
+    "joined_by_ids": [],
+    "local_path": "pdf/2021/01/12/wengui_v._clark_hill_plc.pdf",
+    "meta": {
+     "timestamp": "2025-10-28T21:23:57.341972Z",
+     "date_created": "2021-01-12T21:00:35.970640Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "5bdd1c34c8850c61b71047b164f16a1efaa4241a",
+    "snippet": "                             UNITED STATES DISTRICT COURT\n                             FOR THE DISTRICT OF COLUMBIA\n\n\n\n GUO WENGUI,\n\n         Plaintiff,\n                 v.                                       Civil Action No. 19-3195 (JEB)\n CLARK HILL, PLC, et al.,\n\n         Defendants.\n\n\n                                   MEMORANDUM OPINION\n\n       Malicious cyberattacks have unfortunately become a routine part of our modern digital\n\nworld. So have the lawsuits that follow them, alleging, as ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4650894
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "Civil",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7335169/pozzuolo-v-portfolio-recovery-assocs-llc/",
+  "attorney": "*219Cary L. Flitter, Andrew M. Milz, Flitter Milz, P.C., Narberth, PA, for Robert J. Pozzuolo., Lauren M. Burnette, Messer Strickler Ltd., Jacksonville, FL, Adam T. Simons, McGuireWoods LLP, Baltimore, MD, Jarrod Shaw, McGuireWoods LLP, Pittsburgh, PA, for Portfolio Recovery Associates, LLC.",
+  "caseName": "Pozzuolo v. Portfolio Recovery Assocs., LLC",
+  "caseNameFull": "Robert J. POZZUOLO, and All Others Similarly Situated v. PORTFOLIO RECOVERY ASSOCIATES, LLC",
+  "citation": [
+   "371 F. Supp. 3d 217"
+  ],
+  "citeCount": 0,
+  "cluster_id": 7335169,
+  "court": "District Court, E.D. Pennsylvania",
+  "court_citation_string": "E.D. Pa.",
+  "court_id": "paed",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-04-09",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "CIVIL ACTION NO. 18-1797",
+  "docket_id": 64323655,
+  "judge": "Savage",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T13:40:34.531744Z",
+   "date_created": "2022-07-25T06:19:32.179016Z",
+   "score": {
+    "bm25": 16.496939
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7253089,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T11:29:50.795451Z",
+     "date_created": "2022-07-25T06:19:32.191206Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nSavage, J.\nIn this putative class action brought under the Fair Debt Collection Practices Act (FDCPA),1 we must determine whether the plaintiff suffered an injury-in-fact necessary to confer standing. The issue is whether one who has not suffered actual harm or was not at risk of harm as a result of a procedural violation of 15 U.S.C. \u00a7 1692g has standing to assert a claim for that violation. We hold tha",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7253089
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/10357172/united-states-v-paige-thompson/",
+  "attorney": "",
+  "caseName": "United States v. Paige Thompson",
+  "caseNameFull": "",
+  "citation": [
+   "130 F.4th 1158"
+  ],
+  "citeCount": 7,
+  "cluster_id": 10357172,
+  "court": "Court of Appeals for the Ninth Circuit",
+  "court_citation_string": "9th Cir.",
+  "court_id": "ca9",
+  "court_jurisdiction": null,
+  "dateArgued": "2024-06-05",
+  "dateFiled": "2025-03-17",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "22-30179",
+  "docket_id": 67916047,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-11-17T21:38:57.075833Z",
+   "date_created": "2025-03-17T16:01:18.433527Z",
+   "score": {
+    "bm25": 15.561131
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     77406,
+     147349,
+     179532,
+     183729,
+     217549,
+     804819,
+     1207622,
+     1227504,
+     1263493,
+     1405952,
+     2777198,
+     4102921,
+     4681780,
+     7260396,
+     9433331,
+     9435027,
+     9435281,
+     9435287,
+     9438985,
+     9484803,
+     9493149,
+     9495495,
+     9499897,
+     9560001,
+     9562763,
+     9574682,
+     9580242,
+     9584727,
+     9626474,
+     9696863,
+     9799405,
+     9848463,
+     9906948
+    ],
+    "download_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/03/17/22-30179.pdf",
+    "id": 10823760,
+    "joined_by_ids": [],
+    "local_path": "pdf/2025/03/17/united_states_v._paige_thompson.pdf",
+    "meta": {
+     "timestamp": "2025-12-07T01:55:04.700265Z",
+     "date_created": "2025-03-17T16:01:18.436152Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "6a84aa16231b475bf0ad1692a860177ff0d9e405",
+    "snippet": "                FOR PUBLICATION\n\n  UNITED STATES COURT OF APPEALS\n       FOR THE NINTH CIRCUIT\n\nUNITED STATES OF AMERICA,                  No. 22-30179\n\n             Plaintiff-Appellant,          D.C. Nos.\n                                        2:19-cr-00159-\n v.                                         RSL-1\n                                        2:19-cr-00159-\nPAIGE A. THOMPSON,                           RSL\n\n             Defendant-Appellee.            OPINION\n\n      Appeal from the United St",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   10823760
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9488601/matter-of-merrill/",
+  "attorney": "",
+  "caseName": "Matter of Merrill",
+  "caseNameFull": "",
+  "citation": [
+   "207 N.Y.S.3d 690",
+   "2024 NY Slip Op 01713"
+  ],
+  "citeCount": 0,
+  "cluster_id": 9488601,
+  "court": "Appellate Division of the Supreme Court of the State of New York",
+  "court_citation_string": "N.Y. App. Div.",
+  "court_id": "nyappdiv",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2024-03-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "2020-07221",
+  "docket_id": 68381825,
+  "judge": "Per Curiam.",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-12-05T00:00:42.992745Z",
+   "date_created": "2024-03-27T19:10:03.472805Z",
+   "score": {
+    "bm25": 14.886264
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": "http://www.courts.state.ny.us/reporter/3dseries/2024/2024_01713.htm",
+    "id": 9955214,
+    "joined_by_ids": [],
+    "local_path": "html/2024/03/27/matter_of_merrill.html",
+    "meta": {
+     "timestamp": "2025-12-05T00:00:42.955753Z",
+     "date_created": "2024-03-27T19:10:03.488580Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "0e28be8b7f13080b49f42ee7e4b1d2ecd2fd5702",
+    "snippet": "\n\nMatter of Merrill (2024 NY Slip Op 01713)\n\n\n\n\n\nMatter of Merrill\n\n\n2024 NY Slip Op 01713\n\n\nDecided on March 27, 2024\n\n\nAppellate Division, Second Department\n\n\nPer Curiam.\n\n\n\nPublished by New York State Law Reporting Burea",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9955214
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4777869/teamsters-local-443-health-services-insurance-plan-v-john-g-chou/",
+  "attorney": "",
+  "caseName": "Teamsters Local 443 Health Services & Insurance Plan v. John G. Chou",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4777869,
+  "court": "Court of Chancery of Delaware",
+  "court_citation_string": "Del. Ch.",
+  "court_id": "delch",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2020-08-24",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "CA No. 2019-0816-SG",
+  "docket_id": 17473094,
+  "judge": "Glasscock, V.C.",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:21:27.689364Z",
+   "date_created": "2020-08-24T19:02:47.065397Z",
+   "score": {
+    "bm25": 13.921284
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=309790",
+    "id": 4558216,
+    "joined_by_ids": [],
+    "local_path": "pdf/2020/08/24/teamsters_local_443_health_services__insurance_plan_v._john_g._chou.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T19:15:29.733648Z",
+     "date_created": "2020-08-24T19:02:47.072064Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "353db3aa5f4e03a6f85d00692669513a1cf58236",
+    "snippet": "  IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE\n\nTEAMSTERS LOCAL 443 HEALTH             )\nSERVICES & INSURANCE PLAN, ST.         )\nPAUL ELECTRICAL                        )\nCONSTRUCTION PENSION PLAN,             )\nST. PAUL ELECTRICAL                    )\nCONSTRUCTION WORKERS                   )\nSUPPLEMENTAL PENSION PLAN              )\n(2014 RESTATEMENT),                    )\nRETIREMENT MEDICAL FUNDING             )\nPLAN FOR THE ST. PAUL                  )\nELECTRICAL WORKERS, AND SAN          ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4558216
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9330193/erickson-v-erickson/",
+  "attorney": "",
+  "caseName": "Erickson v. Erickson",
+  "caseNameFull": "",
+  "citation": [
+   "521 P.3d 1089",
+   "171 Idaho 352"
+  ],
+  "citeCount": 19,
+  "cluster_id": 9330193,
+  "court": "Idaho Supreme Court",
+  "court_citation_string": "Idaho",
+  "court_id": "idaho",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2022-12-14",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "48335",
+  "docket_id": 66635505,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-11-07T21:48:33.471125Z",
+   "date_created": "2022-12-14T15:02:08.332023Z",
+   "score": {
+    "bm25": 13.445229
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     874028,
+     874109,
+     874363,
+     1119800,
+     1126609,
+     1134045,
+     1163996,
+     1225189,
+     1231227,
+     1231727,
+     1254878,
+     1302100,
+     1373316,
+     1417460,
+     1434699,
+     2563999,
+     2600067,
+     2607873,
+     2615191,
+     2621887,
+     2625082,
+     2630723,
+     6535544,
+     6536677
+    ],
+    "download_url": "https://isc.idaho.gov/opinions/48335.pdf",
+    "id": 9325522,
+    "joined_by_ids": [],
+    "local_path": "pdf/2022/12/14/erickson_v._erickson.pdf",
+    "meta": {
+     "timestamp": "2025-11-28T12:13:16.923815Z",
+     "date_created": "2022-12-14T15:02:08.337964Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "585f6b4aa82f07cabe9f847adfb53f0c8553e14d",
+    "snippet": "                    IN THE SUPREME COURT OF THE STATE OF IDAHO\n\n                                               Docket No. 48335\n\nAMY J. ERICKSON,                    )\n                                    )\n   Petitioner/Respondent,           )                         Boise, May 2022 Term\n                                    )\nv.                                  )                          Opinion Filed: December 14, 2022\n                                    )\nJOSHUA ERICKSON                     )   ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9325522
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4694530/lebanon-county-employees-retirement-fund-v-amerisourcebergen-corporation/",
+  "attorney": "",
+  "caseName": "Lebanon County Employees' Retirement Fund v. AmerisourceBergen Corporation",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4694530,
+  "court": "Court of Chancery of Delaware",
+  "court_citation_string": "Del. Ch.",
+  "court_id": "delch",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2020-01-13",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "C.A. No. 2019-0527-JTL",
+  "docket_id": 16684477,
+  "judge": "Laster V.C.",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T01:57:51.071021Z",
+   "date_created": "2020-01-13T17:03:50.278506Z",
+   "score": {
+    "bm25": 11.92173
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     1436487,
+     1461887,
+     1464451,
+     1495487,
+     1506627,
+     1510709,
+     1890645,
+     1906967,
+     1924580,
+     1947122,
+     1964700,
+     1964992,
+     1968607,
+     1991103,
+     2071262,
+     2197726,
+     2198532,
+     2206496,
+     2208565,
+     2258949,
+     2266317,
+     2308645,
+     2326453,
+     2327129,
+     2327381,
+     2334726,
+     2360315,
+     2363048,
+     2370284,
+     2379496,
+     2391836,
+     2393941,
+     2405472,
+     2441952,
+     2556088
+    ],
+    "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=300360",
+    "id": 4471861,
+    "joined_by_ids": [],
+    "local_path": "pdf/2020/01/13/lebanon_county_employees_retirement_fund_v._amerisourcebergen_corporation.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T18:15:58.121124Z",
+     "date_created": "2020-01-13T17:03:50.285768Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "ec2f7c5315a378527521e0017868bfe6e3e570d0",
+    "snippet": "      IN THE COURT OF CHANCERY OF THE STATE OF DELAWARE\n\nLEBANON COUNTY EMPLOYEES\u2019                 )\nRETIREMENT FUND and                       )\nTEAMSTERS LOCAL 443 HEALTH                )\nSERVICES & INSURANCE PLAN,                )\n                                          )\n               Plaintiffs,                )\n                                          )\n       v.                                 )   C.A. No. 2019-0527-JTL\n                                          )\nAMERISOURCEBERGEN     ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4471861
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4647220/isaac-v-malott/",
+  "attorney": "",
+  "caseName": "Isaac v. Malott",
+  "caseNameFull": "",
+  "citation": [
+   "2019 Ohio 3210"
+  ],
+  "citeCount": 2,
+  "cluster_id": 4647220,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-08-07",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "18CA9, 18CA10",
+  "docket_id": 16039927,
+  "judge": "McFarland",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T01:45:04.586933Z",
+   "date_created": "2019-08-09T19:49:45.730612Z",
+   "score": {
+    "bm25": 11.918356
+   }
+  },
+  "neutralCite": "2019 Ohio 3210",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 8115,
+    "cites": [
+     112457,
+     721337,
+     3683011,
+     3683630,
+     3684848,
+     3699768
+    ],
+    "download_url": "http://www.supremecourt.ohio.gov/rod/docs/pdf/4/2019/2019-Ohio-3210.pdf",
+    "id": 4424473,
+    "joined_by_ids": [],
+    "local_path": "pdf/2019/08/07/isaac_v._malott.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T17:42:58.570476Z",
+     "date_created": "2019-08-09T19:49:45.756323Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "52748efc4269ed9fb044b8efb49a8d80bc6296ec",
+    "snippet": "[Cite as Isaac v. Malott, 2019-Ohio-3210.]\n\n\n                         IN THE COURT OF APPEALS OF OHIO\n                            FOURTH APPELLATE DISTRICT\n                                PICKAWAY COUNTY\n\nSTEVEN R. ISAAC, et al.,           :\n                                   :   Case Nos. 18CA9\n      Plaintiffs-Appellants/       :             18CA101\n      Cross-Appellees,             :\n                                   :\n      vs.                          :   DECISION AND JUDGMENT\n           ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4424473
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": "CIVIL - In this family dispute regarding validity and use of power of attorney, trial court correctly held that POA was valid and factual findings were not against manifest weight of the evidence."
+ },
+ {
+  "absolute_url": "/opinion/4589618/citibank-na-v-hine/",
+  "attorney": "\n  David L. Kastner, Attorney at Law, Beavercreek, Ohio, Pro Se Appellant.\n , \n  Katherine Hine, Chillicothe, Ohio, Pro Se Appellant.\n , \n  Robert C. Folland and David J. Dirisamer, Barnes & Thornburg LLP, Columbus, Ohio, for Appellee Citibank, N.A.\n ",
+  "caseName": "Citibank, N.A. v. Hine",
+  "caseNameFull": "CITIBANK, N.A. Plaintiff-Appellee, v. Katherine HINE, Defendant-Appellant.",
+  "citation": [
+   "2019 Ohio 464",
+   "130 N.E.3d 924"
+  ],
+  "citeCount": 8,
+  "cluster_id": 4589618,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-02-07",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "17CA3624",
+  "docket_id": 14546332,
+  "judge": "McFarland",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T01:27:43.269720Z",
+   "date_created": "2019-02-11T21:42:16.088546Z",
+   "score": {
+    "bm25": 11.777046
+   }
+  },
+  "neutralCite": "2019 Ohio 464",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 8115,
+    "cites": [
+     2210401,
+     2342619,
+     2689941,
+     2690640,
+     2691000,
+     2691212,
+     2691413,
+     2693800,
+     2696976,
+     2697319,
+     2697442,
+     2697653,
+     2697718,
+     2697989,
+     2705623,
+     2706946,
+     2717630,
+     2720318,
+     2749125,
+     3006851,
+     3157575,
+     3199248,
+     3683011,
+     3683630,
+     3689810,
+     3692744,
+     3698011,
+     3702411,
+     3704366,
+     3709769,
+     3717001,
+     3722069,
+     3723208,
+     3733083,
+     3734750,
+     3741034,
+     3741465,
+     3741964,
+     3742853,
+     3743861,
+     3751665,
+     3756947,
+     3757449,
+     3769127,
+     3771538,
+     3773372,
+     4088105,
+     4181387,
+     4282421,
+     4311554,
+     4318343,
+     6701413,
+     6756334,
+     6756850,
+     6757439,
+     6759723,
+     6759822,
+     6768534,
+     6773631,
+     6787831,
+     6791110,
+     6791742,
+     8515438,
+     8621654,
+     9421175,
+     9421263,
+     9432057,
+     9432952,
+     9801464,
+     9801539,
+     9824134,
+     11147453,
+     11152962
+    ],
+    "download_url": "http://www.supremecourt.ohio.gov/rod/docs/pdf/4/2019/2019-Ohio-464.pdf",
+    "id": 4366871,
+    "joined_by_ids": [],
+    "local_path": "pdf/2019/02/07/citibank_n.a._v._hine.pdf",
+    "meta": {
+     "timestamp": "2025-11-27T02:34:12.861817Z",
+     "date_created": "2019-02-11T21:42:16.121250Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "4b22b18d916a25b50399e186caf23a9249c6d003",
+    "snippet": "\n\n\n  McFarland, J.\n \n\n  {\u00b61} Appellant Katherine Hine and interested party Appellant David L. Kastner, Hine's prior attorney, jointly appeal various entries of the Ross County Court of Common Pleas. Appellants have set forth six assignments of error challenging the propriety of the trial court's ruling on the parties' motions for summary judgment, Appellee Citibank, N.A.'s motion for directed ve",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4366871
+  ],
+  "source": "CU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": "CIVIL - Trial court erred in part as Citibank failed to establish that Appellant assented to any explicitly set forth interest rate over the statutory limit and we remaned. All other assignments of error are overruled."
+ },
+ {
+  "absolute_url": "/opinion/4763241/kyli-d-smith-v-national-collegiate-student-loan-trust-mem-dec/",
+  "attorney": "",
+  "caseName": "Kyli D. Smith v. National Collegiate Student Loan Trust (mem. dec.)",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4763241,
+  "court": "Indiana Court of Appeals",
+  "court_citation_string": "Ind. Ct. App.",
+  "court_id": "indctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2020-06-24",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "19A-CC-3041",
+  "docket_id": 17288909,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:17:41.125611Z",
+   "date_created": "2020-06-24T15:04:11.812764Z",
+   "score": {
+    "bm25": 11.138348
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     2032546
+    ],
+    "download_url": "http://www.in.gov/judiciary/opinions/pdf/06242004eft.pdf",
+    "id": 4543588,
+    "joined_by_ids": [],
+    "local_path": "pdf/2020/06/24/kyli_d._smith_v._national_collegiate_student_loan_trust_mem._dec..pdf",
+    "meta": {
+     "timestamp": "2025-10-25T19:05:25.666264Z",
+     "date_created": "2020-06-24T15:04:11.817444Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "fde71bdf768b323756bcda601f7656426e2f1248",
+    "snippet": "MEMORANDUM DECISION\nPursuant to Ind. Appellate Rule 65(D),\nthis Memorandum Decision shall not be                                     FILED\nregarded as precedent or cited before any                             Jun 24 2020, 7:31 am\ncourt except for the purpose of establishing\nthe defense of res judicata, collateral                                   CLERK\n                                                                      Indiana Supreme Court\n                                                     ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4543588
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9430569/cincinnati-v-pe-alms-hill-realty-llc/",
+  "attorney": "",
+  "caseName": "Cincinnati v. PE Alms Hill Realty, L.L.C.",
+  "caseNameFull": "",
+  "citation": [
+   "2023 Ohio 2784"
+  ],
+  "citeCount": 1,
+  "cluster_id": 9430569,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2023-08-11",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "C-220503",
+  "docket_id": 67859933,
+  "judge": "Kinsley",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-23T01:14:22.946267Z",
+   "date_created": "2023-10-05T22:09:38.708625Z",
+   "score": {
+    "bm25": 10.70575
+   }
+  },
+  "neutralCite": "2023 Ohio 2784",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     2692643,
+     2700045,
+     2807345,
+     3171524,
+     3746396,
+     4299821,
+     4392536,
+     4415308,
+     4665715,
+     4766341,
+     8210265,
+     8484661
+    ],
+    "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/1/2023/2023-Ohio-2784.pdf",
+    "id": 9882426,
+    "joined_by_ids": [],
+    "local_path": "pdf/2023/08/11/cincinnati_v._pe_alms_hill_realty_l.l.c..pdf",
+    "meta": {
+     "timestamp": "2025-10-27T08:14:43.095529Z",
+     "date_created": "2023-10-05T22:09:38.716893Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "5cc9148ddf307a48db54c3e09d4af723f26aa83b",
+    "snippet": "[Cite as Cincinnati v. PE Alms Hill Realty, L.L.C., 2023-Ohio-2784.]\n\n                            IN THE COURT OF APPEALS\n                   FIRST APPELLATE DISTRICT OF OHIO\n                             HAMILTON COUNTY, OHIO\n\n\n\n\n CITY OF CINCINNATI, et al.,                        :         APPEAL NO. C-220503\n                                                              TRIAL NOS. A-1500883\n          Plaintiffs,                                                    A-1602970\n                       ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9882426
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": "CIV.R. 56 \u2013 AFFIDAVITS \u2013 EVID.R. 803 \u2013 ADOPTIVE BUSINESS RECORDS \u2013 UNCONSCIONABILITY \u2013 AMBIGUITY \u2013 BREACH OF GUARANTY \u2013 DUE PROCESS \u2013 CIV.R. 53: Where affidavits offered in support of motions for summary judgment detailed the affiant's history with managing the loans at issue and her familiarity with the loan documents and related records, the affiant was not lacking in personal knowledge of the matters described therein. Where the accompanying affidavits established that the challenged business records were kept in the regular course of business, came from a source with personal knowledge of the events described therein, and were recorded at or near the time of the events described therein, and where the trustworthiness of the records was suggested by the affiant's use of the records in her own regularly-conducted business activity, the records were admissible under Evid.R. 803(6) as adoptive business records. Defendant waived the affirmative defense of unconscionability by failing to assert it in his answers to the plaintiffs' complaints. The language of the guaranties executed by defendant prohibited defendant from challenging the guaranties on the ground that they are ambiguous. Where no genuine issues of material fact existed as to defendant's breach and resulting damages, the trial court did not err in granting summary judgment to plaintiffs on their complaints for breach of guaranty. The trial court's sua sponte reconsideration of its previous order, and its subsequent entry of an order granting summary judgment to plaintiffs on their claims for breach of guaranty, did not deprive defendant of notice or of an opportunity to be heard on the issue of damages."
+ },
+ {
+  "absolute_url": "/opinion/4847532/proctor-v-first-premier-corporation/",
+  "attorney": "",
+  "caseName": "Proctor v. First Premier Corporation",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4847532,
+  "court": "District Court, District of Columbia",
+  "court_citation_string": "D.D.C.",
+  "court_id": "dcd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-01-13",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "Civil Action No. 2020-2162",
+  "docket_id": 29104892,
+  "judge": "Chief Judge Beryl A. Howell",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:40:36.768018Z",
+   "date_created": "2021-01-14T01:00:41.852159Z",
+   "score": {
+    "bm25": 9.946687
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 1536,
+    "cites": [
+     117937,
+     118389,
+     145878,
+     186913,
+     187221,
+     384768,
+     779315,
+     1466084,
+     1911098,
+     2070478,
+     2469531,
+     2828788,
+     3395375,
+     4160509,
+     4291925,
+     4358632,
+     4642272,
+     7223962,
+     8809269,
+     9043047,
+     9422028,
+     9429079,
+     9429475,
+     9429921,
+     9430187,
+     9430410,
+     9430599,
+     9431675,
+     9432262,
+     9468908,
+     9470045,
+     9476693,
+     9887864
+    ],
+    "download_url": "https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2020cv2162-56",
+    "id": 4651311,
+    "joined_by_ids": [],
+    "local_path": "pdf/2021/01/13/proctor_v._first_premier_corporation.pdf",
+    "meta": {
+     "timestamp": "2025-11-27T07:06:56.245845Z",
+     "date_created": "2021-01-14T01:00:41.877176Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "06df27530dc964429de33553951f9f6d5c41dfca",
+    "snippet": "                                  UNITED STATES DISTRICT COURT\n                                  FOR THE DISTRICT OF COLUMBIA\n\n    CHARNITA PROCTOR,\n\n                             Plaintiff,\n\n                             v.                                        Civil Action No. 20-2162 (BAH)\n\n    FIRST PREMIER CORP., et al.,                                       Chief Judge Beryl A. Howell\n\n                             Defendants.\n\n\n                                          MEMORANDUM OPINION\n\n ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4651311
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "Civil",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9404938/shelly-milgram-v-chase-bank-usa-na/",
+  "attorney": "",
+  "caseName": "Shelly Milgram v. Chase Bank USA, N.A.",
+  "caseNameFull": "",
+  "citation": [
+   "72 F.4th 1212"
+  ],
+  "citeCount": 27,
+  "cluster_id": 9404938,
+  "court": "Court of Appeals for the Eleventh Circuit",
+  "court_citation_string": "11th Cir.",
+  "court_id": "ca11",
+  "court_jurisdiction": null,
+  "dateArgued": "2023-04-27",
+  "dateFiled": "2023-06-08",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "22-10250",
+  "docket_id": 66787683,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-11-17T21:53:57.607303Z",
+   "date_created": "2023-06-08T14:00:50.394341Z",
+   "score": {
+    "bm25": 9.610073
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     687345,
+     1841194,
+     2718120,
+     4014485,
+     4288891,
+     4796065,
+     4996971,
+     6329161,
+     9435138,
+     9823984
+    ],
+    "download_url": "http://media.ca11.uscourts.gov/opinions/pub/files/202210250.pdf",
+    "id": 9400414,
+    "joined_by_ids": [],
+    "local_path": "pdf/2023/06/08/shelly_milgram_v._chase_bank_usa_n.a..pdf",
+    "meta": {
+     "timestamp": "2025-12-05T07:50:11.745309Z",
+     "date_created": "2023-06-08T14:00:50.401606Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "15f9102d089ef6db01e7a3fd489a2ccfb21f18cc",
+    "snippet": "USCA11 Case: 22-10250    Document: 81-1    Date Filed: 06/08/2023    Page: 1 of 22\n\n\n\n\n                                                            [PUBLISH]\n                                  In the\n                 United States Court of Appeals\n                         For the Eleventh Circuit\n\n                           ____________________\n\n                                No. 22-10250\n                           ____________________\n\n        SHELLY MILGRAM,\n        a.k.a. Shelly Jaspan,\n      ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9400414
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "NEW",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/5016741/george-v-christus-health-southwestern-louisiana/",
+  "attorney": "Timothy O\u2019Dowd, 921 Ryan Street, Suite D, Lake Charles, Louisiana 70601, (337) 310-2304, COUNSEL FOR PLAINTIFFS/APPLICANTS: Bryant .George, M.D., Dura Mater, Inc., Roy C. Cheatwood, Aubrey B. Hirsch, Jr., Alexander M. McIntyre, Jr., Baker Donelson Bearman Caldwell & Berkowitz, P.C., 201 St. Charles Avenue, Suite 3600, New Orleans, Louisiana 70170, (504) 566-5200, COUNSEL FOR DEFENDANT/RESPONDENT: CHRISTUS Health Southwestern Louisiana d/b/a CHRISTUS St., Patrick Hospital, Marshall J. Simien, Jr., Simien & St, Mary, LLC, Capital One Tower, Suite 1110, One Lakeshore Drive, Lake Charles, Louisiana 70629, (337) 497-0022, COUNSEL FOR DEFENDANT/RESPONDENT: CHRISTUS Health Southwestern Louisiana d/b/a CHRISTUS St., Patrick Hospital, Jeff Landry, Attorney General, David Jeddie Smith, Jr., Assistant Attorney General, P.O. Box 94005, Baton Rouge, Louisiana 70804-9005, (225) 326-6000, COUNSEL FOR THE STATE: Office of the Attorney General, Richard T. Simmons, Jr., Hailey, McNamara, Hall, Lamann & Papale, LLP, One Galleria Blvd, Suite 1400, Metairie, Louisiana 70001, (504) 836-6500, COUNSEL FOR DEFENDANTS: Kathleen L. De-Bruhl & Associates, LLC, Kathleen L. De-Bruhl, Gilbert Ganucheau, Jr.",
+  "caseName": "George v. Christus Health Southwestern Louisiana",
+  "caseNameFull": "Bryant GEORGE, M.D. v. CHRISTUS HEALTH SOUTHWESTERN LOUISIANA Bryant George, M.D. v. Christus Health Southwestern Louisiana",
+  "citation": [
+   "203 So. 3d 541"
+  ],
+  "citeCount": 4,
+  "cluster_id": 5016741,
+  "court": "Louisiana Court of Appeal",
+  "court_citation_string": "La. Ct. App.",
+  "court_id": "lactapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2016-10-12",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "16-412",
+  "docket_id": 60257452,
+  "judge": "Conery, Peters, Pickett",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T03:22:13.927804Z",
+   "date_created": "2021-08-22T17:46:19.918769Z",
+   "score": {
+    "bm25": 9.511917
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 4829857,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-22T21:03:56.325777Z",
+     "date_created": "2021-08-22T17:46:19.933860Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nPETERS, J.\nhDr. Bryant George and Dura Mater, Inc. filed this application for supervisory writs with this court seeking to set aside a protective order issued by the trial court which has the effect of shielding evidence in the possession of CHRISTUS Health Southwestern Louisiana d/b/a CHRISTUS St. Patrick Hospital (hereinafter referred to as \u201cthe hospital\u201d or \u201cSt. Patrick Hospital\u201d) from the discovery process. For the follo",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4829857
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7334673/corley-v-vance/",
+  "attorney": "*425Royce Corley, Petersburg, VA, pro se., Christina Frances Ante, Amatullah Khaliha Booth, Colin Mccann Ceriello, Office of the Corporation Counsel, Christine Tramontano, Diep Nguyen, Consolidated Edison Co. of N.Y., Inc., Adam K. Grant, Frank Thomas Spano, Polsinelli PC, Marc Andrew Rapaport, Rapaport Law Firm, PLLC, Meredith Reade Miller, Miller Law, PLLC, Jeffrey D. Vanacore, Perkins Coie LLP, Brian Michael Willen, Eli Bard Richlin, Wilson Sonsini Goodrich & Rosati, Robert Anthony Fitch, Rawle & Henderson LLP, Philip A. Goldstein, McGuireWoods LLP, Christopher Barry Turcotte, The Law Office of Christopher B. Turcotte, P.C., New York, NY, Jeffrey I. Carton, Myles Keough Bartley, Denlea & Carton LLP, Richard Brian Polner, Harrington Ocko & Monk, LLP, White Plains, NY, Seth A. Schaeffer, McGuireWoods LLP, Richmond, VA, for Defendants.",
+  "caseName": "Corley v. Vance",
+  "caseNameFull": "Royce CORLEY v. Cyrus R. VANCE, Jr., David Stuart, John Temples, Ada Greg Weiss, Elizabeth Pederson, Dany Personnel, Brian Conroy, Michael Daly, Mark Woods, Detective Jessica Sterling, Giancarlo Cavallo, Greg Smith, NYPD Personnel, OSE Personnel, Michael T. Haggerty, Walter Panchyn, Area Officer John Doe 3, Backpage.com, LLC, Sprint Nextel Corp., T-Mobile USA Inc., Facebook Inc., Google Inc., Time Warner Cable Inc., Research in Motion Ltd., Municipal Credit Union, Capital One N.A., JPMorgan Chase Bank N.A., Consolidated Edison Company of New York, Inc., City of New York, New York County District Attorney, and Supervisor C.O. John Doe 1-2, Royce Corley v. Honorable Bonnie G. Wittner, Michael J. Barry, Ports & Files, Inc., Glenn F. Hardy, Esq., Glenn F. Hardy, P.C., Cyrus R. Vance, Jr., John Temple, David Stuart, Greg Weiss, John Doe, and the City of New York",
+  "citation": [
+   "365 F. Supp. 3d 407"
+  ],
+  "citeCount": 66,
+  "cluster_id": 7334673,
+  "court": "District Court, S.D. Illinois",
+  "court_citation_string": "S.D. Ill.",
+  "court_id": "ilsd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-03-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "15 Civ. 1800 (KPF); 15 Civ. 9621 (KPF)",
+  "docket_id": 64323159,
+  "judge": "Failla",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T13:40:27.273300Z",
+   "date_created": "2022-07-25T06:14:55.541062Z",
+   "score": {
+    "bm25": 8.809038
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7252593,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T11:29:39.453441Z",
+     "date_created": "2022-07-25T06:14:55.573867Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nKATHERINE POLK FAILLA, United States District Judge\nIn 2014, Plaintiff Royce Corley was convicted in this District on federal charges involving trafficking of minors and possession of child pornography. Now, proceeding pro se , Plaintiff brings two civil rights *426actions under ",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7252593
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/10370510/miller-compressing-company-v-john-e-busby/",
+  "attorney": "",
+  "caseName": "Miller Compressing Company v. John E. Busby",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 10370510,
+  "court": "Court of Appeals of Wisconsin",
+  "court_citation_string": "Wis. Ct. App.",
+  "court_id": "wisctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2025-04-01",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "2023AP001379",
+  "docket_id": 69829255,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-04-01T14:23:47.178830Z",
+   "date_created": "2025-04-01T14:23:47.138626Z",
+   "score": {
+    "bm25": 8.783878
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     145865,
+     395142,
+     484643,
+     577770,
+     663691,
+     741725,
+     747771,
+     789749,
+     793698,
+     1294510,
+     1306739,
+     1309668,
+     1591611,
+     1608449,
+     1626047,
+     1901596,
+     1904373,
+     1953491,
+     2005141,
+     2037230,
+     2121212,
+     2625291,
+     2641467,
+     2813863,
+     3708131,
+     4343118,
+     4392020,
+     4452097,
+     4470641,
+     4550987,
+     6984092,
+     8202232,
+     8203807,
+     8204027,
+     8251238,
+     8696916,
+     8706631,
+     9352568,
+     9391577,
+     9526789,
+     9674207,
+     9687820,
+     9716705,
+     9800559,
+     9886320
+    ],
+    "download_url": "https://www.wicourts.gov/ca/opinion/DisplayDocument.pdf?content=pdf&seqNo=935720",
+    "id": 10837098,
+    "joined_by_ids": [],
+    "local_path": "pdf/2025/04/01/miller_compressing_company_v._john_e._busby.pdf",
+    "meta": {
+     "timestamp": "2025-12-07T06:26:51.230535Z",
+     "date_created": "2025-04-01T14:23:47.140808Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "46ade3ec23c92299a6c50d41b58abe7bc4b900c5",
+    "snippet": "     COURT OF APPEALS\n         DECISION                                             NOTICE\n      DATED AND FILED                         This opinion is subject to further editing. If\n                                              published, the official version will appear in\n                                              the bound volume of the Official Reports.\n            April 1, 2025\n                                              A party may file with the Supreme Court a\n            Samuel A.",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   10837098
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ }
+]

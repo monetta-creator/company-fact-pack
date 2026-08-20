@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/10-D_2017-08-15_0001407200-17-000044
+source: edgar-dcent
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2017-08-15 (period 2017-07-31)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720017000044/dcent-dcmt10xdx081517.htm
+retrieved_at: '2026-08-20T02:58:36Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: dcent-dcmt10xdx081517.htm
+  role: raw
+  sha256: aa58c5008596415a845a28450461c767729b1b209a63344c19eea10fcedd9627
+  size: 48372
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: ab4ac6408ef9ab30c2da12ac228cae85d5ac5464b4ecb96236f5f6ef9d88d91b
+  size: 9239
+  stored: corpus
+filed_date: '2017-08-15'
+period_end: '2017-07-31'
+extraction_method: lxml
+meta:
+  accession: 0001407200-17-000044
+  form: 10-D
+  items: ''

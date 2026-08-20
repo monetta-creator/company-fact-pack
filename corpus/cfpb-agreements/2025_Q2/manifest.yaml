@@ -1,0 +1,169 @@
+doc_id: cfpb-agreements/2025_Q2
+source: cfpb-agreements
+source_tier: A
+doc_type: card-agreements
+title: CFPB card agreements 2025_Q2 (COF + Discover)
+url: https://files.consumerfinance.gov/a/assets/bulk_agreements/2025_Q2.zip
+retrieved_at: '2026-08-20T03:01:31Z'
+entity_ids:
+- cof
+- dfs
+fetcher: cfpb_agreements v1
+files:
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Teamster_Privilege_Cards.pdf-255655.pdf
+  role: raw
+  sha256: 4f25972f604945c2f48b7325ff425ccd853020334710b598d290194f429d8141
+  size: 223514
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Key_Rewards_Card.pdf-255650.pdf
+  role: raw
+  sha256: 76928bda891a969988facb089749707370d4324f3b079eb455082234b0560fe1
+  size: 375699
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Pottery_Barn_Key_Rewards_Visa.pdf-255648.pdf
+  role: raw
+  sha256: 7e6f178738bd9d827f468123b22dfd904c0cc13f3f14361a2debb80db60074c9
+  size: 469104
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_West_Elm_Key_Rewards_Visa.pdf-255647.pdf
+  role: raw
+  sha256: 7e6f178738bd9d827f468123b22dfd904c0cc13f3f14361a2debb80db60074c9
+  size: 469104
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Kohls_PLCC_CCA_CFPB_Q2_2025_R.pdf-485284.pdf
+  role: raw
+  sha256: 7591745ac9402d704c25641d6ed0c8318c89cdf41cfd0da4d161d524349c244a
+  size: 270534
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Capital_One_-_Credit_Card_Agreement_for_Visa_Signature_and_World_Mastercard_Cards.pdf-255666.pdf
+  role: raw
+  sha256: c37d53ecf5f5c5bd9067975997e327503e3e6ae8c847ee9248d4d08d324d510b
+  size: 270061
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Kohls_Cobrand_CCA_CFPB_Q2_2025_R.pdf-485285.pdf
+  role: raw
+  sha256: cafecf3d8c4ee1932a7c3cb9420e3b3f14c56109a0325b463629e19857f2052f
+  size: 241766
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Consumer_Cards.pdf-255667.pdf
+  role: raw
+  sha256: 6db773fc8850ecb804f6e63d4f5ad329b23fb91f0b0b8eb4752e25ba931a2eb2
+  size: 256655
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Bass_Pro_Shops_CLUB_Cards.pdf-255664.pdf
+  role: raw
+  sha256: a62bb26cd41e2280169c1637b0fc405899b483b3724d392d04f0d7c6fc9355cc
+  size: 230417
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__BJs_One_Mastercard_and_BJs_One_Mastercard_Card_Agreement.pdf-360159.pdf
+  role: raw
+  sha256: 151d64e3b20272bff7ca0682483b79a08ef9e053a7d34ccb1598c881dcca69bf
+  size: 223045
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Williams_Sonoma_Key_Rewards_Card.pdf-255653.pdf
+  role: raw
+  sha256: 76928bda891a969988facb089749707370d4324f3b079eb455082234b0560fe1
+  size: 375699
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Neiman_Marcus-Bergdorf_Goodman_Cards.pdf-255660.pdf
+  role: raw
+  sha256: 849c006ef38cd9fcca143072a0a0273b9f228c622dd1034710eb4866f0446f76
+  size: 377057
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Union_Plus_Cards.pdf-255656.pdf
+  role: raw
+  sha256: feb19d71ffa2b9ad8bd85b238cb332bd10790aa98199f906ea6b39d9d31811a1
+  size: 231849
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Key_Rewards_Visa.pdf-255646.pdf
+  role: raw
+  sha256: 7e6f178738bd9d827f468123b22dfd904c0cc13f3f14361a2debb80db60074c9
+  size: 469104
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_West_Elm_Key_Rewards_Card.pdf-255651.pdf
+  role: raw
+  sha256: 76928bda891a969988facb089749707370d4324f3b079eb455082234b0560fe1
+  size: 375699
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__REI_CCA_CFPB_Q1_2024_R.pdf-322429.pdf
+  role: raw
+  sha256: bde82a10e5c90774bf9e2f0548b0dc649ef94307dd3e6d9a794a2cc9c353bbf2
+  size: 387560
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Pottery_Barn_Key_Rewards_Card.pdf-255652.pdf
+  role: raw
+  sha256: 76928bda891a969988facb089749707370d4324f3b079eb455082234b0560fe1
+  size: 375699
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Menards_BIG_Cards.pdf-255661.pdf
+  role: raw
+  sha256: d34617a2e25cfdc2dcf09fc699098ac12f0a19eab4a7e4a5a63004b98fe229f1
+  size: 229892
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__REI_Co-Op_Mastercard_Card_Agreement.pdf-322429.pdf
+  role: raw
+  sha256: 2fa765f416e9241468d57bd1f3d70b13c2f634128e9ffc457504b019527b5d71
+  size: 269119
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Consumer_Card.pdf-255667.pdf
+  role: raw
+  sha256: 0448574103721d5e78146c0e892dd2a5a0b9672c4c0b52ba345e42ee8eb78355
+  size: 252607
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Williams_Sonoma_Key_Rewards_Visa_Pottery_Barn_Key_Rewards_Visa_West_Elm_Key_Rewards_Visa_Key_Rewards_Visa_in_Capital_One
+  role: raw
+  sha256: 0ec3730c50c2ba29ba70d8249e7824750f7b360e56acb9dbde4d01897f3efa03
+  size: 210816
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Williams_Sonoma_Key_Rewards_Visa.pdf-255649.pdf
+  role: raw
+  sha256: 7e6f178738bd9d827f468123b22dfd904c0cc13f3f14361a2debb80db60074c9
+  size: 469104
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Kohls_PLCC_CCA_CFPB_Q3_2024_R.pdf-485284.pdf
+  role: raw
+  sha256: e669b1f3d0483d92754b8b331e892e5ccd3bedae98751e76976f6c5af49e97e3
+  size: 229188
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__credit-card-agreement-for-williams-sonoma-key-rewards-visa-pottery-barn-key-rewards-visa-west-elm-key-rewards-visa-key-rewards-visa-in-capital-one
+  role: raw
+  sha256: b0d0755a8756bf197f31072a02be553e9c11830990bbe8cec673ab8579c888e1
+  size: 224290
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Cabela_s_CLUB_Cards.pdf-255663.pdf
+  role: raw
+  sha256: 7fb836bb0eec88d4be9b8a04a85470f47ebf6ea6f6f323493573206b1132c6a6
+  size: 214695
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Consumer_Secured_Cards.pdf-255665.pdf
+  role: raw
+  sha256: 7422b080683010c672c7b2b759603d00feb58563cf2b44ed0d88550622b8d7f8
+  size: 247553
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Kohls_Cobrand_CCA_CFPB_Q3_2024_R.pdf-485285.pdf
+  role: raw
+  sha256: 7f39cd0b0c602d5aaa42a5682e8b123e906954596abb4211efb52c646c44f742
+  size: 275489
+  stored: corpus
+- name: DISCOVER_BANK__Prime_Cardmember_Agreement_063025.pdf-255536.pdf
+  role: raw
+  sha256: 49094fb374f67247a2a70396593491c6c94f9436074a13268a6be75620758f3b
+  size: 1771717
+  stored: corpus
+- name: DISCOVER_BANK__Secured_Cardmember_Agreement_063025.pdf-255534.pdf
+  role: raw
+  sha256: c262f77219339905d631ede6dfdc8d2ddf88eed9967193e3d4987fe0f59d16d7
+  size: 3560915
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1625465ea65d5dabe6b774504fe8c2f253d6a5651fde66330f9a26c268d81e77
+  size: 937026
+  stored: corpus
+period_end: '2025-06-28'
+meta:
+  quarter: 2025_Q2
+  issuers:
+  - CAPITAL ONE, NATIONAL ASSOCIATION
+  - DISCOVER BANK
+  pdfs: 29

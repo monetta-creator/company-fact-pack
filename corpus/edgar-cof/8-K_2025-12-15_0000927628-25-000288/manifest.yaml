@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2025-12-15_0000927628-25-000288
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-12-15 (period 2025-12-12)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762825000288/cof-20251212.htm
+retrieved_at: '2026-08-20T02:45:45Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20251212.htm
+  role: raw
+  sha256: 94403415dc1eca58f138dda25544752ded475f71c4e720cdbfe42c64099f38df
+  size: 37949
+  stored: corpus
+- name: ex991november2025creditmet.htm
+  role: exhibit
+  sha256: 4acb1af7534d0e7896357389c97963b6e84dae51054bed4f55c763779f384589
+  size: 24148
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 427a819379d548e0e84c0158cc01a3c182418d41eb98b05139d2af78fe8cc786
+  size: 7405
+  stored: corpus
+filed_date: '2025-12-15'
+period_end: '2025-12-12'
+extraction_method: lxml
+meta:
+  accession: 0000927628-25-000288
+  form: 8-K
+  items: 7.01,9.01

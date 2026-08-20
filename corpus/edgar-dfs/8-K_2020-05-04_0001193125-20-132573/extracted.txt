@@ -1,0 +1,153 @@
+false 0001393612 0001393612 2020-05-01 2020-05-01
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 4, 2020 ( May 1, 2020 )
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act or Rule 12b-2 of the Exchange Act.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events.
+
+On May 1, 2020, Lawrence A. Weinbach, Chairman of the Board of Directors (the “Board”) of Discover Financial Services (the “Company”), died unexpectedly. Mr. Weinbach’s term as a director was scheduled to expire at the Company’s annual meeting to be held on May 14, 2020 (the “Annual Meeting”), and he had been nominated for re-election at the Annual Meeting.
+
+At this time, the Board has determined not to fill the vacancy created by Mr. Weinbach’s passing, nor to appoint a successor nominee for election at the Annual Meeting. In addition, the Board voted to reduce the full size of the Board from twelve to eleven members.
+
+On May 4, 2020, the Board elected director Thomas G. Maheras to serve as its Chairman, effective immediately.
+
+A copy of the Company’s press release announcing Mr. Weinbach’s death and the Board’s election of Mr. Maheras as its Chairman is attached hereto as Exhibit 99.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  |  | Description
+ | 99 |  |  | Press Release dated May 4, 2020
+ | 104 |  |  | Inline XBRL for the cover page of this Current Report on Form 8-K
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: May 4, 2020 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  | Title: |  | Vice President, Secretary and Deputy General Counsel
+[/TABLE]
+
+
+=== EXHIBIT d924584dex991.htm ===
+
+EX-99.1 2 d924584dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99
+
+DISCOVER BOARD APPOINTS THOMAS MAHERAS AS CHAIRMAN FOLLOWING
+
+DEATH OF LAWRENCE WEINBACH
+
+Riverwoods,
+IL, May 4, 2020 – The Discover Board of Directors has appointed board member Thomas Maheras as Chairman, effective immediately, following the unexpected May 1 death of Chairman Lawrence Weinbach.
+
+Weinbach, who was 80, joined Discover as an original board member when the company went public in 2007 and was lead director on Discover’s board from
+2009 to 2018. He served as independent chairman since January 2019.
+
+“The entire Discover community joins me in extending its deepest sympathies to
+Larry’s family as the company mourns the untimely passing of our colleague, leader and friend,” said Roger Hochschild, CEO and president of Discover. “I benefitted greatly from Larry’s steady guidance and stewardship, and I am
+grateful for having had the opportunity to work so closely with him.”
+
+Maheras, 57, joined the board in 2008. He has been the managing partner of
+Tegean Capital Management, LLC since 2008, and a partner and Chief Investment Officer of Iron Park Capital Management, LLC since 2019, two investment advisory firms based in New York. Prior to that, he was chairman and co-chief executive officer of Citi Markets and Banking, the investment banking division of Citigroup, Inc. He has served as chairman of the U.S. Treasury Department Borrowing Advisory Committee and as an
+executive committee member of the Board of Directors of the Securities Industry and Financial Markets Association.
+
+“Tom’s replacement of Larry
+under these unfortunate circumstances will provide continuity for Discover. His experience and knowledge of the business will be invaluable to us in his new capacity as chairman,” said Hochschild, who also is a board member.
+
+Weinbach most recently was chairman of Great Western Products Holdings, LLC, a manufacturer and master distributor of food and nonfood concession products,
+since 2009 and a managing director of Yankee Hill Capital Management, LLC, a private equity firm, since 2006. Prior to that, he was the executive chairman of Unisys Corporation, a worldwide information services and technology company, from 2005 to
+2006, and its chairman and chief executive officer from 1997 to 2004. He served as managing partner and chief executive of Andersen Worldwide, a global professional services organization, which included Arthur Andersen and the company now known as
+Accenture from 1989 to 1997.
+
+“Larry was an exceptional leader who will be greatly missed,” Maheras said. “I am honored to take over as
+chairman and look forward to working with my fellow board members and Discover’s strong leadership team to deliver on the company’s purpose of helping people achieve a brighter financial future.”
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the
+Discover card, America’s cash rewards pioneer, and offers private student loans, personal loans,
+
+home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network comprised of Discover Network, with millions of
+merchant and cash access locations; PULSE, one of the nation’s leading ATM/debit networks; and Diners Club International, a global payments network with acceptance around the world. For more information, visit www.discover.com/company .
+
+Contacts
+
+Investors:
+
+Craig Streem, 224-405-5923
+
+craigstreem@discover.com
+
+Media:
+
+Jon Drummond, 224-405-1888
+
+jondrummond@discover.com

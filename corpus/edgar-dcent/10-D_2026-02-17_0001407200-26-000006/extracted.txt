@@ -1,0 +1,238 @@
+10-D 1 dcent10-ddocumentxjanuary2.htm 10-D Document created using Wdesk Copyright 2026 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-D
+
+ASSET-BACKED ISSUER
+
+DISTRIBUTION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the monthly distribution period from January 01, 2026 through January 31, 2026
+
+___________________________
+
+[TABLE]
+Commission File Numbers: 333-141703-02 | Commission File Number: 333-205455 | Commission File Numbers: N/A |
+Central Index Key Number: 0001407200 | Central Index Key Number: 0001645731 | Central Index Key Number: 0000047288 |
+DISCOVER CARD EXECUTION NOTE TRUST | DISCOVER FUNDING LLC | CAPITAL ONE, NATIONAL ASSOCIATION (as successor by merger to Discover Bank) |
+(Exact name of the issuing entity in respect of the Notes as specified in its charter) | (Exact name of the depositor as specified in its charter) | (Exact name of the sponsor as specified in its charter) |
+Delaware | Delaware | National banking association |
+(State or jurisdiction of incorporation or organization of the issuing entity) | (State or jurisdiction of incorporation or organization of the depositor) | (State or jurisdiction of incorporation or organization of the sponsor) |
+c/o Discover Funding LLC 800 Prides Crossing Suite 100 Newark, Delaware 19713 | 800 Prides Crossing, Suite 100 Newark, Delaware 19713 | 1680 Capital One Drive, McLean, Virginia 22102 |
+(Address of principal executive offices of the issuing entity) | (Address of principal executive offices of the depositor) | (Address of principal executive offices of the sponsor) |
+Not applicable | 47-4047337 |  |
+(I.R.S. Employer Identification No. of the issuing entity) | (I.R.S. Employer Identification No. of the depositor) |  |
+[/TABLE]
+
+Eric D. Bauder
+
+Assistant Vice President, Treasurer
+
+Discover Funding LLC
+
+703-720-3148
+
+(Name and telephone number, including area code, of the person to contact in connection with this filing)
+
+Each class of Notes to which this report on Form 10-D relates is subject to the reporting requirements of Section 15(d) of the Securities Exchange Act of 1934. The title of each class of Notes to which this report on Form 10-D relates is set forth in Exhibit 99.1 hereto.
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes: [_X_] No: [___].
+
+PART I – DISTRIBUTION INFORMATION
+
+Item 1. Distribution and Pool Performance Information.
+
+Discover Funding LLC, as depositor for Discover Card Execution Note Trust, filed Form ABS-15G on February 13, 2026 in respect of the credit card receivables held by Discover Card Master Trust I for the period from January 1, 2025 to December 18, 2025. The CIK number of Discover Funding LLC is 0001645731.
+
+The information required by Items 1121(a) and 1121(b) of Regulation AB in respect of the defeasance collateral held by Discover Card Execution Note Trust is provided in the report attached hereto as Exhibit 99.1.
+
+Item 1A. Asset-Level Information.
+
+Not applicable.
+
+Item 1B. Asset Representations Reviewer and Investor Communication.
+
+Nothing to report.
+
+PART II – OTHER INFORMATION
+
+Item 2. Legal Proceedings.
+
+Nothing to report.
+
+Item 3. Sales of Securities and Use of Proceeds.
+
+Nothing to report.
+
+Item 4. Defaults Upon Senior Securities.
+
+Nothing to report.
+
+Item 5. Submission of Matters to a Vote of Security Holders.
+
+Not applicable.
+
+Item 6. Significant Obligors of Pool Assets.
+
+Not applicable.
+
+Item 7. Change in Sponsor Interest in the Securities.
+
+Nothing to report.
+
+Item 8. Significant Enhancement Provider Information.
+
+Not applicable.
+
+Item 9. Other Information.
+
+Nothing to report.
+
+Item 10. Exhibits.
+
+Exhibit No. Description
+
+99.1 Monthly Servicer Certificate
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: February 17, 2026
+
+[TABLE]
+DISCOVER FUNDING LLC (as Depositor for Discover Card Execution Note Trust)
+By: | /s/ Eric D. Bauder
+Name: | Eric D. Bauder
+Title: | Assistant Vice President, Treasurer
+[/TABLE]
+
+
+=== EXHIBIT exhibit991report-postdefea.htm ===
+
+EX-99.1 2 exhibit991report-postdefea.htm EX-99.1 Document created using Wdesk Copyright 2026 Workiva Document
+
+Exhibit 99.1
+
+Monthly Servicer Certificate
+
+Discover Card Execution Note Trust
+
+DiscoverSeries Class A(2021-2) Notes
+
+DiscoverSeries Class A(2023-1) Notes
+
+DiscoverSeries Class A(2023-2) Notes
+
+Distribution Date: February 17, 2026
+
+Related Due Period: January 01, 2026 to January 31, 2026
+
+Related Interest Accrual Period: January 15, 2026 to February 16, 2026
+
+Under the Defeasance Agreement, dated as of December 18, 2025 (the “Defeasance Agreement”), by and among Discover Card Execution Note Trust (“DCENT”), as Issuer, U.S. Bank Trust Company, National Association (“USBTC”), in its capacity as Indenture Trustee and as Paying Agent, and U.S. Bank National Association (“USB”), in its capacity as Securities Intermediary relating to the Indenture and Indenture Supplement, the Master Servicer is required to prepare, and the Indenture Trustee and the Paying Agent are required to make available, certain information each month regarding current distributions to Noteholders. The information for the Distribution Date listed above is set forth below.
+
+Capitalized terms used herein have the meanings set forth in the Defeasance Agreement (including by reference to the Indenture), unless otherwise defined herein.
+
+1. Payments to DiscoverSeries Investors with respect to this Distribution Date
+
+[TABLE]
+ | Total | Interest | Principal
+Class A(2021-2) Notes | $515,000.00 | $515,000.00 | $0.00
+Class A(2023-1) Notes | $4,489,583.33 | $4,489,583.33 | $0.00
+Class A(2023-2) Notes | $4,108,333.33 | $4,108,333.33 | $0.00
+[/TABLE]
+
+2. Information Concerning Principal Payments
+
+[TABLE]
+ |  | Amount Distributed this Due Period | Total Principal Distributions through this Due Period
+DISCOVERSERIES BY TRANCHE |  |
+(a) Class A(2021-2) Notes | $0.00 | $0.00
+(b) Class A(2023-1) Notes | $0.00 | $0.00
+(b) Class A(2023-2) Notes | $0.00 | $0.00
+[/TABLE]
+
+A-1
+
+3. I nformation Concerning Class A(2021-2) Defeasance Interest Funding Account
+
+[TABLE]
+(a) | Amount credited to the Class A(2021-2) Defeasance Interest Funding Account at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $4,212,700.00
+(b) | Amount of Class A(2021-2) Note Interest withdrawn from the Class A(2021-2) Defeasance Interest Funding Account with respect to the current Distribution Date |  | $515,000.00
+(c) | Amount, if any, withdrawn from the Class A(2021-2) Defeasance Interest Funding Account and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(d) | Amount credited to the Class A(2021-2) Defeasance Interest Funding Account at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $3,697,700.00
+[/TABLE]
+
+4. Information Concerning Class A(2021-2) Defeasance Principal Funding Accounts
+
+[TABLE]
+(a) | Aggregate amount credited to the Class A(2021-2) Defeasance Principal Funding Accounts at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $900,420,433.20
+(b) | Amount of interest and earnings on any Permitted Investment credited to the Class A(2021-2) Supplemental Defeasance Principal Funding Account, if any, since the close of business on the immediately preceding Distribution Date |  | $924,553.23
+(c) | Aggregate amount withdrawn from the Class A(2021-2) Defeasance Principal Funding Accounts in respect of unpaid amounts of principal with respect to the Class A(2021-2) Notes, if any, and distributed to Class A(2021-2) Noteholders with respect to the current Distribution Date |  | $0.00
+(d) | Aggregate amount, if any, withdrawn from the Class A(2021-2) Defeasance Principal Funding Accounts and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(e) | Aggregate amount credited to the Class A(2021-2) Defeasance Principal Funding Accounts at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $901,344,986.43
+[/TABLE]
+
+A-2
+
+5. Information Concerning Class A(2023-1) Defeasance Interest Funding Account
+
+[TABLE]
+(a) | Amount credited to the Class A(2023-1) Defeasance Interest Funding Account at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $22,449,166.67
+(b) | Amount of Class A(2023-1) Note Interest withdrawn from the Class A(2023-1) Defeasance Interest Funding Account with respect to the current Distribution Date |  | $4,489,583.33
+(c) | Amount, if any, withdrawn from the Class A(2023-1) Defeasance Interest Funding Account and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(d) | Amount credited to the Class A(2023-1) Defeasance Interest Funding Account at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $17,959,583.33
+[/TABLE]
+
+6. Information Concerning Class A(2023-1) Defeasance Principal Funding Accounts
+
+[TABLE]
+(a) | Aggregate amount credited to the Class A(2023-1) Defeasance Principal Funding Accounts at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $1,875,875,902.50
+(b) | Amount of interest and earnings on any Permitted Investment credited to the Class A(2023-1) Supplemental Defeasance Principal Funding Accounts, if any, since the close of business on the immediately preceding Distribution Date |  | $1,926,152.56
+(c) | Aggregate amount withdrawn from the Class A(2023-1) Defeasance Principal Funding Accounts in respect of unpaid amounts of principal with respect to the Class A(2023-1) Notes, if any, and distributed to Class A(2023-1) Noteholders with respect to the current Distribution Date |  | $0.00
+(d) | Aggregate amount, if any, withdrawn from the Class A(2023-1) Defeasance Principal Funding Accounts and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(e) | Aggregate amount credited to the Class A(2023-1) Defeasance Principal Funding Accounts at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $1,877,802,055.06
+[/TABLE]
+
+A-3
+
+7. Information Concerning Class A(2023-2) Defeasance Interest Funding Account
+
+[TABLE]
+(a) | Amount credited to the Class A(2023-2) Defeasance Interest Funding Account at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $21,034,666.67
+(b) | Amount of Class A(2023-2) Note Interest withdrawn from the Class A(2023-2) Defeasance Interest Funding Account with respect to the current Distribution Date |  | $4,108,333.33
+(c) | Amount, if any, withdrawn from the Class A(2023-2) Defeasance Interest Funding Account and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(d) | Amount credited to the Class A(2023-2) Defeasance Interest Funding Account at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $16,926,333.33
+[/TABLE]
+
+8. Information Concerning Class A(2023-2) Defeasance Principal Funding Accounts
+
+[TABLE]
+(a) | Aggregate amount credited to the Class A(2023-2) Defeasance Principal Funding Accounts at the close of business on the immediately preceding Distribution Date (or, in the case of the first Distribution Date, on December 18, 2025) |  | $1,500,700,722.00
+(b) | Amount of interest and earnings on any Permitted Investment credited to the Class A(2023-2) Supplemental Defeasance Principal Funding Accounts, if any, since the close of business on the immediately preceding Distribution Date |  | $1,540,922.05
+(c) | Aggregate amount withdrawn from the Class A(2023-2) Defeasance Principal Funding Accounts in respect of unpaid amounts of principal with respect to the Class A(2023-2) Notes, if any, and distributed to Class A(2023-2) Noteholders with respect to the current Distribution Date |  | $0.00
+(d) | Aggregate amount, if any, withdrawn from the Class A(2023-2) Defeasance Principal Funding Accounts and paid to the Beneficiary with respect to the current Distribution Date |  | $0.00
+(e) | Aggregate amounts credited to the Class A(2023-2) Defeasance Principal Funding Accounts at the close of business on the current Distribution Date after taking into account all withdrawals and distributions on or prior to such Distribution Date |  | $1,502,241,644.05
+[/TABLE]
+
+A-4
+
+CAPITAL ONE, NATIONAL ASSOCIATION ,
+
+as Master Servicer
+
+By: /s/ Eric D. Bauder
+
+Name: Eric D. Bauder
+
+Title: Authorized Representative
+
+A-5

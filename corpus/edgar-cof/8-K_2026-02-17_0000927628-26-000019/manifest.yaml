@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2026-02-17_0000927628-26-000019
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2026-02-17 (period 2026-02-13)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762826000019/cof-20260213.htm
+retrieved_at: '2026-08-20T02:45:43Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20260213.htm
+  role: raw
+  sha256: 2d0d9b34d401c1f26cf4e1a9d2dfc5058bcab74d6bccba99704b2771fb2a51b5
+  size: 37949
+  stored: corpus
+- name: ex991january2026creditmetr.htm
+  role: exhibit
+  sha256: ebeae7fa7e061e51e769c8818e9e7081f5bf7dcd1c49bf3a4dcdd3596b0b1801
+  size: 24147
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 74c14bf93edbc09c4909214b8360fb072693c9bcd991981cfa96441c3d2590d2
+  size: 7402
+  stored: corpus
+filed_date: '2026-02-17'
+period_end: '2026-02-13'
+extraction_method: lxml
+meta:
+  accession: 0000927628-26-000019
+  form: 8-K
+  items: 7.01,9.01

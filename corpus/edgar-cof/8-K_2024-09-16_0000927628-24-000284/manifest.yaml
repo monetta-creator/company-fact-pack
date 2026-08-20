@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2024-09-16_0000927628-24-000284
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2024-09-16 (period 2024-09-13)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762824000284/cof-20240913.htm
+retrieved_at: '2026-08-20T02:46:00Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20240913.htm
+  role: raw
+  sha256: 9a27f06f6d7d0f17263b63313c95c149549caebe358988602ffc3f565177f97e
+  size: 38874
+  stored: corpus
+- name: ex991august2024creditmetri.htm
+  role: exhibit
+  sha256: 386b4c4cb23aefdd142060104428dfb945714d185b53317b5cdf36d27e2da667
+  size: 24307
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 5fd6b84997f980dce77a87d0a756e1989c6cb4ac7dd7a687e8ed487bfbdda3d0
+  size: 7673
+  stored: corpus
+filed_date: '2024-09-16'
+period_end: '2024-09-13'
+extraction_method: lxml
+meta:
+  accession: 0000927628-24-000284
+  form: 8-K
+  items: 7.01,9.01

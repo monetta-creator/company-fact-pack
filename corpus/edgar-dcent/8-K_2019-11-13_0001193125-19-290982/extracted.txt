@@ -1,0 +1,459 @@
+8-K 1 d819828d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 7, 2019
+
+[TABLE]
+Commission File Number:
+ 333-141703-02; 333-167413;
+ 333-191359; 333-205455-01;
+ 333-228025-02 |  | Commission File Number:
+ 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 333-228025-01;
+ 000-23108 |  | Commission File Number:
+ 333-205455;
+ 333-228025 |  | Commission File Number:
+ 333-141703-01;
+ 333-167413-01;
+ 333-191359-01;
+ 033-54804
+DISCOVER CARD EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING
+ LLC |  | DISCOVER BANK
+(Exact name of issuing entity in respect of the notes as specified in charter) |  | (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as specified in charter) |  | (Exact name of sponsor as specified in charter)
+Delaware |  | Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of incorporation or organization of the issuing entity) |  | (State or jurisdiction of incorporation or organization of the issuing entity) |  | (State or jurisdiction of incorporation or organization of the depositor) |  | (State or jurisdiction of incorporation or organization of the sponsor)
+c/o Wilmington Trust Company Rodney Square North 1100 North Market Street Wilmington, Delaware 19890-0001 |  | c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 |  | Discover Funding LLC
+ 12 Read’s Way New Castle, Delaware 19720 |  | Discover Bank 12 Read’s Way New Castle, Delaware 19720
+(Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the depositor) |  | (Address of principal executive offices of the sponsor)
+[/TABLE]
+
+51-0020270
+
+(IRS Employer Identification No. of the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Item 1.01 | Entry into Material Definitive Agreements
+
+On November 7, 2019, Discover Bank entered into that certain Fourth Amended and Restated Services Addendum, effective as of
+November 1, 2019 (the “ Fourth Amended and Restated Services Addendum ”), between Discover Bank and Discover Products Inc., pursuant to which Discover Products Inc. agreed to provide to Discover Bank the services described
+therein. The Fourth Amended and Restated Services Addendum is attached hereto as Exhibit 99.1.
+
+Item 9.01 | Exhibits
+
+[TABLE]
+Exhibit
+ No. |  | Description
+Exhibit 99.1 |  | Fourth Amended and Restated Services Addendum, effective as of November 1, 2019, between Discover Bank and Discover Products Inc.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+Date: November 13, 2019
+
+[TABLE]
+Discover Funding LLC
+ (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Numbers 333-205455 and 333-228025)
+By: |  | /s/ Patricia S. Hall
+ |  | Patricia S. Hall Vice President, Chief
+Financial Officer and Treasurer
+Discover Bank
+ (as registrant under Commission File Numbers 333-141703-01,
+ 333-167413-01 and 333-191359-01)
+By: |  | /s/ Patricia S. Hall
+ |  | Patricia S. Hall Vice President, Chief
+Financial Officer and Assistant Treasurer
+[/TABLE]
+
+
+=== EXHIBIT d819828dex991.htm ===
+
+EX-99.1 2 d819828dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+FOURTH AMENDED AND RESTATED SERVICES ADDENDUM
+
+This Fourth Amended and Restated Services Addendum is dated as of November 1, 2019 and is entered into pursuant to and incorporated by
+reference into the Second Amended and Restated Master Services Agreement dated as of March 15, 2018 by and among the parties thereto, including each of the undersigned (as amended, the “Master Services Agreement”). Discover Products
+Inc. (the “Servicing Party”) hereby agrees to provide to Discover Bank (the “Receiving Party”) the Services described below. The provision of Services hereunder shall be governed by the terms of the Master Services Agreement. All
+capitalized terms used and not defined herein shall have the meanings ascribed thereto in the Master Services Agreement.
+
+This Fourth
+Amended and Restated Services Addendum supersedes and replaces the Third Amended and Restated Services Addendum dated as of January 1, 2015 between Servicing Party and Receiving Party.
+
+Services to be Provided
+
+In addition to services
+as agreed from time to time by the Parties, Servicing Party will perform the following Services for, or on behalf of, Receiving Party:
+
+ | • |  | Consumer Banking and Marketing-related services in support of Receiving Party’s Card, Deposits, Student
+Loans, Personal Loans and Home Equity Loans lines of business, including (i) Brand & Acquisition, (ii) e-Business, (iii) Analysis and Pricing, (iv) Marketing Operations and (v) Business Risk
+
+ | • |  | Credit Operations and Decision Management services in support of Receiving Party’s Card, Student Loans,
+Personal Loans and Home Equity Loans lines of business
+
+ | ○ |  | Includes analytics and underwriting for the Card, Student Loans, Personal Loans and Home Equity Loans lines of
+business
+
+ | • |  | Customer Services and Operations for Receiving Party’s Card, Deposits, Student Loans, Personal Loans and
+Home Equity Loans lines of business
+
+ | ○ |  | Includes Call Center Support, Acquisition Services and Collections Services
+
+ | ○ |  | Customer Services, Call Center Support and Collections Services shall be provided in accordance with service
+levels established by Servicing Party
+
+ | • |  | Finance, Accounting and Treasury services as described on Schedule 1
+
+ | • |  | Legal services as described on Schedule 2
+
+ | • |  | Corporate Compliance services as described on Schedule 3
+
+ | • |  | Human resource-related expenses including talent acquisition and background investigations
+
+ | • |  | Payroll and similar functions for certain Bank Executive Management
+
+Authorization
+
+Receiving Party hereby authorizes
+Servicing Party to execute any and all affidavits, certifications, verifications and/or other agreements and documentation necessary for Servicing Party to perform the services to be provided by Servicing Party hereunder, including, without
+limitation, Collections services.
+
+Shared Employees
+
+Will Receiving Party utilize Shared Employees of the Servicing Party?
+
+No
+
+Fees, Expenses and Payment for Services to be Provided
+
+Fees for Services to be provided under this Addendum shall be determined for each support function providing services to the Receiving Party largely consistent
+with an internal management reporting process for allocating costs. The method for determining cost allocation will be made in consultation with the cost center manager for the respective support function and will utilize a combination of one or
+more of the following cost allocation methods:
+
+ | • |  | Usage: meaning costs will be based on actual or planned costs;
+
+ | • |  | Business specific: meaning that no allocation methods are necessary as the related cost center captures costs of
+one business exclusively;
+
+ | • |  | Time spent: meaning a direct reflection of the support provided to each business;
+
+ | • |  | Headcount FTE: meaning costs will be allocated to each business based on the percentage of each business’s
+FTE to sum of total FTE; and
+
+ | • |  | Percentage of operating expenses: meaning certain costs are allocated to businesses based on the overall
+percentage of costs being absorbed by each business
+
+Mark-up
+
+Servicing Party will charge Receiving Party at the cost of Servicing Party’s expenses plus 2%.
+
+The Parties intend for the cost allocation, in all cases, to be on terms and under circumstances, including credit standards (if applicable), that are
+substantially the same or at least as favorable to the Bank or Bank subsidiary as those prevailing at the time for comparable transactions with or involving unaffiliated third parties. The Parties shall not impose any allocation on the Bank or Bank
+subsidiary that is inconsistent with that intent and, if it is determined by the Bank or Bank subsidiary in good faith or any regulatory body with supervisory authority over the Bank that an allocation hereunder is inconsistent with that intent, the
+Parties shall promptly modify the terms accordingly and shall adjust any prior allocations that violate that intent.
+
+The parties agree that the fees
+payable to the Servicing Party hereunder shall not exceed the fees the Servicing Party would have received for similar services provided to an unaffiliated third party.
+
+[TABLE]
+DISCOVER PRODUCTS INC. |  |  |  | DISCOVER BANK
+By: |  | /s/ Carlos Minetti |  |  |  | By: |  | /s/ Patricia Hall
+Name: Carlos Minetti |  |  |  | Name: Patricia Hall
+Title: Executive Vice President |  |  |  | Title: VP, CFO and Assistant Treasurer
+[/TABLE]
+
+SCHEDULE 1
+
+Description of Services to be provided by the Corporate Finance Department
+
+Controller/Accounting
+
+The Controller’s group is
+responsible for providing timely and accurate financial information in a disciplined manner. Services provided by this group include: (i) Corporate Tax, (ii) Accounting Services, Risk & Controls, (iii) Accounts Payable,
+(iv) External Reporting and Technical Accounting, (v) Regulatory Reporting, (vi) Field Finance, (vii) Financial Systems, and (viii) SOX Compliance.
+
+Corporate Treasury
+
+The Corporate Treasury Group within
+the Company is responsible for funding, capital, and cash management for all business lines and entities. Treasury services include the following groups: (i) Capital Markets, (ii) Cash Management, (iii) Capital Management,
+(iv) Liquidity Risk Management, (v) Market Risk Management, (vi) Investments and Derivatives, and (vii) Funding Planning.
+
+Investor
+Relations
+
+The key responsibilities of the Investor Relations group include building a long-term, stable investor base; coordinating formal investor
+communications; responding to ad-hoc investor information requests; and providing information and support to coverage analysts. Investor Relations coordinates with Corporate Communications, External Reporting, and the Law Department to ensure
+consistent messaging as well as compliance with disclosure regulations. Investor Relations also coordinates with various business functions to ensure a proper understanding of key business drivers and metrics.
+
+Line of Business Finance
+
+The Line of Business Finance
+Group delivers strategic decision support to Discover’s business units by budgeting and forecasting, reviewing actual performance against budgets and forecasts, and providing detailed financial analysis for critical business decisions,
+including potential new products or acquisitions. LOB Finance is organized along business lines, with teams assigned to each area of the business. LOB Finance also includes the overall Corporate Planning team.
+
+The Senior Vice President of LOB Finance also oversees the following services: Corporate Planning, Procurement and Facilities. The Facilities Department is
+responsible for the day-to-day operations required to maintain all of the furniture, buildings, and land that is owned or leased by Discover. Facilities ensures that the physical assets used by Discover employees are safe, reliable, functionally
+sound, and cost effective in order to provide a productive work environment for employees and visitors.
+
+Finance Risk and Regulatory Programs
+
+The Finance Risk and Regulatory Programs group includes Financial Modeling, Capital Management/CCAR and Resolution Planning. The Capital Management team
+oversees enterprise-wide activities associated with Discover’s Comprehensive Capital Analysis and Review processes to ensure that there are robust, forward-looking capital planning processes that account for applicable risks and sufficient
+capital to continue operations throughout times of economic and financial stress in accordance with the requirements of the Dodd-Frank Act. This includes the production and annual capital plans and required stress testing activities. The Resolution
+Planning PMO ensures that Discover Bank has an effective resolution plan detailing the strategy for rapid and orderly resolution under the FDIA in the event of material financial distress or failure of the Bank as required under the Dodd-Frank Act
+and related implementing regulations.
+
+Strategy & Development
+
+Strategy & Development is a centralized corporate functional group responsible for the management of corporate development activities, including
+establishing an approach to potential merger and acquisition (M&A) transactions; identifying and evaluating M&A opportunities; managing relationships with investment banks; and coordinating valuation, negotiation, and diligence activities,
+as needed.
+
+SCHEDULE 2
+
+Description of Services to be provided by the Law Department
+
+The Law Department provides legal related services in support of the Company’s operations and lines of business. To perform these services, Law is
+broadly organized into the following teams: (i) Regulatory Relations, Corporate and Enterprise Risk; (ii) Corporate Transactions; (iii) Public Company; (iv) Direct Banking Products; (v) Enterprise Legal Solutions,
+(vi) Litigation; (vii) Security, Payments Intellectual Property and Employment Practice Unit; (viii) Government Relations; and (ix) Risk and Operations. The department is led by the Chief Legal Officer and General Counsel, who
+reports to the Company’s CEO. This Schedule describes services provided by the Law Department to the Company on an enterprise-wide basis, some of which may not be provided directly to the Receiving Party.
+
+Regulatory Relations, Corporate and Enterprise Risk
+
+Regulatory, Corporate and Enterprise Risk provides legal advice and analysis with respect to corporate and regulatory matters affecting Discover Financial
+Services, as a public company and a bank holding company, and Discover Bank as an insured depository institution.
+
+Bank Regulatory
+
+The Bank Regulatory group provides advice and analysis regarding prudential bank and bank holding company laws and regulations and supports board governance
+from a regulatory perspective. The laws and regulations that Bank Regulatory Advisory covers are enterprise wide. Bank Regulatory Advisory advises on a broad array of legal rules and regulations, including Regulation W, Regulation Y, CCAR,
+BSA/AML/OFAC, FCPA/Anti-Bribery, Community Reinvestment Act, liquidity and counterparty credit.
+
+The Bank Regulatory Group includes the Regulatory
+Relations group, which acts as the primary liaison between the Company and the various regulatory agencies. Regulatory Relations takes a leadership role in developing and implementing strategies regarding regulatory affairs, coordinates regulatory
+examinations across the enterprise and facilitates timely interactions with the agencies related to various company initiatives and maintains positive regulatory relations.
+
+Corporate
+
+The Corporate practice supports the Finance and
+Treasury Departments on transactional and regulatory matters including capital markets transactions, securitizations, capital and liquidity matters and resolution planning. The Corporate group also manages corporate governance related matters for
+all of the Company’s subsidiaries.
+
+Corporate Transactions
+
+The Corporate Transactions group works with the business units and coverage attorney to negotiate and document the legal and business terms of the
+Company’s contracts for the purchase of goods and services. Corporate Transactions provides a consultative approach during the negotiation process, helping business units to understand terms, risks, and what items are important for the
+transaction. The Corporate Support team is part of Corporate Transactions and provides legal advice with respect to business technology, facilities and certain strategic Network matters. Corporate Support works closely with Corporate Transactions to
+help DFS management maximize benefits and reduce risks surrounding third party engagements.
+
+Public Company
+
+Public Company provides advice and analysis regarding the responsibilities of Discover Financial Services as a public company listed on the New York Stock
+Exchange and Discover’s executive compensation and employee benefits strategies. Public Company’s primary clients include Investor Relations, Corporate Communications and Human Resources. Public Company works closely with
+Finance—Regulatory Reporting in preparation of the Company’s 10-K and 10-Q Securities and Exchange Commission (SEC) filings. Public Company advises on a broad array of legal rules and regulations, including: SEC ‘33 Act and ‘34
+Act, Regulation FD and New York Stock Exchange (NYSE) listing standards, Executive Compensation and Employee Benefits and ERISA rules.
+
+Direct Banking
+Products
+
+Direct Banking Products provides legal advice and analysis to the business teams throughout the Company that manage consumer banking products
+and operations across the entire life cycle of the products, from solicitation to recovery. Direct Banking Products includes the following subgroups: (i) Card Marketing, (ii) Deposits, (iii) Collections, Operations and Risk,
+(iv) Discover Personal Loans/Discover Home Equity and (v) Discover Student Loans.
+
+Direct Banking Products addresses a wide range of
+critical legal and regulatory issues affecting consumer banking products, including issues relating to Truth in Lending, Truth in Savings, Electronic Funds Transfers, Funds Availability, Equal Credit Opportunity, RESPA, UDAAP, Fair Credit Reporting,
+loan and deposit servicing, tax reporting, debt collection practices, bankruptcy, and many other state and federal laws. Direct Banking Products collaborates with the business teams and the Discover attorneys that support Card products and
+specialized legal issues such as privacy, SCRA, UDAAP, and fair lending. Direct Banking Products supports business clients in Products Design, Marketing, Operations, Customer Service, Payment Processing, Credit Reporting, Credit Risk, Business Risk,
+Collections and Recovery.
+
+Security, Payments, Intellectual Property and Employment Practice Group
+
+Security and Payments
+
+Security and Payments supports all aspects
+of the Company’s Payment Services organization. The group supports the day-to-day worldwide operations of Card Network, PULSE and Diners Club International, including acceptance and issuance activities and strategic alliances. This group
+supports strategic alliance initiatives such as “net-to-net” arrangements, B2B initiatives, other global business development initiatives and emerging payment products projects. Security and Payments advises on contracts, deal
+structuring governance and legislative and regulatory matters that affect its Payment Services clients, and serves on enterprise, network and industry committees.
+
+Employment
+
+Employment provides legal counsel and support in
+order to ensure compliance with all federal, state and local laws that govern how employers treat their employees. The group partners with Human Resources to address and resolve employee related matters in an effort to limit and prevent legal
+liability and to ensure that employees are treated fairly and consistently.
+
+The general responsibilities of Employment include (i) providing legal
+advice and counsel on all employment issues, (ii) advising on new business initiatives and strategic business plans affecting employees; (iii) preparing and delivering training to Human Resources and business managers on Company policies
+and legal updates; (iv) managing internal investigations regarding alleged discrimination, retaliation, harassment and misconduct; (v) representing the Company in matters before various governmental fair employment practices agencies; and
+(vi) managing outside counsel through all phases of employment related litigation to achieve cost-effective resolutions.
+
+Intellectual Property
+
+The Intellectual Property Team registers, maintains and protects the intellectual property of the Company. In addition, the team creates policies and
+procedures and counsels to protect and enhance these important assets and to avoid infringement of other company’s intellectual property.
+
+Litigation
+
+Litigation manages the Company’s
+litigation and regulatory risk through the resolution of legal matters involving the Company. The team supervises outside counsel and in-house paralegals in the development and execution of litigation strategy, including fact investigation,
+discovery, motion practice, settlement negotiations and trial. The team is also responsible for conducting internal investigations, responding to regulatory investigations, and fulfilling third-party discovery requests. Litigation works
+collaboratively with Law Department coverage attorneys, compliance professionals, and business partners to identify, mitigate, and, where possible, eliminate the Company’s litigation and regulatory risk.
+
+Government Relations
+
+Government Relations advises the
+Company on state and federal legislation and regulatory matters and advances the Company’s interests with elected officials and regulators. This group’s activities include direct interaction with elected officials and their staff;
+analysis of, and formal responses to, legislative/regulatory proposals; preparation of Company advocacy materials; participation in trade association and other industry legislative/regulatory initiatives; and management of the Company’s
+political action committee.
+
+Risk and Operations
+
+Legal Risk and Operations oversees the legal and regulatory change management program, serves as the Risk Office, and manages the day-to-day operations
+activities for the Law Department.
+
+Risk
+
+Legal Risk
+promotes a risk aware culture that proactively seeks to mitigate risk where appropriate. Legal Risk works in conjunction with members of the Law Department, Corporate Risk Management, Corporate Compliance and business units to implement a legal risk
+framework that safeguards the Company. Legal Risk serves as Law’s Risk Office and adheres to corporate policy, standards, risk architecture and requirements. Responsibilities include: managing and promoting the consistent application of legal
+and regulatory requirements; ensuring sustainable compliance with risk activities; and ensuring that the Law Department identifies, documents, monitors, tests and reports on department process and control effectiveness.
+
+Operations
+
+Operations strives to drive efficiencies and reduce
+expenses. Law Operation’s responsibilities include: Law’s financial planning, forecasting and reporting; Outside Counsel program, including the Preferred Provider Program; vendor relationships, memberships, and subscriptions;
+on/off-boarding resources; occupancy planning; and communication.
+
+Enterprise Legal Solutions
+
+The Enterprise Legal Solutions group strives to optimize legal risk management by providing subject matter legal expertise and substantive awareness for the
+Law Department, Corporate Risk Management and the Company’s businesses with respect to enterprise-wide legal issues related to fair lending, privacy, unfair deceptive or abusive acts or practices (UDAAP), Servicemember’s Civil Relief Act
+(SCRA) and complaints. Enterprise Legal Solutions serves as “go to” legal subject matter experts for enterprise-wide legal and regulatory issues related to fair lending, privacy, UDAAP, SCRA and complaints by (i) calibrating and
+standardizing legal analysis for consistency and uniformity of legal advice, (ii) developing best practices for identifying, analyzing and mitigating legal risks, (iii) enhancing risk awareness, and (iv) leading legal initiatives, in
+each case with respect to enterprise-wide legal issues related to fair lending, privacy, UDAAP, SCRA and complaints.
+
+SCHEDULE 3
+
+Description of Services to be provided by the Corporate Compliance Department
+
+The Corporate Compliance Department establishes and maintains a firm-wide program to identify, assess, control, measure, monitor, and report legal and
+regulatory compliance risks across the organization. Corporate Compliance provides independent oversight of Discover’s adherence to legal and regulatory requirements, assesses and opines on the adequacy and effectiveness of business
+processes and controls, reports on the status of Discover’s compliance with laws and regulations, and tracks and reports to senior management on identified issues, including the adequacy and timeliness of corrective actions in response to
+identified issues. This Schedule describes services provided by Corporate Compliance to the Company on an enterprise-wide basis, some of which may not be provided directly to the Receiving Party.
+
+The Corporate Compliance Department performs these services through the following teams:
+
+ | 1. | Compliance Program Office and Reporting. Provides a centralized program management services for key
+BSA/AML & Sanctions and Compliance initiatives. It also gathers necessary data and creates reports for senior management committees, the Board and Board Committees.
+
+ | a. | Compliance Program Office. Responsible for all Program Management activities for top strategic Compliance
+initiatives that support the enterprise. This includes project management and reporting for Anti-Money Laundering (AML), Bank Secrecy Act (BSA) & Sanctions Programs and Compliance Program initiatives.
+
+ | b. | Reporting. Responsible for reporting of program initiatives including Reporting, Key Risk Indicators (KRIs),
+and Key Performance Indicators (KPIs), generating reports for Compliance and governing committees and developing review and oversight of the KRI and KPI program and framework.
+
+ | 2. | Ethics and Compliance Operations. Responsible for several compliance functions across the DFS enterprise
+including anti-bribery and ethics, business unit compliance advisory services, compliance training, compliance risk assessments, regulatory change management and vendor management oversight.
+
+ | a. | Business Compliance Services. Provides oversight and advice to business product-lines on mitigating regulatory
+compliance risks and operationalizing regulatory requirements by embedding a team of designated second-line compliance advisors into day-to-day business operations.
+
+ | b. | Compliance Vendor Management Oversight. Responsible for assessing and managing compliance risks, including
+legal, regulatory, and customer impact associated with the business relationship between Discover and third-party service providers. Compliance VMO performs due diligence on the third-party service providers that is commensurate with the legal and
+regulatory compliance risk involved in the relationship being established. The team is committed to ensuring that all third-party service providers have a sound compliance management system, including but not limited to, appropriate processes and
+controls are in place for legal and regulatory compliance.
+
+ | c. | Enterprise Compliance Risk Assessment. Manages the sustainable, comprehensive, enterprise-wide regulatory
+compliance risk assessment*, which includes a process to dynamically assess regulatory risk as changes occur within a business or business processes. ECRA provides the organization detailed inherent and residual risk information, that is then used
+to direct the proactive management of regulatory risk consistent with the size, scale and complexity of and within the organization.
+
+*Consumer facing regulations, excluding BSA/AML (managed by AML); Privacy, UDAAP and Fair Lending (managed by ECP).
+
+ | d. | Anti-Corruption & Ethics. Manages the Anti-Bribery program which helps implement the DFS Anti-Bribery
+Policy by preventing violations of the FCPA and UK Bribery Act laws, detect exceptions to the Policy, and mitigate any concerns related to anti-bribery compliance. The DFS Anti-Bribery Program covers all activities, employees, and agents of DFS and
+its subsidiaries and affiliates. The primary goal of the DFS Anti-Bribery Program is not to engage in any conduct that puts DFS at risk for anti-bribery violations.
+
+ | 3. | Compliance Testing, Monitoring and Reporting. Compliance Testing plays a central role in identifying weaknesses
+in existing compliance risk management controls. Monitoring and Reporting establishes a framework and monitors the minimum standards for the business units’ first line of defense responsibilities with respect to assessing and reporting
+regarding the adequacy of controls established to mitigate legal and regulatory risks.
+
+ | 4. | Enterprise Privacy and Fair Banking. Implements enterprise wide programs to foster a culture of compliance
+within the Company, educate employees and assist in the enhancement and monitoring of controls to mitigate risks associated with Privacy, UDAAP and Fair Lending laws, regulations and policies.
+
+ | a. | Fair and Responsible Banking Program. Manages Discover’s exposure to fair and responsible banking
+risk, defined as the loss of reputation, civil fines, penalties, damages, restitution or expenses associated with activities required by supervisory or regulatory enforcement agencies resulting from the failure to adhere to UDAAP and fair lending
+and fair and responsible legal and regulatory requirements. Develops and maintains enterprise-wide programs to help Discover comply with fair and responsible banking laws, regulations and regulatory guidance. Fair Lending ensures safeguards are in
+place so that Discover’s lending is fair and customers have equal access to credit through the entire credit cycle. The UDAAP Program helps educate employees, customers, management, and regulators about the Company’s UDAAP compliance
+practices, and identifies and helps correct practices that expose customers and the Company to UDAAP risk.
+
+ | b. | Privacy Program. Ensures compliance with privacy and consumer contact laws, and that Discover “does the
+right thing” by treating consumer and employee personal information with integrity and respect. The Privacy Compliance Program addresses federal, state and local consumer protection laws, regulations and regulatory guidance related to privacy
+and consumer contact practices including the California Consumer Privacy Act.
+
+ | 5. | BSA/AML and Sanctions Compliance serves as the center of competency for BSA/AML and Sanctions matters by
+developing methods to identify and assess BSA/AML and Sanctions risk exposures and implement or support the implementation of risk-mitigating solutions to enable business objectives.
+
+ | a. | AML Operations and Analytics provides analytics and modeling to the Bank and Payments businesses. This group
+also oversees the centralized Sanctions & List Screening program for the enterprise, which includes performing functions related to sanctions management, list screening and related compliance activities. Also includes the Financial Crimes
+Detection Unit, the KYC operations and ongoing administration for AML systems.
+
+ | b. | Discover Bank AML Program implements enterprise strategies within Bank specific standards and processes, and
+ensures appropriate preventative, detective and ongoing monitoring controls are in place to comply with AML/BSA laws and regulations. Includes transaction and activity monitoring, customer diligence, investigations and reporting.
+
+ | c. | Payment Services AML Program implements enterprise strategies within Payments Services specific standards and
+processes, and ensures appropriate preventative, detective and ongoing monitoring controls are in place to comply with AML/BSA laws and regulations. Includes transaction and activity monitoring, partner diligence, investigations and reporting.
+
+ | d. | The AML Shared Services Team provides shared services support for the Discover Bank and Payment Services AML
+and Sanctions programs with respect to (i) Risk Assessment, (ii) Policy and Procedure Administration and (iii) Business Unit Testing and Monitoring.

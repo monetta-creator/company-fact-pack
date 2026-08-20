@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-02-09_0000927628-17-000073
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-02-09 (period 2017-02-09)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000073/a8-kwarrantadjustment2917.htm
+retrieved_at: '2026-08-20T02:55:03Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kwarrantadjustment2917.htm
+  role: raw
+  sha256: b5cf903ac629a3c4ac47d763262ad862dadb27c23bf8b5d1beb9d0c4baa48909
+  size: 29429
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 83939baa12bee7147ddae7d1c91ed4b78858e3b8bcfd2e0d594203d3c46e3440
+  size: 3118
+  stored: corpus
+filed_date: '2017-02-09'
+period_end: '2017-02-09'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000073
+  form: 8-K
+  items: '8.01'

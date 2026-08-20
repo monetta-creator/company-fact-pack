@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2025-06-05_0000927628-25-000201
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-06-05 (period 2025-06-05)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762825000201/cof-20250605.htm
+retrieved_at: '2026-08-20T02:54:05Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20250605.htm
+  role: raw
+  sha256: 517349e87b7bcf18f521de2af3ba512cb9a5a742dc7324e39962f96a49b21de1
+  size: 37586
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c040a90373cb57f5401b867054d10ec653889b70b639a8d783f28f0566271211
+  size: 5809
+  stored: corpus
+filed_date: '2025-06-05'
+period_end: '2025-06-05'
+extraction_method: lxml
+meta:
+  accession: 0000927628-25-000201
+  form: 8-K
+  items: '5.02'

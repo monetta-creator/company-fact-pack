@@ -1,0 +1,96 @@
+8-K 1 a8-kdateddecember262017.htm 8-K Document created using Wdesk 1 Copyright 2017 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+December 24, 2017
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 8.01 | Other Events.
+
+On December 24, 2017, Capital One Financial Corporation (the “Company”) resubmitted its capital plan as required by the Federal Reserve Board (the “Federal Reserve”) for the 2017 Comprehensive Capital Analysis and Review (“CCAR”) process to address certain weaknesses identified in the Company’s capital planning process. In connection with the resubmission, the Company’s Board of Directors (the “Board”) reduced the authorized repurchases of the Company’s common stock to up to $1.0 billion for the remaining 2017 CCAR period, which ends June 30, 2018. In June 2017, the Company announced that the Board had authorized the repurchase of up to $1.85 billion of the Company’s common stock beginning in the third quarter of 2017 through the second quarter of 2018 (the “2017 Repurchase Program”). To date, the Company has repurchased an immaterial amount of its common stock under the 2017 Repurchase Program. If the Federal Reserve objects to the resubmitted capital plan, it may restrict subsequent capital distributions.
+
+The Board’s decision was driven by the estimated near term adverse impact to the Company’s financial position as a result of the anticipated reduction in the carrying value of certain tax assets and additional tax expenses resulting from the Tax Act 1 . The Company currently estimates that the Tax Act will result in an approximately $1.9 billion charge against net income primarily due to the write down of its deferred tax assets as a result of the Tax Act’s reduction in the corporate tax rate from 35% to 21%, a one-time tax on the Company’s unrepatriated foreign earnings, and other anticipated impacts associated with the Tax Act. The actual amount of these adjustments may vary and will be calculated based on year-end tax balances and valuation assessments of the tax assets. In addition, the Tax Act would eliminate the ability of the Company to carryback any net operating losses against prior period taxable income, which impacted the amount of the allowable deferred tax assets included in the Company’s common equity Tier 1 capital in our stress scenario.
+
+The timing and exact amount of any common stock repurchases for the remainder of the 2017 Repurchase Program will depend on various factors, including market conditions, opportunities for growth and the Company’s capital position and amount of retained earnings. The Company’s share repurchase program does not include specific price targets, may be executed through open market purchases or privately negotiated transactions, including utilizing Rule 10b5-1 programs, and may be suspended at any time. The Company expects to maintain its quarterly dividend of $0.40 per share, subject to approval by the Board.
+
+Cautionary Statements Regarding Forward-Looking Statements.
+
+The information provided pursuant to Item 8.01 contains forward-looking statements, which involve a number of risks and uncertainties. The Company cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that the Company files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2016.
+
+___________________
+
+(1) “Tax Act” refers to the Act to provide for reconciliation pursuant to titles II and V of the concurrent resolution on the budget for fiscal year 2018 enacted on December 22, 2017.
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: | December 26, 2017 | By: | /s/ | John G. Finneran, Jr.
+ |  |  |  | John G. Finneran, Jr.
+ |  |  |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+2

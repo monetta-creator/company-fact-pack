@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2023-08-15_0001163321-23-000021
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2023-08-15 (period 2023-07-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332123000021/form10-djuly2023.htm
+retrieved_at: '2026-08-20T02:56:35Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-djuly2023.htm
+  role: raw
+  sha256: c53d465c9fe0541da40c9349f2663bbdb2c73bcc946dd1ab2e23911154a5a70d
+  size: 30425
+  stored: corpus
+- name: exhibit9912002-ccjuly2023.htm
+  role: exhibit
+  sha256: 00001658fba9c758166229ddcf70732555dbb5036573959120a0a66d02bb8864
+  size: 152192
+  stored: corpus
+- name: exhibit992nhsjuly2023.htm
+  role: exhibit
+  sha256: 1597bef3db4a6b8cfbba280ecfc75af10dd24f3357e432c1d42e9bee95a7c5fd
+  size: 413700
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b21b002332f94fe07e351dca4ce658d4e03abbf771962d7749736c83e5b9cefe
+  size: 41141
+  stored: corpus
+filed_date: '2023-08-15'
+period_end: '2023-07-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-23-000021
+  form: 10-D
+  items: ''

@@ -1,0 +1,24 @@
+doc_id: courtlistener/o_capital-one-data-breach-2019
+source: courtlistener
+source_tier: A
+doc_type: litigation-search
+title: 'CourtListener: "Capital One" data breach 2019'
+url: https://www.courtlistener.com/api/rest/v4/search/?q="Capital One" data breach
+  2019&type=o
+retrieved_at: '2026-08-20T02:38:50Z'
+entity_ids:
+- cof
+fetcher: courtlistener v1
+files:
+- name: results.json
+  role: raw
+  sha256: 2eaa35de394cb660f4cdf1d795a3175bacfc7187b343fa8bcf1bb74c8aa4f4dd
+  size: 52696
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1f2dcdf01763d79a281a94a74abee2a866e0e43283187929077de987e5586449
+  size: 2717
+  stored: corpus
+meta:
+  result_count: 20

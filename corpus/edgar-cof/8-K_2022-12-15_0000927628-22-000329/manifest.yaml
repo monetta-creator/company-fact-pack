@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2022-12-15_0000927628-22-000329
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-12-15 (period 2022-12-14)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762822000329/cof-20221214.htm
+retrieved_at: '2026-08-20T02:46:21Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20221214.htm
+  role: raw
+  sha256: fb2ac30cf79371954366a45550bb3839bdde4b77079295c3e7f28574a7ebaf6c
+  size: 57543
+  stored: corpus
+- name: ex991november2022creditmet.htm
+  role: exhibit
+  sha256: 393a7257b6aeacff0b590183782547cb55e6be39bc387ba5d6d041d751004fd9
+  size: 23571
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 0b96dddd689481065bda48fcf46a6f2682ebe91d4374de2bc0ff25e395f6c505
+  size: 7546
+  stored: corpus
+filed_date: '2022-12-15'
+period_end: '2022-12-14'
+extraction_method: lxml
+meta:
+  accession: 0000927628-22-000329
+  form: 8-K
+  items: 7.01,9.01

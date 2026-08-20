@@ -1,0 +1,28 @@
+doc_id: edgar-cof/S-4A_2024-07-26_0001193125-24-184991
+source: edgar-cof
+source_tier: A
+doc_type: S-4/A
+title: S-4/A filed 2024-07-26
+url: https://www.sec.gov/Archives/edgar/data/927628/000119312524184991/d743340ds4a.htm
+retrieved_at: '2026-08-20T02:31:16Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: d743340ds4a.htm
+  role: raw
+  sha256: d7d91ab174267e9ebbd8dd1b94c394bafb70296f82302d1a66989b0ce74cf3bb
+  size: 2807981
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 623e044192561d6aa0ad9db6e01f46e70dac17534c672bec78fb5caae25caad9
+  size: 1282735
+  stored: corpus
+filed_date: '2024-07-26'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0001193125-24-184991
+  form: S-4/A
+  items: ''

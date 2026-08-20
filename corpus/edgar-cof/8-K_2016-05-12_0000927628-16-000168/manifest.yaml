@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-05-12_0000927628-16-000168
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-05-12 (period 2016-05-12)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000168/a8-kwarrantadjustment51216.htm
+retrieved_at: '2026-08-20T02:55:10Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kwarrantadjustment51216.htm
+  role: raw
+  sha256: 49ae4c730074c2a63f7af0db319a3b58008e6e9c53d23cb2004f94028ed15a1a
+  size: 29406
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b417e844eae9a09bf7b36d9ff980059d884f262255fcc8eeec2ddc52e7d05b85
+  size: 3095
+  stored: corpus
+filed_date: '2016-05-12'
+period_end: '2016-05-12'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000168
+  form: 8-K
+  items: '8.01'

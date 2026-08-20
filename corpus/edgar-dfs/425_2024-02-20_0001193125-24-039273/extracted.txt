@@ -1,0 +1,604 @@
+425 1 d733833d425.htm 425 425
+
+Filed by: Discover Financial Services
+
+Pursuant to Rule 425 under the Securities Act of 1933
+
+and deemed filed pursuant to Rule 14a-12
+
+of the Securities Exchange Act of 1934
+
+Subject Company: Discover Financial Services
+
+Commission File No.: 001-33378
+
+UNITED STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 19, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission
+File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction
+ of Incorporation) |  | (IRS Employer
+ Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road, Riverwoods, Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or
+former address, if changed since last report)
+
+Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☒ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading
+ Symbol(s) |  | Name of Each Exchange
+ on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+On February 19, 2024, Discover Financial Services, a Delaware corporation (“Discover”), and Capital One Financial Corporation, a
+Delaware corporation (“Capital One”), issued a joint press release announcing the execution of an Agreement and Plan of Merger, dated as of February 19, 2024 (the “Merger Agreement”), by and among Discover, Capital One, and
+Vega Merger Sub, Inc., a Delaware corporation and wholly-owned subsidiary of Capital One (“Merger Sub”), pursuant to which, upon the terms and subject to the conditions set forth therein, Merger Sub will merge with and into Discover (the
+“Merger”), with Discover surviving the Merger (the “Surviving Entity”), and immediately following the Merger, the Surviving Entity will be merged with and into Capital One, with Capital One continuing as the surviving entity (the
+“Second Step Merger”). Promptly following the Second Step Merger, Discover Bank, a Delaware-chartered bank and wholly-owned subsidiary of Discover, will merge with and into Capital One, National Association (the “Surviving
+Bank”), a wholly-owned subsidiary of Capital One (the “Bank Merger”), with the Surviving Bank surviving the Bank Merger. A copy of the press release is filed as Exhibit 99.1 hereto and is incorporated herein by reference.
+
+In connection with the announcement of the Merger Agreement, Discover and Capital One intend to provide supplemental information regarding the
+proposed transaction in connection with presentations to analysts and investors. The slides that will be made available in connection with the presentations are attached hereto as Exhibit 99.2 and are incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, February 19, 2024.
+99.2 |  | Investor Presentation, February 20, 2024.
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+FORWARD-LOOKING STATEMENTS
+
+Forward Looking Statements
+
+Information in this
+communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the
+benefits of the proposed transaction between Discover and Capital One, including future financial and operating results (including the anticipated impact of the transaction on Discover’s and Capital One’s respective earnings and tangible
+book value), statements related to the expected timing of the completion of the transaction, the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements
+may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,”
+“believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of
+Discover or Capital One to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies from the transaction may not
+be fully realized or may take longer than anticipated to be realized, (2) disruption to the parties’ businesses as a result of the announcement and pendency of the transaction, (3) the risk that the integration of each party’s
+operations will be materially delayed or will be more costly or difficult than expected or that the parties are otherwise unable to successfully integrate as a result of unexpected factors or events, (4) the failure to obtain the necessary
+approvals by the stockholders of Discover or Capital One, (5) the ability by each of Discover and Capital One to obtain required governmental approvals of the transaction on the timeline expected, or
+
+at all, and the risk that such approvals may result in the imposition of conditions that could adversely affect the combined company or the expected benefits of the transaction,
+(6) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the transaction, (7) the failure of the closing conditions in the merger agreement to be satisfied, or any
+unexpected delay in closing the transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the merger agreement, (8) the possibility that the transaction may be more expensive to
+complete than anticipated, including as a result of unexpected factors or events, (9) risks related to management and oversight of the expanded business and operations of the combined company due to the increased size and complexity,
+(10) the possibility of increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the transaction or the size, scope and complexity of the combined company’s business operations,
+(11) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Capital One or Discover or the combined company before or after the transaction, and (12) general competitive, economic,
+political and market conditions and other factors that may affect future results of Discover and Capital One including changes in asset quality and credit risk; the inability to sustain revenue and earnings growth; changes in interest rates and
+capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities; and other actions of the Federal Reserve Board and legislative and
+regulatory actions and reforms. Additional factors which could affect future results of Discover and Capital One can be found in Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the Securities and Exchange Commission (“SEC”) and available on the SEC’s website at
+http://www.sec.gov. Discover and Capital One disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new
+information, future events or otherwise, except as required by federal securities laws.
+
+Important Information About the Transaction and Where to Find
+It
+
+Capital One intends to file a registration statement on Form S-4 with the SEC to register the shares of
+Capital One’s common stock that will be issued to Discover stockholders in connection with the proposed transaction. The registration statement will include a joint proxy statement of Capital One and Discover that also constitutes a prospectus
+of Capital One. The definitive joint proxy statement/prospectus will be sent to the stockholders of each of Discover and Capital One in connection with the proposed transaction. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION
+STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS WHEN THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS
+WILL CONTAIN IMPORTANT INFORMATION REGARDING THE PROPOSED TRANSACTION AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by Discover or Capital One through the website
+maintained by the SEC at http://www.sec.gov or by contacting the investor relations department of Discover or Capital One at:
+
+[TABLE]
+Discover Financial Services |  | Capital One Financial Corporation
+2500 Lake Cook Road |  | 1680 Capital One Drive
+Riverwoods, IL 60015 |  | McLean, VA 22102
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@discover.com (224) 405-4555 |  | investorrelations@capitalone.com
+ (703) 720-1000
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of Discover and Capital One are urged to
+read carefully the entire registration statement and joint proxy statement/prospectus when they become available, including any amendments thereto, because they will contain important information about the proposed transaction. Free copies of these
+documents may be obtained as described above.
+
+Participants in Solicitation
+
+Discover, Capital One and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of
+each of Discover and Capital One in connection with the transaction. Information regarding the directors and executive officers of Discover and Capital One and other persons who may be deemed participants in the solicitation of the stockholders of
+Discover or of Capital One in connection with the transaction will be included in the joint proxy statement/prospectus related to the proposed transaction, which will be filed by Capital One with the SEC. Information about the directors and
+executive officers of Discover and their ownership of Discover common stock can also be found in Discover’s definitive proxy statement in connection with its 2023 annual meeting of stockholders, as filed with the SEC on March 17, 2023, and
+other documents subsequently filed by Discover with the SEC. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s definitive proxy statement in
+connection with its 2023 annual meeting of stockholders, as filed with the SEC on March 22, 2023, and other documents subsequently filed by Capital One with the SEC. Additional information regarding the interests of such participants will be
+included in the joint proxy statement/prospectus and other relevant documents regarding the proposed transaction filed with the SEC when they become available.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: February 20, 2024 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer,
+ General Counsel and Secretary
+[/TABLE]
+
+Exhibit 99.1
+
+Media Release
+
+[TABLE]
+ |  | Investor Relations
+ |  | Danielle Dietz
+ danielle.dietz@capitalone.com |  | Jeff Norris
+ jeff.norris@capitalone.com
+ |  |  |  | Eric Wasserstrom
+ ericwasserstrom@discover.com
+ |  | Media Relations
+ |  | Sie Soheili
+ sie.soheili@capitalone.com |  | Carlisle Campbell
+ carlisle.campbell@capitalone.com
+ |  |  |  | Matthew Towson
+ matthewtowson@discover.com
+[/TABLE]
+
+Capital One to Acquire Discover
+
+Under the terms of the agreement, Discover shareholders will receive 1.0192 Capital One shares for each Discover share, representing a
+premium of 26.6% based on Discover’s closing price of $110.49 on February 16, 2024. Transaction is 100% stock consideration.
+
+ | • |  | Creates a global payments platform at scale, with 70 million merchant acceptance points in more than 200
+countries and territories
+
+ | • |  | Positions the combined company to compete with the largest payments companies and deliver enhanced value to a
+franchise of over 100 million customers
+
+ | • |  | Enables Capital One to leverage its customer base, technology, and data ecosystem to drive more sales for
+merchants and great deals for consumers and small businesses
+
+ | • |  | Leverages Capital One’s eleven-year technology transformation across a much larger enterprise
+
+ | • |  | Generates $2.7 billion in pre-tax synergies and >15% accretive to
+adjusted non-GAAP EPS in 2027
+
+ | • |  | Delivers return on invested capital (ROIC) of 16% in 2027 with internal rate of return (IRR) >20%
+
+ | • |  | Companies to host a conference call February 20, 2024 at 8:00am ET
+
+1
+
+MCLEAN, VA. and RIVERWOODS, IL. ( February 19, 2024 ) - Capital One Financial
+Corporation (NYSE: COF) and Discover Financial Services (NYSE: DFS) today announced that they have entered into a definitive agreement under which Capital One will acquire Discover in an all-stock transaction
+valued at $35.3 billion.
+
+The transaction brings together two companies with long-standing track records of delivering attractive and resilient
+financial results, award-winning customer experiences, breakthrough innovation, and financial inclusion.
+
+Under the terms of the agreement, Discover
+shareholders will receive 1.0192 Capital One shares for each Discover share, representing a premium of 26.6% based on Discover’s closing price of $110.49 on February 16, 2024. At close, Capital One shareholders will own approximately 60%
+and Discover shareholders will own approximately 40% of the combined company.
+
+“From Capital One’s founding days, we set out to build a payments
+and banking company powered by modern technology. Our acquisition of Discover is a singular opportunity to bring together two very successful companies with complementary capabilities and franchises, and to build a payments network that can compete
+with the largest payments networks and payments companies,” said Richard Fairbank, founder, Chairman and Chief Executive Officer of Capital One. “Through this combination, we’re creating a company that is exceptionally well-positioned
+to create significant value for consumers, small businesses, merchants, and shareholders as technology continues to transform the payments and banking marketplace.”
+
+“The transaction with Capital One brings together two strong brands with enhanced ability to accelerate growth and maximizes value for our shareholders,
+enabling them to participate in the tremendous upside of the combined company,” said Michael Rhodes, CEO and President of Discover. “This agreement underscores the strength of our business and is a testament to the hard work of Discover
+employees. We look forward to a bright future as part of the Capital One family and to providing expanded opportunities for our loyal customers.”
+
+Powerful Strategic Rationale: Positioned to Deliver for Consumers, Small Businesses, and Merchants
+
+Building a Globally Competitive Payments Network
+
+ | • |  | Discover has built a rare and valuable global payments network with 70 million merchant acceptance points in
+more than 200 countries and territories. Even so, it is the smallest of the four US-based global payments networks. This acquisition adds scale and investment, enabling the Discover network to be more
+competitive with the largest payments networks and payments companies.
+
+ | • |  | This is a key foundation in Capital One’s quest to build a global payments company. It will accelerate the
+company’s long-standing journey to work directly with merchants to leverage its customer base, technology, and data ecosystem to drive more sales for the merchant and great deals for consumers and small businesses.
+
+2
+
+Combining Complementary Card Businesses
+
+ | • |  | Capital One and Discover are proven credit card franchises with complementary strategies and a shared focus on
+the customer. Both companies have developed compelling flagship products, award-winning customer experiences, and powerful brands. They have also both delivered attractive and resilient growth and returns through economic cycles.
+
+ | • |  | The combined credit card business will be in an even stronger position to deliver industry-leading products and
+experiences that span the credit card marketplace across consumers, small businesses, and merchants.
+
+Scaling our “Digital
+First” National Bank
+
+ | • |  | Capital One Bank is propelled by an iconic customer experience and a strikingly simple value proposition. It is
+the only major bank with no fees, no minimums, and no overdraft fees. According to J.D. Power, customers have rated Capital One Bank #1 in U.S. National Banking Overall Customer Satisfaction for four consecutive years.
+
+ | • |  | Customers can enjoy an entirely digital, full-service banking experience, or visit one of 259 branches, more than
+80,000 fee-free ATMs, more than 16,000 cash deposit locations, and 55 iconic Capital One Cafes in 21 of the country’s 25 largest metro areas.
+
+ | • |  | Adding Discover’s fast-growing national direct savings bank will increase the combined company’s scale
+to compete with the nation’s largest banks, and the Discover Global Network brings a significant opportunity to accelerate national banking growth.
+
+Leveraging our Technology Transformation
+
+ | • |  | Capital One will scale and leverage the benefits of an eleven-year technology transformation across all of
+Discover’s businesses and the network.
+
+ | • |  | Capital One’s technology transformation is powering innovation, much faster speed to market, breakthrough
+products and experiences, real-time customized marketing, faster growth, better underwriting, enhanced efficiency, and better risk management and compliance.
+
+Compelling Financial Results
+
+Creating
+Significant Synergies
+
+ | • |  | The transaction is expected to generate expense synergies of $1.5 billion in 2027 (26% of Discover operating
+expenses, plus 10% of Discover marketing expenses), driven by common business functions partially offset by targeted investments in the Discover network.
+
+ | • |  | The acquisition is expected to generate network synergies of $1.2 billion in 2027, driven by adding Capital
+One debit purchase volume and selected credit card purchase volume to the Discover network.
+
+3
+
+Delivering Attractive Accretion and Returns
+
+ | • |  | The deal is expected to be more than 15% accretive to adjusted non-GAAP
+EPS in 2027.
+
+ | • |  | The transaction is expected to deliver return on invested capital of 16% in 2027, with an internal rate of return
+in excess of 20%.
+
+Strengthening a Strong Balance Sheet
+
+ | • |  | The transaction will further strengthen Capital One’s balance sheet. On a pro forma basis, the combined
+company would have a CET1 ratio of approximately 14% at closing, and 84% of company deposits would be insured as of year-end 2023.
+
+Making a Positive Difference in our Communities
+
+ | • |  | Both Capital One and Discover have proud histories of commitments to their communities. Capital One has a
+long-standing track record of “Outstanding” Community Reinvestment Act performance since 2001, and has ranked first or second in community development lending among all banks since 2015, with over $59 billion in CRA-qualified loans over that period. Capital One is in the fourth year of its 5-year, $200 million Impact Initiative, supporting
+ non-profit organizations seeking innovative solutions to address Affordable Housing, Workforce Development, Small Business Creation, Financial Well-being and Digital Access.
+
+ | • |  | Capital One appreciates the importance of Chicagoland and remains committed to maintaining a strong presence in
+that market, as well as maintaining service excellence across the U.S.
+
+Building One of America’s Great Places to Work
+
+ | • |  | Both Capital One and Discover have been recognized as great places to work on the Fortune 100 Best
+Companies to Work For ® list. This year was Capital One’s 12th consecutive year on the prestigious list.
+
+Timing and Approvals
+
+The transaction is expected
+to close in late 2024 or early 2025, subject to satisfaction of customary closing conditions, including regulatory approvals and approval by the shareholders of each company.
+
+Governance
+
+Upon closing, three Discover Board
+members, to be named at a later date, will join the Capital One Board of Directors.
+
+Advisors
+
+Centerview Partners LLC served as financial advisor and Wachtell, Lipton, Rosen & Katz served as legal advisor to Capital One. PJT Partners and Morgan
+Stanley & Co, LLC served as financial advisors, and Sullivan & Cromwell LLP served as legal advisor to Discover.
+
+4
+
+Investor Call
+
+Capital One and Discover will hold a live investor presentation call on February 20, 2024, at 8:00 AM ET. The conference call will be accessible through
+live webcast. Interested investors and other individuals can access the webcast via Capital One’s home page (www.capitalone.com). Under “About,” choose “Investors” to access the Investor Center and view and/or download
+relevant presentation materials, including a reconciliation of non-GAAP financial measures, and the acquisition investor presentation.
+
+A replay of the webcast will be archived on the companies’ Investor Relations websites and available 24 hours a day, beginning two hours after the
+conference call, until at least 5:00 p.m. Eastern Time on March 5, 2024.
+
+Forward Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private
+Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the benefits of the proposed transaction between Capital One Financial Corporation (“Capital One”) and Discover Financial Services
+(“Discover”), including future financial and operating results (including the anticipated impact of the transaction on Capital One’s and Discover’s respective earnings and tangible book value), statements related to the expected
+timing of the completion of the transaction, the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as
+“may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,”
+“outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital
+One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies from the transaction may not be
+fully realized or may take longer than anticipated to be realized, (2) disruption to the parties’ businesses as a result of the announcement and pendency of the transaction, (3) the risk that the integration of Discover’s
+business and operations into Capital One, including the integration into Capital One’s compliance management program, will be materially delayed or will be more costly or difficult than expected, or that Capital One is otherwise unable to
+successfully integrate Discover’s businesses into its own, including as a result of unexpected factors or events, (4) the failure to obtain the necessary approvals by the stockholders of Capital One or Discover, (5) the ability by
+each of Capital One and Discover to obtain required governmental approvals of the transaction on the timeline expected, or at all, and the risk that such approvals may result in the imposition of conditions that could adversely affect Capital One
+after the closing of the transaction or adversely affect the expected benefits of the transaction, (6) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the transaction,
+(7) the failure of the closing conditions in the merger agreement to be satisfied, or any unexpected delay in closing the transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the
+merger agreement, (8) the dilution caused by the issuance of additional shares of Capital One’s common stock in the transaction, (9) the possibility that the transaction may be more expensive to complete than anticipated, including as
+a result of unexpected factors or events, (10) risks related to management and oversight of the expanded business and operations of Capital One following the transaction due to the increased size and complexity of its business, (11) the
+possibility of increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the transaction or the size, scope and complexity of Capital One’s business operations following the transaction,
+(12) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Capital One before or after the transaction, or against Discover, and (13) general competitive, economic, political
+
+5
+
+and market conditions and other factors that may affect future results of Capital One and Discover, including changes in asset quality and credit risk; the inability to sustain revenue and
+earnings growth; changes in interest rates and capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities; and other actions of
+the Federal Reserve Board and legislative and regulatory actions and reforms. Additional factors which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the SEC and available on the SEC’s
+website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new
+information, future events or otherwise, except as required by federal securities laws.
+
+Important Information About the Transaction and Where to Find
+It
+
+Capital One intends to file a registration statement on Form S-4 with the SEC to register the shares of
+Capital One’s common stock that will be issued to Discover stockholders in connection with the proposed transaction. The registration statement will include a joint proxy statement of Capital One and Discover that will also constitute a
+prospectus of Capital One. The definitive joint proxy statement/prospectus will be sent to the stockholders of each of Capital One and Discover in connection with the proposed transaction. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE
+REGISTRATION STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS WHEN THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE
+SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION REGARDING THE PROPOSED TRANSACTION AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by Capital One or Discover
+through the website maintained by the SEC at http://www.sec.gov or by contacting the investor relations department of Capital One or Discover at:
+
+[TABLE]
+Capital One Financial Corporation |  | Discover Financial Services
+1680 Capital One Drive |  | 2500 Lake Cook Road
+McLean, VA 22102 |  | Riverwoods, IL 60015
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@capitalone.com (703) 720-1000 |  | investorrelations@discover.com (224) 405-4555
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of Capital One and Discover are urged to
+read carefully the entire registration statement and joint proxy statement/prospectus when they become available, including any amendments thereto, because they will contain important information about the proposed transaction. Free copies of these
+documents may be obtained as described above.
+
+Participants in Solicitation
+
+Capital One, Discover and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of
+each of Capital One and Discover in connection with the proposed transaction. Information regarding the directors and executive officers of Capital One and Discover and other persons who may be deemed participants in the solicitation of the
+stockholders of Capital One or of Discover in connection with the proposed transaction will be included in the joint proxy statement/prospectus related to the proposed transaction, which will be filed by Capital
+
+6
+
+One with the SEC. Information about the directors and executive officers of Capital One and their ownership
+of Capital One common stock can also be found in Capital One’s definitive proxy statement in connection with its 2023 annual meeting of stockholders, as filed with the SEC on March 22, 2023, and other documents subsequently filed by
+Capital One with the SEC. Information about the directors and executive officers of Discover and their ownership of Discover common stock can also be found in Discover’s definitive proxy statement in connection with its 2023 annual meeting of
+stockholders, as filed with the SEC on March 17, 2023, and other documents subsequently filed by Discover with the SEC. Additional information regarding the interests of such participants will be included in the joint proxy statement/prospectus
+and other relevant documents regarding the proposed transaction filed with the SEC when they become available.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $348.4 billion in deposits
+and $478.5 billion in total assets as of December 31, 2023. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety
+of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol
+“COF” and is included in the S&P 100 index.
+
+Visit the Capital One newsroom for more Capital One news.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the
+Discover ® card, America’s cash rewards pioneer, and offers personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates
+the Discover Global Network ® comprised of Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the
+nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company.
+
+###
+
+7
+
+Investor Presentation February 20,
+2024 #ᴅʟᴘ_MICRODOT [{'title': 'Data Security Classification', 'text': 'Internal'}]_END Exhibit 99.2
+
+Forward Looking Statements Information
+in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements
+about the benefits of the proposed transaction between Capital One Financial Corporation (“Capital One”) and Discover Financial Services (“Discover”), including future financial and operating results (including the
+anticipated impact of the transaction on Capital One’s and Discover’s respective earnings and tangible book value), statements related to the expected timing of the completion of the transaction, the combined company’s plans,
+objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,”
+“scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,”
+“potential,” or “continue” or negatives of such terms or other comparable terminology. All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or
+achievements of Capital One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies from the
+transaction may not be fully realized or may take longer than anticipated to be realized, (2) disruption to the parties’ businesses as a result of the announcement and pendency of the transaction, (3) the risk that the integration of
+Discover’s business and operations into Capital One, including the integration into Capital One’s compliance management program, will be materially delayed or will be more costly or difficult than expected, or that Capital One is
+otherwise unable to successfully integrate Discover’s businesses into its own, including as a result of unexpected factors or events, (4) the failure to obtain the necessary approvals by the stockholders of Capital One or Discover, (5) the
+ability by each of Capital One and Discover to obtain required governmental approvals of the transaction on the timeline expected, or at all, and the risk that such approvals may result in the imposition of conditions that could adversely affect
+Capital One after the closing of the transaction or adversely affect the expected benefits of the transaction, (6) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the
+transaction, (7) the failure of the closing conditions in the merger agreement to be satisfied, or any unexpected delay in closing the transaction or the occurrence of any event, change or other circumstances that could give rise to the termination
+of the merger agreement, (8) the dilution caused by the issuance of additional shares of Capital One’s common stock in the transaction, (9) the possibility that the transaction may be more expensive to complete than anticipated, including as a
+result of unexpected factors or events, (10) risks related to management and oversight of the expanded business and operations of Capital One following the transaction due to the increased size and complexity of its business, (11) the possibility of
+increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the transaction or the size, scope and complexity of Capital One’s business operations following the transaction, (12) the outcome of
+any legal or regulatory proceedings that may be currently pending or later instituted against Capital One before or after the transaction, or against Discover, and (13) general competitive, economic, political and market conditions and other factors
+that may affect future results of Capital One and Discover, including changes in asset quality and credit risk; the inability to sustain revenue and earnings growth; changes in interest rates and capital markets; inflation; customer borrowing,
+repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities; and other actions of the Federal Reserve Board and legislative and regulatory actions and reforms. Additional factors
+which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly
+Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any
+forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+Important Information About the
+Transaction and Where to Find It Capital One intends to file a registration statement on Form S-4 with the SEC to register the shares of Capital One’s common stock that will be issued to Discover stockholders in connection with the proposed
+transaction. The registration statement will include a joint proxy statement of Capital One and Discover that will also constitute a prospectus of Capital One. The definitive joint proxy statement/prospectus will be sent to the stockholders of each
+of Capital One and Discover in connection with the proposed transaction. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS WHEN THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH
+THE SEC IN CONNECTION WITH THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION REGARDING THE PROPOSED TRANSACTION AND RELATED MATTERS. Investors and
+security holders may obtain free copies of these documents and other documents filed with the SEC by Capital One or Discover through the website maintained by the SEC at http://www.sec.gov or by contacting the investor relations department of
+Capital One or Discover at: Before making any voting or investment decision, investors and security holders of Capital One and Discover are urged to read carefully the entire registration statement and joint proxy statement/prospectus when they
+become available, including any amendments thereto, because they will contain important information about the proposed transaction. Free copies of these documents may be obtained as described above. Participants in Solicitation Capital One, Discover
+and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of each of Capital One and Discover in connection with the proposed transaction. Information regarding the
+directors and executive officers of Capital One and Discover and other persons who may be deemed participants in the solicitation of the stockholders of Capital One or of Discover in connection with the proposed transaction will be included in the
+joint proxy statement/prospectus related to the proposed transaction, which will be filed by Capital One with the SEC. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be
+found in Capital One’s definitive proxy statement in connection with its 2023 annual meeting of stockholders, as filed with the SEC on March 22, 2023, and other documents subsequently filed by Capital One with the SEC. Information about the
+directors and executive officers of Discover and their ownership of Discover common stock can also be found in Discover’s definitive proxy statement in connection with its 2023 annual meeting of stockholders, as filed with the SEC on March 17,
+2023, and other documents subsequently filed by Discover with the SEC. Additional information regarding the interests of such participants will be included in the joint proxy statement/prospectus and other relevant documents regarding the proposed
+transaction filed with the SEC when they become available. Capital One Financial Corporation 1680 Capital One Drive McLean, VA 22102 Attention: Investor Relations investorrelations@capitalone.com (703) 720-1000 Discover Financial Services 2500 Lake
+Cook Road Riverwoods, IL 60015 Attention: Investor Relations investorrelations@discover.com (224) 405-4555
+
+Capital One’s acquisition of
+Discover has strong strategic rationale Combines Capital One’s scale in credit cards and banking with Discover’s vertically integrated global payments network Enhances Capital One’s ability to compete with the nation’s
+largest banks in credit cards and banking Leverages Capital One’s investments in technology, risk management, and compliance across a larger enterprise Brings together two franchises with loyal customers and award-winning products and
+experiences Delivers compelling financial returns
+
+Note: Market data as of February 16,
+2024; Metrics reflect 100% stock consideration at a 1.0192x exchange ratio, representing a 26.6% premium to Discover share price; 1) Adjusted EPS accretion is a non-GAAP measure that excludes expected acquisition and integration expenses,
+amortization of intangible assets and amortization of loan credit marks and fair value marks; 2) Return on invested capital represents Discover synergized Adjusted Non-GAAP net income after taxes divided by deal value less Discover excess capital at
+close (above 12.5%) plus incremental capital required for growth; 3) IRR terminal value assumes 9.0x NTM P/E; 4) As of December 31, 2023 Creates significant synergies Provides attractive returns and meaningful EPS accretion Bolsters an already
+strong balance sheet 2027E Operating Expense Synergy Opportunity: $1.3B 2027E Marketing Expense Synergy Opportunity: $0.1B 2027E Network Synergy Opportunity: $1.2B 2027E Adjusted EPS Accretion1: >15% 2027E ROIC2: 16% IRR3: >20% Pro Forma CET1
+ratio at close: ~14% 2023 Pro Forma Insured Deposits4: 84% The combination delivers compelling financial metrics
+
+Discover operates an integrated
+payments and banking business Digital Banking Payment Services Note: 1) Discover announced the intention to sell its Student Loan portfolio in late 2023, with an anticipated sale in 2024. It stopped originations on February 1, 2024. 1
+
+Acquiring Discover is another big step
+forward on our quest to build a global payments technology company 305 million+ $550 billion+ 70 million and territories welcome the network merchant acceptance points global cardholders use the network in spend across the network 1.8 million global
+ATMs offer cash access 200+ countries Source: Discover website
+
+Owning a network provides the benefits
+of vertical integration and the ability to directly serve customers across the marketplace Deal more directly with merchants Create more value for merchants, small businesses, and consumers Capture the additional economics from vertical integration
+Benefit from the additional scale and volumes that come from being the network for other banks Generate significant revenue that doesn’t come with assets or credit risk
+
+This acquisition will strengthen the
+smallest of the four major payments networks Total Network Volume U.S. Only, 2023 B By 2027, we expect to add... $175B+ of Capital One purchase volume 25M+ Capital One cardholders Note: Visa- “Total Volume, All Visa Credit & Debit -
+US” For the 12 Months Ended December 31, 2023; Mastercard- “Gross Dollar Volume, ‘GDV’ for all Mastercard Credit, Charge, Debit, and Prepaid Programs - United States” for FY 2023; American Express- “Network
+Volumes”, excluding “International Card Services”, for the Year Ended December 31, 2023; Discover- “Network Volume - Total”, excluding “Diners Club International” for the Twelve Months Ended December 31,
+2023 Source: Company Reports
+
+Discover has built a valuable
+credit card franchise Top 2 in J.D. Power U.S. Credit Card Overall Customer Satisfaction Rankings for 17 years running Note: Based on the J.D. Power U.S. Credit Card Satisfaction Study, Overall Customer Satisfaction Index Ranking for Credit Card
+Issuers; Rankings between 2007 and 2023: second from 2007- 2013, first from 2014 - 2016 (tied in 2014), second in 2017, first from 2018 - 2019, second from 2020 - 2023 (tied in 2023) Source: J.D. Power
+
+Discover will be additive and
+complementary to Capital One’s suite of credit card offerings Cash Back Small Business Co-Brand Travel Note: Not comprehensive of all product offerings for Capital One
+
+Note: 1) JPM- “Consumer &
+Community Banking” (includes SMB), “Card Services - Sales volume excluding commercial card”; AXP- “U.S. Consumer Services” and “Commercial Services” (includes US SME), “Billed Business”; COF-
+“Domestic Card”, “Purchase volume”; C- “Branded Cards” and “Retail Services”, “Credit card spend volume”; BAC- “Consumer Banking”, “Total credit card - Purchase
+volumes”; DFS- “Discover Card Sales Volume”; SYF- “Purchase volume”; WFC- “Consumer Banking and Lending Segment”, “Credit Card- Point of sale volume”; 2) End of period loans; JPM- “Consumer
+& Community Banking”, “Loans - Card Services”; C- “Branded Cards” and “Retail Services”, “EOP Loans”; AXP- “U.S. Consumer Services” and “Commercial Services”,
+“Card Member loans - Total loans” and “Card Member receivables - Total receivables”; COF- “Credit card - Domestic credit card”, “Loans Held for Investment (Period-End)”; Discover- “Credit Card
+Loans”, “Ending Loans”; BAC- “Consumer Banking”, “Total credit card - Ending credit card outstandings”; SYF- “Loans - Credit cards”; WFC- “Consumer Banking and Lending Segment”,
+“Loans by Line of Business - Consumer lending, Credit Card” Source: Company Reports Together, Discover and Capital One will be well-positioned in credit cards B Credit Card Purchase Volume1 2023 Credit Card Loans2 2023 B
+
+Discover has built a fast-growing
+national direct savings bank Discover Direct to Consumer Deposits U.S. Only1 B Note: 1) End of period; Total Direct to Consumer Deposits; 2013 - 2018 defined as “Direct to Consumer and Affinity Deposits”; 2019 - 2020 defined as
+“Direct to Consumer Deposits, also includes Affinity relationships”; 2021 - 2023 defined as “Total Direct to Consumer Deposits, also includes Affinity relationships” and “Savings, also includes Money Market, and Other
+Deposits and reflects both interest-bearing and non-interest bearing direct to consumer deposits” Source: Company Reports
+
+Capital One has built a
+full-service digital bank with nationwide physical access Note: Branch and cafe count is net of announced closures; Top 25 MSAs with a cafe include: New York (NY), Los Angeles (CA), Chicago (IL), Dallas (TX), Houston (TX), Miami (FL), Washington
+(DC), Philadelphia (PA), Atlanta (GA), Boston (MA), Phoenix (AZ), San Francisco (CA), Detroit (MI), Riverside (CA), Seattle (WA), Minneapolis (MN), Tampa (FL), San Diego (CA), Denver (CO), Portland (OR), San Antonio (TX); Baltimore (MD) is an
+additional top 25 MSA with branches but no cafe presence 55 Cafes in 21 of the top 25 MSAs 259 Branches 80K+ Fee-free ATMs 16K+ Cash deposit locations National Footprint
+
+Capital One’s national bank
+is a compelling brand and delivers industry-leading customer satisfaction #1 in J.D. Power U.S. National Banking Overall Customer Satisfaction Rankings for 4 years running Note: 2020-2023, Based on the J.D. Power U.S. National Banking Satisfaction
+Study, Overall Customer Satisfaction Index Ranking Source: J.D. Power No fees. No minimums. No overdraft fees.
+
+We will increase our scale to
+compete with the nation’s largest banks Note: Total deposits, includes brokered; As of 4Q 2023; Discover ranking as of February 16, 2024 according to reported metrics Source: Federal Reserve Y-9C Consolidated Financial Statements for Holding
+Companies Total Deposits 2023 B (#26)
+
+We can leverage and scale our
+eleven-year technology transformation into a modern technology company Transformed our talent Transformed how we build software Migrated entirely to the cloud Modernized our data ecosystem Modernized our applications
+
+We will enhance our marketing scale
+and share of voice Marketing Expense 2023 Note: AXP- “Expenses”, “Marketing”; JPM- “Noninterest Expense”, “Marketing”; COF- “Non-interest expense”, “Marketing”; BAC-
+“Noninterest expense”, “Marketing”; C- “Operating expenses”, “Advertising and marketing”; DFS- “Total Operating Expense”, “Marketing and Business Development”; WFC-
+“Noninterest expense”, “Advertising and promotion”; USB- “Noninterest expense”, “Marketing and business development”; SYF- “Other expense”, “Marketing and business development”;
+PNC- “Noninterest Expense”, “Marketing”; TFC- “Noninterest Expense”, “Marketing and customer development” Source: Company Reports B
+
+#15 #81 Together we will continue
+to build one of America’s great places to work 12th consecutive year on the list Source: CNNMoney for 2012-2013; Fortune for 2014-2023
+
+Additional deal highlights Key
+Geographies Approvals & Timing CEO Board of Directors Ownership Rich Fairbank will remain CEO and Chairman of the Board 3 Directors from Discover will join Capital One’s Board of Directors ~60% Capital One and ~40% Discover Headquarters:
+McLean, VA Significant presence in the Chicago area Capital One and Discover shareholders as well as customary regulatory approvals Anticipated closing end of 2024 / early 2025 Note: Market data as of February 16, 2024; 1) Implied transaction value
+based on $110.49 per Discover share at market close. Discover to merge into Capital One; 1.0192x fixed exchange ratio and 100% stock consideration Implied transaction value of $139.86 per Discover share or $35.3 billion1 Represents 26.6% premium to
+Discover share price and 12.3x 2024E consensus EPS Transaction Structure & Pricing
+
+$7.3 billion loan rate mark
+amortizing over an estimated 2-3 years $0.2 billion of other rate marks amortizing over the lives of the related instruments (securities, time deposits, and long-term debt) Key financial assumptions Standalone Modeled Forecasts Acquisition and
+Integration Expenses Loan Credit Marks Fair Value Marks Consensus estimates for Capital One in 2024/2025 and extrapolated 2026+ Consensus estimates for Discover in 2024/2025 and extrapolated 2026+, with two adjustments: Assumes the exit of student
+lending in 2024 Assumes 2024 charge-offs are consistent with consensus and that 2025 charge-offs are similar to 2024 before improving over time $2.8 billion pre-tax Substantially all expected to be incurred within approximately 2 years of closing
+$8.6 billion (7.3% of Discover loans), equal to Discover allowance at close1 $2.9 billion or 33% allocated to purchase credit deteriorated (PCD) $5.7 billion or 67% allocated to non-PCD PCD credit mark will be established as an allowance through
+purchase accounting Non-PCD credit mark accreted into earnings over an estimated 2-3 years Goodwill and Intangibles $10.1 billion purchased credit card relationships or 10.0% of Discover card receivables; to be amortized on an accelerated basis over
+7 years $0.3 billion core deposit intangible or 0.6% of Discover core deposits $3.5 billion of goodwill Capital Anticipate 13.9% pro forma combined CET1 at close; Discover to suspend share repurchases through closing Assumes consensus pro forma CET1
+of 12.5% in 2026+ Note: 1) Net of acquired loans previously charged off by Discover Source: Capital One management
+
+The combined company would generate
+attractive operating results before synergies 49.5% 39.6% 9.1% ROTCE4 Adj. Total Efficiency Ratio3 Adj. Operating Efficiency Ratio2 Revenue Margin1 15.9% 2023 Combined Company Pro Forma Metrics (Actual Results; Excludes Synergies) Note: All figures
+exclude synergies; 1) Calculated as Total Revenue / Average Interest Earning Assets; 2) Non-GAAP measure; calculated as Non-Marketing Operating Expenses net of FDIC special assessment expense for Capital One / Total Revenue; 3) Non-GAAP measure;
+calculated as Total Expenses net of FDIC special assessment expense for Capital One / Total Revenue; 4) Non-GAAP measure; calculated as Net Income to Common Shareholders adjusted for FDIC special assessment expense for Capital One / Average Total
+Common Equity Source: Company Reports
+
+We conducted thorough due diligence
+Card Business Non-Card Businesses Credit Network Bank Legal Compliance / Regulatory Operations Human Resources Cyber Finance / Tax Technology Key Focus Areas
+
+Description of Synergy Opportunity
+Significant synergy opportunities were identified, with unmodeled upside Expense1 Network Revenue Modeled Impact (2027E) $1.5B $1.2B - 26% of Discover operating expenses (excl. marketing) phased in over three years 10% of Discover marketing expenses
+phased in over two years Synergies largely driven by common business functions partially offset by targeted investments Capital One debit portfolio to be converted to Discover networks Selected Capital One credit portfolios to be converted to
+Discover networks Assumes existing network debit and credit pricing Conversion anticipated to begin in 2Q 2025 Identified but not modeled Note: 1) Operating (excl. marketing) phased in 22% / 67% / 98% / 100% in 2025-2028E and excludes Student
+operating expenses; Marketing phased in 50% / 100% in 2025-2026E; Total expense synergy does not match to sum of page 5 due to rounding Source: Capital One management
+
+The transaction provides strong
+returns 2027E Adjusted EPS Accretion1 >15% 2027E Return on Invested Capital2 16% IRR3 >20% Key Performance Metrics Note: Market data as of February 16th, 2024; Metrics reflect 100% stock consideration at a 1.0192x exchange ratio, representing
+a 26.6% premium to Discover share price; 1) Adjusted EPS accretion is a non-GAAP measure that excludes acquisition and integration expenses, amortization of intangible assets and amortization of loan credit marks and fair value marks; 2) Return on
+invested capital represents Discover synergized Non-GAAP net income after taxes divided by deal value less Discover excess capital at close (above 12.5%) plus incremental capital required for growth; 3) IRR terminal value assumes 9.0x NTM P/E
+
+Well-positioned bank and payments
+network of the future Accelerates our journey to become a leading digital bank provider Adds operating scale Similar organizational values Shared commitment to outstanding customer service Fully leverages our payments network and propels significant
+volume growth Represents substantial value accretion to our shareholders Remain committed to advancing our progress in compliance and risk management and to our national servicing presence This transaction creates significant benefits for Discover
+stakeholders
+
+Capital One and Discover are
+building a unique, diversified global payments platform with a flywheel of customers, technology, data, and brand Card Bank Auto Shopping Travel

@@ -1,0 +1,325 @@
+10-K 1 a2018comet10-k.htm 10-K Document created using Wdesk 1 Copyright 2019 Workiva Document
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 10-K
+
+____________________________________
+
+[TABLE]
+ý ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2018
+or
+¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+[/TABLE]
+
+[TABLE]
+Commission File Number of issuing entity: 333-75276 | Commission File Number of issuing entity: 000-25762
+Central Index Key Number of issuing entity: 0001163321 | Central Index Key Number of issuing entity: 0000922869
+[/TABLE]
+
+____________________________________
+
+[TABLE]
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST* |  | CAPITAL ONE MASTER TRUST
+(Exact Name of Issuing Entity as Specified in Its Charter) |  | (Exact Name of Issuing Entity as Specified in Its Charter)
+(Issuer of the Notes) |  | (Issuer of the Collateral Certificate)
+[/TABLE]
+
+____________________________________
+
+Commission File Number of depositor: 333-75276-01
+
+Central Index Key Number of depositor: 0001162387
+
+____________________________________
+
+CAPITAL ONE FUNDING, LLC
+
+(Exact Name of Depositor as Specified in Its Charter)
+
+____________________________________
+
+Central Index Key Number of sponsor: 0001514949
+
+____________________________________
+
+CAPITAL ONE BANK (USA), NATIONAL ASSOCIATION
+
+(Exact Name of Sponsor as Specified in Its Charter)
+
+____________________________________
+
+[TABLE]
+Delaware |  | New York
+(State or Other Jurisdiction of Incorporation or Organization of the Issuing Entity) |  | (State or Other Jurisdiction of Incorporation or Organization of the Issuing Entity)
+c/o Capital One Funding, LLC 1600 Capital One Drive Room 27907-A McLean, VA 22102 |  | c/o Capital One Funding, LLC 1600 Capital One Drive Room 27907-A McLean, VA 22102
+(Address of Principal Executive Offices of Issuing Entity) |  | (Address of Principal Executive Offices of Issuing Entity)
+(804) 284-2500 |  | (804) 284-2500
+(Registrant ’ s telephone number, including area code) |  | (Registrant ’ s telephone number, including area code)
+Not Applicable |  | Not Applicable
+(I.R.S. Employer Identification No.) |  | (I.R.S. Employer Identification No.)
+[/TABLE]
+
+____________________________________
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+____________________________________
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ¨ No ý
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ¨ No ý
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ý No ¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ý No ¨ [Rule 405 of Regulation S-T is not applicable.]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. ý [Item 405 of Regulation S-K is not applicable]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company. or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+
+[TABLE]
+Large accelerated filer |  | ¨ | Accelerated filer |  | ¨
+Non-accelerated filer |  | ý | Smaller reporting company |  | ¨
+ |  |  | Emerging growth company |  | ¨
+[/TABLE]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act) Yes ¨ No ý
+
+Registrant has no voting or non-voting common equity outstanding held by non-affiliates.
+
+Documents Incorporated by Reference. See Item 15(b) .
+
+________________________________
+
+* In accordance with relevant regulations of the Securities and Exchange Commission, the depositor files annual and other reports with the Commission on behalf of Capital One Multi-asset Execution Trust and Capital One Master Trust under the Central Index Key (CIK) number (0001163321) for Capital One Multi-asset Execution Trust.
+
+PART I
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 1. | Business.
+Item 1A. | Risk Factors.
+Item 2. | Properties.
+Item 3. | Legal Proceedings.
+[/TABLE]
+
+Item 1B. Unresolved Staff Comments.
+
+Not applicable.
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Substitute information provided in accordance with General Instruction J to Form 10–K:
+
+Item 1112(b) of Regulation AB. Significant Obligors of Pool Assets (Financial Information).
+
+The primary asset of the issuing entity is the collateral certificate, Series 2002-CC, representing an undivided interest in Capital One Master Trust, whose assets include the receivables arising in a portfolio of credit card accounts. Capital One Master Trust, therefore, may be considered a significant obligor in relation to Capital One Multi-asset Execution Trust. Pursuant to Instruction 2.b. to Item 1112(b) of Regulation AB, the information required by Instruction J to Form 10-K in respect of Capital One Master Trust has been disclosed in this report on Form 10-K in lieu of the information otherwise contemplated by Item 1112(b).
+
+The pool assets held by Capital One Master Trust do not include any significant obligors.
+
+Item 1114(b)(2) of Regulation AB: Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Financial Information).
+
+Based on the standards set forth in Item 1114(b)(2) of Regulation AB, no information is required in response to this Item.
+
+Item 1115(b) of Regulation AB: Certain Derivatives Instruments (Financial Information).
+
+Based on the standards set forth in Item 1115(b) of Regulation AB, no information is required in response to this Item.
+
+Item 1117 of Regulation AB: Legal Proceedings.
+
+Litigation claims and proceedings of all types are subject to many uncertain factors that generally cannot be predicted with assurance. Below we provide a description of certain legal proceedings and claims.
+
+Interchange Litigation
+
+In 2005, a putative class of retail merchants filed antitrust lawsuits against Mastercard International (“Mastercard”) and Visa U.S.A., Inc. (“Visa”) and several issuing banks, including Capital One Financial Corporation (the “Corporation”) and its subsidiaries, including Capital One Bank (USA), National Association (the “Bank”), seeking both injunctive relief and monetary damages for an alleged conspiracy by defendants to fix the level of interchange fees. Other merchants have asserted similar claims in separate lawsuits, and while these separate cases did not name any issuing banks, Visa, Mastercard and issuing banks, including the Corporation and its subsidiaries, including the Bank, have entered settlement and judgment sharing agreements allocating the liabilities of any judgment or settlement arising from all interchange-related cases.
+
+The lawsuits were consolidated before the U.S. District Court for the Eastern District of New York for certain purposes and were settled in 2012. The class settlement, however, was invalidated by the United States Court of Appeals for the Second Circuit in June 2016, and the suit was separated into separate class actions seeking injunctive and monetary relief, respectively. In addition, numerous merchant groups opted out of the 2012 settlement and have pursued their own claims. The claims by the injunctive relief class have not been resolved, but the parties reached a new settlement agreement with the monetary damages class in August 2018, whereby the class would receive up to approximately $6.2 billion collectively from the defendants in exchange for a release of the class’s claims, depending on the percentage of class plaintiffs who opt out. That settlement has been preliminarily approved by the district court, and court proceedings are underway for final approval of that settlement. Visa and Mastercard have also settled several of the opt-out cases, which required non-material payments from issuing banks, including the Corporation and its
+
+subsidiaries, including the Bank. Visa created a litigation escrow account following its IPO of stock in 2008 that funds settlements for its member banks, and any settlements related to Mastercard-allocated losses have either already been paid or are reflected in the Corporation and its subsidiaries’ reserves.
+
+Other Pending and Threatened Litigation
+
+In addition, the Corporation and its subsidiary banks (including the Bank), are commonly subject to various pending and threatened legal actions relating to the conduct of their normal business activities. In the opinion of management, the ultimate aggregate liability, if any, arising out of all such other pending or threatened legal actions will not be material to noteholders.
+
+Trustee Litigation
+
+In the ordinary course of business, The Bank of New York Mellon is named as a defendant in or made a party to pending and potential legal actions. In connection with its role as trustee of certain residential mortgage-backed securitization (“RMBS”) transactions, The Bank of New York Mellon has been named as a defendant in a number of legal actions brought by RMBS investors. These lawsuits allege that the trustee had expansive duties under the governing agreements, including the duty to investigate and pursue breach of representation and warranty claims against other parties to the RMBS transactions. While it is inherently difficult to predict the eventual outcomes of pending actions, The Bank of New York Mellon denies liability and intends to defend the litigations vigorously.
+
+The Bank of New York Mellon has provided us with the information under the caption “Trustee Litigation” immediately above in response to the requirements of Regulation AB. Neither the Corporation nor its subsidiary banks (including the Bank) is a party to any such litigation. Other than the information regarding trustee litigation immediately above and the information concerning The Bank of New York Mellon specified in this Form 10-K under the caption “Item 1122 of Regulation AB: Compliance with Applicable Servicing Criteria” and in Exhibits 33.2 and 34.2 to this Form 10-K, The Bank of New York Mellon has not participated in the preparation of, and is not responsible for, any other information contained in this Form 10-K.
+
+PART II
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 5. | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Item 6. | Selected Financial Data.
+Item 7. | Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Item 7A. | Quantitative and Qualitative Disclosures about Market Risk.
+Item 8. | Financial Statements and Supplementary Data.
+Item 9. | Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+Item 9A. | Controls and Procedures.
+Item 9B: | Other Information.
+None.
+[/TABLE]
+
+PART III
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 10. | Directors, Executive Officers and Corporate Governance.
+Item 11. | Executive Compensation.
+Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+Item 13. | Certain Relationships and Related Transactions, and Director Independence.
+Item 14. | Principal Accounting Fees and Services.
+[/TABLE]
+
+Substitute information provided in accordance with General Instruction J to Form 10–K:
+
+Item 1119 of Regulation AB: Affiliations and Certain Relationships and Related Transactions .
+
+Information required by Item 1119 of Regulation AB has been omitted from this report on Form 10-K in reliance on the Instruction to Item 1119.
+
+Item 1122 of Regulation AB: Compliance with Applicable Servicing Criteria.
+
+Each of the Bank, for itself and on behalf of its affiliate Capital One Services, LLC (“COSL”), and The Bank of New York Mellon (each, a “Servicing Participant”) has been identified by the registrant as a party participating in the servicing function with respect to the pool assets held by each of Capital One Master Trust and Capital One Multi-asset Execution Trust. Each Servicing Participant has completed a report on an assessment of compliance with the servicing criteria applicable to such Servicing Participant (each, a “Report on Assessment”) as of, and for the twelve month period ended, December 31, 2018, which Reports on Assessment are included as exhibits to this Form 10-K. In addition, each Servicing Participant has provided an attestation report (each, an “Attestation Report”) by a registered independent public accounting firm regarding its related Report on Assessment. Each Attestation Report is attached as an exhibit to this Form 10-K.
+
+Vendors
+
+A Servicing Participant may engage one or more vendors to perform specific and limited, or scripted activities that address all or a portion of one or more servicing criteria applicable to such Servicing Participant. Generally in these cases, the Servicing Participant has instituted policies and procedures to monitor whether such vendors’ activities comply in all material respects with such servicing criteria, and may elect to take responsibility for assessing compliance with the servicing criteria applicable to such vendors’ activities in such Servicing Participant’s Report on Assessment. Where the Servicing Participant has not instituted such policies and procedures, or where the Servicing Participant does not otherwise elect to take responsibility for assessing its vendors’ activities, the vendor is itself treated as a Servicing Participant and is required to provide its own Report on Assessment and related Attestation Report.
+
+Exceptions
+
+No Report on Assessment or related Attestation Report has identified (i) any material instance of noncompliance with the servicing criteria identified in such Report on Assessment as applicable to the related Servicing Participant or (ii) any material deficiency in such Servicing Participant’s policies and procedures to monitor vendor compliance.
+
+Platform-Level Reports
+
+Regulations of the Securities and Exchange Commission (“SEC”) require that each Servicing Participant complete a Report on Assessment at a “platform” level, meaning that the transactions covered by the Report on Assessment should include all asset-backed securities transactions involving such Servicing Participant that are backed by the same asset type. Further guidance from the SEC staff identifies additional parameters that a Servicing Participant may apply to define and further limit its platform. For example, a Servicing Participant may define its platform to include only transactions that were completed on or after January 1, 2006 and that were registered with the SEC pursuant to the Securities Act of 1933. Each Servicing Participant is responsible for defining its own platform, and each platform will naturally differ based on various factors, including the Servicing Participant’s business model, the transactions in which it is involved and the range of activities performed in those transactions.
+
+Based on our understanding of their platforms and the guidance that is available at this time, we believe that the parameters by which the Servicing Participants have defined their platforms should be permissible. However, because the guidance available at this time is subject to clarification or change, we cannot assure you that the SEC and its staff will necessarily agree.
+
+Item 1123 of Regulation AB: Servicer Compliance Statement.
+
+Each of the Bank, COSL and Capital One, National Association has been identified by the registrant as a servicer meeting the criteria of Item 1108(a)(2)(i), (ii) or (iii) of Regulation AB with respect to the pool assets held by each of Capital One Master Trust and Capital One Multi-asset Execution Trust. Each of these servicers has provided a statement of compliance (a “Compliance Statement”), which has been signed by an authorized officer of such related servicer. Each Compliance Statement is attached as an exhibit to this Form 10-K.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+(a)(1) Not Applicable.
+
+(a)(2) Not Applicable.
+
+(a)(3) The exhibits required by Item 601 of regulation S-K are listed in the Exhibit Index.
+
+(b) Exhibits.
+
+Exhibit Index
+
+[TABLE]
+Exhibit Number | Description
+3.1 | Amended and Restated Limited Liability Company Agreement of Capital One Funding, LLC dated as of July 31, 2002 (incorporated by reference to Exhibit 3.1 to Amendment No. 1 to Form S-3 Registration Statement (File Nos. 333-75276, 333-75276-01 and 333-75276-02) filed with the Securities and Exchange Commission on September 13, 2002).
+3.2 | First Amendment dated as of March 1, 2008 to the Amended and Restated Limited Liability Company Agreement (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 4, 2008).
+4.1 | Amended and Restated Receivables Purchase Agreement dated as of July 1, 2007 between Capital One Funding, LLC and Capital One Bank (USA), National Association (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on July 6, 2007).
+4.2 | First Amendment dated as of March 1, 2008 to the Amended and Restated Receivables Purchase Agreement (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 4, 2008).
+4.3 | Second Amendment dated as of March 17, 2016 to the Amended and Restated Receivables Purchase Agreement (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.4 | Indenture for the Notes dated as of October 9, 2002, as amended and restated as of January 13, 2006 and March 17, 2016 (incorporated by reference to Exhibit 4.4 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.5 | Asset Pool 1 Supplement for the Notes dated October 9, 2002 (incorporated by reference to Exhibit 4.5 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on November 12, 2002).
+4.6 | First Amendment dated as of March 1, 2008 to the Asset Pool 1 Supplement (incorporated by reference to Exhibit 4.8 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 4, 2008).
+4.7 | Card Series Indenture Supplement for the Notes dated as of October 9, 2002, as amended and restated as of March 17, 2016 (incorporated by reference to Exhibit 4.5 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.8 | Amended and Restated Series 2002-CC Supplement to the Amended and Restated Pooling and Servicing Agreement dated as of October 9, 2002, as amended and restated on March 17, 2016 (incorporated by reference to Exhibit 4.3 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.9 | Amended and Restated Pooling and Servicing Agreement, dated as of September 30, 1993, and as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007 and March 17, 2016 (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.10 | First Amendment dated as of January 27, 2017 to Amended and Restated Pooling and Servicing Agreement (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on January 27, 2017).
+4.11 | Asset Representations Review Agreement, dated as of March 17, 2016 (incorporated by reference to Exhibit 4.6 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.12 | Dispute Resolution Agreement, dated as of March 17, 2016 (incorporated by reference to Exhibit 4.7 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 17, 2016).
+4.13 | Defaulted Receivables Supplemental Servicing Agreement dated as of July 15, 2010 (incorporated by reference to Exhibit 99.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on July 15, 2010).
+[/TABLE]
+
+[TABLE]
+4.14 | Transfer and Assumption Agreement, dated as of November 22, 1994 by and among Signet Bank/Virginia, Capital One Bank (USA), National Association, as Assuming Entity, The Bank of New York Mellon, as Trustee and the other parties thereto (incorporated by reference to Exhibit 4.5 to the Current Report on Form 8-K, filed with the Securities and Exchange Commission on January 13, 1995).
+4.15 | Second Amended and Restated Trust Agreement dated as of January 13, 2006 (incorporated by reference to Exhibit 4.3 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on January 20, 2006).
+4.16 | Transfer and Administration Agreement dated as of October 9, 2002 (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by Capital One Funding, LLC on November 12, 2002).
+4.17 | First Amendment dated as of March 1, 2008 to the Transfer and Administration Agreement (incorporated by reference to Exhibit 4.10 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 4, 2008).
+4.18.1 | Class B(2004-3) Terms Document dated as of April 14, 2004 (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on April 20, 2004, which is incorporated herein by reference).
+4.18.2 | Class B(2005-3) Terms Document dated as of August 4, 2005 (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on August 11, 2005, which is incorporated herein by reference).
+4.18.3 | Omnibus Addendum dated as of February 10, 2006, to the various Terms Documents to the Indenture (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on February 13, 2006, which is incorporated herein by reference).
+4.18.4 | Class A(2014-3) Terms Document dated as of April 10, 2014 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on April 10, 2014, which is incorporated herein by reference).
+4.18.5 | Class A(2014-4) Terms Document dated as of September 9, 2014 (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on September 9, 2014, which is incorporated herein by reference).
+4.18.6 | Omnibus Amendment dated as of November 12, 2014, to the various Terms Documents to the Indenture (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on November 12, 2014, which is incorporated herein by reference).
+4.18.7 | Class A(2015-1) Terms Document dated as of March 31, 2015 (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on March 31, 2015, which is incorporated herein by reference).
+4.18.8 | Class A(2015-2) Terms Document dated as of May 19, 2015 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 19, 2015, which is incorporated herein by reference).
+4.18.9 | Class A(2015-3) Terms Document dated as of May 19, 2015 (included in Exhibit 4.1.2 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 19, 2015, which is incorporated herein by reference).
+4.18.10 | Class A(2015-4) Terms Document dated as of July 23, 2015 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on July 23, 2015, which is incorporated herein by reference).
+4.18.11 | Class A(2015-5) Terms Document dated as of July 23, 2015 (included in Exhibit 4.1.2 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on July 23, 2015, which is incorporated herein by reference).
+4.18.12 | Class A(2015-7) Terms Document dated as of October 27, 2015 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on October 27, 2015, which is incorporated herein by reference).
+4.18.13 | Class A(2015-8) Terms Document dated as of October 27, 2015 (included in Exhibit 4.1.2 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on October 27, 2015, which is incorporated herein by reference).
+4.18.14 | Class A(2016-1) Terms Document dated as of May 18, 2016 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 18, 2016, which is incorporated herein by reference).
+4.18.15 | Class A(2016-2) Terms Document dated as of May 18, 2016 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 18, 2016, which is incorporated herein by reference).
+[/TABLE]
+
+[TABLE]
+4.18.16 | Class A(2016-3) Terms Document dated as of July 26, 2016 (included in Exhibit 4.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on July 26, 2016, which is incorporated herein by reference).
+4.18.17 | Class A(2016-4) Terms Document dated as of August 25, 2016 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on August 25, 2016, which is incorporated herein by reference).
+4.18.18 | Class A(2016-5) Terms Document dated as of August 25, 2016 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on August 25, 2016, which is incorporated herein by reference).
+4.18.19 | Class A(2016-6) Terms Document dated as of December 8, 2016 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on December 8, 2016, which is incorporated herein by reference).
+4.18.20 | Class A(2016-7) Terms Document dated as of December 8, 2016 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on December 8, 2016, which is incorporated herein by reference).
+4.18.21 | Class A(2017-1) Terms Document dated as of March 27, 2017 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on March 27, 2017, which is incorporated herein by reference).
+4.18.22 | Class A(2017-2) Terms Document dated as of March 27, 2017 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on March 27, 2017, which is incorporated herein by reference).
+4.18.23 | Class A(2017-3) Terms Document dated as of March 27, 2017 (included in Exhibit 4.3.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on March 27, 2017, which is incorporated herein by reference).
+4.18.24 | Class A(2017-4) Terms Document dated as of October 10, 2017 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on October 10, 2017, which is incorporated herein by reference).
+4.18.25 | Class A(2017-5) Terms Document dated as of October 10, 2017 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on October 10, 2017, which is incorporated herein by reference).
+4.18.26 | Class A(2017-6) Terms Document dated as of October 10, 2017 (included in Exhibit 4.3.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on October 10, 2017, which is incorporated herein by reference).
+4.18.27 | Class A(2018-1) Terms Document dated as of May 16, 2018 (included in Exhibit 4.1.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 16, 2018, which is incorporated herein by reference).
+4.18.28 | Class A(2018-2) Terms Document dated as of May 16, 2018 (included in Exhibit 4.2.1 to the registrant’s Form 8-K, as filed with the Securities and Exchange Commission on May 16, 2018, which is incorporated herein by reference).
+10.1 | Subservicing Agreement between Capital One Bank (USA), National Association and Capital One Services, LLC (as successor to Capital One Services, Inc. by conversion) (incorporated by reference to Exhibit 10.2 to the Annual Report on Form 10-K filed with the Securities and Exchange Commission by Capital One Multi-asset Execution Trust on March 30, 2007).
+10.2 | Services Agreement, dated as of March 16, 2006, between Capital One Bank (USA), National Association and Capital One, National Association. (formerly known as Hibernia National Bank) (incorporated by reference to Exhibit 99.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission on March 22, 2006).
+31.1 | Certification of Capital One Funding, LLC pursuant to Rule 13a-14(d)/15d-14(d) under the Securities Exchange Act of 1934.
+33.1 | Report on Assessment of Compliance with Servicing Criteria for Capital One Bank (USA), National Association, for itself and on behalf of its affiliate Capital One Services, LLC.
+33.2 | Report on Assessment of Compliance with Servicing Criteria for The Bank of New York Mellon.
+34.1 | Attestation Report of Ernst & Young LLP on Assessment of Compliance with Servicing Criteria relating to Capital One Bank (USA), National Association and its affiliate Capital One Services, LLC.
+34.2 | Attestation Report of KPMG LLP on Assessment of Compliance with Servicing Criteria relating to The Bank of New York Mellon.
+35.1 | Servicer Compliance Statement of Capital One Bank (USA), National Association.
+35.2 | Servicer Compliance Statement of Capital One Services, LLC.
+35.3 | Servicer Compliance Statement of Capital One, National Association.
+[/TABLE]
+
+(c) Not Applicable.
+
+Item 16. Form 10-K Summary.
+
+Not Applicable.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+[TABLE]
+Capital One Multi-asset Execution Trust
+By: | Capital One Funding, LLC, as Depositor
+By: | /s/ Thomas A. Feil
+Name: | *Thomas A. Feil
+Title: | President
+Date: | March 28, 2019
+ | * Thomas A. Feil is the senior officer in charge of securitization of Capital One Funding, LLC
+[/TABLE]

@@ -1,0 +1,23 @@
+doc_id: courtlistener/o_capital-one-v-walmart
+source: courtlistener
+source_tier: A
+doc_type: litigation-search
+title: 'CourtListener: "Capital One" v. "Walmart"'
+url: https://www.courtlistener.com/api/rest/v4/search/?q="Capital One" v. "Walmart"&type=o
+retrieved_at: '2026-08-20T02:38:51Z'
+entity_ids:
+- cof
+fetcher: courtlistener v1
+files:
+- name: results.json
+  role: raw
+  sha256: 3c63c6ffec5ffbbe743487bea22184a3a5fd72cbed13fd98bc859165abd3c636
+  size: 46065
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 247d4f5af36168b002a75eca0a7e016ea0bb8b2f4b579026d459c42bea29bf1f
+  size: 2442
+  stored: corpus
+meta:
+  result_count: 18

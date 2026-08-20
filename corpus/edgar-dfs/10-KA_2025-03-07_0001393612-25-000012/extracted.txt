@@ -1,0 +1,1564 @@
+0001393612 --12-31 2024 FY TRUE iso4217:USD xbrli:shares iso4217:USD xbrli:shares 0001393612 2024-01-01 2024-12-31 0001393612 2024-06-30 0001393612 2025-02-28 0001393612 2024-12-31
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K/A
+
+(Amendment No.1)
+
+(Mark One)
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the year ended December 31, 2024
+
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission File Number 001-33378
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+(State or other jurisdiction of incorporation or organization)
+
+36-2517428
+
+(I.R.S. Employer Identification No.)
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+( 224 ) 405-0900
+
+(Registrant’s telephone number, including area code)
+[TABLE]
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class | Trading Symbol(s) | Name of each exchange on which registered
+Common Stock, par value $0.01 per share | DFS | New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: None
+[/TABLE]
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+[TABLE]
+Large Accelerated Filer | ☒ | Accelerated Filer | ☐ | Smaller Reporting Company | ☐
+Non-accelerated Filer | ☐ |  |  | Emerging Growth Company | ☐
+[/TABLE]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation of the effectiveness of its internal control over financial reporting under Section 404(b) of Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The aggregate market value of the common equity held by non-affiliates of the registrant on the last business day of the registrant’s most recently completed second fiscal quarter was approximately $ 32.8 billion.
+
+As of February 28, 2025, there were 251,605,294 shares of the registrant’s Common Stock, par value $ 0.01 per share, outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+None.
+
+EXPLANATORY NOTE
+
+Discover Financial Services (the “Company”) is filing this Amendment No. 1 on Form 10-K/A (this “Amendment”) to amend its 2024 Annual Report on Form 10-K filed with the Securities and Exchange Commission (the “SEC”) on February 20, 2025 (the “Original Report”). This Amendment is being filed for the purpose of including the information required by Items 10 through 14 of Part III of Form 10-K not included in the Original Report.
+
+This information required by Items 10 through 14 of Part III of Form 10-K was previously omitted from the Original Report in reliance on SEC general instructions to Form 10-K, which permit the information in the above referenced items to be incorporated in a Form 10-K by reference from a definitive proxy statement if such statement is filed no later than 120 days after a company’s fiscal year-end. We are filing this Amendment to include Part III information in the Original Report because our definitive proxy statement containing this information will not be filed before that date.
+
+As such, this Amendment hereby amends and supplements Items 10 through 14 of Part III of the Original Report and amends and updates the Form 10-K cover page (primarily to update the number of shares of Common Stock outstanding to February 28, 2025). In addition, in accordance with applicable SEC rules, Item 15 of Part IV of the Original Report has been supplemented to include currently dated certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+Except as described above, this Amendment does not amend, update or change any other items or disclosures in the Original Report and does not purport to reflect any information or events subsequent to the filing of the Original Report. As such, this Amendment speaks only as of the date the Original Report was filed, and we have not undertaken herein to amend, supplement or update any information contained in the Original Report to give effect to any subsequent events.
+
+Deloitte & Touche LLP ("Deloitte") issued reports on the consolidated financial statements of the Company, and the effectiveness of the Company's internal control over financial reporting, within the Original Report. As this Amendment speaks to the date of the Original Report, Deloitte's reports speak only as to February 20, 2025. We have made no substantive changes to the Original Report other than those noted above.
+
+Table of Contents
+[TABLE]
+ |  | Page
+PART III |  |
+Item 10. | Directors, Executive Officers, and Corporate Governance | 1
+Item 11. | Executive Compensation | 7
+Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters | 32
+Item 13. | Certain Relationships and Related Transactions and Director Independence | 33
+Item 14. | Principal Accounting Fees and Services | 35
+ | Glossary | 36
+ | Annex A | 37
+PART IV |  |
+Item 15. | Exhibits, Financial Statement Schedules | 38
+[/TABLE]
+
+Except as otherwise indicated or unless the context otherwise requires, “Discover Financial Services,” “Discover,” “DFS,” “we,” “us,” “our,” and “the Company” refer to Discover Financial Services and its subsidiaries.
+
+Table of Contents
+
+PART III
+
+Item 10. Directors, Executive Officers, and Corporate Governance
+
+Information About Our Directors
+
+The following table identifies our current directors and sets forth certain information regarding the members of our Board, including their ages as of February 28, 2025 and tenure on the Board:
+
+[TABLE]
+Name | Age | Director Since | Independent | Positions Held with the Company
+Candace H. Duncan | 71 | 2014 | Yes | Director
+Joseph F. Eazor | 62 | 2016 | Yes | Director
+Kathy L. Lonowski | 63 | 2023 | Yes | Director
+Thomas G. Maheras | 62 | 2008 | Yes | Director, Independent Chairman
+Daniela O’Leary-Gill | 60 | 2023 | Yes | Director
+John B. Owen | 64 | 2022 | Yes | Director
+David L. Rawlinson II | 49 | 2021 | Yes | Director
+J. Michael Shepherd | 69 | 2023 | No | Director, Interim CEO and President
+Beverley A. Sibblies | 63 | 2023 | Yes | Director
+Jennifer L. Wong | 49 | 2019 | Yes | Director
+[/TABLE]
+
+Pursuant to the Discover Bylaws, all directors shall serve one-year terms and stand for election at each annual meeting of shareholders. Each director holds office until their successor has been duly elected and qualified or the director’s earlier resignation, death, or removal. All current directors were elected by shareholders at the Company’s 2024 Annual Meeting of Shareholders.
+
+The names and certain biographical information about our current directors, including each director’s business experience; information regarding involvement in certain legal or administrative proceedings, if applicable; and the director’s experiences, qualifications and attributes are set forth below.
+
+Candace H. Duncan is a retired Managing Partner of the Washington, D.C. metropolitan area of KPMG LLP, a global network of professional firms providing audit, tax, and advisory services, serving until November 2013. She was a member of KPMG’s board of directors from 2009 to 2013; served as Chair of the KPMG board’s nominating committee, as well as the partnership and employer of choice committee; and served in various roles at KPMG, including Managing Partner for Audit for the Mid-Atlantic area and Audit Partner in Charge for the Virginia business unit. She previously served on the board of directors of FTD Companies, Inc. from 2014 through 2019.
+
+Relevant Skills and Experience
+
+• Leading and managing a large accounting firm’s growth priorities across its audit, tax, and advisory functions in key markets
+
+• Strong financial and accounting background, gained through her many years of experience at KPMG, including her experience as a lead audit partner for major international and domestic companies
+
+• Served clients on a wide range of accounting and operational issues, public securities issuances, and strategic corporate transactions
+
+• Public company accounting, financial statements and corporate finance, corporate governance, and risk management
+
+Other Directorships
+
+• Teleflex Inc. (since 2015)
+
+-1-
+
+Table of Contents
+
+Joseph F. Eazor has been the CEO of E Source, a research, data science, and consulting firm focused on the utilities industry, since January 2025. He is also the former CEO and President of Clario (formerly ERT and Bioclinica), a global data and technology company for clinical trials, from October 2020 to August 2022 and is the former CEO and President of Conifer Health Solutions, LLC, a healthcare business solutions organization, from January 2020 to August 2020. He is a former Executive Vice President and Chief Customer Officer of Oracle Corporation, from July 2019 to January 2020; former CEO of Rackspace, a leading managed cloud company, from 2017 to 2019; former CEO and President of EarthLink, Inc., a leading communications and IT services provider, from 2014 to 2017; and a former business unit leader for Hewlett-Packard and Electronic Data Systems Corporation.
+
+Relevant Skills and Experience
+
+• Public company CEO with experience in technology and cybersecurity
+
+• Cybersecurity experience, including business operations incorporating data protection and transmission; proactive strategy and response development; and incident evaluation, management and communications strategy
+
+• International strategy and business development in technology and IT services
+
+• Management consulting experience from his time as a senior partner with McKinsey & Company and as a partner and board member of A.T. Kearney, Inc.
+
+Other Directorships
+
+• Clario (formerly ERT and Bioclinica) (2020-2023)
+
+Kathy L. Lonowski is the retired Regional Director of the FDIC, San Francisco region, a role she held from 2016 to 2023, where she evaluated the operations of 350 insured financial institutions, led the risk management and consumer protection divisions covering 11 states, supported the management of examination and legal risk-related technical issues, and assessed solutions related to potential enforcement actions and civil money penalties. Her over 25 years of leadership experience includes crisis management and monitoring of systemic risks. She previously served as a Deputy Regional Director, Risk Management Supervision and as Field Supervisor, Risk Management Supervision at the FDIC. Director Lonowski serves on the boards of directors of Pacific Coast Bankers’ Bancshares and its subsidiary bank, Pacific Coast Bankers’ Bank where she serves on the Audit and the Nomination Governance Committees. She also serves on the non-profit YMCA of USA National board of directors.
+
+Relevant Skills and Experience
+
+• Nearly 40 years of bank regulatory experience and overseeing financial institutions
+
+• Significant experience in assessing and evaluating banking operations, including cybersecurity risk and anti-money laundering
+
+• Deep understanding in risk management and mitigation and compliance management
+
+Thomas G. Maheras is the Managing Partner of Tegean Capital Management, LLC since 2008 and was Partner of Iron Park Capital Management, LLC from 2019 to 2023. He also served as a Senior Advisor to General Atlantic from 2023 through 2024. He is a former Chairman and Co-CEO of Citi Markets and Banking, the corporate and investment banking division of Citigroup, Inc., where he held roles of increasing responsibility after starting his career as a fixed-income trader at Salomon Brothers. Director Maheras served as Chairman of the U.S. Treasury Department Borrowing Advisory Committee and an executive committee member of the board of directors of the Securities Industry and Financial Markets Association.
+
+Relevant Skills and Experience
+
+• Leadership within organizations impacting the financial services industry
+
+• Significant risk management, banking, and capital markets experience, including 23 years at Citigroup where his responsibilities included leading the global capital markets business
+
+• Operations and the day-to-day management of a global financial services organization
+
+• CEO leadership experience, financial background, and banking and financial services understanding
+
+-2-
+
+Table of Contents
+
+Daniela O’Leary-Gill retired from Bank of Montreal (“BMO”) in 2021 as its COO, a position she held since 2018. She served over 25 years at BMO, where she held multiple C-suite roles, including Chief Auditor, Head of Consumer Banking, and Head of the Anti-Money Laundering Program and Remediation, and oversaw P&L, risk management, regulatory affairs, and investor relations. Before joining BMO, she served as a commissioned National Bank Examiner at the Office of the Comptroller of the Currency. Director O’Leary-Gill served on the Board of Directors of Discover Bank since July 2022 and previously served as a trustee on the board of BMO Funds, Inc.
+
+Relevant Skills and Experience
+
+• Over 25 years of financial services leadership experience with emphasis in consumer banking operations and multiple acquisitions and technology transformations
+
+• Deep understanding of governance, risk management, and regulatory oversight of financial institutions
+
+• Advocate of talent development and inclusion at large financial institutions
+
+John B. Owen served as Interim CEO and President of Discover and Interim President of Discover Bank from August 2023 to January 2024. He retired in March 2021 as COO of Regions Financial Corporation, one of the nation’s largest full-service providers of consumer and commercial banking, wealth management, and mortgage products and services after a successful 12-year tenure. He held various senior management roles at Regions including Head of Operations and Technology, Head of Consumer Services Group, Head of Regional Banking Group, and Head of Enterprise Services and Consumer Banking. Director Owen served on the boards of directors for the Birmingham Business Alliance, Innovation Depot, and the United Way of Central Alabama, as well as the advisory board for the UAB Collat School of Business.
+
+Relevant Skills and Experience
+
+• Over 38 years of experience in banking and information technology that spans multiple industries including banking, insurance, airlines, and the defense industry
+
+• Valuable expertise in information security, cybersecurity, strategy and operations, and technological innovation within the financial services industry
+
+• Leadership and oversight with digital banking through overhauling mobile banking applications
+
+• Experience in overseeing technological transformation, including the deployment of new mobile applications and the streamlining of technical infrastructure to improve the customer experience all within a full-service digital environment
+
+• Leadership and clear understanding of the overall governance structure associated with a highly regulated industry
+
+• Public company compliance, technology, and climate and sustainability experience
+
+David L. Rawlinson II is CEO and President of QVC Group, Inc. (formerly Qurate Retail, Inc.), a Fortune 500 global retailer, since October 2021, and previously served as CEO-Elect and President for Qurate Retail, Inc. (now QVC Group, Inc.) beginning August 2021. He was CEO of NielsenIQ (formerly Nielsen Global Connect), a global data company from February 2020 to August 2021. He joined W.W. Grainger, Inc., an industrial supplies company in 2012 and, beginning in November 2015, served as President of the Global Online Business until February 2020. Director Rawlinson served as a White House Fellow and in appointed positions for both the George W. Bush and Barack Obama administrations, and he serves on the board of NielsonIQ, a leading consumer intelligence company.
+
+Relevant Skills and Experience
+
+• Global e-commerce, consumer trends, consumer data, and digital business-to-business operations
+
+• Formerly ran or oversaw compliance and cybersecurity functions or projects
+
+• Public company CEO, strategy and business development, and audit qualified
+
+• Government, regulatory, and climate and sustainability experience
+
+Other Directorships
+
+• QVC Group, Inc. (formerly Qurate Retail, Inc.) (since 2021)
+
+-3-
+
+Table of Contents
+
+• Nielson Holdings plc (2017-2021)
+
+J. Michael Shepherd is Interim CEO and President of Discover and Interim President of Discover Bank beginning April 1, 2024. He is the former Chairman and CEO of BancWest Corporation and its subsidiary, Bank of the West, the US retail arm of BNP Paribas Group (prior to Bank of the West’s acquisition by BMO Financial Group in February 2023). He held positions of increasing responsibility after joining Bank of the West in 2004, including General Counsel, President, and Chairman & CEO. Director Shepherd also served as the Chairman of BNP Paribas USA, Inc. from 2016 to 2019 and as a director from 2016 to February 2023. He also served on the board of directors of First Hawaiian, Inc. from 2007 to 2019. Before joining Bank of the West, he served as General Counsel of The Bank of New York Company, Inc. and of Shawmut National Corporation. He previously served as Senior Deputy Comptroller of the Currency, Associate Counsel to the President of the United States, and Deputy Assistant Attorney General. He serves on the board of directors of Pacific Mutual Holdings Inc.
+
+Relevant Skills and Experience
+
+• Over two decades of experience in various financial services institutions
+
+• Significant risk management and consumer banking experience
+
+• Proficient in compliance and regulatory matters from industry experience and government service
+
+Other Directorships
+
+• CoreLogic (2019-2021)
+
+Beverley A. Sibblies is the Founder and President of BAS Financial Corp., a family office since 2009. She is the former CFO and Chief Accounting Officer of HSBC Finance Corporation, a multi-product, multi-channel consumer finance company with operations in the United States, Canada, and United Kingdom. She is a former Executive Vice President and CFO of EMC Mortgage Corporation, a Texas-based, wholly-owned subsidiary of Bear Stearns Companies Inc. Director Sibblies began her career with Deloitte in 1986 and was named a partner in 1997. She served on the Board of Directors of Discover Bank since July 2015.
+
+Relevant Skills and Experience
+
+• Nearly four decades of combined experience in the financial services and audit industries
+
+• Maintaining a corporate culture that emphasizes the importance of compliance with laws and regulations and consumer protection
+
+• Articulate in corporate strategy, as well as institutional risk appetite and policies
+
+Jennifer L. Wong is COO of Reddit, Inc., a community and discussion platform, since 2018, where she oversees business strategy and growth, and related teams for the company. She previously served as President of Digital at Time, Inc. and then its COO from 2016 to 2018, where she led growth strategy and digital business transformation. She was the Chief Business Officer from 2011 to 2015 at Popsugar, Inc., a media and technology company, where she led business operations and the company’s media and commerce businesses. Director Wong held several executive management roles at AOL and worked with a range of digital media and technology clients at McKinsey & Company earlier in her career. She also serves on the board of directors of Marfeel, an ad technology platform that allows publishers to create, optimize, and monetize their mobile websites.
+
+Relevant Skills and Experience
+
+• Building consumer and business digital products and platforms and understanding of digital advertising, digital ecosystems, and social media as an essential marketing tool
+
+• Cybersecurity experience, including proactive strategy and response development and incident evaluation, management, and communications strategy
+
+• Technology, business strategy and growth development, artificial intelligence, corporate developments, and digital marketing
+
+Other Directorships
+
+• IMAX Corporation (since 2023)
+
+-4-
+
+Table of Contents
+
+• Group Nine Acquisition Corp. (2021 - 2022)
+
+Family Relationships
+
+There are no immediate family relationships between any of our directors or executive officers and any other directors or executive officers.
+
+Corporate Governance
+
+Governance Documents
+
+Some of the governance documents available on our website at investorrelations.discover.com , include: Amended and Restated Bylaws, Corporate Governance Guidelines, Guidelines Regarding Communications by Shareholders and Other Interested Parties with the Board of Directors, Guidelines Regarding Director Candidates Recommended by Shareholders, Code of Conduct and Business Ethics (and related supplements), and all standing committee charters. For the avoidance of doubt, except as specifically noted herein, nothing on our website shall be incorporated by reference herein.
+
+Board Committees
+
+Our Board has established the following standing committees: Audit; Compensation and Human Capital; Nomination, Governance, and Public Responsibility; and Risk Oversight. The current membership and primary functions of each standing committee are described below. The standing committees’ charters provide further detail on the committees’ responsibilities.
+
+All members of the Audit; Compensation and Human Capital; Nominating, Governance, and Public Responsibility; and Risk Oversight Committees satisfy the standards of independence applicable to members of such committees. In addition, the Board has determined that all members of the Audit Committee are financially literate and are “audit committee financial experts” as such term is defined in Item 407(d) of Regulation S-K under the Securities and Exchange Act of 1934 (the “Exchange Act”) and have accounting or related financial management expertise.
+
+Audit Committee
+
+Directors Duncan (Chair), Eazor, O-Leary-Gill, and Sibblies serve on the Audit Committee.
+
+The primary responsibilities of the Audit Committee include:
+
+• Oversee the integrity of our consolidated financial statements, our system of internal controls and disclosure controls and procedures, and the qualifications and independence of our independent registered public accounting firm.
+
+• Oversee the internal audit function, including the performance and compensation of our Chief Audit Executive.
+
+• Review and approve the performance, charter, responsibilities, budget and staffing levels of the Company's internal audit function.
+
+• Review and approve the audit plan and scope of work and internal audit's overall risk-assessment methodology.
+
+• Sole authority and responsibility to select, compensate, oversee, evaluate, and, when appropriate, replace our independent registered public accounting firm.
+
+• Oversee the Company’s compliance with legal and regulatory requirements.
+
+• To the extent applicable and in conjunction with the Risk Oversight Committee, oversee the Company’s risk management functions.
+
+Compensation and Human Capital Committee
+
+Directors Maheras, O’Leary-Gill (Chair), and Wong serve on the Compensation and Human Capital Committee (the “Compensation Committee”).
+
+The primary responsibilities of the Compensation Committee include:
+
+-5-
+
+Table of Contents
+
+• Annually review and approve the corporate goals and objectives relevant to the compensation of the Company’s CEO and other Section 16 Officers and evaluate their performance in light of these goals.
+
+• Oversee risk management associated with our compensation practices.
+
+• Oversee our incentive and stock-based compensation plans.
+
+• Oversee plans for management development and succession.
+
+Nominating, Governance, and Public Responsibility Committee
+
+Directors Duncan, Eazor, and Rawlinson (Chair) serve on the Nominating, Governance, and Public Responsibility Committee (the “NGPR Committee”).
+
+The primary responsibilities of the NGPR Committee include:
+
+• Identify and recommend candidates for election to our Board.
+
+• Make recommendations to the Board with respect to Board committee composition.
+
+• Make recommendations to the Board regarding director independence and other qualifications.
+
+• Review and assess the adequacy of the Company’s Corporate Governance Guidelines.
+
+• Oversee our policies, programs, strategies, and reporting related to Environmental, Social, and Governance matters.
+
+• Oversee the annual evaluation of the members of our Board, its committees, and management.
+
+• Review the effectiveness of director compensation and benefits programs.
+
+• Oversee director orientation and ongoing education.
+
+• Oversee the Company's and directors' engagement with institutional shareholders, proxy advisors, and other interested parties and assess feedback with respect to matters under the Committee's purview.
+
+Risk Oversight Committee
+
+Directors Lonowski, Owen (Chair), and Wong serve on the Risk Oversight Committee. The Board determined that directors Lonowski and Owen qualify as “risk management experts” under the Federal Reserve’s Regulation YY.
+
+The primary responsibilities of the Risk Oversight Committee include:
+
+• Oversee the operation of an effective enterprise-wide risk management program; make recommendations to the Board on key risk management policies and the Company’s risk appetite and tolerance; oversee risk management governance, policies, and frameworks; and perform other functions pursuant to the Federal Reserve’s regulations.
+
+• Assist the Board in its oversight of the Company's compliance with certain legal and regulatory requirements, including the Anti-Money Laundering/Bank Secrecy Act ("AML/BSA").
+
+• Review and assess the adequacy of the risk appetite that has been established for each category of enterprise risk and receive reports on compliance with the Company’s risk appetite and limit structure, operational and other risk exposures (including but not limited to third-party, credit, market, strategic, and reputational risks), and risk management deficiencies and emerging risks (including the steps management has taken to monitor and control risk exposures and adherence to risk limits).
+
+• Annually review the resources, authority, independence, and staffing levels of the Company's Corporate Risk Management and its budget.
+
+• Review adherence and changes to the Company’s compliance policy and consumer compliance program.
+
+• Oversee the performance of our Chief Risk Officer (“CRO”) and Chief Compliance Officer (“CCO”).
+
+• Review and approve the Company’s information security program and review the quality and effectiveness of the Company’s technology security, data privacy, and disaster recovery capabilities.
+
+• Oversee capital planning and liquidity risk management activities.
+
+-6-
+
+Table of Contents
+
+Item 11. Executive Compensation
+
+Compensation Discussion and Analysis
+
+Executive Summary
+
+This Compensation Discussion and Analysis (“CD&A”) focuses on the executive compensation amounts and programs for the Company’s named executive officers (“NEOs”) who are shown below and listed in the “2024 Executive Compensation Tables.”
+
+Our 2024 NEOs include the following current executive officers :
+
+• J. Michael Shepherd, Interim Chief Executive Officer and President
+
+• John T. Greene, Executive Vice President, Chief Financial Officer
+
+• Daniel P. Capozzi, Executive Vice President, President - Consumer Banking
+
+• Jason J. Strle, Executive Vice President, Chief Information Officer
+
+• Keith E. Toney, Executive Vice President, President - Credit & Decision Management
+
+We are also required pursuant to SEC rules to include as 2024 NEOs the following executives who served as Chief Executive Officer (“CEO”) and terminated employment with the Company in 2024 (Mr. Owen remains on the Board):
+
+• John B. Owen, former Interim CEO and President (CEO from August 14, 2023 to January 31, 2024)
+
+• Michael Rhodes, former CEO and President (CEO from February 1, 2024 to March 31, 2024, terminated employment on April 12, 2024)
+
+Merger-Related Compensation Matters
+
+In February 2024, the Company entered into an Agreement and Plan of Merger (the “Merger Agreement”) with Capital One Financial Corporation (“COF”) and Vega Merger Sub, Inc., a wholly-owned subsidiary of COF that will result in the Company becoming a wholly-owned subsidiary of COF (the “Merger”).
+
+While the Merger is pending, we were required to make certain modifications to our executive compensation arrangements for 2024. We summarize these matters below.
+
+For information regarding the amounts that could become payable to our NEOs if the Merger is completed, please see our merger-related Proxy Statement as filed with the SEC on January 6, 2025.
+
+Limitations to 2024 Equity Awards
+
+The Merger Agreement prohibited the Company from granting new equity awards in 2024 other than restricted stock units (“RSUs”) that were on substantially the same terms as those for our other outstanding RSUs. As a result, in February 2024, the Compensation Committee of the Board did not grant any performance stock units (“PSUs”). Instead, all eligible employees, including NEOs, received 100% of their annual long-term incentive (“LTI”) award as RSUs.
+
+Retention Awards
+
+The Company’s ability to retain and motivate its employees during the period before the effective time of the Merger will be critical to the success of the Merger. In light of this consideration, the Company has implemented a cash retention program. Mr. Strle is the only NEO who has been granted a Merger-related cash retention award. Mr. Strle’s award will vest on the one-year anniversary of the closing date of the Merger, subject to his continued employment through the applicable vesting date. Awards under the retention program generally provide for full vesting upon an involuntary termination without “cause,” a voluntary termination for “good reason” (each to be defined in the applicable retention agreement) or a termination due to death or disability, in each case on or after the closing date and subject to an effective release of claims.
+
+-7-
+
+Table of Contents
+
+2024 Advisory Vote of NEO Compensation
+
+At our 2024 Annual Meeting, shareholders indicated strong support for our executive compensation program with approximately 92% of votes cast in favor of our Say-on-Pay proposal. The Compensation Committee values the opinions of our shareholders and considered the Say-on-Pay vote results in connection with its evaluation of the Company’s executive compensation program and, after considering such vote results, did not make any changes to the Company’s executive compensation program in response to the 2024 Say-on-Pay vote.
+
+Compensation Principles and Objectives
+
+We summarize below the structure of our executive compensation program and provide an overview of how and why the Compensation Committee made specific decisions involving NEO compensation. Our executive compensation program is designed to motivate, retain, and attract top executive talent to achieve our strategic objectives and align shareholders’ and executives’ interests. We also refer shareholders to our Original Report, for additional information regarding the Company’s 2024 financial results.
+
+How Corporate Performance is Taken into Account in Setting Compensation Policies and Making Compensation Decisions
+
+Our financial results and compensation earned by NEOs for 2024 reflected a strong year for earnings, and we believe the 2024 compensation earned by our NEOs remained consistent with our balanced compensation structure, risk management, and commitment to aligning our NEOs’ interests with those of our shareholders. We performed well against our goals in 2024 in many areas.
+
+Annual cash incentive payout is based on profit before taxes and reserves (“PBTR”) performance. The Compensation Committee uses PBTR to measure the Company’s financial performance to establish award levels. The Compensation Committee and the full Board believe that PBTR is a critical measure of the core operating performance of the business and focuses on factors the Company’s incentive-eligible employees are most able to directly impact and influence. When determining awards under our annual cash incentive program, the Compensation Committee considers a variety of additional factors, including but not limited to, risk management and compliance outcomes, individual performance and contribution, and total shareholder return.
+
+LTI awards have historically been granted in the form of RSUs and PSUs, with PSU award values and vesting tied to cumulative earnings per share (“EPS”) performance over a three-year performance period. We believe the link between our financial results and executive incentives demonstrates our continued commitment to paying executives for performance. For 2024, as required under the terms of the Merger Agreement with COF, LTI awards consisted solely of RSUs.
+
+The Company’s 2024 executive compensation program and compensation decisions were based on the following principles and objectives:
+
+[TABLE]
+Pay-for-Performance |  | Balanced Compensation Structure |  | Market-Competitive Pay Opportunity
+Our compensation should reflect financial and non-financial performance over short- and long-term periods at the Company and individual performance levels. |  | We seek to deliver a mix of fixed and variable compensation that aligns the interests of our executive officers with our shareholders and appropriately balances risk and reward. |  | Our compensation should be competitive relative to our peers and the broader market in order to attract, motivate, and retain top executive talent.
+[/TABLE]
+
+Elements of Compensation & Pay Mix
+
+2024 compensation decisions for our NEOs were closely tied to our 2024 financial performance with compensation consisting of three key components—base salary, short-term incentives (“STI”), and LTI—with a significant portion of total compensation tied to long-term Company performance. To align pay levels for our NEOs with the Company’s performance, our pay mix places the greatest emphasis on variable incentives. Base salary is the only component of compensation that is “fixed.” We believe this balance of fixed and variable compensation is consistent with our executive compensation philosophy
+
+-8-
+
+Table of Contents
+
+and maintains a strong link between the NEOs’ compensation and Company performance, motivating executives to deliver strong business performance and, importantly, to create shareholder value.
+
+For 2024, after consideration of all the aforementioned factors and the Compensation Committee’s emphasis on pay-for-performance, the Compensation Committee made compensation decisions for each of the NEOs as detailed in the “2024 Summary Compensation Table.”
+
+Our different components of compensation are summarized below.
+
+[TABLE]
+ | Element | Highlights | Objectives
+ | Base Salary | Fixed cash compensation based on scope of responsibility, impact on the organization, expertise, experience, and individual performance. | To provide a fixed amount for performing the duties and responsibilities of the position.
+ | Short-Term Cash Incentive (STI) | Annual cash bonus opportunity based on Company financial performance, primarily PBTR (1) , other performance factors, risk and individual performance. | To motivate executive officers to achieve Company-wide, business-unit, and individual performance goals.
+Long-Term Incentive (LTI) | Annual equity award opportunity based on financial and other performance factors, risk and individual performance; historically granted as a mix of PSUs and RSUs, but solely granted as RSUs in 2024 pursuant to the Merger Agreement. | Create alignment with shareholders’ interests.
+[/TABLE]
+
+(1) PBTR is a non-GAAP financial measure that should be viewed in addition to, not as a substitute for, the Company’s reported results. 2024 PBTR is derived by subtracting the change in the allowance for credit losses of $960 million and the adjustment to the liability for expected credit losses on unfunded commitments of $40 million, and adding the income tax expense of $1,539 million to net income of $4,535 million. The Compensation Committee believes that PBTR is a critical measure of the core operating performance of the business that increases focus on factors the Company’s incentive-eligible employees are most able to directly impact and influence. Please see “Annex A” for a reconciliation of PBTR to Net Income.
+
+How and Why Compensation Decisions Are Made
+
+Base Salary
+
+Although we consider the NEOs integral to the Company's success, with the exception of our interim executive officers with a limited term, no NEO or other executive officer has an employment agreement with the Company. We provide our NEOs with offer letters that provide for market-competitive annual base salaries to attract and retain an appropriate caliber of talent for each position. Annually, we review our competitive market, including market data provided by the Compensation Committee’s external independent compensation consultant, Pay Governance (the “Compensation Consultant”), for our peer group and the broader market. Base salary increases approved by the Compensation Committee were based on NEO individual performance and alignment with competitive market data. See “2024 Summary Compensation Table” for a summary of 2024 base salaries earned by our NEOs.
+
+Short-Term Incentive Compensation
+
+Certain NEOs have the opportunity to earn a market-competitive annual cash award through our STI program. Messrs. Shepherd and Owen were not eligible for annual STI awards under the terms of their respective agreements while serving as Interim CEO and President.
+
+STI Awards may be earned based primarily on the Company’s financial performance (PBTR), while incorporating other performance factors, managing risk, and individual performance. The STI opportunity is provided to create additional motivation for the executives to achieve our annual business goals and to enable us to attract and retain an appropriate caliber of talent for each position, recognizing that similar annual STI opportunities are provided at other companies with which we compete for talent. Our NEOs
+
+-9-
+
+Table of Contents
+
+generally have target STI opportunities, as disclosed in the “Grants of Plan-Based Awards for 2024” table, which were communicated to them at the beginning of the year.
+
+In 2024, the Compensation Committee considered multiple factors, including historical performance and general market conditions, and approved STI funding goals that aligned with the Company’s 2024 Annual Plan. The performance/payout curve defined potential funding levels based on various levels of PBTR performance. The curve was structured to provide threshold funding of 70% of target and maximum funding of 130% of target based on PBTR performance. Final PBTR results may be adjusted for one or more unusual or extraordinary items that the Compensation Committee, in its sole discretion, has determined should be added or subtracted from PBTR. (1)
+
+For executive officers, including certain NEOs, a 1.5x bonus multiplier is then applied to reflect the contribution to and responsibility for overall organization performance resulting in threshold funding of 55% of target and maximum funding of 145% of target. In each case, the Compensation Committee has discretion to reduce or increase the funded amounts by applying an individual performance modifier of +/- 20%, which can result in individual STI awards ranging from a minimum of 44% of target to a maximum of 174 % of target.
+
+Final STI payout is subject to reduction based on the Compensation Committee’s review of both (i) achievement of NEOs’ progress against the Company-Level Risk Scorecard (which applies uniformly to all NEOs regardless of an individual NEO’s performance) and (ii) the results of any risk management matters that may impact an individual NEO.
+
+The Compensation Committee believes this approach provides the appropriate level of transparency while maintaining the flexibility to adjust awards for extraordinary circumstances that positively or negatively affect the Company’s financial performance. This approach is also designed to allow the Compensation Committee to evaluate whether pay is commensurate with risks taken and the quality of performance results.
+
+2024 STI was based on 128.9% PBTR goal achievement, as adjusted (1) , and was generally paid shortly after the Compensation Committee meeting in January 2025. For several employees, including certain of our NEOs, a portion of 2024 STI was paid in December 2024 in order to mitigate potential adverse tax impacts; for more information, see “280G Mitigation Actions.” See “2024 Summary Compensation Table” for actual 2024 STI payouts to the NEOs.
+
+Long-Term Equity Incentives
+
+The Compensation Committee, with input from the Compensation Consultant, continues to emphasize stock-based compensation for our NEOs and other senior executives to align their long-term interests with those of our shareholders. The Compensation Committee believes that the use of LTI awards that vest over a multi-year period incentivizes the executives to focus on the Company’s long-term interests without leading to imprudent or excessive risk-taking. In addition, we believe time-vested RSUs represent an efficient method of delivering long-term incentive compensation, generally using fewer shares than other types of stock-based award vehicles while delivering value that is ultimately tied to Company operational or stock price performance.
+
+At the direction of the CRO, an Equity Award Risk Review is completed for former and current Covered Employees (individuals with the authority, through span of influence, responsibility, or control, to make decisions independently or as a group which can inherently expose the Company to substantial or material risk), which includes our NEOs, prior to the vesting of an RSU or PSU. The Risk Review is conducted quarterly, annually and/or as required by the applicable award agreement, to determine whether any Covered Employee engaged in any willful or reckless violation of the Company’s policies. If any such violation or breach is found, then the Company may determine that all or a portion of the individual’s awards will be forfeited.
+
+The Compensation Committee sets LTI compensation opportunities commensurate with the NEOs’ level and responsibility in the organization, as well as considering external market data, to appropriately motivate the individuals and further align their interests with those of our shareholders. The Compensation Committee established a target LTI value for each NEO, represented as a percentage of base salary.
+
+(1) Adjusted PBTR is a non-GAAP financial measure which should be viewed in addition to, not as a substitute for, the Company’s reported results. Please see “Annex A” for a reconciliation of Adjusted PBTR to Net Income.
+
+-10-
+
+Table of Contents
+
+The LTI award consists of a grant value based on the NEO’s established LTI target. Actual LTI awards may vary from target based on the Compensation Committee’s assessment of performance, succession planning considerations, and scope of responsibility. The number of RSUs granted is generally determined by dividing the dollar value of each recipient’s award by the closing price of a share of Common Stock on the date of grant. For 2024, the RSU grants were made on February 22, 2024, to each of the eligible NEOs based on the closing price of a share of Common Stock on February 16, 2024 (the last trading day before the Merger announcement). For the other NEOs, management recommended, and the Compensation Committee approved, for Messrs. Greene and Capozzi, an increase in their LTI targets from 375% to 400%, and for Mr. Strle an increase to 330%, to align their compensation with market-competitive levels. Messrs. Shepherd and Owen were not eligible for annual LTI awards under the terms of their agreements as Interim CEO and President. In connection with Mr. Rhodes’ resignation in April 2024, his annual 2024 RSU award was forfeited.
+
+Restricted Stock Units
+
+In addition to time-based vesting, RSUs are subject to fluctuations of the Company stock price and are intended to align the interests of our NEOs with the long-term interests of the Company and its shareholders and incentivize NEOs to make future contributions and decisions aimed at increasing shareholder value. RSUs generally vest and convert to shares ratably over a three-year period, subject to compliance with the Company’s policies and the executive remaining employed by the Company through the vesting date (with exceptions for certain termination events). For the RSUs, dividend equivalents accumulate in cash and are paid to the NEOs in the same amount and at the same time as dividends are paid to all Company Common Stock shareholders. Additional RSU grants may be made for purposes of recruiting, promoting, or retaining executives as may be approved by the Compensation Committee. See the tables, “Grants of Plan-Based Awards for 2024” and “Outstanding Equity Awards at 2024 Year-End” for more details.
+
+2022 to 2024 PSU Payouts
+
+The performance period for our PSUs granted in February 2022 ended on December 31, 2024. The Compensation Committee approved performance targets at the start of the 2022 PSU performance period. Following the completion of the performance period in 2024, the Compensation Committee approved a payout factor of 111% of target.
+
+The final payout of these PSUs was determined after confirmation of compliance with the Company’s policies, and NEOs were generally paid shares of Common Stock (which remain subject to clawback in certain situations and subject to the NEOs’ share ownership guidelines) when the PSUs vested in February 2025. For several employees, including certain of our NEOs, a portion of their 2022 PSUs were settled in December 2024 in order to mitigate potential adverse tax impacts; for more information, see “280G Mitigation Actions.”
+
+Retirement & Health Benefits
+
+All employees are offered a benefits package that is intended to be competitive with those offered by companies with which we compete for talent. Our NEOs who are currently employed participate in our benefit plans and programs generally on the same basis as our employees. The Company offers benefits such as medical, disability, and life coverage to promote employee health and protect against catastrophic expenses. The Discover 401(k) Plan provides employees with the opportunity to save for retirement. We also maintain the Discover Pension Plan, which was frozen as of December 31, 2008. The only NEO who is eligible to participate in the Discover Pension Plan is Mr. Capozzi. The Company does not currently offer any supplemental executive retirement benefits or other special deferred compensation programs for our NEOs.
+
+Additional information regarding Company contributions to the Discover 401(k) Plan is provided in the footnotes to the “2024 Summary Compensation Table.” Additional information regarding the Discover Pension Plan is provided after the “2024 Pension Benefits” table.
+
+Limited Perquisites
+
+We provide our executive officers, including certain NEOs, with limited perquisites on an individual basis that the Compensation Committee believes, based on its annual compensation review, are reasonable to attract talent and remain competitive. We provide relocation assistance to newly hired and current senior executives, including NEOs, who relocate to accept a position or new role with the Company. Such
+
+-11-
+
+Table of Contents
+
+relocation assistance is generally pursuant to our relocation program, which is designed to cover the costs directly resulting from a Company-requested relocation and includes tax gross-up payments for taxable relocation benefits under the program. Mr. Shepherd’s offer letter includes access to a leased vehicle for business and personal use while serving as Interim CEO and President. Mr. Shepherd is also provided a tax gross-up reimbursement for the applicable income associated with this benefit.
+
+The Compen sation Committee approved the ongoing use of chartered aircraft for Mr. Owen and Mr. Shepherd, a nd their family for all travel, including personal travel, while serving as CEO. The Compensation Committee believes this benefit serves the interests of the Company and its shareholders by providing for Mr. Owen’s and Mr. Shepherd’s personal security and allowing for efficiency in their air travel. The benefit of chartered aircraft for family and personal travel is taxable to Mr. Owen and is reflected as a perquisite provided by the Company in the “2024 Summary Compensation Table” for the applicable year. During 2024, Mr. Shepherd only utilized chartered aircraft for business travel and not for personal use. During 2024, Mr. Capozzi was approved personal use of chartered aircraft as a one-time exception by Mr. Rhodes, who was serving as CEO at that time. Mr. Rhodes was not approved for use of chartered aircraft while serving as interim CEO and President in 2024.
+
+For disclosure purposes in accordance with the SEC rules, the foregoing benefits related to family and personal travel are valued on the basis of incremental cost to the Company. The Company did not reimburse or provide a “gross up” to Mr. Owen or Mr. Capozzi for the taxes incurred due to the personal use of the chartered aircraft.
+
+For more information on these perquisites and to whom they are provided, see footnote 6 to the “2024 Summary Compensation Table.”
+
+Change in Control Severance Policy and Severance Plan
+
+All of our NEOs who are currently employed, except for Mr. Shepherd , are eligible to participate in the Company’s Change in Control Severance Policy and broad-based Severance Plan (collectively, the “Severance Plans”) which provide for severance compensation to be paid to eligible employees if they experience a qualifying termination. Additional information, including potential payments to each of our NEOs in the event of a qualifying termination under the Severance Plans, are detailed in the “2024 Potential Payments Upon a Termination or Change in Control Table.”
+
+The Compensation Committee believes the Severance Plans are an essential element of our executive compensation program and assist the Compensation Committee in recruiting and retaining talented executives. The Compensation Committee also believes these benefits serve to minimize the distractions to the executive, reduce the risk that the executive will depart the Company before an acquisition is consummated, and allow the executive to focus on continuing normal business operations and the success of a potential transaction, rather than worrying about how business decisions that may be in our best interest and the interests of our shareholders will impact their own financial security.
+
+One-Time & Off-Cycle Compensation Awards
+
+The Board and the Compensation Committee retain the discretion to approve awards of compensation to executives, including our Interim CEO and President, outside of the typical annual cycle or otherwise on a limited basis, such as new hire arrangements, promotional awards, and other special awards and compensation arrangements for retention and incentive purposes.
+
+In connection with his appointment August 2023, Mr. Owen received the following one-time awards while serving as Interim CEO and President during 2024:
+
+• An RSU award with a grant date value of $500,000, which vested on January 31, 2024.
+
+In recognition of Mr. Owen’s service as Interim CEO and President, the Compensation Committee approved the following:
+
+• An RSU award with a grant date value of $1,600,000, which fully vested on January 31, 2024, with one-third settling on each of the first, second, and third anniversaries of January 31, 2024 (the “Owen Deferred Equity Award”).
+
+• A cash award of $500,000, which was paid on January 31, 2024.
+
+-12-
+
+Table of Contents
+
+In connection with his appointment in December 2023, Mr. Rhodes received the following one-time awards while serving as CEO and President during 2024:
+
+• A make-whole RSU award of $5,035,599 (reduced from the previously disclosed amount of $7,100,000 due to receipt of PSUs from his prior employer, as disclosed in our Form 8-K filed on December 11, 2023).
+
+• A make-whole cash award of $93,500 (reduced from the previously disclosed amount of $1,500,000 due to receipt of an annual cash incentive from his prior employer, as disclosed in our Form 8-K filed on December 11, 2023).
+
+• A cash transition award of $750,000.
+
+Upon Mr. Rhodes’ termination of employment, his make-whole RSU award was forfeited, and pursuant to Mr. Rhodes’ letter agreement, he repaid the make-whole cash award and the cash transition award.
+
+In connection with his appointment in March 2024, Mr. Shepherd received the following one-time award while serving as Interim CEO and President during 2024:
+
+• An RSU award with a grant date value of $5,750,000, which will vest on the earlier of the completion of the Merger and April 1, 2025.
+
+In recognition of Mr. Shepherd’s service as Interim CEO and President, the Compensation Committee approved the following:
+
+• A cash award of $1,500,000, which was paid on December 27, 2024.
+
+In recognition of Mr. Greene’s service as CFO, the Compensation Committee approved the following:
+
+• An RSU retention award with a grant date value of $1,000,000, with (1) 50% to vest on February 1, 2027; and (2) 50% eligible to vest on the later of (a) the date on which the Discover Student Loan portfolio is sold or (b) the date on which the servicing of such loans has been successfully transferred to a third-party provider .
+
+280G Mitigation Actions
+
+Several employees, including certain of our NEOs, who are eligible to receive payments in connection with a qualifying termination occurring at or following the closing of the Merger may potentially be subject to an excise tax under Section 4999 of the Internal Revenue Code, and such payments may not be deductible by the Company for federal income tax purposes pursuant to Sections 280G and 4999 of the Code. On December 11, 2024, the Compensation Committee evaluated these potential adverse tax impacts on the employees and the Company, and decided to take certain reasonable actions to pay amounts in 2024 that would have otherwise been paid in 2025 in an effort to mitigate these potential tax impacts in the event the Merger closes in 2025. The Compensation Committee determined that it was in the best interests of the Company and its employees to:
+
+• Accelerate the vesting and settlement of RSUs granted in 2024 that were scheduled to vest and settle on or before June 30, 2025 (including 50% of Mr. Greene’s retention award);
+
+• Accelerate the vesting and settlement of the PSUs granted in 2022 that were scheduled to vest and settle in February 2025, based on the Company’s estimated EPS performance at the end of 2024; and
+
+• Accelerate the payment of a portion of the 2024 STI that otherwise would have been paid in February 2025.
+
+In each instance the amounts accelerated or paid early ultimately did not exceed the actual amounts to which the employees, including the applicable NEOs, were entitled.
+
+-13-
+
+Table of Contents
+
+Compensation Governance Best Practices
+
+We continue to maintain our disciplined approach to executive compensation with a focus on pay-for-performance, strong governance, risk management, and simplicity as evidenced by the following practices:
+
+[TABLE]
+We Do |  | We Do Not
+Pay-for-performance: The majority of the compensation for our NEOs is in the form of variable cash and equity compensation linked to the short-term and long-term financial and strategic performance of the Company. Incentive compensation metrics are tied to the profitable operation and growth of the Company, and NEOs’ individual goals are designed to be aligned to financial, strategic, as well as risk management and compliance outcomes. Shareholder alignment: Our compensation program is designed to be aligned with our long-term interests and those of our shareholders, with a majority of NEO target direct compensation delivered as LTI awards. LTI awards are normally granted in the form of PSUs and RSUs, the value of which are directly impacted by the Company’s stock performance. The Merger Agreement required the Company to grant new equity awards solely in the form of RSUs. Independent oversight: Our Compensation Committee includes only directors who are independent under applicable NYSE listing standards, and the Compensation Committee is advised by an independent compensation consultant. Share ownership guidelines for NEOs: Our CEO must own shares with a value of at least seven times base salary and our other NEOs must own shares with a value of at least three times respective base salaries. Each NEO must achieve his ownership guideline within five years of appointment. Incentive award limits: Incentive awards have maximum payout caps. Clawback of incentive compensation: STI and LTI compensation is subject to clawback in accordance with our Recoupment Policy. Our broader Incentive Compensation Clawback Policy and our equity award agreements which allow the Company to forfeit or recoup LTI awards in the event of a financial restatement and under other circumstances. Risk management: We regularly evaluate the impact of the design of our incentive compensation program. The compensation decisions for our NEOs include a risk review, and a validation evaluation that is conducted before we distribute annual STI and LTI awards, and before the determination of vesting for all outstanding stock grants, which may result in a reduction in the number of the shares vested. Double trigger change in control: Our change in control severance policy and equity award agreements include double triggers before any payments are made. Restrictive covenants: LTI awards to NEOs are subject to non-competition and non-solicitation provisions. Limited perquisites: We provide limited perquisites to our NEOs, which are described in detail below under “2024 Summary Compensation Table.” |  | No special benefit plans: We do not provide any benefit plans to our executives that are not generally available to other employees, and we do not offer any supplemental executive retirement plan benefits to our executives. No hedging or pledging: Directors and executive officers, including NEOs, are prohibited from hedging Company securities, holding Company securities in a margin account, or otherwise pledging Company securities, including as collateral for a loan.
+[/TABLE]
+
+-14-
+
+Table of Contents
+
+Benchmarking & Market-competitive pay opportunity
+
+The Compensation Committee reviewed and considered competitive market data from the following sources when approving NEO compensation: proxy data from an established peer group of companies (discussed below) and other market survey data from companies within the financial services industry and companies with which we compete for talent. For benchmarking purposes, the peer group used in the analysis includes 15 financial services companies of a similar business nature and revenue size to the Company, from which the Company might expect to draw and compete for executive talent. Given that the Company has few direct competitors of similar scope, size, and business model, this peer group is somewhat varied in nature and primarily represents companies that are similar in business areas with a focus on credit card providers, regional financial institutions that have significant credit card and/or loan operations and payments processing, and data/transaction processing companies.
+
+Based on its annual review, the Compensation Committee determined no changes would be made to the Company peer group. As a result, the peer group for 2024 compensation decisions consisted of the following companies:
+
+[TABLE]
+2024 Peer Group
+• Ally Financial, Inc. (ALLY) • American Express Company (AXP) • Capital One Financial Corporation (COF) • Citizens Financial Group, Inc. (CFG) • Comerica Incorporated (CMA) | • Fidelity National Information Services, Inc. (FIS) • Fifth Third Bancorp (FITB) • Fiserv, Inc. (FI) • KeyCorp (KEY) • M&T Bank Corporation (MTB) | • Mastercard Incorporated (MA) • PayPal Holdings, Inc. (PYPL) • Regions Financial Corporation (RF) • Synchrony Financial (SYF) • Visa Inc. (V)
+[/TABLE]
+
+Role of Executive Officers in Determining Executive Compensation for Our NEOs
+
+As described in the Compensation Committee’s Charter, the Compensation Committee is responsible for the review and approval of all aspects of the Company’s executive compensation program and makes all decisions regarding the compensation of the NEOs. The following describes the comprehensive process in determining compensation decisions that allows for consideration of Company, business segment, and individual performance as well as managing risk:
+
+• Our CEO, Chief Human Resources Officer, senior Human Resources’ personnel, and the Compensation Consultant meet with the Compensation Committee to discuss preliminary compensation decisions for the NEOs and other senior officers.
+
+• The CRO reviews and confirms all preliminary compensation decisions for NEOs.
+
+• The Compensation Committee considers overall contribution to Company performance and individual responsibility for business segment, functional, and/or strategic goals.
+
+• The Compensation Committee meets with the Risk Oversight and Audit Committees of the Board to discuss the impact of managing risk on compensation recommendations.
+
+• The Board or the Compensation Committee reviews the findings from any risk reviews as presented by the CRO and may approve reductions to the NEOs’ compensation based on the findings.
+
+• The Compensation Committee, with input from the CRO, evaluates NEOs’ achievements against business and risk management goals, along with the Company’s Executive Committee Risk Scorecard and approves adjustments to the NEOs’ compensation based on the results.
+
+• The Compensation Committee regularly consults with the Compensation Consultant in performing its duties. The Compensation Consultant attends Compensation Committee meetings, including executive sessions without management present. The Compensation Committee has broad authority to retain and dismiss the Compensation Consultant and establish the scope of the Compensation Consultant’s work.
+
+-15-
+
+Table of Contents
+
+Compensation Policies and Practices Related to Risk Management
+
+The Compensation Committee is responsible for overseeing risk management associated with the Company’s compensation practices. The CRO reviews with the Compensation Committee, at least annually, the Company’s incentive compensation plans to evaluate whether these plans contain any features that might encourage excessive or imprudent risk-taking and could threaten the value of the Company or are reasonably likely to have a material adverse effect on the Company.
+
+The Compensation Committee also monitors, through a separate validation and back-testing process, a review of select Covered Employees incentive compensation awards, prior to payout, and as approved by the CRO, to validate the Company’s approach to incentive compensation does not promote excessive risk taking.
+
+In addition, and at the direction of the CRO, the Company completes an annual Cumulative Risk Review for Covered Employees that covers a total of three years and coincides with the Company’s annual LTI-award vest date. It is designed to assess whether any Covered Employee engaged in any willful or reckless violations of the Company’s policies. If any such violation or breach is found, the Company may determine that all or a portion of the employee’s current year awards will be forfeited. To accomplish the Cumulative Review, the Company leverages the results of previously conducted Risk Reviews. Risk Reviews are conducted quarterly to examine the Company’s high-risk events for potential excessive or imprudent risk taking and include the evaluation of items such as regulatory and internal audit findings, and Issues rated Critical and High. After evaluation of the data, and prior to current year incentive compensation payouts, the Cumulative Risk Review is compiled and reviewed by the CRO who then certifies whether outstanding LTI awards should vest without adjustment. The CRO’s performance during the period is reviewed by the Risk Oversight Committee.
+
+The processes described above assist in evaluating the Company’s compliance with the Interagency Guidance on Sound Incentive Compensation Policies issued by the Federal Reserve Board and other bank regulators in 2010, and any updates thereto that may be issued from time to time.
+
+The Company reviewed its compensation plans and programs in 2024 and determined that they are not designed to, nor do they create an incentive to, engage in excessive or imprudent risk-taking, nor are they reasonably likely to have a material adverse effect on the Company. Our employees’ base salaries are fixed in amount and thus we do not believe that they encourage excessive risk-taking. A significant portion of the compensation provided to our employees is in the form of long-term equity-based incentives that we believe are important to help align our employees’ interests with those of our stockholders. We do not believe that these equity-based incentives encourage unnecessary or excessive risk taking because their ultimate value is tied to our stock price.
+
+-16-
+
+Table of Contents
+
+Other Arrangements, Policies and Practices Related to Our Executive Compensation Program
+
+Share Ownership Guidelines
+
+The Company maintains Share Ownership Guidelines for NEOs and other senior executives. The guidelines require that the multiples set forth below of annual base salary be held in shares of Company Common Stock at the close of each year. The guidelines are reviewed annually by the Compensation Committee.
+
+The guidelines provide that required ownership levels must be attained within five years of appointment (or the inception or modification date of the guidelines, if later). To monitor progress toward meeting the guidelines, the Compensation Committee reviewed current executive ownership levels at its October 2024 meeting, ahead of year-end executive compensation decisions. If a NEO or other senior executive is not on schedule to meet the guidelines, the Compensation Committee may award the executive compensation in the form of Common Stock that would have otherwise been awarded as cash bonus year-end compensation.
+
+As of December 31, 2024, using the 10-day average closing stock price ending prior to December 31, 2024, the following multiples of base salary were held in shares of Company Common Stock by each of our NEOs:
+
+[TABLE]
+Named executive officer (1) | Required multiple | Actual multiple | Shares counted toward ownership targets include actual Common Stock held, including stock held in “street” accounts, and unvested RSUs. Unearned PSUs do not count towards ownership targets.
+John T. Greene | 3X | 16X
+Daniel P. Capozzi | 3X | 21X
+Jason J. Strle | 3X | 6X
+Keith E. Toney | 3X | 17X
+[/TABLE]
+
+(1) Excludes Mr. Rhodes, who terminated employment prior to December 31, 2024. In their role as Interim CEO and President, Messrs. Shepherd and Owen are not subject to the Share Ownership Guidelines for NEOs. As members of the Board, they are subject to the director stock ownership guidelines, of which they were in compliance at the end of 2024.
+
+Clawbacks
+
+In 2023, the Compensation Committee adopted the Discover Compensation Recoupment Policy (the “Recoupment Policy”), effective as of October 2, 2023. In accordance with the SEC’s clawback rules under the Dodd-Frank Act and the NYSE listing standards (“NYSE Rules”), the Recoupment Policy requires the Company to recoup or “clawback” incentive-based compensation (including certain STI and LTI compensation) from senior executives, including our NEOs, in the event the Company is required to prepare an accounting restatement due to material noncompliance with any financial reporting requirement under the federal securities laws. If the Compensation Committee determines that the incentive-based compensation received by a senior executive exceeds the amount of incentive-based compensation that otherwise would have been received had it been calculated based on the restated amounts, the excess incentive-based compensation will be recouped or clawed back. A copy of the Compensation Recoupment Policy is included as Exhibit 97 to our Original Report.
+
+Additionally, the NEOs are subject to our broader Incentive Compensation Clawback Policy which allows the Company to recover incentive-based compensation from both current and former employees who engage in “misconduct” as defined in the policy. Lastly, our equity awards include clawback provisions that allow for the recovery of LTI awards under certain circumstances, such as the violation of non-competition or non-solicitation covenants or breaches obligations to the Company under any confidentiality, intellectual property, or other restrictive covenant.
+
+Recovery of Erroneously Awarded Compensation
+
+On December 23, 2024, the Company filed Amendment No. 1 to its Annual Report on Form 10-K/A for the year ended December 31, 2023 (the “2023 10-K/A”), indicating that the financial statements included in the 2023 10-K/A reflected the corrections of errors to previously issued financial statements, and that the error corrections required a recovery analysis under the Recoupment Policy.
+
+-17-
+
+Table of Contents
+
+As disclosed and discussed in detail in the 2023 10-K/A, the error corrections made in the 2023 10-K/A related to the Company’s previously issued financial statements included in the Company’s original Annual Report on Form 10-K for the year ended December 31, 2023, and the Company’s unaudited condensed consolidated financial statements included in the Quarterly Reports on Form 10-Q for the quarterly periods within that year, which were restated in the 2023 10-K/A. The Audit Committee of the Board determined on November 25, 2024 that such financial statements would need to be restated.
+
+In accordance with SEC and NYSE Rules, the Recoupment Policy applies to incentive-based compensation received on or after October 2, 2023. Accordingly, any incentive-based compensation received prior to that date is not subject to recovery under the Recoupment Policy. The Company performed a comprehensive analysis of the impact of the restatement on incentive-based compensation received by its officers (as defined in Rule 16a-1(f) under the Exchange Act) covered by the Recoupment Policy for 2023, which included Messrs. Greene, Capozzi, Strle, and Toney, two former executives and two additional current executives (collectively, the “Covered Officers”), and whether recovery of such incentive-based compensation was required under the Recoupment Policy.
+
+Based on the Company’s review of incentive-based compensation received by the Covered Officers on or after October 2, 2023, the Company determined that the restatement resulted in lower 2023 PBTR, which is the financial reporting measure that was used to calculate 2023 STI. As a result, a portion of 2023 STI received by each of the Covered Officers was erroneously awarded and subject to recovery under the Recoupment Policy.
+
+The erroneously awarded compensation pursuant to the 2023 STI was paid to the Covered Officers in cash, net of tax withholding, on February 15, 2024. The Compensation Committee determined in January 2025 to recover the full gross amount of such erroneously awarded compensation from the Covered Officers in accordance with the Recoupment Policy.
+
+Prohibition on Hedging and Pledging
+
+Under Company policy, directors and members of the Executive Management Committee who are subject to the requirements of Section 16 of the Exchange Act (which include all our executive officers) are prohibited from hedging Company securities, holding Company securities in a margin account, or otherwise pledging Company securities, including as collateral for a loan.
+
+Report of the Compensation and Human Capital Committee
+
+The Compensation Committee on behalf of the Board of Directors establishes the compensation program for the CEO and other NEOs. The Compensation Committee has reviewed and discussed the foregoing CD&A with management, and based on such review and discussion, the Compensation Committee recommended to the Board of Directors that the CD&A be included in the Company’s Form 10-K/A.
+
+Submitted by the Compensation Committee of the Board of Directors:
+
+Daniela O’Leary-Gill (Chair)
+
+Thomas G. Maheras
+
+Jennifer L. Wong
+
+-18-
+
+Table of Contents
+
+2024 Executive Compensation Tables
+
+2024 Summary Compensation Table
+
+The following table contains information regarding the components of total compensation of the NEOs for the Company’s year ended December 31, 2024, and to the extent required by SEC executive compensation disclosure rules, the years ended December 31, 2023 and 2022. The information included in this table reflects compensation earned by the NEOs for services rendered to the Company during the respective period. Please refer to the “Compensation Discussion and Analysis” section above and in our prior proxy statements for additional information regarding the amounts listed in the table.
+
+[TABLE]
+Executive | Year | Salary (1) ($) | Bonus (2) ($) | Stock awards (3) ($) | Non-equity incentive plan compensation (4) ($) | Change in pension value and NQDC earnings (5) ($) | All other compensation (6) ($) | Total ($) |  |
+J. Michael Shepherd (7) | 2024 | 913,462 |  | 1,500,000 |  | 5,750,035 |  | — |  | — |  | 204,809 |  | 8,368,306 |  |  |
+Interim CEO and |  |  |  |  |  |  |  |  |  |
+President |  |  |  |  |  |  |  |  |  |
+John T. Greene | 2024 | 735,000 |  | — |  | 4,240,054 |  | 1,737,871 |  | — |  | 55,877 |  | 6,768,802 |  |  |
+EVP, Chief Financial | 2023 | 730,962 |  | — |  | 2,756,430 |  | 550,103 |  | — |  | 47,833 |  | 4,085,328 |  |  |
+Officer | 2022 | 700,000 |  | — |  | 2,275,211 |  | 1,507,275 |  | — |  | 45,790 |  | 4,528,276 |  |  |
+Daniel P. Capozzi | 2024 | 735,000 |  | — |  | 2,940,028 |  | 1,737,871 |  | — |  | 76,526 |  | 5,489,425 |  |  |
+EVP, President - | 2023 | 730,962 |  |  | 2,756,430 |  | 145,166 |  | 1,101 |  | 37,341 |  | 3,671,000 |  |  |
+Consumer Banking | 2022 | 700,000 |  | — |  | 2,575,068 |  | 1,575,788 |  | — |  | 41,169 |  | 4,892,025 |  |  |
+Jason J. Strle | 2024 | 650,000 |  | — |  | 2,145,053 |  | 1,280,744 |  | — |  | 40,016 |  | 4,115,813 |  |  |
+EVP, Chief |  |  |  |  |  |  |  |  |  |
+Information Officer |  |  |  |  |  |  |  |  |  |
+Keith E. Toney (7) | 2024 | 650,000 |  | — |  | 2,178,089 |  | 1,187,599 |  | — |  | 35,515 |  | 4,051,203 |  |  |
+EVP, President - Credit | 2023 | 618,269 |  | — |  | 2,450,313 |  | 471,072 |  | — |  | 32,991 |  | 3,572,645 |  |  |
+& Decision Management |  |  |  |  |  |  |  |  |  |
+John B. Owen | 2024 | 102,308 |  |  | 1,790,135 |  | — |  | — |  | 299,631 |  | 2,192,074 |  |  |
+Former Interim CEO and | 2023 | 343,462 |  | 500,000 |  | 670,011 |  |  | — |  | 675,178 |  | 2,188,651 |  |  |
+President |  |  |  |  |  |  |  |  |  |
+Michael Rhodes* | 2024 | 200,000 |  | 843,500 |  | 12,035,693 |  | — |  | — |  | 87,300 |  | 13,166,493 |  |  |
+Former CEO and |  |  |  |  |  |  |  |  |  |
+President |  |  |  |  |  |  |  |  |  |
+[/TABLE]
+
+* On March 26, 2024, Mr. Rhodes resigned from his position as CEO and President of the Company and as director both effective April 1, 2024. Of the $13,166,493 reported as compensation for 2024 for Mr. Rhodes, (i) $12,035,693 of RSU awards (comprised of (a) his make-whole RSU award of $5,035,599 as part of his employment offer, and (b) his annual grant of $7,000,094) granted during February 2024 was forfeited upon his termination date of April 12, 2024 and (ii) both cash awards worth a total $843,500 (make-whole cash award of $93,500 and his cash transition award of $750,000) were repaid pursuant to his Letter Agreement.
+
+(1) Represents the base salary paid to each NEO.
+
+(2) Represents one-time bonuses paid. Bonus amounts to Messrs. Shepherd and Owen were in recognition of their service as Interim CEO and President.
+
+(3) Represents the aggregate grant date fair value of RSU awards granted to the NEOs pursuant to Financial Accounting Standards Board Accounting Standards Codification Topic 718, Stock Compensation (“FASB ASC Topic 718”). Additional details on accounting for stock-based compensation can be found in Note 2: “Summary of Significant Accounting Policies — Stock-based Compensation” and Note 10: “Stock-Based Compensation Plans” of our consolidated financial statements in our Original Report.
+
+Mr. Shepherd’s 2024 award represents the full value of his one-time RSU award granted in April 2024.
+
+Mr. Greene’s 2024 award includes a one-time retention RSU award.
+
+Mr. Owen’s 2024 awards include his one-time RSU award in recognition of his service as Interim CEO and President, and his annual equity retainer granted while serving as a non-employee member of the Board.
+
+Please see “How and Why Compensation Decisions Are Made - Long-Term Equity Incentives” for further details on our LTI program.
+
+-19-
+
+Table of Contents
+
+(4) Represents the annual cash STI earned for the year and generally paid to the NEOs within the first two and a half months of the following year if employed on the payment date. Messrs. Shepherd and Owen were not eligible for the annual cash STI under the terms of their respective agreements as Interim CEO and President. For Messrs. Greene, Capozzi, Strle, and Toney, a portion of each of their 2024 annual cash STI that would ordinarily have been paid in February 2025 was paid in December 2024, as detailed above under “280G Mitigation Actions.” As discussed under “Recovery of Erroneously Awarded Compensation” above, amounts reported in this column for 2023 include erroneously awarded 2023 STI amounts that the Company is recovering from the NEOs pursuant to the Recoupment Policy, which includes the following amounts subject to recovery from each of our NEOs who were Covered Officers during the restatement period: Mr. Greene: $32,545, Mr. Capozzi: $8,588, and Mr. Toney, $27,870.
+
+(5) Represents the actuarial increase during the year in the pension value, primarily due to the change in the Discover Pension Plan discount rate and mortality tables. The only NEO eligible to participate in the Discover Pension Plan is Mr. Capozzi, and his change in pension value in 2024 resulted in a negative amount of $893. Under SEC rules, this negative value is shown as zero in the Summary Compensation Table for 2024. For additional information on the Discover Pension Plan, see Note 11: “Employee Benefit Plans” in our Original Report. A description of the Company’s pension benefits is provided under “2024 Pension Benefits.” There were no above market non-qualified deferred compensation earnings for the NEOs.
+
+(6) Represents all other compensation attributable to the NEOs, including the incremental cost to the Company of providing certain perquisites and other personal benefits. For 2024, these amounts include:
+
+[TABLE]
+Executive | 401(k) contributions (a) ($) | Air travel (b) ($) | Relocation (c) ($) | Director fees (d) ($) | Auto (e) ($) | PTO payout (f) ($) | Tax Gross-Up (g) ($) | Other (h) ($) | Total ($)
+J. Michael Shepherd | 17,250 |  | — |  | 49,762 |  | 36,250 |  | 49,364 |  | — |  | 45,671 |  | 6,512 |  | 204,809 |
+John T. Greene | 27,150 |  | — |  | — |  | — |  | — |  | — |  |  | 28,727 |  | 55,877 |
+Daniel P. Capozzi | 27,150 |  | 16,886 |  | — |  | — |  | — |  | — |  |  | 32,490 |  | 76,526 |
+Jason J. Strle | 28,301 |  | — |  | — |  | — |  | — |  | — |  |  | 11,715 |  | 40,016 |
+Keith E. Toney | 27,150 |  | — |  | — |  | — |  | — |  | — |  |  | 8,365 |  | 35,515 |
+John B. Owen | 9,900 |  | 71,091 |  | 13,087 |  | 151,917 |  | — |  | 36,538 |  | 5,368 |  | 11,730 |  | 299,631 |
+Michael Rhodes | 10,577 |  | — |  | 31,784 |  | — |  | 10,576 |  | 19,231 |  | 13,110 |  | 2,022 |  | 87,300 |
+[/TABLE]
+
+(a) Represents the Company’s contributions to the Discover 401(k) Plan for each NEO during each calendar year. All NEOs received Company contributions to the Discover 401(k) Plan consistent with the terms of the Plan applicable to eligible U.S. employees. For Messrs. Owen and Rhodes, their Company contributions were forfeited due to not meeting the time-based vesting requirements.
+
+(b) The amounts disclosed include the incremental costs to the Company and represents the amount accrued for payment or paid directly to the third-party vendor from which the Company leases corporate aircraft for personal travel in 2024. The Company did not reimburse or “gross up” Mr. Owen or Mr. Capozzi for the taxes associated with the personal use of the chartered aircraft.
+
+(c) Represents amounts paid to or on behalf of NEOs.
+
+Mr. Shepherd’s expenses are related to his temporary housing near Discover’s corporate headquarters in Riverwoods, IL, while serving as Interim CEO and President, inclusive of: (i) temporary accommodations, $48,804 and (ii) administrative fees, $958. Mr. Owen’s expenses are related to his temporary housing near Discover’s corporate headquarters in Riverwoods, IL, while serving as Interim CEO and President, inclusive of: (i) temporary accommodations, $12,952, and (ii) administrative fees, $135.
+
+Mr. Rhodes’ expenses are related to his temporary housing near Discover’s corporate headquarters in Riverwoods, IL, while serving as CEO and President, inclusive of: (i) temporary accommodations, $29,838, and (ii) administrative fees, $1,946.
+
+(d) Represents retainer amounts received while serving as non-employee members of the Board.
+
+(e) Mr. Shepherd’s offer letter includes access to a leased vehicle for business and personal use while serving as Interim CEO and President. The amount includes the cost to the Company of $49,364.
+
+(f) For Messrs. Owen and Rhodes, represents the payout received of all accrued but unused paid time off as of their termination dates.
+
+(g) Represents for Mr. Shepherd a tax gross up to pay for the taxes for the personal use of the Company provided leased vehicle, and for Messrs Shepherd, Owen and Rhodes a tax gross-up to pay for the taxes for expenses related to temporary housing near Discover’s corporate headquarters.
+
+(h) Includes the incremental cost to Discover for personal security assessment and additional personal security services to each NEO, access and use of the Company’s Executive Fitness Center, estimated resale value of Company tickets for sporting, cultural, or other events for personal use when they are not otherwise used for business purposes, and stipends for home internet and personal phone expenses that employees may incur while working remotely.
+
+Additionally, includes contributions made by the Company to charitable organizations chosen by each NEO, as well as contributions made on behalf of certain NEOs under our charitable contribution matching programs, under which personal contributions meeting the guidelines of our program are eligible for Company matching contributions (exceeding the amount generally available to the broader employee population).
+
+-20-
+
+Table of Contents
+
+(7) Messrs. Shepherd and Rhodes joined the Company in 2024 and were not NEOs during 2022 or 2023; Mr. Strle joined the Company in 2023 and was not an NEO during 2022 or 2023; Messrs. Toney and Owen were not NEOs during 2022.
+
+Grants of Plan-Based Awards for 2024
+
+The following table includes the 2024 target STI opportunities, and the LTI awards in the form of RSUs made to NEOs in the year ending December 31, 2024. For more information regarding these grants, see the discussion in the “Compensation Discussion and Analysis” (beginning on page 7 ). As stated above, as required under the terms of the Merger Agreement, no PSU LTI awards were granted in 2024. In accordance with the rules promulgated by the SEC, certain columns relating to information that is not applicable have been omitted from this table.
+
+[TABLE]
+Name | Grant date | Date of Compensation Committee/Board Approval | Estimated future payouts under non-equity incentive plan awards (1) |  | All other stock awards: number of shares of stock or units (2) (#) | Grant date fair value of stock and option awards (3) ($)
+Threshold ($) | Target ($) | Maximum ($) |
+J. Michael Shepherd (4) | 4/1/2024 | 3/26/2024 | — | — | — |  | 44,443 |  | 5,750,035 |
+— |  |  |  |  |  |  |  | — |
+John T. Greene |  |  | 485,100 |  | 1,102,500 |  | 1,918,350 |  |  |  |
+2/22/2024 | 1/25/2024 |  |  |  |  | 9,051 |  | 1,000,045 |
+2/22/2024 | 2/21/2024 |  |  |  |  | 29,324 |  | 3,240,009 |
+Daniel P. Capozzi |  |  | 485,100 |  | 1,102,500 |  | 1,918,350 |  |  |  |
+2/22/2024 | 2/21/2024 |  |  |  |  | 26,609 |  | 2,940,028 |
+Jason J. Strle |  |  | 357,500 |  | 812,500 |  | 1,413,750 |  |  |  |
+2/22/2024 | 2/21/2024 |  |  |  |  | 19,414 |  | 2,145,053 |
+Keith E. Toney |  |  | 429,000 |  | 975,000 |  | 1,696,500 |  |  |  |
+2/22/2024 | 2/21/2024 |  |  |  |  | 19,713 |  | 2,178,089 |
+John B. Owen (4) |  |  | — |  | — |  | — |  |  |  |
+1/31/2024 | 1/25/2024 |  |  |  |  | 15,164 |  | 1,600,105 |
+5/9/2024 | 5/9/2024 |  |  |  |  | 1,532 |  | 190,029 |
+Michael Rhodes (5) |  |  | 880,000 |  | 2,000,000 |  | 3,480,000 |  |  |  |
+2/1/2024 | 12/7/2023 |  |  |  |  | 47,256 |  | 5,035,599 |
+2/22/2024 | 2/21/2024 |  |  |  |  | 63,355 |  | 7,000,094 |
+[/TABLE]
+
+(1) Represents potential payout under the annual STI program. Awards can range from 55% to 145% of target, primarily based on annual Company PBTR performance with results subject to a 1.5x bonus multiplier for NEOs, and the discretion to recognize individual performance through the use of an individual performance modifier of +/- 20%, which when applied can result in a STI award range from 44% of target to a maximum payout of 174%. The numbers presented are guides, and the Committee has discretion to reduce awards to 0 or increase awards but not above maximum payout. The Compensation Committee also considers other Company-wide metrics as described in more detail under “How and Why Compensation Decisions Are Made — Short-Term Incentive Compensation.” Actual payout amounts for 2024 are included in the “Non-equity incentive plan compensation” column of the “2024 Summary Compensation Table.”
+
+(2) In certain instances of a termination of the NEO’s employment prior to the scheduled vesting date, including due to (i) involuntary termination such as a reduction in force or elimination of the executive’s position, provided that a fully-executed irrevocable release agreement is executed and subject to a risk review or (ii) the executive’s eligible retirement, in which a pro-rata portion of the RSUs will vest and convert to shares. Vesting of these RSUs will be accelerated in the event of termination of the executive’s employment due to (i) a change in control or (ii) the executive’s death or disability. Unvested RSUs will be canceled in the event of a termination of employment for any other reason.
+
+(3) Represents the aggregate grant date fair value of the awards pursuant to FASB ASC Topic 718. Additional details on accounting for stock-based compensation can be found in Note 2: “Summary of Significant Accounting Policies - Stock-based Compensation” and Note 10: “Stock-Based Compensation Plans” of our consolidated financial statements contained in the Original Report.
+
+(4) Messrs. Shepherd and Owen were not eligible for any non-equity incentive plan awards under the terms of their respective offer letters.
+
+Mr. Shepherd’s RSU award granted on April 1, 2024, represents his award as a component of compensation as Interim CEO.
+
+-21-
+
+Table of Contents
+
+Mr. Owen’s equity award granted on January 31, 2024, represents his one-time RSU as Interim CEO. His equity award granted on May 9, 2024, represents his annual equity retainer received while serving as a member of the Board.
+
+(5) Mr. Rhodes’ 2024 non-equity incentive plans awards and equity incentive plans awards were forfeited as part of his resignation that was announced in April 2024.
+
+Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table
+
+The Company’s executive compensation policies and practices, pursuant to which the compensation set forth in the Summary Compensation Table and the Grants of Plan-Based Awards Table was paid or awarded, are described above under “Compensation Discussion and Analysis.”
+
+Outstanding Equity Awards at 2024 Year-End
+
+The following table provides information regarding outstanding stock awards held by each of the NEOs as of December 31, 2024. As of December 31, 2024, none of our NEOs held outstanding stock options. As described above under “Compensation Discussion and Analysis - 280G Mitigation Actions,” the amounts in the table below do not include the acceleration of certain RSUs and PSUs on December 19, 2024 that would have otherwise been outstanding as of December 31, 2024, for Messrs. Greene, Capozzi, Strle, and Toney. The table below excludes Mr. Rhodes as his unvested equity awards were forfeited as of April 12, 2024, his last day worked.
+
+[TABLE]
+ | Stock awards (1)
+ | Number of shares or units that have not vested (#) |  | Market value of shares or units that have not vested ($) | Equity incentive plan awards: number of unearned shares or units that have not vested (#) |  | Equity incentive plan awards: market or payout value of unearned shares or units that have not vested ($)
+J. Michael Shepherd | 44,443 | (3) | 7,698,861 |  |  |  |
+John T. Greene | 2,446 | (2) | 423,721 |  |  |  |
+6,640 | (4) | 1,150,247 |  | 14,940 |  | (10) | 2,588,056 |
+4,525 | (5) | 783,866 |  |  |  |
+19,548 | (6) | 3,386,300 |  |  |  |
+Daniel P. Capozzi | 2,768 | (2) | 479,501 |  |  |  |
+6,640 | (4) | 1,150,247 |  | 14,940 |  | (10) | 2,588,056 |
+17,738 | (6) | 3,072,754 |  |  |  |
+Jason J. Strle | 3,287 | (7) | 569,407 |  |  |  |
+12,942 | (6) | 2,241,943 |  |  |  |
+Keith E. Toney | 1,707 | (2) | 295,704 |  |  |  |
+4,698 | (4) | 813,835 |  | 10,570 |  | (10) | 1,831,041 |
+2,822 | (8) | 488,855 |  |  |  |
+13,142 | (6) | 2,276,589 |  |  |  |
+John B. Owen | 1,532 | (9) | 265,388 |  |  |  |
+[/TABLE]
+
+(1) All equity award values are based on a December 31, 2024 closing stock price of $173.23 per share of our Common Stock. RSUs include the right to receive dividend equivalents in the same amount and at the same time as dividends are paid to all Company common shareholders. PSUs include the right to receive dividend equivalents, which will accumulate and pay out in cash, if and when the underlying shares are released to the NEOs.
+
+(2) These RSUs vested and converted to shares of Common Stock on February 1, 2025.
+
+(3) These RSUs will vest and be settled on the first to occur of either (1) the completion of the Merger, or (2) the one year anniversary of the grant date.
+
+(4) These RSUs vested or are expected to vest and convert to shares of Common Stock in equal installments on February 1, 2025 and 2026.
+
+(5) These RSUs are expected to vest and convert to shares of Common stock on February 1, 2027. The first tranche was scheduled to vest on the later of (a) the date on which the Discover Student Loan portfolio is sold, or (b) the date on which the servicing of such loans has been successfully transferred to a third-party provider.
+
+(6) These RSUs are expected to vest and convert to shares of Common Stock in equal installments on February 1, 2026, and 2027.
+
+(7) These RSUs are expected to vest and convert to shares of Common Stock on August 1, 2025.
+
+(8) These RSUs are expected to vest and convert to shares of Common Stock in equal installments on August 1, 2025 and 2026.
+
+-22-
+
+Table of Contents
+
+(9) These RSUs are expected to vest and convert to shares of Common Stock on the earlier of either the one year anniversary of the grant date, May 9, 2025, or the day before the next annual shareholder meeting.
+
+(10) Assuming applicable performance conditions based on cumulative EPS and successful policy review are satisfied, PSUs will vest and convert to shares of Common Stock on February 1, 2026. As required under applicable SEC guidance, because cumulative performance to date did not exceed the target level, unvested PSUs are shown at the amounts corresponding to target. The final payout will be determined by the Compensation Committee in 2026 and may be less than amount shown.
+
+Stock Vested for 2024
+
+The following table provides information regarding the number of stock awards that vested and the subsequent value realized from the vesting of such stock awards during 2024. As described above under “Compensation Discussion and Analysis - 280G Mitigation Actions,” the amounts in the table below include the acceleration of certain RSUs and PSUs in December 2024 that would have otherwise vested and been paid in 2025 for Messrs. Greene, Capozzi, Strle, and Toney.
+
+[TABLE]
+ | Stock awards
+Name | Number of Shares Acquired on Vesting (#) | Value realized on vesting (1) ($)
+J. Michael Shepherd (2) | — |  | — |
+John T. Greene | 57,208 |  | 7,752,318 |
+Daniel P. Capozzi | 53,695 |  | 7,137,480 |
+Jason J. Strle | 9,759 |  | 1,543,106 |
+Keith E. Toney | 31,496 |  | 4,340,208 |
+John B. Owen (3) | 7,259 |  | 797,990 |
+Michael Rhodes | — |  | — |
+[/TABLE]
+
+(1) The amount shown represents the closing price of a share of our Common Stock on the scheduled vesting date multiplied by the number of RSUs and PSUs that vested.
+
+(2) Balance excludes 1,243 shares that were issued to Mr. Shepherd due to his service on the Board, and were deferred upon their vesting in 2024.
+
+(3) Balance includes shares withheld to satisfy the Medicare tax withholding obligation incurred in connection with his award immediately vesting on the grant date.
+
+2024 Pension Benefits
+
+The following table lists the amounts we estimate as the present value of accumulated benefits that the Discover Pension Plan will pay to Mr. Capozzi upon the normal retirement age of 65. Messrs. Shepherd, Greene, Strle, Toney, Owen and Rhodes are omitted from the table because they are not participants in the Discover Pension Plan as they were hired after it was frozen.
+
+[TABLE]
+Name | Plan name | Number of years of credited service (1) (#) | Present value of accumulated benefit (2)(3) ($)
+Daniel P. Capozzi | Discover Financial Services Pension Plan | 0.5833 | 10,822
+[/TABLE]
+
+(1) For actuarial valuation purposes, credited service is attributed through the measurement date of December 31, 2008, the date that the Discover Pension Plan was frozen.
+
+(2) Service credit and actuarial values are calculated as of December 31, 2024, the plan’s measurement date for the last year.
+
+(3) For additional information on the Discover Pension Plan, see Note 11: “Employee Benefit Plans” in our Original Report.
+
+Effective December 31, 2008, the Discover Pension Plan, a defined benefit pension plan, was frozen for all participants, although additional service will count towards vesting and retirement eligibility for any participant, including NEOs, in the Discover Pension Plan as of December 31, 2008.
+
+Accrued, frozen benefits under the Discover Pension Plan are determined with reference to career-average pay limited to $170,000 per year, and for each calendar year of service prior to 2009 generally equal to: (i) 1% of the participant’s eligible annual pay; plus (ii) 0.5% of the participant’s eligible annual pay
+
+-23-
+
+Table of Contents
+
+that exceeded the participant’s Social Security covered compensation limit for that year. The estimated annual benefits payable under the Discover Pension Plan at the earliest age at which a participant may retire with an unreduced benefit (age 65) are set forth above. Early retirement terms under the Discover Pension Plan vary depending upon service dates. Mr. Capozzi is eligible for early retirement upon reaching age 55 with 10 years of service. In the event of early retirement, the accumulated benefit presented in the table above would be reduced under factors that vary based upon a participant’s age at the time of early retirement commencement.
+
+Non-Qualified Deferred Compensation Table
+
+The following table and footnotes provide information regarding our deferred compensation plans for our NEOs for 2024. We do not offer deferred compensation plans for our NEOs but do offer non-employee directors the opportunity to elect to defer (1) cash director fees and (2) settlement of all or a portion of their annual RSU grant until a separation from service as described below under "Director Compensation." In 2023, p rior to his employment with the Company as Interim CEO and President, Mr. Shepherd, a former non-employee director, elected to defer settlement of director fees and certain of his annual RSU grants with respect to his Board service, as further described below.
+
+Amounts have not been reported in the “2024 Summary Compensation Table” for 2023, but amounts relating to such equity and cash deferrals were reported in the in the Director Compensation table for 2023 as Mr. Shepherd was a non-employee director and not an NEO during such time. In addition, the aggregate earnings were not included in the “2024 Summary Compensation Table” for 2024 as they do not represent above-market or preferential earnings.
+
+[TABLE]
+Name | Plan Name | Executive Contributions in Last FY ($) | Registrant Contributions in Last FY ($) | Aggregate Earnings in Last FY ($) | Aggregate Withdrawals/Distributions (4) ($) | Aggregate Balance at Last FYE ($)
+J. Michael Shepherd | 2007 DFS Directors’ Compensation Plan (1) | — |  | — |  | 75,612 |  | 3,480 |  | 215,325 |
+ | Directors’ Voluntary Non-Qualified Deferred Compensation Plan (2) | 36,250 |  | — |  | 5,914 |  | — |  | 103,624 |
+John B. Owen | 2023 Omnibus Incentive Plan (3) | 1,535,316 |  | — |  | 985,181 |  | 40,740 |  | 2,520,497 |
+[/TABLE]
+
+(1) Represents 1,243 shares granted pursuant to Mr. Shepherd’s non-employee director RSU grant dated August 14, 2023, which vested as of May 8, 2024 and are deferred until 75 days post separation from service. The closing market price of shares of our common stock on the date of vesting was $123.57. The value of the total deferred vested shares is based on the December 31, 2024 closing stock price of $173.23 per share of our Common Stock.
+
+(2) Amount corresponds to the deferral of 2024 director fees paid in cash prior to Mr. Shepherd becoming Interim CEO and President.
+
+(3) Represents 14,550 shares granted pursuant to the Owen Deferred Equity Award described above. Excludes 614 shares which were withheld upon vesting to cover the tax obligation due. The closing market price of shares of our common stock on the date of vesting was $105.52. The value of the total deferred vested shares is based on the December 31, 2024 closing stock price of $173.23 per share of our Common Stock.
+
+(4) Amount represents payment of quarterly dividends paid by Discover when declared to Messrs. Shepherd and Owen in 2024.
+
+Potential Payments upon a Termination or Change in Control
+
+Change in Control Severance Policy
+
+The Company sponsors the Change-in-Control Severance Policy (as amended and restated in May 2024, the “CIC Policy”) that applies to members of our management including the NEOs who are currently employed, except for Mr. Shepherd.
+
+If any eligible NEO is involuntarily terminated, other than for cause (as defined in the CIC Policy), or voluntarily terminates for good reason (as defined in the Policy), or has a termination of employment due to death or disability (as defined in the CIC Policy), within six months prior to or two years following the
+
+-24-
+
+Table of Contents
+
+occurrence of a change in control (as defined in the CIC Policy), upon the Company’s timely receipt of a fully-executed release in a form satisfactory to the Company, such NEO would be entitled to receive:
+
+• A lump sum cash payment equal to 1.5 multiplied by the sum of (i) the NEO’s Base Salary and (ii) the average cash bonus paid to the NEO with respect to the three (3) immediately preceding years, or if lesser, the number of years the NEO has be en employed by the Company, pursuant to the Company’s incentive compensation plans;
+
+• A lump sum cash payment equal to the prorated target cash bonus under the Company’s incentive compensation plans for the year of termination, or if no target was established for the year of termination, the annual cash bonus for the prior year;
+
+• Full vesting of all equity-based awards granted to the NEO under the Company’s incentive compensation plans as of the later of the effective date of the change in control or the date of the NEO’s termination (unless accelerated vesting in the event of a change in control is otherwise prohibited under the applicable award agreements);
+
+• Outplacement services for a period of two years at the Company’s expense with a firm selected by the Company; and
+
+• If the NEO elects continued group health coverage under COBRA, a lump sum cash payment equal to the difference between COBRA premiums (for medical, dental and vision) and the active employee premiums for 24 months.
+
+Any NEO eligible for change in control benefits described above will be given the opportunity to enter into a non-competition agreement with the Company to refrain from competitive activity (as defined under the non-competition agreement) for 18 months, and if he enters into the non-competition agreement, he or she would be entitled to receive a salary continuation payment equal to 1.5 multiplied by the sum of (i) the NEO’s Base Salary and (ii) the greater of (x) the NEO’s target cash bonus under the Company’s incentive compensation plans (or, if no target cash bonus has been established for such executive, the cash bonus amount determined for the year in which the termination date occurs and (y) the average cash bonus paid to the NEO with respect to the three (3) immediately preceding years, or if lesser, the number of years the executive has been employed by the Company, pursuant to the Company’s incentive compensation plans.
+
+If benefits payable under the Policy together with other Company benefits payable to the NEO would subject the NEO to an excise tax under Sections 280G and 4999 of the Internal Revenue Code, the benefits payable under the Policy will be reduced to the extent necessary to prevent any portion of the benefits from becoming nondeductible by the Company or subject to the excise tax, but only if, by reason of that reduction, the net after-tax benefit received by the NEO exceeds the net after-tax benefit the NEO would receive if no reduction was made. No excise tax gross-ups are provided for any employees.
+
+Severance Plan
+
+The Company sponsors a broad-based welfare benefits plan that provides severance benefits to eligible employees, including the NEOs, who are involuntarily terminated in certain situations such as the closure of an office or facility, the elimination of a position, or a workforce reduction, or similar event described in the Severance Plan . The Severance Plan does not pay benefits to an employee who receives benefits under the Change in Control Severance Policy .
+
+If any NEO experiences an eligible termination, as defined in the Severance Plan, upon Discover’s timely receipt of a fully-executed release in a form satisfactory to Discover, such NEO would be entitled to receive:
+
+• A lump sum cash payment of 12 months of his or her annual base salary plus target annual cash bonus;
+
+• A lump sum cash payment equal to the prorated target annual cash bonus under the Company’s incentive compensation plan for the year of termination and any prior year (to the extent earned and not yet paid);
+
+• A pro-rata portion of any PSUs will vest and convert to shares following the conclusion of the performance and vesting periods based on actual performance and a pro-rata portion of any RSUs will vest and convert to shares;
+
+• Outplacement services for a period of one year at the Company’s expense with a firm selected by the Company; and
+
+-25-
+
+Table of Contents
+
+• A lump sum cash payment equal to 12 months of the applicable premium for group health plan coverage (for medical, dental, and vision) in place prior to termination of employment, plus a payment for income taxes on such amount.
+
+2024 Potential Payments upon a Termination or Change in Control Table
+
+The following table sets forth the payments that certain NEOs would have received under various termination scenarios on December 31, 2024. With regard to the payments upon a change in control, the amounts detailed below assume the employment of each NEO who participates in the CIC Policy was terminated by the Company without “cause” or by the executive for “good reason” within the specified time period prior to or following the change in control. The table below assumes a stock price of $173.23, the closing price of a share of our Common Stock on December 31, 2024.
+
+The amounts described in the table do not reflect the terms of the Merger Agreement. For information regarding the amounts that could become payable to our NEOs if the Merger is completed, please see our merger-related Proxy Statement, dated January 6, 2025, as filed with the SEC.
+
+Pursuant to the terms of our stock plans and outstanding stock award agreements and subject to a risk review, the vesting of certain outstanding unvested stock awards is accelerated in whole or in part in the event of a termination of the NEO’s employment in connection with (i) a change in control; (ii) the NEO’s death, disability, or retirement; or (iii) an involuntary termination such as a reduction in force or elimination of the NEO’s position, provided that a fully-executed irrevocable release agreement is executed.
+
+Unvested RSUs and PSUs will be canceled in the event of a termination of employment for any other reason. NEOs who violate non-competition, non-solicitation, confidentiality, intellectual property, or other restrictive covenants within one year after a termination of employment will be required to pay to the Company the value of any RSUs and PSUs that vested on or after, or within one year prior to such termination.
+
+As of December 31, 2024, our NEOs were not eligible for retirement equity acceleration.
+
+Mr. Shepherd is not eligible for the CIC Policy or Severance Plan under the terms of his agreement as Interim CEO and President. Mr. Shepherd is only eligible for termination benefits upon his death or disability pursuant to the terms of his outstanding equity awards.
+
+Mr. Owen is excluded from the table as he was not an NEO as of December 31, 2024, and he did not receive any compensation or benefits (other than payout for accrued but unused paid time off) when he ceased serving as Interim CEO and President on January 31, 2024. Mr. Owen received $36,538 for his accrued and unused paid time off days as of his termination date.
+
+Mr. Rhodes is excluded from the table as he was not an NEO as of December 31, 2024, and he did not receive any compensation or benefits (other than payout for accrued but unused paid time off) in connection with his resignation. Mr. Rhodes received $19,231 for his accrued and unused paid time off days as of his termination date.
+
+-26-
+
+Table of Contents
+
+[TABLE]
+Executive payment elements | Termination in connection with a change in control (2) ($) |  | Involuntary termination without cause ($) | Death ($) | Disability ($) | Voluntary termination or involuntary termination with cause ($) | Retirement ($)
+J. Michael Shepherd |  |  |  |  |  |  |
+Salary and Other Cash Payments | n/a |  | — |  | 104,167 | — |  | — |  | n/a
+Target Annual Incentive Plan Payout (3) | n/a |  | — |  | — |  | — |  | — |  | n/a
+Equity Awards (4) | n/a |  | n/a | 7,914,186 | 7,914,186 | — |  | n/a
+Health Coverage (5) | n/a |  | n/a | — |  | — |  | — |  | n/a
+Other (6) | n/a |  | n/a | — |  | — |  | — |  | n/a
+Total | — |  |  | — |  | 8,018,353 | 7,914,186 | — |  | — |
+John T. Greene |  |  |  |  |  |  |
+Salary and Other Cash Payments | 5,784,878 |  | (1) | 1,837,500 |  | 61,250 |  | — |  | — |  | n/a
+Target Annual Incentive Plan Payout (3) | — |  |  | — |  | — |  | — |  | — |  | n/a
+Equity Awards (3)(4) | 8,414,360 |  |  | 8,414,360 |  | 8,414,360 |  | 8,414,360 |  | — |  | n/a
+Health Coverage (5) | 43,325 |  |  | 44,429 |  | — |  | — |  | — |  | n/a
+Other (6) | 9,259 |  |  | 9,259 |  | — |  | — |  | — |  | n/a
+Total | 14,251,822 |  |  | 10,305,548 |  | 8,475,610 |  | 8,414,360 |  | — |  | n/a
+Daniel P. Capozzi |  |  |  |  |  |  |
+Salary and Other Cash Payments | 5,512,500 |  | (1) | 1,837,500 |  | 61,250 |  | — |  | — |  | n/a
+Target Annual Incentive Plan Payout (3) | — |  |  | — |  | — |  | — |  | — |  | n/a
+Equity Awards (3)(4) | 7,372,728 |  |  | 7,372,728 |  | 7,372,728 |  | 7,372,728 |  | — |  | n/a
+Health Coverage (5) | 44,613 |  |  | 40,833 |  | — |  | — |  | — |  | n/a
+Other (6) | 9,259 |  |  | 9,259 |  | — |  | — |  | — |  | n/a
+Total | 12,939,100 |  |  | 9,260,320 |  | 7,433,978 |  | 7,372,728 |  | — |  | n/a
+Jason J. Strle |  |  |  |  |  |  |
+Salary and Other Cash Payments | 4,387,500 |  | (1) | 1,462,500 |  | 54,167 |  | — |  | — |  | n/a
+Target Annual Incentive Plan Payout (3) | — |  |  | — |  | — |  | — |  | — |  | n/a
+Equity Awards (3)(4) | 2,811,350 |  |  | 2,811,350 |  | 2,811,350 |  | 2,811,350 |  | — |  | n/a
+Health Coverage (5) | 43,325 |  |  | 44,429 |  | — |  | — |  | — |  | n/a
+Other (6) | 9,259 |  |  | 9,259 |  | — |  | — |  | — |  | n/a
+Total | 7,251,434 |  |  | 4,327,538 |  | 2,865,517 |  | 2,811,350 |  | — |  | n/a
+Keith E. Toney |  |  |  |  |  |  |
+Salary and Other Cash Payments | 4,875,000 |  | (1) | 1,625,000 |  | 54,167 |  | — |  | — |  | n/a
+Target Annual Incentive Plan Payout (3) | — |  |  | — |  | — |  | — |  | — |  | n/a
+Equity Awards (3)(4) | 5,764,158 |  |  | 5,764,158 |  | 5,764,158 |  | 5,764,158 |  | — |  | n/a
+Health Coverage (5) | 28,748 |  |  | 27,526 |  | — |  | — |  | — |  | n/a
+Other (6) | 9,259 |  |  | 9,259 |  | — |  | — |  | — |  | n/a
+Total | 10,677,165 |  |  | 7,425,943 |  | 5,818,325 |  | 5,764,158 |  | — |  | n/a
+[/TABLE]
+
+(1) Includes change in control severance (bonus component calculated as the greater of target or average bonus, in accordance with the CIC Policy, as amended in connection with the Merger and described above) plus consideration for entering into a non-competition agreement.
+
+(2) Payments made in the event of a qualified termination following a change in control of the Company that would qualify as “parachute payments” under Sections 280G and 4999 of the Internal Revenue Code may be subject to a reduction, referred to here as the Section 280G “net better of,” to the extent that they are deductible under that section, provided that the after-tax benefit (inclusive of any applicable excise tax) is greater than that which the executive would have received if no reduction was made. Any amounts shown above to be paid in connection with
+
+-27-
+
+Table of Contents
+
+a change in control do not reflect any Section 280G “net better of” reduction that might be made in accordance with the terms of the CIC Policy.
+
+(3) As described above under “280G Mitigation Actions,” the 2024 annual incentive bonus, the first tranche of the 2024 RSUs, and 2022 PSU awards for Messrs. Greene, Capozzi, Strle, and Toney were already paid or settled as of December 31, 2024; therefore, no amounts are included for such pro-rata target bonus or equity acceleration of 2024 RSUs and 2022 PSUs.
+
+(4) Represents the intrinsic value of the accelerated RSUs, PSUs, and accrued PSU dividends, all as of December 31, 2024. For the PSUs, in the event of a change in control of the Company during the second or third year of the performance period, performance will be measured through the last day of the Company’s quarter preceding the change in control and the award will then be converted based on the greater of target or actual performance to cash and paid out according to the vesting schedule or sooner in the event of a qualified termination following the change in control event. RSUs and PSUs have double trigger acceleration provisions subject to a risk review. In certain instances of a termination of the NEO’s employment prior to the scheduled vesting date, including due to (i) involuntary termination such as a reduction in force or elimination of the executive’s position, provided that a fully-executed irrevocable release agreement is executed or (ii) the executive’s eligible retirement, a pro-rata portion of the PSUs will vest and convert to shares following the conclusion of the performance and vesting period based on actual performance and a pro-rata portion of the RSUs will vest and convert to shares. In the event of death or disability, the PSUs will vest and shares will convert and be paid at the end of the performance period based on actual performance achieved, and RSUs will vest and convert to shares. Since actual performance for the 2023 PSUs cannot be determined until the performance period concludes (which will occur on December 31, 2025), the figures shown reflect target Company performance.
+
+(5) For termination in connection with a change in control, a lump sum payment equal to the difference between COBRA (for medical, dental and vision) and active employee health and welfare premiums for 24 months. For involuntary termination without cause, a lump sum payment equal to 12 months of applicable premiums for COBRA (for medical, dental and vision) plus a payment for income taxes on such amount.
+
+(6) Includes value of expected outplacement benefits for a termination in connection with either a change in control or an involuntary termination without cause.
+
+2024 CEO Pay Ratio
+
+We identified a median employee as of December 31, 2022 (the “2022 Median Employee”) using the methodology described in our Definitive Proxy Statement on Schedule 14A filed with the SEC on March 17, 2023. SEC rules allow us to identify our median employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. In accordance with Item 402(u) of Regulation S-K, we concluded that there had been no change in our employee population or employee compensation arrangements that would significantly impact our pay ratio disclosure, such that, consistent with the SEC’s regulations, we could continue to use the 2022 Median Employee in calculating our CEO pay ratio for 2024.
+
+As required under and calculated in accordance with Item 402(u) of Regulation S-K, we have determined a reasonable estimate of the pay ratio of the annual total compensation to our CEOs, and the median of the annual total compensation of all Company employees for 2024 was 400:1. This ratio was calculated as described below by determining a total annual CEO compensation by taking into account the compensation received by Mr. Owen, Mr. Rhodes, and Mr. Shepherd for the time each served as CEO, of $23,300,794 compared to the annual total compensation of our median employee in 2024 of $58,226. The CEO Pay Ratio appears higher than in previous years as Mr. Rhodes received make-whole equity and cash awards upon hire as CEO in January 2024, which were one-time, special awards.
+
+For purposes of the CEO Pay Ratio, the 2024 CEO compensation is based on the aggregate annual total compensation as presented in the “2024 Summary Compensation Table” for Mr. Owen, Mr. Rhodes, and Mr. Shepherd, and adjusted for (i) Owen’s annual total compensation for the time period he served as Interim CEO (January 1, 2024 to January 31, 2024), and (ii) Mr. Rhodes’ annual total compensation for the time period he served as CEO (February 1, 2024 to March 31, 2024), and (iii) Mr. Shepherd’s annual total compensation for the time period he served as Interim CEO (April 1, 2024 to December 31, 2024) and subtracts (1) compensation Mr. Owen and Mr. Shepherd received as a member of the Board of Directors and (2) compensation Mr. Rhodes received as an advisor to the Interim CEO and President from April 1, 2024 through April 12, 2024.
+
+We believe our CEO pay ratio is a reasonable estimate calculated in a manner consistent with the SEC pay ratio rules and methods for disclosure. The SEC rules do not specify a single methodology in identifying the median employee and in calculating that person’s annual compensation. In addition, the SEC rules do not specify a single methodology in determining the total annual compensation of the CEO to be used in the pay ratio when a company had more than one person that served as CEO during the year.
+
+-28-
+
+Table of Contents
+
+Accordingly, the pay ratio reported by other companies may not be comparable to the Company’s pay ratio disclosed above.
+
+Accounting Restatements and Recovery Actions Under Clawback Policy
+
+Item 402(w) of Regulation S-K requires the Company to make certain disclosures in the event the Company is required to prepare an accounting restatement. On November 25, 2024, the Audit Committee of the Board concluded that the Company would prepare an accounting restatement that required recovery of erroneously awarded compensation pursuant to the Recoupment Policy. As described more fully above under “ Recovery of Erroneously Awarded Compensation,” such accounting restatement resulted in a lower 2023 PBTR and corresponding 2023 STI payout to the Covered Officers. The aggregate dollar amount of erroneously awarded compensation attributable to such accounting restatement is $155,886. As of December 31, 2024, such aggregate amount remained outstanding. No amount of erroneously awarded compensation has been outstanding for 180 days or more since the date the Company determined the amount owed by any Covered Officer.
+
+Option Awards and Material Nonpublic Information
+
+Item 402(x) of Regulation S-K (“Item 402(x)”) requires the Company to disclose certain policies and practices regarding options, stock appreciation rights and similar option-like awards, including how the Board takes material nonpublic information into account when determining the timing and terms of option awards. The Company does not issue options, stock appreciation rights and similar option-like awards as part of its compensation program. Therefore, the Company has no policies or practices to disclose under Item 402(x).
+
+Director Compensation
+
+Narrative Discussion of Director Compensation Table
+
+The following is a narrative discussion of the material factors which we believe are necessary to understand the information disclosed in the Director Compensation Table.
+
+Elements of Director Compensation
+
+In 2024, the Company paid non-employee directors through cash compensation, stock compensation, and reimbursements. Each of these is described below:
+
+Cash Compensation
+
+Each non-employee director receives the following cash compensation under the Directors’ Compensation Plan for service on our Board and each standing committee of our Board:
+
+• An annual retainer fee of $105,000;
+
+• An Independent Chairman annual retainer of $210,000;
+
+• A committee chair retainer fee of: (i) $45,000 each for the chair of the Audit Committee (ii) $40,000 for the chair of the Risk Oversight Committee; (ii) $30,000 for the chair of the Compensation Committee; and (iii) $25,000 for the chair of the NGPR Committee;
+
+• A non-chair committee membership fee of: (i) $20,000 for each member of each of the Audit Committee and Risk Oversight Committee; (ii) $15,000 for each member of the Compensation Committee; and (iii) $15,000 for each member of the NGPR Committee;
+
+• A per meeting fee once a specified number of Board or committee meetings have been surpassed in a given year; and
+
+• Each non-employee director may elect to defer receipt of his or her cash compensation under the Directors’ Voluntary Non-Qualified Deferred Compensation Plan until the director terminates service with the Company. If a non-employee director subsequently becomes an employee, any RSUs they deferred while serving as a director can continue to be deferred. A bookkeeping account is maintained for each participant and interest is credited to the deferred amount each quarter based on 120% of the quarterly long-term applicable federal rate in effect.
+
+-29-
+
+Table of Contents
+
+In addition to the above, the Board has implemented a non-chair committee membership fee of $20,000 and a committee chair retainer fee of $30,000 for the Governance and Controls Committee (“GCC”), which is a special, non-standing committee of the Board. Members of the GCC are also eligible for a per meeting fee once a specified number of GCC meetings have been surpassed in a given year.
+
+Stock Compensation
+
+Pursuant to the Directors’ Compensation Plan, we may issue awards of up to a total of 1,000,000 shares of our Common Stock to our non-employee directors. Each non-employee director receives an annual grant of $190,000 in RSUs for service on our Board, beginning with the first annual meeting at which the director is elected to our Board. For those directors joining our Board on a date other than the date of an annual meeting, each director receives a grant of $190,000 in RSUs on the date on which the director becomes a member of our Board, adjusted on a pro-rata basis by multiplying such award by a fraction where the numerator is the number of months between such date and the next annual meeting of shareholders and the denominator is twelve.
+
+The number of RSUs granted is determined by dividing the grant date fair value by our share closing price on the date of grant and converting into a whole number of RSUs. The 2024 RSU grants vest on the earlier of the first anniversary of the date of grant or immediately prior to the first annual meeting of shareholders following the date of grant, subject to the director’s continued service through such date. Unless provided otherwise in the RSU agreement, RSUs granted to each non-employee director will become fully vested before the end of the regular restriction period if (i) such director is terminated due to disability or death or (ii) a change in control occurs. Upon vesting, the RSUs are converted into shares of our Common Stock. RSUs include the right to receive dividend equivalents in the same amount and at the same time as dividends are paid to all Discover common shareholders. Each non-employee director may elect to defer the receipt of his or her RSUs under the Directors’ Compensation Plan until the director terminates service with the Company. If a non-employee director becomes an employee, any RSUs they deferred while serving as a director can continue to be deferred. A bookkeeping account is maintained for each participant, which reflects the number of RSUs to which the participant is entitled under the terms of the Directors’ Compensation Plan.
+
+Reimbursements
+
+Directors are reimbursed for reasonable expenses incurred in attending Board, committee, and shareholder meetings, including reasonable expenses for travel, meals, and lodging.
+
+Director Compensation Policies and Practices
+
+Our Directors’ Compensation Plan was approved by our shareholders in 2011, and provides for annual compensation for our non-employee directors. Directors who also are our employees do not receive any compensation under the Directors’ Compensation Plan. The equity-based compensation paid to our non-employee directors is delivered to further advance the interests of the Company and its shareholders by encouraging increased share ownership to promote long-term shareholder value.
+
+Role of the NGPR Committee
+
+The NGPR Committee is responsible for reviewing the effectiveness of the non-employee director compensation and benefit programs in supporting the Company’s ability to attract, retain, and motivate qualified directors. The NGPR Committee reviews director compensation at least every year and considers a variety of factors, including our financial performance, general market conditions, director compensation at companies with which we compete for talent, director responsibilities, and trends in director compensation practices. Any changes in director compensation are recommended by the NGPR Committee to the Board for approval.
+
+In December 2024, the NGPR Committee recommended, and the Board approved, the following changes to the Directors’ Compensation Plan:
+
+• Implemented a per meeting fee for each Governance and Controls Committee meeting held in excess of 12 meetings in a calendar year beginning with the 2024 calendar year (consistent with the treatment of meeting fees for other Board committees).
+
+• Made certain technical amendments to address a non-employee director subsequently becoming an employee of the Company.
+
+-30-
+
+Table of Contents
+
+Share Ownership Guidelines
+
+The NGPR Committee maintains guidelines that recommend that non-employee directors hold five times the annual cash retainer in Company stock within five years of appointment to the Board. By requiring stock ownership, the interests of directors are more closely aligned with those of shareholders. As of February 28, 2025, all of our non-employee directors have met and exceeded the Company’s stock ownership guidelines for directors or are within the five-year attainment window. The directors who have not yet reached the required ownership amount are on track to meet the ownership guidelines within the timeframe specified in the guidelines.
+
+2024 Director Compensation
+
+The table below sets forth cash and stock compensation (including deferred compensation) paid to non-employee directors for their Board service for the year ended December 31, 2024. The difference in fees earned or paid reflects each individual’s membership and/or chairperson appointment service on Board committees.
+
+[TABLE]
+Director (1) | Fees earned or paid in cash ($) | Stock awards (2) ($) | Total ($)
+Jeffrey S. Aronin (3) | 50,000 |  | — |  | 50,000 |
+Gregory C. Case (3)(4) | 56,250 |  | — |  | 56,250 |
+Candace H. Duncan (5) | 189,833 |  | 190,029 |  | 379,862 |
+Joseph F. Eazor (6) | 144,000 |  | 190,029 |  | 334,029 |
+Kathy L. Lonowski (5) | 152,500 |  | 190,029 |  | 342,529 |
+Thomas G. Maheras | 342,333 |  | 190,029 |  | 532,362 |
+Daniela O’Leary-Gill (5)(6) | 186,500 |  | 190,029 |  | 376,529 |
+David L. Rawlinson II (6) | 134,500 |  | 190,029 |  | 324,529 |
+Beverley A. Sibblies (5) | 165,667 |  | 190,029 |  | 355,696 |
+Mark A. Thierer (3) | 56,250 |  | — |  | 56,250 |
+Jennifer L. Wong (6) | 138,000 |  | 190,029 |  | 328,029 |
+[/TABLE]
+
+(1) Mr. Owen’s compensation received for his role as a director after serving as the Interim CEO and President starting in August 2023 through January 2024, and Mr. Shepherd’s compensation received for his role as a director during 2024 prior to serving as the Interim CEO and President starting in April 2024 are set forth in the “2024 Summary Compensation Table."
+
+(2) Reflects RSUs granted under the Directors’ Compensation Plan described above. Amounts reflect the grant date fair value of the 2024 RSUs, which were granted on May 9, 2024 for all then-serving non-employee directors. These amounts reflect the RSUs’ grant date fair value calculated in accordance with FASB ASC Topic 718 and may not correspond to the actual value that may be realized by the individual directors. Additional details on accounting for stock-based compensation can be found in Note 2: “Summary of Significant Accounting Policies - Stock-based Compensation” and Note 10: “Stock-Based Compensation Plans” of our consolidated financial statements in our Original Report. As of December 31, 2024, each non-employee director held the following number of RSUs, excluding deferred RSUs: Mr. Aronin - 0; Mr. Case - 0; Ms. Duncan - 1,532; Mr. Eazor - 1,532; Ms. Lonowski - 1,532; Mr. Maheras - 1,532; Ms. O’Leary-Gill - 1,532; Mr. Rawlinson - 1,532; Ms. Sibblies - 1,532; Mr. Thierer - 0; and Ms. Wong - 1,532.
+
+(3) Messrs. Aronin, Case, and Thierer retired from the Board on May 9, 2024.
+
+(4) The amount listed in the “Fees earned or paid in cash” column were deferred under the Directors’ Voluntary Non-Qualified Deferred Compensation Plan .
+
+(5) Includes chair and membership retainers for the special Governance and Controls Committee.
+
+(6) The amounts listed for these individuals in the “Stock Awards” column will be deferred upon vesting and payable 75 days post separation from service.
+
+-31-
+
+Table of Contents
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Shareholder Matters
+
+Directors and Executive Officers
+
+We encourage our directors, officers, and employees to own our Common Stock as doing so aligns their interests with shareholders. All executive officers, including our NEOs, are subject to Discover’s share ownership guidelines.
+
+The following tables set forth the beneficial ownership of our Common Stock, as of February 28, 2025, by the persons and groups specified below. The percentage of calculations below are based on the number of shares of Common Stock outstanding as of February 28, 2025.
+
+[TABLE]
+Name of Beneficial Owner | Shares of Discover Common Stock Beneficially Owned (1) | Percentage of Discover Common Stock Outstanding
+J. Michael Shepherd (2) | 45,686 |  | *
+John T. Greene | 37,889 |  | *
+Daniel P. Capozzi | 66,504 |  | *
+Jason J. Strle | 6,128 |  | *
+Keith E. Toney | 42,668 |  | *
+John B. Owen (3) | 19,828 |  | *
+Michael G. Rhodes (4) | 783 |  | *
+Candace H. Duncan (5) | 21,622 |  | *
+Joseph F. Eazor (6) | 13,244 |  | *
+Kathy L. Lonowski (7) | 1,235 |  | *
+Thomas G. Maheras (8) | 61,563 |  | *
+Daniela O’Leary-Gill (9) | 1,331 |  | *
+David L. Rawlinson II (10) | 5,093 |  | *
+Beverley A. Sibblies (11) | 1,774 |  | *
+Jennifer L. Wong (12) | 10,054 |  | *
+Directors and executive officers as a group (20 persons) (13) | 365,182 | *
+[/TABLE]
+
+* Represents beneficial ownership of less than 1%.
+
+(1) Does not include shares underlying unvested RSUs unless otherwise noted.
+
+(2) Includes 1,243 shares underlying vested RSUs that would convert following a termination of service, and 44,443 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(3) Includes 9,699 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(4) Ownership calculations for Mr. Rhodes reflects his holdings disclosed in his Director & Officer Questionnaire, generally as of December 31, 2024, given he is no longer employed by the Company.
+
+(5) Includes 21,622 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(6) Includes 4,699 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(7) Includes 0 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(8) Includes 48,691 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(9) Includes 1,331 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(10) Includes 5,093 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(11) Includes 0 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(12) Includes 10,054 shares underlying vested RSUs that would convert following a termination of service, and 0 shares underlying RSUs that are scheduled to vest within 60-days of February 28, 2025.
+
+(13) Includes 102,432 shares underlying vested RSUs that would convert following a termination of service, 101 shares of Common Stock that Executive Officers are expected to acquire pursuant to their participation in the Company’s
+
+-32-
+
+Table of Contents
+
+Employee Stock Purchase Plan, and 44,443 shares underlying RSUs that are scheduled to vest and convert within 60-days of February 28, 2025. The aforementioned amounts as well as the total amount of 365,182 shares are reflective of shares beneficially owned by our Executive Officers and Directors as of February 28, 2025.
+
+Owners of More than 5% of Discover Common Stock
+
+The following table sets forth those persons known to Discover to be the beneficial owners of more than 5% of the Company’s Common Stock based on information disclosed in SEC filings.
+
+[TABLE]
+Name and Address of Beneficial Owner | Shares of Discover Common Stock Beneficially Owned | Percentage of Discover Common Stock Outstanding
+BlackRock, Inc. 50 Hudson Yards, New York, New York 10001 (1) | 21,769,152 |  | 8.7 | %
+Capital World Investors 333 South Hope Street, 55th Floor, Los Angeles, California 90071 (2) | 20,666,552 |  | 8.2 | %
+The Vanguard Group 100 Vanguard Boulevard, Malvern, Pennsylvania 19355 (3) | 32,330,796 | 12.8 | %
+[/TABLE]
+
+(1) Derived from the Schedule 13G/A filed with the SEC on February 5, 2025 by BlackRock, Inc., which disclosed that BlackRock, Inc. had sole voting power as to 19,804,716 shares of our Common Stock and sole dispositive power as to 21,769,152 shares of our Common Stock.
+
+(2) Derived from the Schedule 13G/A filed with the SEC on February 9, 2024 by Capital World Investors, which disclosed that Capital World Investors had sole voting power as to 20,554,308 shares of our Common Stock, and sole dispositive power as to 20,666,552 shares of our Common Stock.
+
+(3) Derived from the Schedule 13G/A filed with the SEC on February 13, 2024 by The Vanguard Group, which disclosed that The Vanguard Group had shared voting power as to 315,916 shares of our Common Stock, sole dispositive power as to 31,231,319 shares of our Common Stock, and shared dispositive power as to 1,099,477 shares of our Common Stock.
+
+Item 13. Certain Relationships and Related Transactions and Director Independence
+
+Review, Approval, or Ratification of Transactions with Related Persons
+
+Certain of our directors and officers (and certain members of their immediate families) have received, from time to time, extensions of credit from us in connection with mortgage loans, credit card transactions, and lines of credit. Such extensions of credit (i) were made in the ordinary course of business; (ii) were made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions with other persons not related to us; and (iii) did not involve more than normal risk of collectability or present other unfavorable terms.
+
+We or one of our subsidiaries may occasionally enter into transactions with certain “related persons.” Related persons include our executive officers, directors, nominees for director, beneficial owners of 5% or more of our Common Stock, and immediate family members of these persons. We refer to transactions involving amounts in excess of $120,000 and in which the related person has a direct or indirect material interest as “related person transactions.” Proposed related person transactions must be approved by the NGPR Committee pursuant to our written Related Person Transactions Policy . The NGPR Committee shall be provided with full details of the proposed related person transaction.
+
+The NGPR Committee considers all relevant factors when determining whether to approve a related person transaction including, without limitation, the following:
+
+• the commercial reasonableness of the terms of the proposed transaction;
+
+• the benefit to the Company;
+
+• the availability and/or opportunity costs of alternate transactions;
+
+• the materiality and character of the related person’s direct or indirect interest;
+
+-33-
+
+Table of Contents
+
+• whether the transaction would, or would be perceived to, present an improper conflict of interest for the related person, taking into account: (i) the business of the Company; (ii) the size of the transaction; (iii) the overall financial position of the related person; (iv) the direct or indirect nature of the related person’s interest in the transaction; (v) whether the transaction is of an ongoing nature; and (vi) any other relevant factors;
+
+• whether the transaction is on substantially the same terms as those prevailing at the time for comparable transactions with persons not affiliated with the Company;
+
+• to the extent applicable, Regulation W or other provisions of banking law; and
+
+• if the related person is a director (or an immediate family member of a director), the impact on the director’s independence.
+
+The NGPR Committee will approve a related person transaction only if it determines, upon consideration of all relevant information, that the transaction is not inconsistent with the best interests of the Company and its shareholders and complies with applicable law.
+
+Transactions with Related Persons
+
+The Company is not aware of any related person transaction as defined in Item 404 of the SEC’s Regulation S-K.
+
+Director Independence
+
+Our Board adopted our Corporate Governance Guidelines, which contain the director independence guidelines and provide that a majority of the members of the Board and each member of the Audit Committee, the Compensation Committee, the NGPR Committee, and the Risk Oversight Committee must consist of directors who are independent. The Board uses these guidelines to assist it in determining whether directors qualify as “independent” pursuant to the requirements set forth in the NYSE Rules. In each case, the Board broadly considers all relevant facts and circumstances and applies the guidelines and the NYSE Rules in determining whether directors qualify as “independent.”
+
+Pursuant to our Corporate Governance Guidelines and the NYSE Rules, the Board reviewed the independence of each current director. During this review, the Board considered transactions and relationships between directors or any member of their immediate family (or any entity of which a director or an immediate family member is an executive officer, general partner, or significant equity holder) and the Company and its subsidiaries and affiliates. The Board also considered whether there were any transactions or relationships between directors or any member of their immediate family and members of the Company’s senior management. The purpose of this review was to determine whether any such relationships or transactions existed that were inconsistent with a determination that the director is independent.
+
+The Board considered various relationships, none of which violate the NYSE Rules’ independence tests, including that Director Wong’s spouse is a partner at McKinsey & Company, which provides professional services to Discover and that Director Wong is an executive officer of Reddit, with which Discover purchases advertising through a third-party service.
+
+As a result of the Board’s review, the Board affirmatively determined that current directors Candace Duncan, Joseph Eazor, Kathy Lonowski, Thomas Maheras, Daniela O’Leary-Gill, John Owen, David Rawlinson, Beverley Sibblies, and Jennifer Wong are independent of the Company and its management under the standards set forth in the Corporate Governance Guidelines and the NYSE Rules. The Board determined that director Michael Shepherd is not independent because of his employment as the Company’s Interim CEO and President.
+
+In determining that each of the directors, other than Mr. Shepherd, is independent, the Board considered, among other things, certain relationships, which it determined were immaterial to the directors’ independence. The Board considered that the Company and its subsidiaries in the ordinary course of business have, during the last three years, sold products and services to, and/or purchased products and services from, companies at which some of our directors were officers during 2024. In each case, the amount paid to or received from these companies in each of the last three years did not exceed the greater of $1,000,000 or 2% of that organization’s consolidated gross revenues, the threshold set forth in the NYSE Rules. Our Corporate Governance Guidelines are available through the Investor Relations page of our website, www.discover.com , and in print free of charge to any shareholder who requests a copy.
+
+-34-
+
+Table of Contents
+
+Item 14. Principal Accounting Fees and Services
+
+Independent Registered Public Accounting Firm Fees
+
+The Audit Committee approves the audit fees associated with the Company’s retention of Deloitte. The following table summarizes the aggregate fees (including related expenses) for professional services provided by Deloitte related to 2024 and 2023 (amounts in thousands).
+
+[TABLE]
+ | 2024 ($) | 2023 ($)
+Audit Fees (1) | 9,266 |  | 6,954 |
+Audit-Related Fees (2) | 3,364 |  | 1,866 |
+Tax Fees (3) | 24 |  | 16 |
+All Other Fees (4) | 11,321 |  | 125 |
+Total | 23,975 |  | 8,961 |
+[/TABLE]
+
+(1) Audit Fees services include: (i) the audit of our consolidated financial statements included in our Annual Report on Form 10-K and services required by statute or regulation; (ii) reviews of the interim condensed consolidated financial statements included in our Quarterly Reports on Form 10-Q; and (iii) statutory or financial audits of subsidiaries.
+
+(2) Audit-Related Fees services include: (i) data verification and agreed-upon procedures related to asset securitizations; (ii) assessment and testing of internal controls and risk management processes beyond the level required as part of the audit pursuant to Statement on Standards for Attestation Engagements No. 18; (iii) agreed-upon procedures related to XBRL tagging of our consolidated financial statements included in our Annual Report on Form 10-K and our interim condensed consolidated financial statements included in our Quarterly Reports on Form 10-Q; (iv) other consultations on financial accounting and reporting matters not classified as audit; and (v) comfort letters primarily related to planning for the anticipated merger.
+
+(3) Tax Fees include tax compliance services rendered for certain foreign entities.
+
+(4) All Other Fees include fees for research tools and consulting services primarily related to planning for the anticipated merger.
+
+Policy Regarding Pre-Approval of Independent Registered Public Accounting Firm Services
+
+In order to assure the continued independence of our independent registered public accounting firm, the Audit Committee has adopted a policy requiring pre-approval of audit and non-audit services performed by our independent registered public accounting firm. Under that policy, the Audit Committee pre-approves a list of audit, audit-related, and permitted non-audit services that may be provided by the independent registered public accounting firm without obtaining specific pre-approval from the Audit Committee. In addition, the Audit Committee sets pre-approved fee levels for the pre-approved services. Any type of service that is not included on the list of pre-approved services or that exceeds pre-approved fee levels must be specifically pre-approved by the Audit Committee. The Audit Committee has delegated to the Chair of the Audit Committee the authority to pre-approve any audit or permitted non-audit service to be performed by the independent registered public accounting firm, provided that such approvals are presented to the full Audit Committee at the next scheduled meeting and that estimated fees for such services are not in excess of certain limits. The Audit Committee reviews its pre-approval policy annually for purposes of assuring its continued appropriateness and compliance with applicable law and listing standards. All audit and permitted non‑audit services listed above were pre‑approved.
+
+-35-
+
+Table of Contents
+
+Glossary
+
+[TABLE]
+Acronym or term | Definition
+ASC | Accounting Standards Codification
+BMO | Bank of Montreal
+Board | Board of Directors of Discover Financial Services
+CCO | Chief Compliance Officer
+CD&A | Compensation Discussion and Analysis
+Compensation Committee | Compensation and Human Capital Committee
+CEO | Chief Executive Officer
+CFO | Chief Financial Officer
+CIC | Change-in-Control Severance Policy
+Company | Discover Financial Services
+COO | Chief Operating Officer
+COF | Capital One Financial Corporation
+CRO | Chief Risk Officer
+Deloitte | Deloitte & Touche LLP
+Discover | Discover Financial Services
+EPS | Earnings Per Share
+Exchange Act | Securities Exchange Act of 1934, as amended
+FASB | Financial Accounting Standards Board
+FDIC | Federal Deposit Insurance Corporation
+Federal Reserve | The Board of Governors of the Federal Reserve System
+GAAP | Generally Accepted Accounting Principles in the United States
+LTI | Long-Term Incentive
+NEO | Named Executive Officer
+NGPR Committee | Nominating, Governance, and Public Responsibility Committee
+NQDC | Non-Qualified Deferred Compensation
+NYSE | New York Stock Exchange
+NYSE Rules | NYSE Listing Standards
+PBTR | Profit before Taxes and Reserves
+PSUs | Performance Stock Units
+PTO | Paid Time Off
+RSUs | Restricted Stock Units
+SEC | U.S. Securities and Exchange Commission
+STI | Short-Term Incentive
+U.S. | United States of America
+[/TABLE]
+
+-36-
+
+Table of Contents
+
+Annex A
+
+Reconciliation of GAAP to non-GAAP financial measures
+
+[TABLE]
+(in millions) | 2024 ($) | 2023 ($) |  |  |
+Net income-GAAP (1) | 4,535 |  | 2,796 |  |  |  |
+Change in the allowance for credit losses | (960) |  | 1,977 |  |  |  |
+Liability for expected credit losses on unfunded commitments | (40) |  | (1) |  |  |  |
+Income tax expenses (1) | 1,539 |  | 841 |  |  |  |
+Profit before taxes and reserves-non-GAAP | 5,074 |  | 5,613 |  |  |  |
+Discretionary adjustments (2) | (167) |  | (324) |  |  |  |
+Impact of prior period restatements on PBTR-non-GAAP (3) | — |  | 189 |  |  |  |
+Adjusted profit before taxes and reserves-non-GAAP | 4,907 |  | 5,478 |  |  |  |
+[/TABLE]
+
+(1) The amounts for the year ended December 31, 2023, have been restated to reflect corrections to the financial statements. See Note 26: “Restatement of Annual Financial Statements” in the Company’s amended annual report on Form 10-K/A for the year ended December 31, 2023.
+
+(2) 2024 PBTR was adjusted for the delayed implementation of CFPB rule changes on late fees partially offset by COF merger and integration planning expenses. 2023 PBTR was adjusted for prior period impacts from the card misclassification matter.
+
+(3) For the year ended December 31, 2023, the impact of prior period restatements on PBTR was not part of the measure of Adjusted PBTR evaluated by the Compensation Committee as part of their compensation decision-making.
+
+-37-
+
+Table of Contents
+
+PART IV
+
+Part IV | Item 15. Exhibits, Financial Statement Schedules
+
+Exhibit Index
+[TABLE]
+Exhibit Number |  | Description
+24 |  | Powers of Attorney (included on signature page).
+31.1 |  | Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.2 |  | Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+101 |  | Interactive Data File (Inline XBRL)
+104 |  | Cover Page Interactive Data File — the cover page from Discover Financial Services Annual Report on Form 10-K/A formatted in inline XBRL and contained in Exhibit 101.
+[/TABLE]
+
+-38-
+
+Table of Contents
+
+Signature
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+[TABLE]
+ | Discover Financial Services (Registrant)
+ | By: |  | /s/ J OHN T. G REENE
+ |  |  | John T. Greene Executive Vice President, Chief Financial Officer
+[/TABLE]
+
+Date: March 7, 2025
+
+-39-
+
+Table of Contents
+
+Power of Attorney
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities indicated on March 7, 2025.
+[TABLE]
+Signature | Title
+* | Interim Chief Executive Officer and President, Director
+J. Michael Shepherd |
+* | Executive Vice President, Chief Financial Officer (Principal Financial Officer)
+John T. Greene |
+* | Senior Vice President, Controller and Chief Accounting Officer (Principal Accounting Officer)
+Shifra C. Kolsky |
+* | Chairman of the Board
+Thomas G. Maheras |
+* | Director
+Candace H. Duncan |
+* | Director
+Joseph F. Eazor |
+* | Director
+Kathy L. Lonowski |
+* | Director
+Daniela O’Leary-Gill |
+* | Director
+John B. Owen |
+* | Director
+David L. Rawlinson II |
+* | Director
+Beverley A. Sibblies |
+* | Director
+Jennifer L. Wong |
+[/TABLE]
+
+* The undersigned, by signing his name hereto, does hereby sign this Amendment No. 1 to Form 10-K/A on behalf of the above indicated officer or director of the Registrant, Discover Financial Services, pursuant to the Power of Attorney signed by such officer or director on February 20, 2025, in the Original Report.
+
+[TABLE]
+ | By: |  | /s/ P IERS A. F ENNELL
+ |  |  | Piers A. Fennell Senior Vice President, Deputy General Counsel and Assistant Secretary
+[/TABLE]
+
+-40-

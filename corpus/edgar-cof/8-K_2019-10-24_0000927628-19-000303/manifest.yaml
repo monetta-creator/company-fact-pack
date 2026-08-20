@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2019-10-24_0000927628-19-000303
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-10-24 (period 2019-10-24)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000303/q32019earningsrelease8-k.htm
+retrieved_at: '2026-08-20T02:47:01Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: q32019earningsrelease8-k.htm
+  role: raw
+  sha256: 07ec51cc238b17c51d944af45f71fb37c64473dc043ae707efb8026073e10b19
+  size: 65133
+  stored: corpus
+- name: q32019earningsrelease-ex991.htm
+  role: exhibit
+  sha256: 66690ad9c5c21259cbbead111898b4bbcc3edcb88c95eecc1ea10073a4f28b21
+  size: 56829
+  stored: corpus
+- name: q32019earningsrelease-ex992.htm
+  role: exhibit
+  sha256: f77133cc966b21cb504a0f2fde1a72cc373ab1fbaa5e02080e83078f9140d722
+  size: 3842736
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 11d8fd48648cd716b16db9eabc386ea7e04ce4b3790ac730a6b19fdd36a42019
+  size: 113918
+  stored: corpus
+filed_date: '2019-10-24'
+period_end: '2019-10-24'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000303
+  form: 8-K
+  items: 2.02,9.01

@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2016-01-25_0001193125-16-436962
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-01-25 (period 2016-01-22)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312516436962/d236564d8k.htm
+retrieved_at: '2026-08-20T02:58:52Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d236564d8k.htm
+  role: raw
+  sha256: d1c7071e156789e5bbf555c474cb88b7def7abe4e1eeac56b0410261a4222672
+  size: 27752
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9e9c3858a49cdb985833ded97105dd118169eb1c45f8398542746fd75520fe4f
+  size: 7672
+  stored: corpus
+filed_date: '2016-01-25'
+period_end: '2016-01-22'
+extraction_method: lxml
+meta:
+  accession: 0001193125-16-436962
+  form: 8-K
+  items: 1.01,9.01

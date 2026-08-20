@@ -1,0 +1,21 @@
+doc_id: enforcement/occ-2019-breach-related
+source: enforcement
+source_tier: A
+doc_type: consent-order
+title: OCC civil money penalty 2020 (2019 data breach)
+url: https://www.occ.gov/static/enforcement-actions/ea2020-055.pdf
+retrieved_at: '2026-08-20T02:38:46Z'
+entity_ids:
+- cof
+fetcher: enforcement v1
+files:
+- name: ea2020-055.pdf
+  role: raw
+  sha256: 5f4c2e6b1f56fd739c94ce1d3206a2314b2a35535a6ce583e85ac483c87153b0
+  size: 127924
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 56310111758c2856b388dc3dd162d587fb153a9c46577dc12d50d4055ac22503
+  size: 1362
+  stored: corpus

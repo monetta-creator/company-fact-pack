@@ -1,0 +1,115 @@
+8-K 1 a8-kdated542018.htm 8-K Document created using Wdesk 1 Copyright 2018 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 3, 2018
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+(a) | The 2018 Annual Stockholder Meeting (the “Annual Meeting”) of the Company was held on May 3, 2018. On March 6, 2018, the record date for the Annual Meeting, 486,160,297 shares of the Company’s common stock were issued and outstanding, of which 442,557,162 were present for purposes of establishing a quorum.
+
+(b) | Stockholders voted on the following matters:
+
+(1) | Stockholders elected Mr. Richard D. Fairbank, Ms. Aparna Chennapragada, Ms. Ann Fritz Hackett, Mr. Lewis Hay, III, Mr. Benjamin P. Jenkins, III, Mr. Peter Thomas Killalea, Mr. Pierre E. Leroy, Mr. Peter E. Raskind, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner and Ms. Catherine G. West to the Company’s Board of Directors for terms expiring at the 2019 annual meeting of stockholders;
+
+(2) | Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent auditors of the Company for 2018;
+
+(3) | Stockholders approved, on an advisory basis, the Company’s 2017 named executive officer compensation; and
+
+(4) | Stockholders ratified the 25% ownership threshold for stockholders to request a special meeting of stockholders.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 404,698,278 |  | 5,354,322 |  | 2,637,626 |  | 29,866,936 |
+Aparna Chennapragada |  | 411,719,848 |  | 664,693 |  | 305,685 |  | 29,866,936 |
+Ann Fritz Hackett |  | 363,655,285 |  | 48,742,472 |  | 292,469 |  | 29,866,936 |
+Lewis Hay, III |  | 392,375,849 |  | 20,014,094 |  | 300,283 |  | 29,866,936 |
+Benjamin P. Jenkins, III |  | 405,288,722 |  | 7,105,729 |  | 295,775 |  | 29,866,936 |
+Peter Thomas Killalea |  | 405,099,671 |  | 7,291,469 |  | 299,086 |  | 29,866,936 |
+Pierre E. Leroy |  | 402,307,035 |  | 10,078,677 |  | 304,514 |  | 29,866,936 |
+Peter E. Raskind |  | 404,832,553 |  | 7,555,658 |  | 302,015 |  | 29,866,936 |
+Mayo A. Shattuck III |  | 385,120,085 |  | 27,264,646 |  | 305,495 |  | 29,866,936 |
+Bradford H. Warner |  | 410,319,959 |  | 2,073,079 |  | 297,188 |  | 29,866,936 |
+Catherine G. West |  | 410,877,745 |  | 1,493,899 |  | 318,582 |  | 29,866,936 |
+Ratification of Selection of Ernst & Young LLP as Independent Auditors of the Company for 2018 |  | 435,370,649 |  | 6,919,009 |  | 267,504 |  | N/A |
+Advisory Approval of the Company’s 2017 Named Executive Officer Compensation |  | 350,368,788 |  | 61,685,115 |  | 636,323 |  | 29,866,936 |
+Ratification of the 25% Ownership Threshold to Request a Special Meeting of Stockholders |  | 223,201,503 |  | 188,889,487 |  | 599,236 |  | 29,866,936 |
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: May 4, 2018 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+3

@@ -1,0 +1,21 @@
+doc_id: fed-stress/2019-dfast-results-20190621.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2019-dfast-results-20190621.pdf
+url: https://www.federalreserve.gov/publications/files/2019-dfast-results-20190621.pdf
+retrieved_at: '2026-08-20T03:15:20Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2019-dfast-results-20190621.pdf
+  role: raw
+  sha256: 0c7eafb3a49bab91fe00fbe85e419ad8063030f5525effdcb4a99f054007fb89
+  size: 3339481
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9ea6ecce046a017d820cdee613fb238d32203b8960696f5c72145f7d2c316fb7
+  size: 328471
+  stored: corpus

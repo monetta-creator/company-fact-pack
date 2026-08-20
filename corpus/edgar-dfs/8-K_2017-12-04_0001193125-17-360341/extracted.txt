@@ -1,0 +1,106 @@
+8-K 1 d502862d8k.htm FORM 8-K Form 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported)
+
+December 4, 2017 (December 1, 2017)
+
+Commission File No. 001-33378
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of
+ Incorporation or Organization) |  | (I.R.S. Employer
+ Identification No.)
+2500 Lake Cook Road, Riverwoods, Illinois |  | 60015
+(Address of Principal Executive Offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code:
+
+(224) 405-0900
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+(Not applicable)
+
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+ 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+ 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of
+this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.03 | Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+
+On December 1, 2017,
+Discover Financial Services, a Delaware corporation (the “Company”), filed a Certificate of Elimination with the Secretary of State of the State of Delaware to the Company’s Amended and Restated Certificate of Incorporation (the
+“Certificate of Incorporation”) which, effective upon filing, eliminated all references to the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, of the Company (the “Series B
+Preferred Stock”). The Series B Preferred Stock resumed the status of authorized but unissued shares of the preferred stock of the Company following the filing referenced above, a copy of which is attached hereto as Exhibit 3.1.
+
+Item 8.01 | Other Events
+
+On December 1, 2017, the Company completed its previously announced redemption of the
+issued and outstanding Series B Preferred Stock and the related issued and outstanding depositary shares, each representing 1/40th interest in a share of the Series B Preferred Stock.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit
+ No. |  | Description of Exhibit
+3.1 |  | Certificate of Elimination of the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, dated December 1, 2017
+[/TABLE]
+
+EXHIBIT LIST
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+3.1 |  | Certificate of Elimination of the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, dated December 1, 2017
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: December 4, 2017 |  |  |  |  |  |
+ |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  | Title: |  | Vice President, Deputy General Counsel and Assistant Secretary
+[/TABLE]

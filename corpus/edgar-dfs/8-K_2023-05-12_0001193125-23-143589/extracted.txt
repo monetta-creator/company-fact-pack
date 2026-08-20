@@ -1,0 +1,143 @@
+false 0001393612 0001393612 2023-05-11 2023-05-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 11, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On May 11, 2023, Discover Financial Services (the “Company”) held its 2023 Annual Meeting of Shareholders (the “Annual Meeting”). At the Annual Meeting, the Company’s shareholders approved the Discover Financial Services 2023 Omnibus Incentive Plan (the “2023 Plan”). The following paragraphs provide a summary of certain terms of the 2023 Plan.
+
+Under the 2023 Plan, the Company may grant restricted stock, restricted stock units, stock options, stock appreciation rights, and other forms of equity-based or equity-related awards. Subject to the terms and conditions of the 2023 Plan, the number of shares authorized for grants under the 2023 Plan is 18,000,000, reduced by the number of shares granted under the Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan on or after December 31, 2022. The 2023 Plan’s share limit will be reduced by the aggregate number of shares subject to awards granted under the 2023 Plan (other than substitute awards granted in connection with a corporate transaction) and, in the case of awards granted under the 2023 Plan not denominated in shares, the number of shares actually delivered upon payment or settlement of the awards.
+
+The foregoing description of the 2023 Plan does not purport to be complete and is qualified in its entirety by reference to the complete text of the 2023 Plan, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+The Company held its 2023 Annual Meeting of Shareholders on May 11, 2023. At the Annual Meeting, the Company’s shareholders voted on five proposals that are described in detail in the Company’s definitive proxy statement filed with the Securities and Exchange Commission on March 17, 2023. Below are the matters the shareholders voted on and the final vote results.
+
+Proposal 1: Election of Directors. Each of the twelve director nominees listed below were elected to serve as a director of the Company for a term expiring at the 2024 Annual Meeting of Shareholders or until his or her successor has been duly elected and qualified. The voting results were as follows:
+
+[TABLE]
+Nominees |  | Votes FOR |  |  | Votes AGAINST |  |  | Votes ABSTAIN |  |  | Broker Non-Votes |
+Jeffrey S. Aronin |  |  | 200,664,873.31 |  |  |  | 10,038,380.10 |  |  |  | 178,596.82 |  |  |  | 24,056,077.00 |
+Mary K. Bush |  |  | 197,621,713.01 |  |  |  | 13,084,432.22 |  |  |  | 175,705.00 |  |  |  | 24,056,077.00 |
+Gregory C. Case |  |  | 188,025,011.77 |  |  |  | 22,676,686.72 |  |  |  | 180,151.73 |  |  |  | 24,056,077.00 |
+Candace H. Duncan |  |  | 207,517,477.58 |  |  |  | 3,203.304.86 |  |  |  | 161,067.79 |  |  |  | 24,056,077.00 |
+Joseph F. Eazor |  |  | 208,802,631.98 |  |  |  | 1,902,497.31 |  |  |  | 176,720.93 |  |  |  | 24,056,077.00 |
+Roger C. Hochschild |  |  | 208,435,847.21 |  |  |  | 2,274,099.13 |  |  |  | 171,903.88 |  |  |  | 24,056,077.00 |
+Thomas G. Maheras |  |  | 204,047,798.35 |  |  |  | 6,651,988.42 |  |  |  | 182,063.45 |  |  |  | 24,056,077.00 |
+John B. Owen |  |  | 209,716,132.07 |  |  |  | 986,312.72 |  |  |  | 179,405.43 |  |  |  | 24,056,077.00 |
+David L. Rawlinson II |  |  | 208,397,374.04 |  |  |  | 2,300,225.84 |  |  |  | 184,250.34 |  |  |  | 24,056,077.00 |
+Beverley A. Sibblies |  |  | 209,555,173.83 |  |  |  | 1,155,695.49 |  |  |  | 170,980.90 |  |  |  | 24,056,077.00 |
+Mark A. Thierer |  |  | 204,885,846.27 |  |  |  | 5,805,659.57 |  |  |  | 190,344.38 |  |  |  | 24,056,077.00 |
+Jennifer L. Wong |  |  | 208,674,920.36 |  |  |  | 2,035,665.88 |  |  |  | 171,263.98 |  |  |  | 24,056,077.00 |
+[/TABLE]
+
+Proposal 2: Say on Pay (Advisory Vote to Approve Named Executive Officer Compensation). The Company’s shareholders approved, on an advisory basis, the compensation paid to the named executive officers. The voting results were as follows:
+
+[TABLE]
+Votes FOR |  | Votes AGAINST |  | Votes ABSTAIN |  | Broker Non-Votes
+193,068,199.65 |  | 16,944,153.77 |  | 869,496.80 |  | 24,056,077.00
+[/TABLE]
+
+Proposal 3: Say on Pay (Advisory Vote on the Frequency of Future Advisory Votes on Named Executive Officer Compensation). The Company’s shareholders voted on the advisory proposal on the frequency of future advisory votes to approve named executive officer compensation. The voting results were as follows:
+
+[TABLE]
+Votes 1 YEAR |  | Votes 2 YEARS |  | Votes 3 YEARS |  | Votes ABSTAIN |  | Broker Non-Votes
+205,932,133.90 |  | 341,366.07 |  | 4,307,216.12 |  | 301,134.14 |  | 24,056,077.00
+[/TABLE]
+
+Based on the results of this advisory vote, and in accordance with the Board of Directors’ recommendation, the Board has determined to hold an advisory vote on named executive officer compensation every year until the next required advisory vote on the frequency of future advisory votes on named executive officer compensation.
+
+Proposal 4: Approval of the Discover Financial Services 2023 Omnibus Incentive Plan. The Company’s shareholders approved Discover Financial Services 2023 Omnibus Incentive Plan. The voting results were as follows:
+
+[TABLE]
+Votes FOR |  | Votes AGAINST |  | Votes ABSTAIN |  | Broker Non-Votes
+203,437,425.79 |  | 6,994,422.27 |  | 450,002.16 |  | 24,056,077.00
+[/TABLE]
+
+Proposal 5: Ratification of Appointment of Independent Registered Public Accounting Firm. The Company’s shareholders ratified the appointment of Deloitte & Touche as the Company’s independent registered public accounting firm for fiscal year 2023. The voting results were as follows;
+
+[TABLE]
+Votes FOR |  | Votes AGAINST |  | Votes ABSTAIN |  | Broker Non-Votes
+231,350,526.88 |  | 3,311,059.63 |  | 276,340.71 |  | 0
+[/TABLE]
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Discover Financial Services 2023 Omnibus Incentive Plan (filed as Annex B to Discover Financial Services’ Proxy Statement filed on March 17, 2023, and incorporated herein by reference thereto).
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101)
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: May 12, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  |  |  | Name: Hope D. Mehlman Title: Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]

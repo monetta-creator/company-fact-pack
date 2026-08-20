@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2016-10-17_0001407200-16-000184
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-10-17 (period 2016-10-17)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720016000184/qtrly8-k_dcmtdcentasofsept30.htm
+retrieved_at: '2026-08-20T02:58:44Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly8-k_dcmtdcentasofsept30.htm
+  role: raw
+  sha256: 9f32735a9c1fa991d447834236fdb45f2eab4659742c3ffb050af2aa54083397
+  size: 152187
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4b8abfd843ca363affdbcb537347d5039c99c4b16fa59bf865555e9444dd452d
+  size: 23029
+  stored: corpus
+filed_date: '2016-10-17'
+period_end: '2016-10-17'
+extraction_method: lxml
+meta:
+  accession: 0001407200-16-000184
+  form: 8-K
+  items: '8.01'

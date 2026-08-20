@@ -1,0 +1,81 @@
+false 0001393612 0001393612 2024-02-01 2024-02-01
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 1, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+As previously disclosed on its current report on Form 8-K filed on December 11, 2023, Discover Financial Services (the “Company”) announced Michal G. Rhodes as the new Chief Executive Officer and President of the Company and President of Discover Bank (the “Bank”), as well as a director of the Company and the Bank effective as of March 6, 2024, or such earlier date as mutually agreed.
+
+On February 1, 2024, Mr. Rhodes officially joined the Company and the Bank in the roles indicated and with his employment effective as of such date. John Owen, who has been serving as Interim Chief Executive Officer and President since August 14, 2023, will continue to serve as a director of each of the Company and the Bank effective as of February 1, 2024.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: February 1, 2024 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer,
+ |  |  |  |  |  | General Counsel and Secretary
+[/TABLE]

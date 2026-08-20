@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-08-15_0000927628-16-000206
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-08-15 (period 2016-08-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000206/july2016creditmetricsform8.htm
+retrieved_at: '2026-08-20T02:55:07Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: july2016creditmetricsform8.htm
+  role: raw
+  sha256: 7b1ea37f99a02b2bb6ea4f31afb5ce525f982a4a904cc9e98bd393540d70b1b9
+  size: 38992
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1461bdc69162f68740d5fc82c5a9efca7c2adf9cec9e1f2177b6d2d1d74c8d7f
+  size: 3187
+  stored: corpus
+filed_date: '2016-08-15'
+period_end: '2016-08-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000206
+  form: 8-K
+  items: 7.01,9.01

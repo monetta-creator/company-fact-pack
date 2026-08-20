@@ -1,0 +1,1145 @@
+425 1 d801972d425.htm 425 425
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+July 24, 2024
+
+Date of
+Report (Date of earliest event reported)
+
+CAPITAL ONE
+FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission
+ File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, |  |  |  |
+McLean, Virginia |  |  |  | 22102
+(Address of principal executive offices) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former
+name or former address, if changed since last report)
+
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+ | ☒ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange
+ on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L |  | COF PRL |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N |  | COF PRN |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events
+
+As previously announced, on February 19, 2024, Capital One Financial Corporation, a Delaware corporation (“Capital One” or “the
+Company”), entered into an agreement and plan of merger (the “Merger Agreement”), by and among Capital One, Discover Financial Services, a Delaware corporation (“Discover”) and Vega Merger Sub, Inc., a Delaware corporation
+and a direct, wholly owned subsidiary of the Company (“Merger Sub”), pursuant to which (a) Merger Sub will merge with and into Discover, with Discover as the surviving entity in the merger (the “Merger”); (b) immediately
+following the Merger, Discover, as the surviving entity, will merge with and into Capital One, with Capital One as the surviving entity in the second-step merger (the “Second Step Merger” and together with the Merger, the
+“Mergers”); and (c) immediately following the Second Step Merger, Discover Bank (“Discover Bank”), a Delaware-chartered and wholly owned subsidiary of Discover, will merge with and into Capital One’s wholly owned
+national bank subsidiary, Capital One National Association (“CONA”), with CONA as the surviving entity in the bank merger (the “CONA Bank Merger,” and collectively with the Merger and the Second Step Merger, the
+“Transaction”).
+
+In connection with the Transaction, Capital One previously disclosed certain unaudited pro forma condensed combined financial
+information and related notes under the section entitled “Unaudited Pro Forma Condensed Combined Financial Information” in Amendment No. 1 to its Registration Statement on Form S-4, filed with
+the Securities and Exchange Commission (the “SEC”) on June 14, 2024, including, but not limited to: (i) unaudited pro forma condensed combined statements of income for the three months ended March 31, 2024 and the year ended
+December 31, 2023 and (ii) an unaudited pro forma condensed combined balance sheet as of March 31, 2024 (the information in this section, the “Prior Pro Forma Financial Information”).
+
+This Current Report on Form 8-K (this “Report”) is being filed to update the Prior Pro Forma Financial Information in connection with recent
+developments, including, but not limited to, the recent announcement of Discover’s entry into a Purchase Agreement with Santiago Holdings, LP, an Ontario limited partnership and an affiliate of each of Carlyle and KKR (“Santiago
+Holdings”), pursuant to which Discover Bank agreed to sell its private student loan portfolio to Santiago Holdings (the “Discover Student Loan Sale”), with Firstmark Services, a division of Nelnet Inc., assuming responsibility for
+servicing the portfolio upon the sale.
+
+The consummation of the Transaction and the other transactions contemplated by the Merger Agreement are not
+conditioned on the consummation of the Discover Student Loan Sale.
+
+To the extent that the information herein differs from or updates information
+previously disclosed in the Prior Pro Forma Financial Information, such information herein shall supplement and supersede the information previously disclosed.
+
+Forward Looking Statements
+
+Information in this
+communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the
+benefits of the Transaction between Capital One and Discover, the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology
+such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,”
+“forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital
+One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies and other anticipated benefits from
+the Transaction may not be fully realized or may take longer than anticipated to be realized, the risk that revenues following the Transaction may be lower than expected and/or the risk that certain expenses, such as the provision for credit losses,
+of Discover, or Capital One following the Transaction, may be greater than expected, (2) disruption to the parties’ businesses as a result of the announcement and pendency of the Transaction, (3) the risk that the integration of
+
+1
+
+Discover’s business and operations into Capital One, including the integration into Capital One’s compliance management program, will be materially delayed or will be more costly or
+difficult than expected, or that Capital One is otherwise unable to successfully integrate Discover’s businesses into its own, including as a result of unexpected factors or events, (4) the possibility that the requisite regulatory,
+stockholder or other approvals are not received or other conditions to the closing are not satisfied on a timely basis or at all, or are obtained subject to conditions that are not anticipated (and the risk that requisite regulatory approvals may
+result in the imposition of conditions that could adversely affect Capital One or the expected benefits of the Transaction following the closing of the Transaction), (5) reputational risk and the reaction of each company’s customers, suppliers,
+employees or other business partners to the Transaction, (6) the failure of the closing conditions in the Merger Agreement to be satisfied, or any unexpected delay in completing the Transaction or the occurrence of any event, change or other
+circumstances that could give rise to the termination of the Merger Agreement, (7) the dilution caused by the issuance of additional shares of Capital One’s common stock in connection with the Transaction, (8) the possibility that the
+Transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events, (9) risks related to management and oversight of the expanded business and operations of Capital One following the
+Transaction due to the increased size and complexity of its business, (10) the possibility of increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the Transaction or the size, scope and
+complexity of Capital One’s business operations following the Transaction, (11) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Capital One before or after the Transaction, or
+against Discover, (12) the risk that expectations regarding the timing, completion and accounting and tax treatments of the Transaction are not met, (13) the risk that any announcements relating to the Transaction could have adverse
+effects on the market price of Capital One’s common stock, (14) certain restrictions during the pendency of the Transaction, (15) the diversion of management’s attention from ongoing business operations and opportunities,
+(16) Capital One’s and Discover’s success in executing their respective business plans and strategies and managing the risks involved in the foregoing, (17) effects of the announcement, pendency or completion of the Transaction
+on Capital One’s or Discover’s ability to retain customers and retain and hire key personnel and maintain relationships with Capital One’s and Discover’s suppliers and other business partners, and on Capital One’s and
+Discover’s operating results and businesses generally, (18) general competitive, economic, political and market conditions and other factors that may affect future results of Capital One and Discover, including changes in asset quality and
+credit risk; the inability to sustain revenue and earnings growth; changes in interest rates and capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes;
+capital management activities and (19) any other factors that may affect Capital One’s future results or the future results of Discover; and other actions of the Federal Reserve Board and legislative and regulatory actions and reforms.
+
+Additional factors which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the SEC and available on the SEC’s
+website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new
+information, future events or otherwise, except as required by federal securities laws.
+
+Important Information About the Transaction and Where to Find
+It
+
+Capital One filed a registration statement on Form S-4 (No. 333-278812) with the SEC on April 18, 2024, as amended on June 14, 2024, to register the shares of Capital One’s common
+stock that will be issued to Discover stockholders in connection with the Transaction. The registration statement, which is not yet effective, includes a preliminary joint proxy statement of Capital One and Discover that also constitutes a
+preliminary prospectus of Capital One. If and when the registration statement becomes effective and the joint proxy statement/prospectus is in definitive form, such joint proxy statement/prospectus will be sent to the stockholders of each of Capital
+One and Discover in connection with the Transaction. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT ON FORM S-4 AND THE RELATED JOINT PROXY STATEMENT/PROSPECTUS (AND ANY OTHER
+AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS AND ANY OTHER RELEVANT DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH
+
+2
+
+THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION REGARDING THE TRANSACTION AND RELATED
+MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by Capital One or Discover through the website maintained by the SEC at http://www.sec.gov or by contacting the investor
+relations department of Capital One or Discover at:
+
+[TABLE]
+Capital One Financial Corporation |  | Discover Financial Services
+1680 Capital One Drive |  | 2500 Lake Cook Road
+McLean, VA 22102 |  | Riverwoods, IL 60015
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@capitalone.com |  | investorrelations@discover.com
+(703) 720-1000 |  | (224) 405-4555
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of Capital One and Discover are urged to
+read carefully the entire registration statement and preliminary joint proxy statement/prospectus, including any amendments thereto when they become available, because they contain or will contain important information about the Transaction. Free
+copies of these documents may be obtained as described above.
+
+Participants in Solicitation
+
+Capital One, Discover and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of
+each of Capital One and Discover in connection with the Transaction. Information regarding the directors and executive officers of Capital One and Discover and other persons who may be deemed participants in the solicitation of the stockholders of
+Capital One or of Discover in connection with the Transaction will be included in the joint proxy statement/prospectus related to the Transaction, which will be filed by Capital One with the SEC. Information about the directors and executive
+officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 20, 2024, and
+other documents subsequently filed by Capital One with the SEC. Information about the directors and executive officers of Discover and their ownership of Discover common stock can also be found in Discover’s definitive proxy statement in
+connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 15, 2024, and other documents subsequently filed by Discover with the SEC. Additional information regarding the interests of such participants is included
+in the preliminary joint proxy statement/prospectus and other relevant documents regarding the Transaction filed with the SEC when they become available.
+
+3
+
+Item 9.01 Financial Statements and Exhibits
+
+(b) Pro forma financial information.
+
+The following
+unaudited pro forma condensed combined financial information and notes thereto, in order to give effect to the Mergers, the Discover Student Loan Sale, and the related transaction accounting adjustments (pro forma adjustments) described in the
+accompanying notes, including, but not limited to: (i) unaudited pro forma condensed combined statements of income for the three months ended March 31, 2024 and the year ended December 31, 2023 and (ii) an unaudited pro forma
+condensed combined balance sheet as of March 31, 2024, are filed as Exhibit 99.1 to this Report and are incorporated herein by reference. For the avoidance of doubt, any defined terms in Exhibit 99.1 shall have the meanings ascribed to them in
+Exhibit 99.1, and such defined terms shall be read separately from the defined terms otherwise included in this Report.
+
+All the pro forma financial
+statements and other pro forma information included in this Report has been prepared on the basis of certain assumptions and estimates and is subject to other uncertainties and does not purport to reflect what Capital One’s actual results of
+operations or financial condition or this pro forma information would have been had the Transaction been consummated on the dates assumed for purposes of such pro forma financial statements and information or to be indicative of Capital One’s
+financial condition, results of operations or metrics as of or for any future date or period.
+
+(d) Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Unaudited pro forma condensed combined financial information of Capital One Financial Corporation and Discover Financial Services as of and for the three months ended March 31, 2024 and for the year ended December 31,
+2023
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: July 24, 2024 |  |  |  | By: |  | /s/ TIMOTHY P. GOLDEN
+ |  |  |  |  |  | Timothy P. Golden
+ |  |  |  |  |  | SVP, Controller and Principal Accounting Officer
+[/TABLE]
+
+5
+
+Exhibit 99.1
+
+UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
+
+Introduction
+
+The following unaudited pro
+forma condensed combined financial information and notes thereto have been prepared in accordance with Article 11 of Regulation S-X in order to give effect to the mergers (defined below), the Discover Student
+Loan Sale (defined below), and the related transaction accounting adjustments (pro forma adjustments) described in the accompanying notes.
+
+On February 19, 2024, Capital One Financial Corporation, a Delaware corporation (“Capital One” or “the Company”),
+entered into an agreement and plan of merger (the “merger agreement”), by and among Capital One, Discover Financial Services, a Delaware corporation (“Discover”) and Vega Merger Sub, Inc., a Delaware corporation and a direct,
+wholly owned subsidiary of the Company (“Merger Sub”), pursuant to which (a) Merger Sub will merge with and into Discover, with Discover as the surviving entity in the merger (the “merger”); (b) immediately following the
+merger, Discover, as the surviving entity, will merge with and into Capital One, with Capital One as the surviving entity in the second-step merger (the “second step merger” and together with the merger, the “mergers”); and
+(c) immediately following the second step merger, Discover Bank (“Discover Bank”), a Delaware-chartered and wholly owned subsidiary of Discover, will merge with and into Capital One’s wholly owned national bank subsidiary,
+Capital One National Association (“CONA”), with CONA as the surviving entity in the merger (the “CONA Bank Merger”).
+
+Subject to the terms and conditions of the merger agreement, at the effective time of the merger (the “effective time”), each share
+of common stock, par value $0.01 per share, of Discover (“Discover common stock”) outstanding immediately prior to the effective time other than certain shares held by Capital One or Discover, will be converted into the right to receive
+1.0192 shares (the “exchange ratio”) of common stock, par value $0.01 per share, of Capital One (“Capital One common stock”). Holders of Discover common stock will receive cash in lieu of fractional shares.
+
+Subject to the terms and conditions of the merger agreement, at the effective time of the second step merger (the “second effective
+time”), (i) each share of Fixed-to-Floating Rate Non-Cumulative Perpetual preferred stock, Series C, par value $0.01 per
+share, of Discover (“Discover Series C preferred stock”) and (ii) each share of 6.125% Fixed-Rate Reset Non-Cumulative Perpetual preferred stock, Series D, par value $0.01 per share, of Discover
+(“Discover Series D preferred stock” and collectively with the Discover Series C preferred stock, the “Discover preferred stock”), outstanding immediately prior to the second effective time will be converted into the right to
+receive one share of an applicable newly created series of preferred stock of Capital One having terms that are not materially less favorable than the Discover Series C preferred stock or Discover Series D preferred stock, as applicable (“new
+Capital One preferred stock”).
+
+Subject to the terms and conditions of the merger agreement, at the effective time, (i) each
+outstanding Discover restricted stock unit award will be converted into a corresponding award with respect to Capital One common stock, with the number of shares underlying such award adjusted based on the Exchange Ratio, and (ii) each
+outstanding Discover performance stock unit award will be converted into a cash-based award, with the number of shares underlying such award determined based on the greater of target and actual performance for awards for which more than one year of
+the performance period has elapsed, and target performance for awards for which one year or less of the performance period has elapsed, with the per share cash amount determined using the product of the Exchange Ratio and the average of the closing
+sale prices of Capital One common stock for the five trading days ending on the day preceding the closing date of the mergers. Each such converted Capital One award will otherwise continue to be subject to the same terms and conditions as applied to
+the corresponding Discover equity award.
+
+On July 17, 2024, Discover Bank entered into a purchase agreement with Santiago Holdings,
+LP (“Santiago Holdings”), an Ontario limited partnership and an affiliate of each of Carlyle and KKR, pursuant to which Discover
+
+Bank agreed to sell its private student loan portfolio to Santiago Holdings (the “Discover Student Loan Sale”), with Firstmark Services, a division of Nelnet Inc. assuming
+responsibility for servicing the portfolio upon the sale. The cash purchase price payable to Discover Bank in the transaction is estimated to be up to approximately $10.8 billion which reflects the principal balance of the private student loan
+portfolio of approximately $10.1 billion as of June 30, 2024, and an additional premium, plus any outstanding accrued and unpaid interest at closing. The Discover Student Loan Sale is expected to be completed in multiple closings by the
+end of 2024, subject to waiver or satisfaction of customary closing conditions. The consummation of the mergers, the bank merger and the other transactions contemplated by the merger agreement are not conditioned on the consummation of the Discover
+Student Loan Sale.
+
+The unaudited pro forma condensed combined statements of income for the three months ended March 31, 2024 and the
+year ended December 31, 2023 combines the historical results of Capital One and Discover, giving effect to the mergers (including the issuance of shares of Capital One common stock and new Capital One preferred stock in the mergers) and the
+Discover Student Loan Sale as if those transactions had occurred on January 1, 2023, the first day of Capital One’s fiscal year 2023. The unaudited pro forma condensed combined balance sheet as of March 31, 2024 combines the
+historical consolidated balance sheets of Capital One and Discover as of March 31, 2024, giving effect to the mergers (including the issuance of shares of Capital One common stock and new Capital One preferred stock in the mergers) and the
+Discover Student Loan Sale as if those transactions had occurred on March 31, 2024.
+
+The historical consolidated financial statements
+of Capital One and Discover have been adjusted in the accompanying unaudited pro forma condensed combined financial information to give effect to pro forma events that are necessary to account for the mergers (including the issuance of shares of
+Capital One common stock and new Capital One preferred stock in the mergers) and the Discover Student Loan Sale, in accordance with U.S. GAAP. Certain reclassifications have also been made to conform the historical financial statement presentation
+of Discover to that of Capital One. The unaudited pro forma adjustments are based upon available information and certain assumptions that Capital One believes are reasonable. The following unaudited pro forma condensed combined financial information
+does not reflect the costs of any integration activities or benefits that may result from the realization of future cost savings from operating efficiencies, or any other business changes or synergies that may result from the mergers or the Discover
+Student Loan Sale.
+
+The following unaudited pro forma condensed combined financial information should be read in conjunction with:
+
+ | • |  | the accompanying notes to the unaudited pro forma condensed combined financial information;
+
+ | • |  | the separate historical unaudited consolidated financial statements of Capital One as of and for the three months
+ended March 31, 2024, and the related notes, included in Capital One’s Quarterly Report on Form 10-Q for the three months ended March 31, 2024;
+
+ | • |  | the separate historical unaudited consolidated financial statements of Discover as of and for the three months
+ended March 31, 2024, and the related notes, included in Discover’s Quarterly Report on Form 10-Q for the three months ended March 31, 2024;
+
+ | • |  | the separate historical audited consolidated financial statements of Capital One as of and for the fiscal year
+ended December 31, 2023, and the related notes, included in Capital One’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023; and
+
+ | • |  | the separate historical audited consolidated financial statements of Discover as of and for the fiscal year ended
+December 31, 2023, and the related notes, included in Discover’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+Accounting for the Mergers
+
+The mergers
+are being accounted for as a business combination using the acquisition method with Capital One as the accounting acquirer in accordance with Accounting Standards Codification (“ASC”) Topic 805 (“ASC 805”), Business
+
+2
+
+Combinations. Under this method of accounting, the aggregate purchase consideration will be allocated to Discover’s assets acquired and liabilities assumed based upon their estimated fair
+values at the date of completion of the mergers. The process of valuing the net assets of Discover immediately prior to the mergers, as well as evaluating accounting policies for conformity, is preliminary. Any differences between the estimated fair
+value of the purchase consideration and the estimated fair value of the assets acquired and liabilities assumed will be recorded as goodwill. Accordingly, the purchase price allocation and related adjustments reflected in this unaudited pro forma
+condensed combined financial information are preliminary and subject to revision until a final determination of fair value of the assets acquired and liabilities assumed is performed. For more information, see “ Note 1 — Basis
+of Presentation ”.
+
+Generally, and unless indicated otherwise, financial data included in the unaudited pro forma condensed
+combined financial information is presented in millions of U.S. Dollars and has been prepared on the basis of U.S. GAAP and Capital One’s accounting policies.
+
+The unaudited pro forma condensed combined financial information presented is for informational purposes only and is not necessarily
+indicative of the financial position or results of operations that would have been realized if the mergers (including the issuance of shares of Capital One common stock and new Capital One preferred stock in the mergers) and the Discover Student
+Loan Sale had been completed on the dates set forth above, nor is it indicative of the future results or financial position of Capital One following the mergers. The pro forma adjustments are preliminary and are subject to change as additional
+information becomes available and as additional analysis is performed. To the extent information was publicly available, such preliminary fair value estimates were corroborated against readily available information, inclusive of fair value marks
+disclosed on comparable portfolios of financial assets and liabilities. The preliminary pro forma adjustments have been made solely for the purpose of providing the unaudited pro forma condensed combined financial information.
+
+3
+
+UNAUDITED PRO FORMA CONDENSED COMBINED BALANCE SHEET
+
+As of March 31, 2024
+
+($ in millions)
+
+[TABLE]
+ |  | Capital One Historical |  |  | Discover Reclassed (Note 2) |  |  | Discover Student Loan Sale Transaction Accounting Adjustments |  |  | Note 4 |  | Adjusted Discover Reclassed |  |  | Mergers Transaction Accounting Adjustments |  |  | Note 6 |  | Pro Forma Combined |
+Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and cash equivalents |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and due from banks |  | $ | 4,671 |  |  | $ | 2,381 |  |  | $ | 11,355 |  |  | (a) |  | $ | 13,736 |  |  | $ | (150 | ) |  | (a) |  | $ | 18,257 |
+Interest-bearing deposits and other short-term investments |  |  | 46,357 |  |  |  | 11,623 |  |  |  | — |  |  |  |  |  | 11,623 |  |  |  | — |  |  |  |  |  | 57,980 |
+Total cash and cash equivalents |  |  | 51,028 |  |  |  | 14,004 |  |  |  | 11,355 |  |  |  |  |  | 25,359 |  |  |  | (150 | ) |  |  |  |  | 76,237 |
+Restricted cash for securitization investors |  |  | 474 |  |  |  | 439 |  |  |  | — |  |  |  |  |  | 439 |  |  |  | — |  |  |  |  |  | 913 |
+Securities available for sale |  |  | 78,398 |  |  |  | 13,522 |  |  |  | — |  |  |  |  |  | 13,522 |  |  |  | (23 | ) |  | (b) |  |  | 91,897 |
+Loans held for investment: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Unsecuritized loans held for investment |  |  | 285,577 |  |  |  | 97,508 |  |  |  | (10,330 | ) |  | (b) |  |  | 87,178 |  |  |  | 485 |  |  | (c) |  |  | 373,240 |
+Loans held in consolidated trusts |  |  | 29,577 |  |  |  | 29,047 |  |  |  | (150 | ) |  | (c) |  |  | 28,897 |  |  |  | 848 |  |  | (d) |  |  | 59,322 |
+Total loans held for investment |  |  | 315,154 |  |  |  | 126,555 |  |  |  | (10,480 | ) |  |  |  |  | 116,075 |  |  |  | 1,333 |  |  |  |  |  | 432,562 |
+Allowance for credit losses |  |  | (15,380 | ) |  |  | (9,258 | ) |  |  | 869 |  |  | (d) |  |  | (8,389 | ) |  |  | — |  |  | (e) |  |  | (23,769 | )
+Net loans held for investment |  |  | 299,774 |  |  |  | 117,297 |  |  |  | (9,611 | ) |  |  |  |  | 107,686 |  |  |  | 1,333 |  |  |  |  |  | 408,793 |
+Loans held for sale |  |  | 1,631 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  |  |  |  | 1,631 |
+Premises and equipment, net |  |  | 4,366 |  |  |  | 1,107 |  |  |  | — |  |  |  |  |  | 1,107 |  |  |  | — |  |  |  |  |  | 5,473 |
+Interest receivable |  |  | 2,514 |  |  |  | 1,396 |  |  |  | (555 | ) |  | (e) |  |  | 841 |  |  |  | — |  |  |  |  |  | 3,355 |
+Goodwill |  |  | 15,062 |  |  |  | 255 |  |  |  | — |  |  |  |  |  | 255 |  |  |  | 9,931 |  |  | (f) |  |  | 25,248 |
+Other assets |  |  | 28,473 |  |  |  | 4,669 |  |  |  | (210 | ) |  | (f) |  |  | 4,459 |  |  |  | 7,490 |  |  | (g) |  |  | 40,422 |
+Total assets |  | $ | 481,720 |  |  | $ | 152,689 |  |  | $ | 979 |  |  |  |  | $ | 153,668 |  |  | $ | 18,581 |  |  |  |  | $ | 653,969 |
+Liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest payable |  | $ | 762 |  |  | $ | 445 |  |  | $ | — |  |  |  |  | $ | 445 |  |  | $ | — |  |  |  |  | $ | 1,207 |
+Deposits: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Non-interest-bearing deposits |  |  | 27,617 |  |  |  | 1,500 |  |  |  | — |  |  |  |  |  | 1,500 |  |  |  | — |  |  |  |  |  | 29,117 |
+Interest-bearing deposits |  |  | 323,352 |  |  |  | 108,930 |  |  |  | — |  |  |  |  |  | 108,930 |  |  |  | 34 |  |  | (h) |  |  | 432,316 |
+Total deposits |  |  | 350,969 |  |  |  | 110,430 |  |  |  | — |  |  |  |  |  | 110,430 |  |  |  | 34 |  |  |  |  |  | 461,433 |
+Securitized debt obligations |  |  | 17,661 |  |  |  | 10,933 |  |  |  | (61 | ) |  | (g) |  |  | 10,872 |  |  |  | (105 | ) |  | (i) |  |  | 28,428 |
+Other debt: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Federal funds purchased and securities loaned or sold under agreements to repurchase |  |  | 568 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  |  |  |  | 568 |
+Senior and subordinated notes |  |  | 32,108 |  |  |  | 9,542 |  |  |  | — |  |  |  |  |  | 9,542 |  |  |  | 2 |  |  | (j) |  |  | 41,652 |
+Other borrowings |  |  | 24 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  |  |  |  | 24 |
+Total other debt |  |  | 32,700 |  |  |  | 9,542 |  |  |  | — |  |  |  |  |  | 9,542 |  |  |  | 2 |  |  |  |  |  | 42,244 |
+Other liabilities |  |  | 21,827 |  |  |  | 6,619 |  |  |  | 92 |  |  | (h) |  |  | 6,711 |  |  |  | (36 | ) |  | (k) |  |  | 28,502 |
+Total liabilities |  |  | 423,919 |  |  |  | 137,969 |  |  |  | 31 |  |  |  |  |  | 138,000 |  |  |  | (105 | ) |  |  |  |  | 561,814 |
+Stockholders’ equity: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Preferred stock |  |  | — |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  | (l) |  |  | — |
+Common stock |  |  | 7 |  |  |  | 6 |  |  |  | — |  |  |  |  |  | 6 |  |  |  | (3 | ) |  | (l) |  |  | 10 |
+Additional paid-in capital, net |  |  | 35,808 |  |  |  | 5,634 |  |  |  | — |  |  |  |  |  | 5,634 |  |  |  | 33,070 |  |  | (l) |  |  | 74,512 |
+Retained earnings |  |  | 61,905 |  |  |  | 30,511 |  |  |  | 948 |  |  | (i) |  |  | 31,459 |  |  |  | (35,812 | ) |  | (l) |  |  | 57,552 |
+Accumulated other comprehensive loss |  |  | (9,534 | ) |  |  | (393 | ) |  |  | — |  |  |  |  |  | (393 | ) |  |  | 393 |  |  | (l) |  |  | (9,534 | )
+Treasury stock, at cost |  |  | (30,385 | ) |  |  | (21,038 | ) |  |  | — |  |  |  |  |  | (21,038 | ) |  |  | 21,038 |  |  | (l) |  |  | (30,385 | )
+Total stockholders’ equity |  |  | 57,801 |  |  |  | 14,720 |  |  |  | 948 |  |  |  |  |  | 15,668 |  |  |  | 18,686 |  |  |  |  |  | 92,155 |
+Total liabilities and stockholders’ equity |  | $ | 481,720 |  |  | $ | 152,689 |  |  | $ | 979 |  |  |  |  | $ | 153,668 |  |  | $ | 18,581 |  |  |  |  | $ | 653,969 |
+[/TABLE]
+
+See the accompanying notes to the Unaudited Pro Forma Condensed Combined Financial Information
+
+4
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF INCOME
+
+For the Three Months Ended March 31, 2024
+
+($ in millions, except share and per share data)
+
+[TABLE]
+ |  | Capital One Historical |  |  | Discover Reclassed (Note 2) |  |  | Discover Student Loan Sale Transaction Accounting Adjustments |  |  | Note 5 |  | Adjusted Discover Reclassed |  |  | Mergers Transaction Accounting Adjustments |  |  | Note 7 |  | Pro Forma Combined |
+Interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 9,920 |  |  | $ | 4,650 |  |  | $ | (264 | ) |  | (a) |  | $ | 4,386 |  |  | $ | (43 | ) |  | (a) |  | $ | 14,263 |
+Investment securities |  |  | 687 |  |  |  | 124 |  |  |  | — |  |  |  |  |  | 124 |  |  |  | — |  |  |  |  |  | 811 |
+Other |  |  | 570 |  |  |  | 174 |  |  |  | — |  |  |  |  |  | 174 |  |  |  | — |  |  |  |  |  | 744 |
+Total interest income |  |  | 11,177 |  |  |  | 4,948 |  |  |  | (264 | ) |  |  |  |  | 4,684 |  |  |  | (43 | ) |  |  |  |  | 15,818 |
+Interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Deposits |  |  | 2,812 |  |  |  | 1,210 |  |  |  | — |  |  |  |  |  | 1,210 |  |  |  | (3 | ) |  | (b) |  |  | 4,019 |
+Securitized debt obligations |  |  | 261 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | 9 |  |  | (c) |  |  | 270 |
+Senior and subordinated notes |  |  | 606 |  |  |  | 245 |  |  |  | — |  |  |  |  |  | 245 |  |  |  | — |  |  | (d) |  |  | 851 |
+Other borrowings |  |  | 10 |  |  |  | 6 |  |  |  | — |  |  |  |  |  | 6 |  |  |  | — |  |  |  |  |  | 16 |
+Total interest expense |  |  | 3,689 |  |  |  | 1,461 |  |  |  | — |  |  |  |  |  | 1,461 |  |  |  | 6 |  |  |  |  |  | 5,156 |
+Net interest income |  |  | 7,488 |  |  |  | 3,487 |  |  |  | (264 | ) |  |  |  |  | 3,223 |  |  |  | (49 | ) |  |  |  |  | 10,662 |
+Provision for credit losses |  |  | 2,683 |  |  |  | 1,497 |  |  |  | (53 | ) |  | (b) |  |  | 1,444 |  |  |  | — |  |  | (e) |  |  | 4,127 |
+Net interest income after provision for credit losses |  |  | 4,805 |  |  |  | 1,990 |  |  |  | (211 | ) |  |  |  |  | 1,779 |  |  |  | (49 | ) |  |  |  |  | 6,535 |
+Non-interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interchange fees, net |  |  | 1,145 |  |  |  | 371 |  |  |  | — |  |  |  |  |  | 371 |  |  |  | — |  |  |  |  |  | 1,516 |
+Service charges and other customer-related fees |  |  | 462 |  |  |  | 329 |  |  |  | — |  |  |  |  |  | 329 |  |  |  | — |  |  |  |  |  | 791 |
+Net securities gains (losses) |  |  | — |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  |  |  |  | — |
+Other |  |  | 307 |  |  |  | 23 |  |  |  | — |  |  | (c) |  |  | 23 |  |  |  | — |  |  |  |  |  | 330 |
+Total non-interest income |  |  | 1,914 |  |  |  | 723 |  |  |  | — |  |  |  |  |  | 723 |  |  |  | — |  |  |  |  |  | 2,637 |
+Non-interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  |  | 2,478 |  |  |  | 671 |  |  |  | — |  |  |  |  |  | 671 |  |  |  | — |  |  |  |  |  | 3,149 |
+Occupancy and equipment |  |  | 554 |  |  |  | 20 |  |  |  | — |  |  |  |  |  | 20 |  |  |  | — |  |  |  |  |  | 574 |
+Marketing |  |  | 1,010 |  |  |  | 250 |  |  |  | — |  |  |  |  |  | 250 |  |  |  | — |  |  |  |  |  | 1,260 |
+Professional services |  |  | 262 |  |  |  | 292 |  |  |  | — |  |  |  |  |  | 292 |  |  |  | — |  |  | (f) |  |  | 554 |
+Communications and data processing |  |  | 351 |  |  |  | 163 |  |  |  | — |  |  |  |  |  | 163 |  |  |  | — |  |  |  |  |  | 514 |
+Amortization of intangibles |  |  | 19 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | 548 |  |  | (g) |  |  | 567 |
+Other |  |  | 463 |  |  |  | 913 |  |  |  | — |  |  |  |  |  | 913 |  |  |  | — |  |  |  |  |  | 1,376 |
+Total non-interest expense |  |  | 5,137 |  |  |  | 2,309 |  |  |  | — |  |  |  |  |  | 2,309 |  |  |  | 548 |  |  |  |  |  | 7,994 |
+Income from continuing operations before income taxes |  |  | 1,582 |  |  |  | 404 |  |  |  | (211 | ) |  |  |  |  | 193 |  |  |  | (597 | ) |  |  |  |  | 1,178 |
+Income tax provision |  |  | 302 |  |  |  | 96 |  |  |  | (51 | ) |  | (d) |  |  | 45 |  |  |  | (144 | ) |  | (h) |  |  | 203 |
+Net income |  |  | 1,280 |  |  |  | 308 |  |  |  | (160 | ) |  |  |  |  | 148 |  |  |  | (453 | ) |  |  |  |  | 975 |
+Dividends and undistributed earnings allocated to participating securities |  |  | (23 | ) |  |  | (3 | ) |  |  | — |  |  |  |  |  | (3 | ) |  |  | — |  |  |  |  |  | (26 | )
+Preferred stock dividends |  |  | (57 | ) |  |  | (31 | ) |  |  | — |  |  |  |  |  | (31 | ) |  |  | — |  |  |  |  |  | (88 | )
+Net income (loss) available to common stockholders |  | $ | 1,200 |  |  | $ | 274 |  |  | $ | (160 | ) |  |  |  | $ | 114 |  |  |  | (453 | ) |  |  |  | $ | 861 |
+Basic earnings (loss) per share |  | $ | 3.14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (i) |  | $ | 1.35 |
+Diluted earnings (loss) per share |  | $ | 3.13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (i) |  | $ | 1.35 |
+[/TABLE]
+
+See the accompanying notes to the Unaudited Pro Forma Condensed Combined Financial Information.
+
+5
+
+UNAUDITED PRO FORMA CONDENSED COMBINED STATEMENT OF INCOME
+
+For the Year Ended December 31, 2023
+
+($ in millions, except share and per share data)
+
+[TABLE]
+ |  | Capital One Historical |  |  | Discover Reclassed (Note 2) |  |  | Discover Student Loan Sale Transaction Accounting Adjustments |  |  | Note 5 |  | Adjusted Discover Reclassed |  |  | Mergers Transaction Accounting Adjustments |  |  | Note 7 |  | Pro Forma Combined |
+Interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 37,410 |  |  | $ | 16,953 |  |  | $ | (1,033 | ) |  | (a) |  | $ | 15,920 |  |  | $ | (997 | ) |  | (a) |  | $ | 52,333 |
+Investment securities |  |  | 2,550 |  |  |  | 449 |  |  |  | — |  |  |  |  |  | 449 |  |  |  | — |  |  |  |  |  | 2,999 |
+Other |  |  | 1,978 |  |  |  | 443 |  |  |  | — |  |  |  |  |  | 443 |  |  |  | — |  |  |  |  |  | 2,421 |
+Total interest income |  |  | 41,938 |  |  |  | 17,845 |  |  |  | (1,033 | ) |  |  |  |  | 16,812 |  |  |  | (997 | ) |  |  |  |  | 57,753 |
+Interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Deposits |  |  | 9,489 |  |  |  | 3,886 |  |  |  | — |  |  |  |  |  | 3,886 |  |  |  | (11 | ) |  | (b) |  |  | 13,364 |
+Securitized debt obligations |  |  | 959 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | 35 |  |  | (c) |  |  | 994 |
+Senior and subordinated notes |  |  | 2,204 |  |  |  | 855 |  |  |  | — |  |  |  |  |  | 855 |  |  |  | (1 | ) |  | (d) |  |  | 3,058 |
+Other borrowings |  |  | 45 |  |  |  | 5 |  |  |  | — |  |  |  |  |  | 5 |  |  |  | — |  |  |  |  |  | 50 |
+Total interest expense |  |  | 12,697 |  |  |  | 4,746 |  |  |  | — |  |  |  |  |  | 4,746 |  |  |  | 23 |  |  |  |  |  | 17,466 |
+Net interest income |  |  | 29,241 |  |  |  | 13,099 |  |  |  | (1,033 | ) |  |  |  |  | 12,066 |  |  |  | (1,020 | ) |  |  |  |  | 40,287 |
+Provision for credit losses |  |  | 10,426 |  |  |  | 6,018 |  |  |  | (1,021 | ) |  | (b) |  |  | 4,997 |  |  |  | 5,593 |  |  | (e) |  |  | 21,016 |
+Net interest income after provision for credit losses |  |  | 18,815 |  |  |  | 7,081 |  |  |  | (12 | ) |  |  |  |  | 7,069 |  |  |  | (6,613 | ) |  |  |  |  | 19,271 |
+Non-interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interchange fees, net |  |  | 4,793 |  |  |  | 1,447 |  |  |  | — |  |  |  |  |  | 1,447 |  |  |  | — |  |  |  |  |  | 6,240 |
+Service charges and other customer-related fees |  |  | 1,667 |  |  |  | 1,238 |  |  |  | — |  |  |  |  |  | 1,238 |  |  |  | — |  |  |  |  |  | 2,905 |
+Net securities gains (losses) |  |  | (34 | ) |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | — |  |  |  |  |  | (34 | )
+Other |  |  | 1,120 |  |  |  | 76 |  |  |  | 381 |  |  | (c) |  |  | 457 |  |  |  | — |  |  |  |  |  | 1,577 |
+Total non-interest income |  |  | 7,546 |  |  |  | 2,761 |  |  |  | 381 |  |  |  |  |  | 3,142 |  |  |  | — |  |  |  |  |  | 10,688 |
+Non-interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  |  | 9,302 |  |  |  | 2,434 |  |  |  | — |  |  |  |  |  | 2,434 |  |  |  | — |  |  |  |  |  | 11,736 |
+Occupancy and equipment |  |  | 2,160 |  |  |  | 89 |  |  |  | — |  |  |  |  |  | 89 |  |  |  | — |  |  |  |  |  | 2,249 |
+Marketing |  |  | 4,009 |  |  |  | 1,164 |  |  |  | — |  |  |  |  |  | 1,164 |  |  |  | — |  |  |  |  |  | 5,173 |
+Professional services |  |  | 1,268 |  |  |  | 1,041 |  |  |  | — |  |  |  |  |  | 1,041 |  |  |  | 150 |  |  | (f) |  |  | 2,459 |
+Communications and data processing |  |  | 1,383 |  |  |  | 608 |  |  |  | — |  |  |  |  |  | 608 |  |  |  | — |  |  |  |  |  | 1,991 |
+Amortization of intangibles |  |  | 82 |  |  |  | — |  |  |  | — |  |  |  |  |  | — |  |  |  | 2,555 |  |  | (g) |  |  | 2,637 |
+Other |  |  | 2,112 |  |  |  | 680 |  |  |  | — |  |  |  |  |  | 680 |  |  |  | — |  |  |  |  |  | 2,792 |
+Total non-interest expense |  |  | 20,316 |  |  |  | 6,016 |  |  |  | — |  |  |  |  |  | 6,016 |  |  |  | 2,705 |  |  |  |  |  | 29,037 |
+Income from continuing operations before income taxes |  |  | 6,045 |  |  |  | 3,826 |  |  |  | 369 |  |  |  |  |  | 4,195 |  |  |  | (9,318 | ) |  |  |  |  | 922 |
+Income tax provision |  |  | 1,158 |  |  |  | 886 |  |  |  | 89 |  |  | (d) |  |  | 975 |  |  |  | (2,254 | ) |  | (h) |  |  | (121 | )
+Net income |  |  | 4,887 |  |  |  | 2,940 |  |  |  | 280 |  |  |  |  |  | 3,220 |  |  |  | (7,064 | ) |  |  |  |  | 1,043 |
+Dividends and undistributed earnings allocated to participating securities |  |  | (77 | ) |  |  | (19 | ) |  |  | — |  |  |  |  |  | (19 | ) |  |  | — |  |  |  |  |  | (96 | )
+Preferred stock dividends |  |  | (228 | ) |  |  | (62 | ) |  |  | — |  |  |  |  |  | (62 | ) |  |  | — |  |  |  |  |  | (290 | )
+Net income (loss) available to common stockholders |  | $ | 4,582 |  |  | $ | 2,859 |  |  | $ | 280 |  |  |  |  | $ | 3,139 |  |  |  | (7,064 | ) |  |  |  | $ | 657 |
+Basic earnings (loss) per share |  | $ | 11.98 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (i) |  | $ | 1.03 |
+Diluted earnings (loss) per share |  | $ | 11.95 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | (i) |  | $ | 1.03 |
+[/TABLE]
+
+See the accompanying notes to the Unaudited Pro Forma Condensed Combined Financial Information.
+
+6
+
+NOTES TO THE UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
+
+Note 1 — Basis of Presentation
+
+The unaudited pro forma condensed combined financial information and related notes are prepared in accordance with Article 11 of Regulation S-X.
+
+As discussed in Note 2, certain reclassifications were made to align Discover’s historical
+financial statement presentation with that of Capital One. Capital One is currently in the process of evaluating Discover’s accounting policies with the information currently available and has determined that no significant adjustments are
+necessary to conform Discover’s financial statements to the accounting policies used by Capital One. Therefore, the only changes noted herein are those related to presentation. As a result of this ongoing review and as more information becomes
+available, additional differences could be identified between the accounting policies of the two companies until finalized upon completion of the mergers.
+
+The unaudited pro forma condensed combined financial information relating to the mergers was prepared using the acquisition method of
+accounting in accordance with ASC 805, with Capital One as the accounting acquirer, using the fair value concepts defined in ASC Topic 820, Fair Value Measurement, and based on the historical financial statements of Capital One and Discover. Under
+ASC 805, all assets acquired and liabilities assumed in a business combination are recognized and measured at their fair values as of the acquisition date, while transaction costs associated with the business combination are expensed as incurred.
+The excess of purchase consideration over the estimated fair value of assets acquired and liabilities assumed, if any, is allocated to goodwill. The unaudited pro forma condensed combined financial information also reflects the removal of the
+Discover student loans portfolio and related activity consistent with the terms of the Discover Student Loan Sale.
+
+The allocation of the
+aggregate purchase consideration depends upon certain estimates and assumptions, all of which are preliminary. As of the date of this Current Report on Form 8-K, Capital One has not completed the valuation
+analysis and calculations in sufficient detail necessary to arrive at the required estimates of the fair market value of Discover’s assets to be acquired or liabilities to be assumed, other than a preliminary estimate for intangible assets and
+certain financial assets and financial liabilities. Accordingly, apart from the aforementioned, certain Discover assets and liabilities are presented at their respective carrying amounts and should therefore be treated as preliminary. A final
+determination of the fair value of Discover’s assets and liabilities will be based on Discover’s actual assets and liabilities as of the closing date of the mergers and, therefore, cannot be made prior to the consummation of the mergers.
+The allocation of the aggregate purchase consideration has been made for the purpose of developing the unaudited pro forma condensed combined financial information. The final determination of fair values of assets acquired and liabilities assumed
+relating to the mergers could differ materially from the preliminary allocation of aggregate purchase consideration. The final valuation will be based on the actual net tangible and intangible assets of Discover existing at the acquisition date. As
+of the date of this Current Report on Form 8-K, Discover has not completed the Discover Student Loan Sale. As such, the sale consideration received for the Discover Student Loan Sale as well as any gain on
+sale is based on preliminary estimates and assumptions. The final sale consideration could differ materially from the preliminary sale consideration.
+
+The unaudited pro forma condensed combined balance sheet, as of March 31, 2024, and the unaudited pro forma condensed combined statements
+of income for the three months ended March 31, 2024 and the year ended December 31, 2023, presented herein, are based on the historical financial statements of Capital One and Discover adjusted for the Discover Student Loan Sale. The
+unaudited pro forma condensed combined balance sheet as of March 31, 2024, is presented as if Capital One’s acquisition of Discover and the Discover Student Loan Sale had occurred on March 31, 2024 and combines the historical balance
+sheet of Capital One as of March 31, 2024 with the historical balance sheet of Discover as of March 31, 2024, as adjusted for the Discover Student Loan Sale. The unaudited pro forma condensed combined statements of income for the three
+months ended March 31, 2024 and the year ended December 31, 2023 has been prepared as if the mergers and the Discover Student Loan Sale had occurred on January 1, 2023 and combines Capital One’s historical statements of income for the
+three months ended March 31, 2024 and the year ended December 31, 2023 with Discover’s historical statements of income for the three months ended March 31, 2024 and the year ended December 31, 2023, respectively, in each
+case as adjusted for the Discover Student Loan Sale.
+
+7
+
+As noted previously, the unaudited pro forma condensed combined financial information does
+not reflect any anticipated synergies or dis-synergies, operating efficiencies or cost savings that may result from the mergers or the Discover Student Loan Sale or any acquisition and integration costs that
+may be incurred. The pro forma adjustments represent management’s best estimates and are based upon currently available information and certain assumptions that Capital One believes are reasonable under the circumstances. There are no material
+transactions between Capital One and Discover during the period presented. Accordingly, no adjustments are necessary to eliminate any such transactions.
+
+Note 2 – Conforming Accounting Policies and Reclassification Adjustments
+
+During the preparation of this unaudited pro forma condensed combined financial information, Capital One performed a preliminary analysis of
+Discover’s financial information to identify differences in accounting policies as compared to those of Capital One and differences in financial statement presentation as compared to the presentation of Capital One. With the information
+currently available, Capital One is not aware of any differences in accounting policies that would have a material impact on the unaudited pro forma condensed combined financial statements. However, certain reclassification adjustments have been
+made to conform Discover’s historical financial statement presentation to Capital One’s historical financial statement presentation. Following the completion of the mergers, or as more information becomes available, Capital One will
+finalize the review of accounting policies and reclassifications, which could be materially different from the amounts set forth in the unaudited pro forma condensed combined financial information presented herein.
+
+8
+
+ | A. | The following items represent certain reclassification adjustments to conform Discover’s Historical
+Consolidated Balance Sheet presentation to Capital One’s Historical Consolidated Balance Sheet presentation, which have no impact on net assets and are summarized below (in millions):
+
+[TABLE]
+Capital One Historical
+ Consolidated Balance Sheet
+Line Items |  | Discover Historical
+ Consolidated Balance Sheet
+ Line Items |  | Discover As
+of March 31, 2024 |  |  | Reclassification |  |  | Note 2A |  | Discover Reclassed As
+of March 31, 2024 |
+Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and due from banks |  |  |  | $ | — |  |  | $ | 2,381 |  |  | (i) |  | $ | 2,381 |
+Interest-bearing deposits and other short-term investments |  |  |  |  | — |  |  |  | 11,623 |  |  | (i) |  |  | 11,623 |
+ |  | Cash and cash equivalents |  |  | 14,004 |  |  |  | (14,004 | ) |  | (i) |  |  | — |
+Total cash and cash equivalents |  |  |  |  | 14,004 |  |  |  | — |  |  |  |  |  | 14,004 |
+Restricted cash for securitization investors |  | Restricted cash |  |  | 439 |  |  |  | — |  |  |  |  |  | 439 |
+Securities available for sale |  | Investment securities |  |  | 13,522 |  |  |  | — |  |  |  |  |  | 13,522 |
+Loans held for investment: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Unsecuritized loans held for investment |  |  |  |  | — |  |  |  | 97,508 |  |  | (ii) |  |  | 97,508 |
+Loans held in consolidated trusts |  |  |  |  | — |  |  |  | 29,047 |  |  | (ii) |  |  | 29,047 |
+ |  | Loan receivables |  |  | 126,555 |  |  |  | (126,555 | ) |  | (ii) |  |  | — |
+Total loans held for investment |  |  |  |  | 126,555 |  |  |  | — |  |  |  |  |  | 126,555 |
+Allowance for credit losses |  | Allowance for credit losses |  |  | (9,258 | ) |  |  | — |  |  |  |  |  | (9,258 | )
+Net loans held for investment |  |  |  |  | 117,297 |  |  |  | — |  |  |  |  |  | 117,297 |
+Loans held for sale |  |  |  |  | — |  |  |  | — |  |  |  |  |  | — |
+Premises and equipment, net |  | Premises and equipment, net |  |  | 1,107 |  |  |  | — |  |  |  |  |  | 1,107 |
+Interest receivable |  |  |  |  | — |  |  |  | 1,396 |  |  | (iii) |  |  | 1,396 |
+Goodwill |  | Goodwill |  |  | 255 |  |  |  | — |  |  |  |  |  | 255 |
+Other assets |  | Other assets |  |  | 6,065 |  |  |  | (1,396 | ) |  | (iii) |  |  | 4,669 |
+Total assets |  |  |  | $ | 152,689 |  |  | $ | — |  |  |  |  | $ | 152,689 |
+Liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest payable |  |  |  | $ | — |  |  | $ | 445 |  |  | (iv) |  | $ | 445 |
+Deposits: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Non-interest-bearing deposits |  | Non-interest-bearing deposit accounts |  |  | 1,500 |  |  |  | — |  |  |  |  |  | 1,500 |
+Interest-bearing deposits |  | Interest-bearing deposit accounts |  |  | 108,930 |  |  |  | — |  |  |  |  |  | 108,930 |
+Total deposits |  |  |  |  | 110,430 |  |  |  | — |  |  |  |  |  | 110,430 |
+Securitized debt obligations |  |  |  |  | — |  |  |  | 10,933 |  |  | (v) |  |  | 10,933 |
+Other debt: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Federal funds purchased and securities loaned or sold under agreements to repurchase |  |  |  |  | — |  |  |  | — |  |  |  |  |  | — |
+Senior and subordinated notes |  | Long-term borrowings |  |  | 20,475 |  |  |  | (10,933 | ) |  | (v) |  |  | 9,542 |
+Other borrowings |  | Short-term borrowings |  |  | — |  |  |  | — |  |  |  |  |  | — |
+Total other debt |  |  |  |  | 20,475 |  |  |  | (10,933 | ) |  |  |  |  | 9,542 |
+Other liabilities |  | Accrued expenses and other liabilities |  |  | 7,064 |  |  |  | (445 | ) |  | (iv) |  |  | 6,619 |
+Total liabilities |  |  |  |  | 137,969 |  |  |  | — |  |  |  |  |  | 137,969 |
+Stockholders’ equity: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Preferred stock |  | Preferred Stock |  |  | 1,056 |  |  |  | (1,056 | ) |  | (vi) |  |  | — |
+Common stock |  | Common Stock |  |  | 6 |  |  |  | — |  |  |  |  |  | 6 |
+Additional paid-in capital, net |  | Additional paid-in capital |  |  | 4,578 |  |  |  | 1,056 |  |  | (vi) |  |  | 5,634 |
+Retained earnings |  | Retained earnings |  |  | 30,511 |  |  |  | — |  |  |  |  |  | 30,511 |
+Accumulated other comprehensive income (loss) |  | Accumulated other comprehensive loss |  |  | (393 | ) |  |  | — |  |  |  |  |  | (393 | )
+Treasury stock, at cost |  | Treasury stock, at cost |  |  | (21,038 | ) |  |  | — |  |  |  |  |  | (21,038 | )
+Total stockholders’ equity |  |  |  |  | 14,720 |  |  |  | — |  |  |  |  |  | 14,720 |
+Total liabilities and stockholders’ equity |  |  |  | $ | 152,689 |  |  | $ | — |  |  |  |  | $ | 152,689 |
+[/TABLE]
+
+9
+
+ | i. | To reclassify Discover’s Cash and cash equivalents balance into the two component line items presented by
+Capital One (Cash and due from banks and Interest-bearing deposits and other short-term investments).
+
+ | ii. | To reclassify Discover’s Loans receivable balance into the two component line items presented by Capital
+One (Unsecuritized loans held for investment and Loans held in consolidated trusts).
+
+ | iii. | To reclassify $1,396 million of accrued interest receivable within Other assets to Interest receivable.
+
+ | iv. | To reclassify $445 million of accrued interest payable within Other liabilities to Interest payable.
+
+ | v. | To reclassify $10,933 million of Long-term borrowings to Securitized debt obligations.
+
+ | vi. | To reclassify $1,056 million of the excess Preferred stock over par, $0.01 per share, to Additional paid-in capital, net.
+
+10
+
+ | B. | The following items represent certain reclassification adjustments to conform Discover’s Historical
+Consolidated Statement of Income presentation for the three months ended March 31, 2024 to Capital One’s Historical Consolidated Statement of Income presentation for the three months ended March 31, 2024, which have no impact on Net
+income and are summarized below (in millions):
+
+[TABLE]
+Capital One Historical
+ Consolidated Statement of
+   Income Line Items |  | Discover Historical
+ Consolidated Statement of
+ Income Line Items |  | Discover Three Months Ended March 31, 2024 |  |  | Reclassification |  |  | Note 2B |  |  | Discover Reclassed Three Months Ended March 31, 2024 |
+Interest income: |  | Interest income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | Credit card loans |  | $ | 3,938 |  |  | $ | 712 |  |  |  | (i) |  |  | $ | 4,650 |
+ |  | Other loans |  |  | 712 |  |  |  | (712 | ) |  |  | (i) |  |  |  | — |
+Investment securities |  | Investment securities |  |  | 124 |  |  |  | — |  |  |  |  |  |  |  | 124 |
+Other |  | Other interest income |  |  | 174 |  |  |  | — |  |  |  |  |  |  |  | 174 |
+Total interest income |  | Total interest income |  |  | 4,948 |  |  |  | — |  |  |  |  |  |  |  | 4,948 |
+Interest expense: |  | Interest expense |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Deposits |  | Deposits |  |  | 1,210 |  |  |  | — |  |  |  |  |  |  |  | 1,210 |
+Securitized debt obligations |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Senior and subordinated notes |  | Long-term borrowings |  |  | 245 |  |  |  | — |  |  |  |  |  |  |  | 245 |
+Other borrowings |  | Short-term borrowings |  |  | 6 |  |  |  | — |  |  |  |  |  |  |  | 6 |
+Total interest expense |  |  |  |  | 1,461 |  |  |  | — |  |  |  |  |  |  |  | 1,461 |
+Net interest income |  | Net interest income |  |  | 3,487 |  |  |  | — |  |  |  |  |  |  |  | 3,487 |
+Provision for credit losses |  | Provision for credit losses |  |  | 1,497 |  |  |  | — |  |  |  |  |  |  |  | 1,497 |
+Net interest income after provision for credit losses |  | Net interest income after provision for credit losses |  |  | 1,990 |  |  |  | — |  |  |  |  |  |  |  | 1,990 |
+Non-interest income: |  | Other income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interchange fees, net |  | Discount and interchange revenue, net |  |  | 371 |  |  |  | — |  |  |  |  |  |  |  | 371 |
+Service charges and other customer-related fees |  |  |  |  | — |  |  |  | 329 |  |  |  | (ii) |  |  |  | 329 |
+ |  | Protection products revenue |  |  | 42 |  |  |  | (42 | ) |  |  | (ii) |  |  |  | — |
+ |  | Loan fee income |  |  | 200 |  |  |  | (200 | ) |  |  | (ii) |  |  |  | — |
+ |  | Transaction processing revenue |  |  | 87 |  |  |  | (87 | ) |  |  | (ii) |  |  |  | — |
+Net securities gains (losses) |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Other |  | Other income |  |  | 23 |  |  |  | — |  |  |  |  |  |  |  | 23 |
+ |  | (Losses) gains on equity investments |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Total non-interest income |  | Total other income |  |  | 723 |  |  |  | — |  |  |  |  |  |  |  | 723 |
+Non-interest expense: |  | Other expense |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  | Employee compensation and benefits |  |  | 671 |  |  |  | — |  |  |  |  |  |  |  | 671 |
+Occupancy and equipment |  | Premises and equipment |  |  | 20 |  |  |  | — |  |  |  |  |  |  |  | 20 |
+Marketing |  | Marketing and business development |  |  | 250 |  |  |  | — |  |  |  |  |  |  |  | 250 |
+Professional services |  | Professional fees |  |  | 292 |  |  |  | — |  |  |  |  |  |  |  | 292 |
+Communications and data processing |  | Information processing and communications |  |  | 163 |  |  |  | — |  |  |  |  |  |  |  | 163 |
+Amortization of intangibles |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Other |  | Other expense |  |  | 913 |  |  |  | — |  |  |  |  |  |  |  | 913 |
+Total non-interest expense |  | Total other expense |  |  | 2,309 |  |  |  | — |  |  |  |  |  |  |  | 2,309 |
+Income from continuing operations before income taxes |  | Income before income taxes |  |  | 404 |  |  |  | — |  |  |  |  |  |  |  | 404 |
+Income tax provision |  | Income tax expense |  |  | 96 |  |  |  | — |  |  |  |  |  |  |  | 96 |
+Net Income |  | Net Income |  |  | 308 |  |  |  | — |  |  |  |  |  |  |  | 308 |
+Dividends and undistributed earnings allocated to participating securities |  | Income allocated to participating securities |  |  | (3 | ) |  |  | — |  |  |  |  |  |  |  | (3 | )
+Preferred stock dividends |  | Preferred stock dividends |  |  | (31 | ) |  |  | — |  |  |  |  |  |  |  | (31 | )
+Net income available to common stockholders |  | Net income allocated to common stockholders |  | $ | 274 |  |  | $ | — |  |  |  |  |  |  | $ | 274 |
+[/TABLE]
+
+11
+
+ | C. | The following items represent certain reclassification adjustments to conform Discover’s Historical
+Consolidated Statement of Income presentation for the year ended December 31, 2023 to Capital One’s Historical Consolidated Statement of Income presentation for the year ended December 31, 2023, which have no impact on Net income and
+are summarized below (in millions):
+
+[TABLE]
+Capital One Historical
+ Consolidated Statement of
+   Income Line Items |  | Discover Historical
+ Consolidated Statement of
+ Income Line Items |  | Discover Year Ended December 31, 2023 |  |  | Reclassification |  |  | Note 2C |  |  | Discover Reclassed Year Ended December 31, 2023 |
+Interest income: |  | Interest income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | Credit card loans |  | $ | 14,438 |  |  | $ | 2,515 |  |  |  | (i) |  |  | $ | 16,953 |
+ |  | Other loans |  |  | 2,515 |  |  |  | (2,515 | ) |  |  | (i) |  |  |  | — |
+Investment securities |  | Investment securities |  |  | 449 |  |  |  | — |  |  |  |  |  |  |  | 449 |
+Other |  | Other interest income |  |  | 443 |  |  |  | — |  |  |  |  |  |  |  | 443 |
+Total interest income |  | Total interest income |  |  | 17,845 |  |  |  | — |  |  |  |  |  |  |  | 17,845 |
+Interest expense: |  | Interest expense |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Deposits |  | Deposits |  |  | 3,886 |  |  |  | — |  |  |  |  |  |  |  | 3,886 |
+Securitized debt obligations |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Senior and subordinated notes |  | Long-term borrowings |  |  | 855 |  |  |  | — |  |  |  |  |  |  |  | 855 |
+Other borrowings |  | Short-term borrowings |  |  | 5 |  |  |  | — |  |  |  |  |  |  |  | 5 |
+Total interest expense |  |  |  |  | 4,746 |  |  |  | — |  |  |  |  |  |  |  | 4,746 |
+Net interest income |  | Net interest income |  |  | 13,099 |  |  |  | — |  |  |  |  |  |  |  | 13,099 |
+Provision for credit losses |  | Provision for credit losses |  |  | 6,018 |  |  |  | — |  |  |  |  |  |  |  | 6,018 |
+Net interest income after provision for credit losses |  | Net interest income after provision for credit losses |  |  | 7,081 |  |  |  | — |  |  |  |  |  |  |  | 7,081 |
+Non-interest income: |  | Other income |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interchange fees, net |  | Discount and interchange revenue, net |  |  | 1,447 |  |  |  | — |  |  |  |  |  |  |  | 1,447 |
+Service charges and other customer-related fees |  |  |  |  | — |  |  |  | 1,238 |  |  |  | (ii) |  |  |  | 1,238 |
+ |  | Protection products revenue |  |  | 172 |  |  |  | (172 | ) |  |  | (ii) |  |  |  | — |
+ |  | Loan fee income |  |  | 763 |  |  |  | (763 | ) |  |  | (ii) |  |  |  | — |
+ |  | Transaction processing revenue |  |  | 303 |  |  |  | (303 | ) |  |  | (ii) |  |  |  | — |
+Net securities gains (losses) |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Other |  | Other income |  |  | 85 |  |  |  | (9 | ) |  |  | (iii) |  |  |  | 76 |
+ |  | (Losses) gains on equity investments |  |  | (9 | ) |  |  | 9 |  |  |  | (iii) |  |  |  | — |
+Total non-interest income |  | Total other income |  |  | 2,761 |  |  |  | — |  |  |  |  |  |  |  | 2,761 |
+Non-interest expense: |  | Other expense |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  | Employee compensation and benefits |  |  | 2,434 |  |  |  | — |  |  |  |  |  |  |  | 2,434 |
+Occupancy and equipment |  | Premises and equipment |  |  | 89 |  |  |  | — |  |  |  |  |  |  |  | 89 |
+Marketing |  | Marketing and business development |  |  | 1,164 |  |  |  | — |  |  |  |  |  |  |  | 1,164 |
+Professional services |  | Professional fees |  |  | 1,041 |  |  |  | — |  |  |  |  |  |  |  | 1,041 |
+Communications and data processing |  | Information processing and communications |  |  | 608 |  |  |  | — |  |  |  |  |  |  |  | 608 |
+Amortization of intangibles |  |  |  |  | — |  |  |  | — |  |  |  |  |  |  |  | — |
+Other |  | Other expense |  |  | 680 |  |  |  | — |  |  |  |  |  |  |  | 680 |
+Total non-interest expense |  | Total other expense |  |  | 6,016 |  |  |  | — |  |  |  |  |  |  |  | 6,016 |
+Income from continuing operations before income taxes |  | Income before income taxes |  |  | 3,826 |  |  |  | — |  |  |  |  |  |  |  | 3,826 |
+Income tax provision |  | Income tax expense |  |  | 886 |  |  |  | — |  |  |  |  |  |  |  | 886 |
+Net Income |  | Net Income |  |  | 2,940 |  |  |  | — |  |  |  |  |  |  |  | 2,940 |
+Dividends and undistributed earnings allocated to participating securities |  | Income allocated to participating securities |  |  | (19 | ) |  |  | — |  |  |  |  |  |  |  | (19 | )
+Preferred stock dividends |  | Preferred stock dividends |  |  | (62 | ) |  |  | — |  |  |  |  |  |  |  | (62 | )
+Net income available to common stockholders |  | Net income allocated to common stockholders |  | $ | 2,859 |  |  | $ | — |  |  |  |  |  |  | $ | 2,859 |
+[/TABLE]
+
+12
+
+ | i. | To reclassify Interest income from Other loans to Interest income from Loans, including loans held for sale.
+
+ | ii. | To reclassify Protection products revenue, Loan fee income, and Transaction processing revenue to Service
+charges and other customer-related fees.
+
+ | iii. | To reclassify (Losses) gains on equity investments to Other within
+ Non-interest income.
+
+13
+
+Note 3 – Preliminary Purchase Price Allocation
+
+Estimated preliminary purchase consideration
+
+The following table summarizes the determination of the preliminary estimated purchase consideration for Discover.
+
+[TABLE]
+(in millions, except share and per share data) |  | Amount |
+Share consideration: |  |  |  |
+Shares of Discover common stock issued and outstanding immediately prior to the mergers
+(i) |  |  | 250,844,399 |
+Exchange ratio (ii) |  |  | 1.0192 |
+Estimated number of shares of Capital One common stock to be issued in the mergers |  |  | 255,660,611 |
+Price per share of Capital One common stock as of July 19, 2024 |  | $ | 147.27 |
+Estimated fair value of consideration for outstanding common stock |  |  | 37,651 |
+Estimated fair value of consideration for preferred stock (iii) |  |  | 1,056 |
+Estimated fair value of preliminary purchase price consideration |  | $ | 38,707 |
+[/TABLE]
+
+ | i. | Assumed based on Discover’s shares of common stock issued and outstanding as of July 19, 2024 with
+the addition of select Discover RSU awards that will fully vest in connection with the mergers and be settled in shares of Discover common stock. Any change in control payments with a dual trigger requires both a change in control and a qualifying
+termination event to occur. Based on the preliminary analysis and public information available, Capital One believes the impact of the replacement stock compensation awards and change in control payments are immaterial to the total estimated
+preliminary purchase price consideration and therefore no adjustment, other than the RSU adjustment described above, is reflected.
+
+ | ii. | Exchange ratio pursuant to the terms of the merger agreement.
+
+ | iii. | In connection with the mergers, Capital One will convert the Discover series C preferred stock and the Discover
+series D preferred stock into new Capital One preferred stock. There is currently not sufficient and reliable information available for Capital One to complete the analysis and calculations in sufficient detail necessary to determine whether any
+adjustment to the current carrying value is reasonable. The estimate is subject to change as further information is obtained and a detailed analysis can be conducted. Capital One performed a sensitivity analysis of the potential difference between
+carrying value and fair value and determined it to be not significant for the purpose of these unaudited pro forma condensed combined financial information.
+
+14
+
+The value of the purchase consideration to be paid by Capital One in shares of Capital One
+common stock and new Capital One preferred stock upon the consummation of the mergers will be determined based on the closing price of Capital One common stock and new Capital One preferred stock on the closing date and the number of issued and
+outstanding shares of Discover common stock and Discover preferred stock immediately prior to the closing. Actual adjustments may differ from the amounts reflected in the unaudited pro forma condensed combined financial information, and these
+differences may be material. The preliminary estimated purchase consideration could significantly differ from the amounts presented due to movements in Capital One share price up to the closing date. A sensitivity analysis related to the fluctuation
+in Capital One share price was performed to assess the impact a hypothetical change of 10% on the closing price of Capital One common stock and carrying value of Discover preferred stock on July 19, 2024 would have on the estimated preliminary
+aggregate purchase consideration and its impact on the preliminary goodwill as of the closing date:
+
+[TABLE]
+ |  | Share Price |  |  | Estimated Consideration (Equity Portion) |  |  | Preliminary Goodwill Impact |
+Capital One common stock: |  |  |  |  |  |  |  |  |  |  |  |
+10% increase |  | $ | 162.00 |  |  | $ | 41,416 |  |  | $ | 3,765 |
+10% decrease |  | $ | 132.54 |  |  | $ | 33,886 |  |  | $ | (3,765 | )
+New Capital One preferred stock: |  |  |  |  |  |  |  |  |  |  |  |
+10% increase |  |  |  |  |  | $ | 1,162 |  |  | $ | 106 |
+10% decrease |  |  |  |  |  | $ | 950 |  |  | $ | (106 | )
+[/TABLE]
+
+Preliminary purchase consideration allocation
+
+The assumed accounting for the mergers, including the preliminary purchase price consideration, is based on provisional amounts as the
+associated purchase accounting will not be finalized until after the mergers have occurred. The preliminary allocation of the purchase price to the acquired assets and assumed liabilities was based upon preliminary estimates of fair value. The final
+determination of the estimated fair values, the assets’ useful lives, and the amortization methods are dependent upon certain valuations and other analyses that have not yet been completed. Actual results may differ materially from the
+assumptions within the accompanying unaudited pro forma condensed combined financial information. The unaudited pro forma adjustments are based upon available information and certain assumptions that Capital One believes are reasonable
+under the circumstances. The purchase price adjustments relating to the Discover and Capital One combined financial information are preliminary and subject to change, as additional information becomes available and as additional analyses are
+performed.
+
+15
+
+The following table summarizes the allocation of the preliminary purchase consideration to
+the fair value of the identifiable tangible and intangible assets acquired and liabilities assumed of Discover, as if the mergers had been completed immediately following the Discover Student Loan Sale on March 31, 2024, with the excess
+recorded to Goodwill:
+
+[TABLE]
+(in millions) |  | Amount |
+Preliminary fair value of assets acquired : |  |  |  |
+Cash and cash equivalents and Restricted cash for securitization investors |  | $ | 25,798 |
+Securities available for sale |  |  | 13,499 |
+Loans held for investment, net of Allowance for credit losses |  |  | 114,612 |
+Premises and equipment |  |  | 1,107 |
+Interest receivable |  |  | 841 |
+Intangible assets |  |  | 10,321 |
+Other assets |  |  | 274 |
+Preliminary fair value of liabilities assumed: |  |  |  |
+Interest payable |  |  | 445 |
+Non-interest-bearing deposits |  |  | 1,500 |
+Interest-bearing deposits |  |  | 108,964 |
+Securitized debt obligations |  |  | 10,767 |
+Senior and subordinated notes |  |  | 9,544 |
+Other borrowings and other liabilities |  |  | 6,711 |
+Preliminary fair value of net assets acquired |  |  | 28,521 |
+Preliminary Goodwill |  |  | 10,186 |
+Estimated preliminary purchase price consideration |  | $ | 38,707 |
+[/TABLE]
+
+Note 4 – Discover Student Loan Sale Adjustments to the Unaudited Pro Forma Condensed Combined Balance Sheet
+
+The following pro forma adjustments have been reflected in the Discover Student Loan Sale Transaction Accounting Adjustments column in the
+accompanying unaudited pro forma condensed combined balance sheet as of March 31, 2024. All adjustments are based on available information and certain preliminary assumptions that Capital One believes are reasonable under the circumstances.
+There are no material transaction costs related to the Discover Student Loan Sale and actual results may differ materially from the assumptions within the accompanying unaudited pro forma condensed combined financial information.
+
+(a) Represents an adjustment of $11,355 million to Cash and cash due from banks to reflect the cash proceeds expected to be received for the Discover
+Student Loan Sale. This amount represents an assumed $10.8 billion cash purchase price in addition to $555 million of interest receivable. This amount is preliminary and may change as the Discover Student Loan Sale is finalized.
+
+(b) Represents an adjustment of $(10,330) million to Unsecuritized loans held for investment to reflect the portion expected to be sold in the Discover
+Student Loan Sale.
+
+(c) Represents an adjustment of $(150) million to Loans held in consolidated trusts to reflect the portion expected to be sold in the
+Discover Student Loan Sale.
+
+(d) Represents an adjustment of $869 million to Allowance for credit losses to reflect the reversal of the allowance as
+a result of the Discover Student Loan Sale.
+
+16
+
+(e) Represents an adjustment of $(555) million to Interest receivable to reflect interest receivable
+expected to be sold in the Discover Student Loan Sale.
+
+(f) Represents an adjustment of $(210) million to Other assets to reflect the removal of deferred
+tax assets as a result of the reversal of the Allowance for credit losses associated with the Discover Student Loan Sale.
+
+(g) Represents an adjustment of
+$(61) million to Securitized debt obligations to reflect the removal of the securitized debt obligations as a result of the Discover Student Loan Sale.
+
+(h) Represents an adjustment of $92 million to Other liabilities to reflect the increase in taxes payable as a result of the Discover Student Loan Sale.
+
+(i) Represents an adjustment to Retained earnings consisting of the following to reflect the impact of the Discover Student Loan Sale.
+
+[TABLE]
+(in millions) |  | Amount |
+Retained Earnings Impact |  |  |  |
+Gain on sale of student loans |  | $ | 381 |
+Release of Allowance for credit losses |  |  | 869 |
+Tax impact of gain on sale of student loans |  |  | (92 | )
+Tax impact of release of Allowance for credit losses |  |  | (210 | )
+Total Retained Earnings Impact |  | $ | 948 |
+[/TABLE]
+
+Note 5 – Discover Student Loan Sale Adjustments to the Unaudited Pro Forma Condensed Combined Statements of Income
+
+The following pro forma adjustments have been included in the Discover Student Loan Sale Transaction Accounting Adjustments columns to
+give effect as if the Discover Student Loan Sale had been completed on January 1, 2023 in the accompanying unaudited pro forma condensed combined statements of income for the three months ended March 31, 2024, and the year ended
+December 31, 2023. All adjustments are based on preliminary assumptions, which are subject to change.
+
+(a) Represents an adjustment of $(264) million
+and $(1,033) million for the three months ended March 31, 2024, and the year ended December 31, 2023, respectively, to Interest income as a result of the Discover Student Loan Sale.
+
+(b) Represents an adjustment for the three months ended March 31, 2024, and the year ended December 31, 2023, respectively, to Provision for credit
+losses consisting of the following as a result of the Discover Student Loan Sale.
+
+[TABLE]
+(in millions) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Provision for Credit Losses Impact |  |  |  |  |  |  |  |
+Removal of Provision for credit losses in Discover’s historical results |  | $ | (53 | ) |  | $ | (152 | )
+Reversal of Allowance for credit losses upon sale |  |  | — |  |  |  | (869 | )
+Total Provision for Credit Losses Impact |  | $ | (53 | ) |  | $ | (1,021 | )
+[/TABLE]
+
+17
+
+(c) Represents an adjustment of $381 million for the year ended December 31, 2023, to Other non-interest income to reflect the gain on sale as a result of the Discover Student Loan Sale.
+
+(d) Represents an
+adjustment to record the estimated income tax impact from the Discover Student Loan Sale Transaction Accounting Adjustments utilizing a statutory income tax rate in effect of 24.2% for the three months ended March 31, 2024 and the year ended
+December 31, 2023, respectively. The effective tax rate of Capital One following the mergers could be significantly different (either higher or lower) depending on post-merger activities, including cash needs, the geographical mix of income and
+changes in tax law. Because the tax rates used for the pro forma financial information are estimated, the pro forma tax rate will likely vary from the actual effective rate in periods subsequent to completion of the mergers. Adjustments to record
+the estimated income tax impact of the pro forma adjustments consist of the following:
+
+[TABLE]
+(in millions) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Tax Impact |  |  |  |  |  |  |  |
+Gain on sale of student loans |  | $ | — |  |  | $ | 92 |
+Removal of Provision for credit losses from Discover’s historical results |  |  | 13 |  |  |  | 37 |
+Reversal of Allowance for credit losses upon sale |  |  | — |  |  |  | 210 |
+Change in income from the Discover Student Loan Sale |  |  | (64 | ) |  |  | (250 | )
+Total Tax Impact |  | $ | (51 | ) |  | $ | 89 |
+[/TABLE]
+
+Note 6 – Mergers Adjustments to the Unaudited Pro Forma Condensed Combined Balance Sheet
+
+The following pro forma adjustments have been reflected in the Mergers Transaction Accounting Adjustments column in the accompanying unaudited
+pro forma condensed combined balance sheet as of March 31, 2024. All adjustments are based on preliminary assumptions and valuations, which are subject to change.
+
+(a) Represents an adjustment of $(150) million to Cash and due from banks for the payment of expected transaction costs related to the mergers for legal fees,
+advisory services, and accounting and other professional fees.
+
+(b) Represents an adjustment of $(23) million to Securities available for sale to reflect
+the estimated fair value of residential mortgage-backed securities which are classified as held-to-maturity by Discover. The fair value estimate was prepared in a manner
+consistent with both Discover’s most recent unaudited financial statements and Capital One’s internal fair value measurements for similar instruments. Detailed valuations have not been performed and, accordingly, the fair value adjustment
+reflects preliminary estimates made by Capital One and is subject to change once further analyses are performed and as additional information becomes available.
+
+18
+
+(c) Represents adjustments to Unsecuritized loans held for investment consisting of the following:
+
+[TABLE]
+(in millions) |  | Amount |
+Estimate of fair value related to current interest rates and liquidity |  | $ | 5,196 |
+Estimate of lifetime credit losses on acquired Unsecuritized loans held for investment |  |  | (7,066 | )
+Net fair value pro forma adjustments |  |  | (1,870 | )
+Gross up of credit mark on Purchase Credit Deteriorated (“PCD”) loans (see Note
+(e) below for allowance for credit losses) |  |  | 2,355 |
+Net pro forma transaction accounting adjustment to Unsecuritized loans held for
+investment |  | $ | 485 |
+[/TABLE]
+
+The fair value estimate was prepared in a manner consistent with both Discover’s most recent unaudited financial
+statements and Capital One’s internal income approach. Detailed valuations have not been performed and, accordingly, the fair value adjustment reflects preliminary estimates made by Capital One and is subject to change once further analyses are
+performed and as additional information becomes available.
+
+(d) Represents adjustments to Loans held in consolidated trusts consisting of the following:
+
+[TABLE]
+(in millions) |  | Amount |
+Estimate of fair value related to current interest rates and liquidity |  | $ | 1,730 |
+Estimate of lifetime credit losses on acquired Loans held in consolidated trusts |  |  | (1,323 | )
+Net fair value pro forma adjustments |  |  | 407 |
+Gross up of credit mark on PCD loans (see Note (e) below for allowance for
+credit losses) |  |  | 441 |
+Net pro forma transaction accounting adjustment to Loans held in consolidated
+trusts |  | $ | 848 |
+[/TABLE]
+
+The fair value estimate was prepared in a manner consistent with both Discover’s most recent unaudited financial
+statements and Capital One’s internal income approach. Detailed valuations have not been performed and, accordingly, the fair value adjustment reflects preliminary estimates made by Capital One and is subject to change once further analyses are
+performed and as additional information becomes available.
+
+(e) Represents adjustments to Allowance for credit losses consisting of the following:
+
+[TABLE]
+(in millions) |  | Amount |
+Reversal of historical Discover Allowance for credit losses |  | $ | 8,389 |
+Establishment of the Allowance for credit losses for PCD loans’ estimated lifetime
+losses |  |  | (2,796 | )
+Net pro forma transaction accounting adjustments to Allowance for credit losses |  |  | 5,593 |
+Establishment of the Allowance for credit losses for
+ non-PCD loans’ estimated lifetime losses recognized through the provision for credit losses |  |  | (5,593 | )
+Net change to Allowance for credit losses resulting from the mergers |  | $ | — |
+[/TABLE]
+
+For purposes of this pro forma presentation, the non-PCD and PCD loan portfolios were
+estimated to have weighted-average lives of 3 years, and 1 year, respectively.
+
+(f) Represents an adjustment to reflect the goodwill that would have been
+recorded if the mergers occurred on March 31, 2024:
+
+[TABLE]
+(in millions) |  | Amount |
+Goodwill resulting from the mergers (Note 3) |  | $ | 10,186 |
+Less: Elimination of Discover’s historical Goodwill |  |  | (255 | )
+Net pro forma transaction accounting adjustments to Goodwill |  | $ | 9,931 |
+[/TABLE]
+
+19
+
+(g) Represents adjustments to Other Assets consisting of the following:
+
+[TABLE]
+(in millions) |  | Amount |  |  | Estimated Useful Life (Years) |
+Estimated Fair Value – Purchased Credit Card Relationships (i) |  | $ | 9,948 |  |  |  | 7 |
+Estimated Fair Value – Core Deposits (i) |  |  | 373 |  |  |  | 10 |
+Estimated deferred income taxes (ii) |  |  | (2,831 | ) |  |  |  |
+Net pro forma transaction accounting adjustments to Other Assets |  | $ | 7,490 |  |  |  |  |
+[/TABLE]
+
+(i) | The fair values for identifiable intangible assets are estimated using a market participant approach. The
+amount of intangibles following the mergers may differ significantly based upon the final assigned fair value of each identifiable intangible asset. As the preliminary estimated fair values could significantly differ from the amounts presented, a
+sensitivity analysis was performed to assess the impact of a hypothetical change of 10%. A 10% change in the valuation of intangible assets would cause a corresponding increase or decrease in the intangible assets by approximately
+$1,032 million.
+
+(ii) | Represents an adjustment for the estimated tax impacts of the pro forma adjustments to deferred income taxes as
+a result of purchase accounting in the unaudited pro forma condensed combined balance sheet by using a statutory tax rate of 24.2% for the three months ended March 31, 2024. The total effective tax rate of Capital One following the mergers
+could be significantly different depending on the post-acquisition geographical mix of income and other factors. Because the tax rate used for this unaudited pro forma condensed combined financial information is an estimate, it will likely vary from
+the actual rate in periods subsequent to the completion of the mergers and those differences may be material. Components of the estimated deferred income taxes adjustment consist of the following:
+
+[TABLE]
+(in millions) |  | Amount |
+Deferred Tax Impact |  |  |  |
+Identifiable intangible assets |  | $ | (2,498 | )
+Fair value adjustments for acquired financial assets and liabilities |  |  | 343 |
+Reversal of Discover historical Allowance for credit losses |  |  | (2,030 | )
+Allowance for credit losses for non-PCD loans |  |  | 1,354 |
+Total Deferred Tax Impact |  | $ | (2,831 | )
+[/TABLE]
+
+20
+
+(h) Represents an adjustment of $34 million to Interest bearing deposits to reflect the estimated fair
+value of Time deposits. The fair value estimate was prepared in a manner consistent with both Discover’s most recent unaudited financial statements and Capital One’s internal fair value measurements for similar instruments. Detailed
+valuations have not been performed and, accordingly, the fair value adjustment reflects preliminary estimates made by Capital One and is subject to change once further analyses are performed and as additional information becomes available.
+
+(i) Represents an adjustment of $(105) million to Securitized debt obligations to reflect the estimated fair value of long-term borrowings owed to
+securitization investors. The fair value estimate was prepared in a manner consistent with both Discover’s most recent unaudited financial statements and Capital One’s internal fair value measurements for similar instruments. Detailed
+valuations have not been performed and, accordingly, the fair value adjustment reflects preliminary estimates made by Capital One and is subject to change once further analyses are performed and as additional information becomes available.
+
+(j) Represents an adjustment of $2 million to Senior and subordinated notes to reflect the estimated fair value of other long-term borrowings. The fair
+value estimate was prepared in a manner consistent with both Discover’s most recent unaudited financial statements and Capital One’s internal fair value measurements for similar instruments. Detailed valuations have not been performed and,
+accordingly, the fair value adjustment reflects preliminary estimates made by Capital One and is subject to change once further analyses are performed and as additional information becomes available.
+
+(k) Represents adjustment of $(36) million to Other liabilities to reflect the estimated tax impact of the transaction costs in connection with the mergers
+described in Note 6 (a). The estimated tax impact was calculated by using a statutory tax rate of 24.2% for the three months ended March 31, 2024. The actual tax benefit realized may differ based on the amount and nature of transaction costs
+actually incurred.
+
+(l) Represents adjustments to Stockholders’ equity consisting of the following:
+
+[TABLE]
+(in millions) |  | Preferred Stock |  |  | Common Stock |  |  | Additional Paid-in Capital |  |  | Retained Earnings |  |  | Accumulated other comprehensive loss |  |  | Treasury Stock |
+Pro forma transaction accounting adjustments: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Elimination of Discover’s adjusted historical equity balances |  | $ | — |  |  | $ | (6 | ) |  | $ | (5,634 | ) |  | $ | (31,459 | ) |  | $ | 393 |  |  | $ | 21,038 |
+Issuance of shares of Capital One common stock |  |  | — |  |  |  | 3 |  |  |  | 37,648 |  |  |  | — |  |  |  | — |  |  |  | — |
+Issuance of shares of Capital One preferred stock |  |  | — |  |  |  | — |  |  |  | 1,056 |  |  |  | — |  |  |  | — |  |  |  | — |
+Establishment of the Allowance for credit losses for
+ non-PCD loans net of tax |  |  | — |  |  |  | — |  |  |  | — |  |  |  | (4,239 | ) |  |  | — |  |  |  | — |
+Represents transaction fees and expenses related to the mergers, net of tax |  |  | — |  |  |  | — |  |  |  | — |  |  |  | (114 | ) |  |  | — |  |  |  | — |
+Net pro forma transaction accounting adjustments to equity |  | $ | — |  |  | $ | (3 | ) |  | $ | 33,070 |  |  | $ | (35,812 | ) |  | $ | 393 |  |  | $ | 21,038 |
+[/TABLE]
+
+21
+
+Note 7 –Mergers Adjustments to the Unaudited Pro Forma Condensed Combined Statements of Income
+
+The following pro forma adjustments have been included in the Mergers Transaction Accounting Adjustments columns to give effect as if
+the mergers had been completed on January 1, 2023 in the accompanying unaudited pro forma condensed combined statements of income for the three months ended March 31, 2024, and the year ended December 31, 2023:
+
+(a) Represents adjustments to Interest income consisting of the following:
+
+[TABLE]
+(in millions) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Pro forma transaction accounting adjustments: |  |  |  |  |  |  |  |
+Amortization of fair value adjustments to Unsecuritized loans held for investments |  | $ | 11 |  |  | $ | (576 | )
+Amortization of fair value adjustments to Loans held in consolidated trusts |  |  | (54 | ) |  |  | (421 | )
+Net pro forma transaction accounting adjustments to Loans, including loans held for sale
+income |  | $ | (43 | ) |  | $ | (997 | )
+[/TABLE]
+
+Pro forma amortization is preliminary and based on the use of straight-line amortization over 3 years and 1
+year for non-PCD loans and PCD loans, respectively. The amount of amortization following the mergers may differ significantly between periods based upon the final value assigned and amortization methodology.
+
+(b) Represents an adjustment of $(3) million and $(11) million for the three months ended March 31, 2024, and the year ended December 31, 2023,
+respectively, to Deposits expense within Interest expense to reflect the amortization of fair value adjustments to Time deposits. Pro forma amortization is preliminary and based on the use of straight-line methodology, using an estimated useful life
+of three years.
+
+(c) Represents an adjustment of $9 million and $35 million for the three months ended March 31, 2024, and the year ended
+December 31, 2023, respectively, to Securitized debt obligation expense within Interest expense to reflect the accretion of fair value adjustment to Securitized debt obligations. Pro forma accretion is preliminary and based on the use of
+straight-line methodology, using an estimated useful life of three years.
+
+(d) Represents an adjustment of $0 million and $(1) million for the three
+months ended March 31, 2024, and the year ended December 31, 2023, respectively, to Senior and subordinated notes expense within Interest expense to reflect the accretion of fair value adjustment to Senior and subordinated notes. Pro forma
+accretion is preliminary and based on the use of straight-line methodology, using an estimated useful life of three years.
+
+22
+
+(e) Reflects a non-recurring adjustment of $5.6 billion for the
+year ended December 31, 2023, to reflect the establishment of the allowance for credit losses for non-PCD loans upon completion of the mergers.
+
+(f) Represents an adjustment of $150 million for the year ended December 31, 2023, to Professional services expense within Non-interest expense to reflect one-time transaction fees and expenses incurred upon completion of the mergers, which consist of professional, legal, and other merger related
+fees.
+
+(g) Represents adjustments to Non-interest expenses consisting of the following:
+
+[TABLE]
+(in millions) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Pro forma transaction accounting adjustments: |  |  |  |  |  |  |  |
+Amortization of intangible assets – Purchased Credit Card Relationships |  | $ | 533 |  |  | $ | 2,487 |
+Amortization of intangible assets – Core Deposits |  |  | 15 |  |  |  | 68 |
+Net pro forma transaction accounting adjustments to Amortization of intangibles
+expense |  | $ | 548 |  |  | $ | 2,555 |
+[/TABLE]
+
+Pro forma amortization is preliminary and based on the use of the sum-of-the-years’ digits method. The amount of amortization following the mergers may differ significantly between periods based upon the final value assigned and
+amortization methodology used for each identifiable intangible asset. A 10% change in the valuation of intangible assets would cause a corresponding increase or decrease in the amortization expense of approximately $55 million and
+$256 million for the three months ended March 31, 2024 and the year ended December 31, 2023, respectively.
+
+The effect on
+operating results for the five years following the mergers based on the use of sum-of-the-years’ digits for the Purchased
+Credit Card Relationships is as follows:
+
+[TABLE]
+(in millions) |  | Effect on Operating Results |
+For the Year Ended December 31, |  |  |  |
+Remaining period of 2024 |  | $ | 1,599 |
+2025 |  |  | 1,776 |
+2026 |  |  | 1,421 |
+2027 |  |  | 1,066 |
+2028 |  |  | 711 |
+[/TABLE]
+
+(h) Represents an adjustment to record the estimated income tax impact of the pro forma adjustments utilizing a statutory
+income tax rate in effect of 24.2% for the three months ended March 31, 2024 and the year ended December 31, 2023, respectively. The effective tax rate of Capital One following the mergers could be significantly different (either higher or
+lower) depending on post-merger activities, including cash needs, the geographical mix of income and changes in tax law. Because the tax rates used for the pro forma financial information are estimated, the pro forma tax rate will likely vary from
+the actual effective rate in periods subsequent to completion of the mergers. This determination is preliminary and subject to change based upon the final determination of the fair value of the
+
+23
+
+acquired assets and assumed liabilities. Adjustments to record the estimated income tax impact of the pro forma adjustments consist of the following:
+
+[TABLE]
+(in millions) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Tax Impact |  |  |  |  |  |  |  |
+Amortization of fair value adjustment for identifiable intangible assets |  | $ | (133 | ) |  | $ | (618 | )
+Amortization of fair value adjustments for financial assets acquired and financial liabilities
+assumed |  |  | (11 | ) |  |  | (246 | )
+Deferred income taxes related to Allowance for credit losses for
+ non-PCD loans |  |  | — |  |  |  | (1,354 | )
+Transaction costs of the mergers |  |  | — |  |  |  | (36 | )
+Total Tax Impact |  | $ | (144 | ) |  | $ | (2,254 | )
+[/TABLE]
+
+24
+
+(i) Represents the adjustment to earnings per share for the three months ended March 31, 2024 and the
+year ended December 31, 2023, respectively, to present pro forma basic and diluted weighted average shares of Capital One following the mergers using the historical weighted average shares of Capital One common stock outstanding combined with
+the additional Capital One common stock issued in conjunction with the mergers. The following table sets forth a reconciliation of the numerators and denominators used to compute pro forma basic and diluted earnings per share:
+
+[TABLE]
+(in millions, except per share data) |  | For the Three Months Ended March 31, 2024 |  |  | For the Year Ended December 31, 2023 |
+Pro forma weighted average shares: |  |  |  |  |  |  |  |
+Historical weighted average Capital One common stock outstanding – basic |  |  | 382.2 |  |  |  | 382.4 |
+Issuance of shares to Discover common stock shareholders |  |  | 255.7 |  |  |  | 255.7 |
+Pro forma weighted average shares – basic |  |  | 637.9 |  |  |  | 638.1 |
+Pro forma weighted average shares: |  |  |  |  |  |  |  |
+Historical weighted average Capital One common stock outstanding – diluted |  |  | 383.4 |  |  |  | 383.4 |
+Issuance of shares to Discover common stock shareholders |  |  | 255.7 |  |  |  | 255.7 |
+Pro forma weighted average shares – diluted |  |  | 639.1 |  |  |  | 639.1 |
+Pro forma earnings per share – basic and diluted: |  |  |  |  |  |  |  |
+Pro forma net income (loss) attributable to common shareholders |  | $ | 861 |  |  | $ | 657 |
+Pro forma basic earnings per share |  |  | 1.35 |  |  |  | 1.03 |
+Pro forma diluted earnings per share |  | $ | 1.35 |  |  | $ | 1.03 |
+[/TABLE]
+
+25

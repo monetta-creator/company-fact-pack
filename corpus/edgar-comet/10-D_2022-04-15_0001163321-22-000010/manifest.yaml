@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2022-04-15_0001163321-22-000010
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2022-04-15 (period 2022-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332122000010/form10-dmarch2022.htm
+retrieved_at: '2026-08-20T02:56:48Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dmarch2022.htm
+  role: raw
+  sha256: 0d87f2ae11e9d6f72680b188fe8a10c3385648e35237e09ef552ed33d368ac7c
+  size: 34382
+  stored: corpus
+- name: exhibit9912002-ccmarch2022.htm
+  role: exhibit
+  sha256: 1d796d099d30a9c95f39f959ab356fa09381bba90fb4f48df750f0f3108fdca4
+  size: 153597
+  stored: corpus
+- name: exhibit992nhsmarch2022.htm
+  role: exhibit
+  sha256: 9b4d6479e590740a124512be98c85f20a750361f80d9511aa18cbf8ea0aa19ec
+  size: 418396
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 124b1d7b85611e8cdb91a5171995c261659c11919ccc16c4ec5b2a3e5b50fb08
+  size: 41204
+  stored: corpus
+filed_date: '2022-04-15'
+period_end: '2022-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-22-000010
+  form: 10-D
+  items: ''

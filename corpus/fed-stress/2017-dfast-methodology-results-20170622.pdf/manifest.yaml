@@ -1,0 +1,21 @@
+doc_id: fed-stress/2017-dfast-methodology-results-20170622.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2017-dfast-methodology-results-20170622.pdf
+url: https://www.federalreserve.gov/publications/files/2017-dfast-methodology-results-20170622.pdf
+retrieved_at: '2026-08-20T03:15:18Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2017-dfast-methodology-results-20170622.pdf
+  role: raw
+  sha256: 9982c307218c325d2c9a99002d95245e69767eac40ff9cfe563168852a068d5c
+  size: 1901504
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 5d8d5d8d354727c418812ab0e587eb6646a5e279339c2c196abaf280027e652c
+  size: 552703
+  stored: corpus

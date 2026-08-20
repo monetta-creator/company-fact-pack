@@ -1,0 +1,21 @@
+doc_id: fed-stress/2020-march-supervisory-stress-test-methodology.pdf
+source: fed-stress
+source_tier: A
+doc_type: dfast
+title: Fed stress test file 2020-march-supervisory-stress-test-methodology.pdf
+url: https://www.federalreserve.gov/publications/files/2020-march-supervisory-stress-test-methodology.pdf
+retrieved_at: '2026-08-20T03:15:28Z'
+entity_ids:
+- cof
+fetcher: fed_stress v1
+files:
+- name: 2020-march-supervisory-stress-test-methodology.pdf
+  role: raw
+  sha256: 715cde44d58315fe82691f606eae7bdcbd648e5b232c22f5d12a8c512c6d7ee0
+  size: 1034779
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 430279f8f1b2f2588da06743d565cbaf31420a763068dd3783700d79f0b7d4af
+  size: 235871
+  stored: corpus

@@ -1,0 +1,158 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2025-06-25 2025-06-25 0000927628 us-gaap:CommonStockMember 2025-06-25 2025-06-25 0000927628 cof:SeriesIPreferredStockMember 2025-06-25 2025-06-25 0000927628 cof:SeriesJPreferredStockMember 2025-06-25 2025-06-25 0000927628 cof:SeriesKPreferredStockMember 2025-06-25 2025-06-25 0000927628 cof:SeriesLPreferredStockMember 2025-06-25 2025-06-25 0000927628 cof:SeriesNPreferredStockMember 2025-06-25 2025-06-25 0000927628 us-gaap:SeniorNotesMember 2025-06-25 2025-06-25
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+June 25, 2025
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L |  | COF PRL |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N |  | COF PRN |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events.
+
+On June 25, 2025, Capital One Financial Corporation (the “Company”) issued a press release announcing that it will redeem all outstanding shares of its 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series P, $0.01 par value per share (“Series P Preferred Stock”), and the corresponding depositary shares representing fractional interests in the Series P Preferred Stock (“Series P Depositary Shares”).
+
+The Series P Depositary Shares (CUSIP: 14040HDL6), each representing a 1/100th interest in a share of Series P Preferred Stock, will be redeemed simultaneously with the redemption of the Series P Preferred Stock on June 30, 2025 (the “Series P Redemption Date”) at a redemption price of $1,000 per depositary share (equivalent to $100,000 per share of preferred stock), plus an amount equal to the proportionate share of the dividends on the Series P Preferred Stock that would have accrued but have not been declared and paid for the period from March 23, 2025, to, but excluding the Series P Redemption Date. On and after the Series P Redemption Date, all dividends will cease to accrue on the Series P Preferred Stock. All 500,000 outstanding Series P Depositary Shares will be redeemed on the Series P Redemption Date.
+
+A copy of the press release is attached as Exhibit 99.1 hereto and incorporated by reference into this Item 8.01.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated June 25, 2025
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: June 25, 2025 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+2
+
+
+=== EXHIBIT d837776dex991.htm ===
+
+EX-99.1 2 d837776dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+Capital One Announces Full Redemption of Depositary Shares Representing Interests in Its Series P
+Preferred Stock
+
+Full Redemption of Depositary Shares Representing Interests in its 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series P
+
+MCLEAN, Va., June 25, 2025 /PRNewswire/ — Capital
+One Financial Corporation (NYSE: COF) (the “Company”) today announced that it will redeem all outstanding shares of its 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series P,
+$0.01 par value per share (“Series P Preferred Stock”), and the corresponding depositary shares representing fractional interests in the Series P Preferred Stock (“Series P Depositary Shares”).
+
+The Series P Depositary Shares (CUSIP: 14040HDL6), each representing a 1/100th interest in a share of Series P Preferred Stock, will be redeemed
+simultaneously with the redemption of the Series P Preferred Stock on June 30, 2025 (the “Series P Redemption Date”) at a redemption price of $1,000 per depositary share (equivalent to $100,000 per share of preferred stock), plus
+an amount equal to the proportionate share of the dividends on the Series P Preferred Stock that would have accrued but have not been declared and paid for the period from March 23, 2025, to, but excluding the Series P Redemption Date. On and
+after the Series P Redemption Date, all dividends will cease to accrue on the Series P Preferred Stock. All 500,000 outstanding Series P Depositary Shares will be redeemed on the Series P Redemption Date.
+
+The Series P Depositary Shares are held through The Depository Trust Company (“DTC”) and will be redeemed in accordance with the procedures of
+DTC. Payment to DTC for the Series P Depositary Shares will be made by Computershare Trust Company, N.A., as redemption agent, in accordance with the Deposit Agreement that governs the Series P Depositary Shares. The address for the
+redemption agent is as follows:
+
+Computershare Trust Company, N.A.
+
+Attn: Corporate Actions
+
+150 Royall St.
+
+Canton, MA 02021
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Forward-looking statements
+often use words such as “will,” “anticipate,” “target,” “expect,” “think,” “estimate,” “intend,” “plan,” “goal,” “believe,” “forecast,”
+“outlook” or other words of similar meaning. Any forward-looking statements made by Capital One or on its behalf speak only as of the date they are made or as of the date indicated, and Capital One does not undertake any obligation to
+update forward-looking statements as a result of new information, future events or otherwise.
+
+Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the
+forward-looking information due to a number of factors. For additional information on factors that could materially influence forward-looking statements included in this press release, see the risk factors set forth under “Part I—Item 1A.
+Risk Factors” in the Annual Report on Form 10-K for the year ended December 31, 2024 filed with the Securities and Exchange Commission (the “SEC”) and Quarterly Reports on Form 10-Q and Current Reports on Form 8-K filed with the SEC.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $367.5 billion in
+deposits and $493.6 billion in total assets as of March 31, 2025. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a
+variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the
+symbol “COF” and is included in the S&P 100 index.
+
+Contacts
+
+Investor Relations: Jeff Norris (jeff.norris@capitalone.com); Danielle Dietz (danielle.dietz@capitalone.com)
+
+Media Relations: Angela Solomon (angela.solomon@capitalone.com)

@@ -1,0 +1,159 @@
+8-K 1 a8-klegaldated532019.htm 8-K Document created using Wdesk 1 Copyright 2019 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 2, 2019
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B | COF PRP | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C | COF PRC | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series D | COF PRD | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F | COF PRF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+[/TABLE]
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) At the 2019 Annual Stockholder Meeting (the “Annual Meeting”) of Capital One Financial Corporation (the “Company”) held on May 2, 2019, the Company’s stockholders, upon recommendation of the Board of Directors of the Company, approved and adopted the Company’s Fifth Amended and Restated 2004 Stock Incentive Plan (the “Amended Plan”).
+
+The Amended Plan addresses changes to Section 162(m) of the Internal Revenue Code of 1986, as amended (the “Code”) resulting from the passage of the Tax Cuts and Jobs Act of 2017. Specifically, the Amended Plan revises the Fourth Amended and Restated 2004 Stock Incentive Plan to delete certain defined terms that are no longer applicable, eliminate the distinction between performance criteria that were applicable to awards designed to comply with the “performance-based compensation” exemption under Section 162(m) and other performance criteria, and extends the Compensation Committee’s discretion in determining and modifying the allocation of the annual incentive pool to all individual participants.
+
+For a description of the terms and conditions of the Amended Plan, see “Summary of Material Provisions of the Fifth Amended and Restated 2004 Stock Incentive Plan” under proposal 4 “Approval and Adoption of the Capital One Financial Corporation Fifth Amended and Restated 2004 Stock Incentive Plan” on pages 108-115 of the Company’s Proxy Statement for the Annual Meeting (the “Proxy Statement”), which description is incorporated herein by reference. The descriptions of the Amended Plan contained herein and in the Proxy Statement are qualified in their entirety by reference to the full text of the Amended Plan, a copy of which is filed hereto as Exhibit 10.1.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a) | The Annual Meeting was held on May 2, 2019. On March 5, 2019, the record date for the Annual Meeting, 469,344,331 shares of the Company’s common stock were issued and outstanding, of which 424,372,466 were present for purposes of establishing a quorum.
+
+(b) | Stockholders voted on the following matters:
+
+(1) | Stockholders elected Mr. Richard D. Fairbank, Ms. Aparna Chennapragada, Ms. Ann Fritz Hackett, Mr. Peter Thomas Killalea, Mr. Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars, Mr. Pierre E. Leroy, Mr. François Locoh-Donou, Mr. Peter E. Raskind, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner and Ms. Catherine G. West to the Company’s Board of Directors for terms expiring at the 2020 annual meeting of stockholders;
+
+(2) | Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent registered public accounting firm of the Company for 2019;
+
+(3) | Stockholders approved, on an advisory basis, the Company’s 2018 named executive officer compensation;
+
+(4) | Stockholders approved and adopted the Company’s Fifth Amended and Restated 2004 Stock Incentive Plan; and
+
+(5) | Stockholders approved a stockholder proposal requesting stockholders’ right to act by written consent.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+2
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 383,723,224 |  | 6,033,014 |  | 3,705,629 |  | 30,910,599
+Aparna Chennapragada |  | 391,997,627 |  | 891,330 |  | 572,910 |  | 30,910,599
+Ann Fritz Hackett |  | 376,219,968 |  | 16,697,307 |  | 544,592 |  | 30,910,599
+Peter Thomas Killalea |  | 389,481,499 |  | 3,414,741 |  | 565,627 |  | 30,910,599
+Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars |  | 392,406,157 |  | 489,801 |  | 565,909 |  | 30,910,599
+Pierre E. Leroy |  | 380,147,088 |  | 12,749,110 |  | 565,669 |  | 30,910,599
+François Locoh-Donou |  | 392,363,189 |  | 534,337 |  | 564,341 |  | 30,910,599
+Peter E. Raskind |  | 391,590,799 |  | 1,309,311 |  | 561,757 |  | 30,910,599
+Mayo A. Shattuck III |  | 358,421,514 |  | 34,469,815 |  | 570,538 |  | 30,910,599
+Bradford H. Warner |  | 382,620,112 |  | 10,270,635 |  | 571,120 |  | 30,910,599
+Catherine G. West |  | 390,848,274 |  | 2,066,229 |  | 547,364 |  | 30,910,599
+Ratification of Selection of Ernst & Young LLP as Independent Registered Public Accounting Firm of the Company for 2019 |  | 413,333,168 |  | 10,428,421 |  | 610,877 |  | N/A
+Advisory Approval of the Company’s 2018 Named Executive Officer Compensation |  | 373,201,112 |  | 19,091,427 |  | 1,169,328 |  | 30,910,599
+Approval and Adoption of the Company’s Fifth Amended and Restated 2004 Stock Incentive Plan |  | 383,390,518 |  | 9,161,915 |  | 909,434 |  | 30,910,599
+Stockholder Proposal Requesting Stockholders’ Right to Act by Written Consent |  | 223,119,843 |  | 169,280,103 |  | 1,061,921 |  | 30,910,599
+[/TABLE]
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit |  | Description
+10.1 |  | Fifth Amended and Restated 2004 Stock Incentive Plan
+[/TABLE]
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: May 3, 2019 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+4
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit |  | Description
+10.1 |  | Fifth Amended and Restated 2004 Stock Incentive Plan
+[/TABLE]
+
+5

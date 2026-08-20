@@ -1,0 +1,139 @@
+doc_id: cfpb-agreements/2026_Q1
+source: cfpb-agreements
+source_tier: A
+doc_type: card-agreements
+title: CFPB card agreements 2026_Q1 (COF + Discover)
+url: https://files.consumerfinance.gov/a/assets/bulk_agreements/2026_Q1.zip
+retrieved_at: '2026-08-20T03:12:43Z'
+entity_ids:
+- cof
+- dfs
+fetcher: cfpb_agreements v1
+files:
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-NeimanMarcus-BergdorfGoodman-Cards-in-Capital-One-N.A..pdf-255660.pdf
+  role: raw
+  sha256: a86fb25b201f13c3a21a458ec6b10fe88cf7244ea9a4f47ebb363213ce1ebf9c
+  size: 204985
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_T-Mobile_Visa_in_Capital_One_N.A..pdf-581646.pdf
+  role: raw
+  sha256: 2715f047a7da2c816efc8a1ae0e3b7ad8b081bd4ed79fbf292416476ffb8e9cb
+  size: 221475
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-VISA-Signature-and-World-MasterCard-Cards-in-Capital-One-N.A..pdf-255666.pdf
+  role: raw
+  sha256: 7bbb2e060c45ec45361bee155368ca7e1fbeb055eb72ac18b0ad3a2efc590c5b
+  size: 224731
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Kohl_s-Rewards-VISA-in-Capital-One-N.A.pdf-485285.pdf
+  role: raw
+  sha256: 59e9888509f8c2c449366e19fae1967dbab6a1ac56a097496e2f4c23e0980e7f
+  size: 216333
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Williams-Sonoma-Key-Rewards-Card-in-Capital-One-N.A..pdf-255649.pdf
+  role: raw
+  sha256: e5a38b0052ff8227f8f8a7a50a80c564def6c7e1a10d8c463443032ea41d55fa
+  size: 211504
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-REI-Co-op-Mastercard-Card-in-Capital-One-N.A..pdf-322429.pdf
+  role: raw
+  sha256: 95da1cd02abc3f7c1567afce3690f80e5079cc9c8c9efe8f74ab59549541cbc8
+  size: 212921
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Menards-BIG-Cards-in-Capital-One-N.A..pdf-255661.pdf
+  role: raw
+  sha256: 99d49361d3aee83389095f2cd42e61b75151cbce6653d21585930339fea51638
+  size: 209127
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Consumer_No_Preset_Spending_Limit_Cards_in_Capital_One_N.A..pdf-559129.pdf
+  role: raw
+  sha256: 49f6124303c2fd5269aaa2bfd8d4461669f9380b302d20eaf6f6e2a8f2959011
+  size: 230965
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Teamster-Privilege-Cards-in-Capital-One-N.A..pdf-255655.pdf
+  role: raw
+  sha256: 57a1a02bb18da24107cb2029a4561dad6df5f59c912f5202eb74cb38fd463263
+  size: 213947
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Key-Rewards-Card-in-Capital-One-N.A..pdf-255646.pdf
+  role: raw
+  sha256: e5a38b0052ff8227f8f8a7a50a80c564def6c7e1a10d8c463443032ea41d55fa
+  size: 211504
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit_Card_Agreement_for_Discover.pdf-582095.pdf
+  role: raw
+  sha256: 69caa20108be784313050dfdb92701777f126776325d639a0b1fbe66c60cda8f
+  size: 233077
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Union-Plus-Cards-in-Capital-One-N.A..pdf-255656.pdf
+  role: raw
+  sha256: 2667f6998f7f1a305b0e7c5966ffbe7d626c6769f32739e1812bb0683905e9b9
+  size: 213580
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Consumer-Cards-in-Capital-One-N.A..pdf-255667.pdf
+  role: raw
+  sha256: 1230a53b41e6cb3d9a88fe2c735a8aa002eff6e59c8e495f8938169b4a7c4052
+  size: 211629
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Bass-Pro-Shops-CLUB-Cards-in-Capital-One-N.A..pdf-255664.pdf
+  role: raw
+  sha256: d6f38ae13ce3e72826a042d3d8e99fe1f9afb00ef02379544bcd1cf1546a28d2
+  size: 256955
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Pottery-Barn-Key-Rewards-Card-in-Capital-One-N.A..pdf-255648.pdf
+  role: raw
+  sha256: e5a38b0052ff8227f8f8a7a50a80c564def6c7e1a10d8c463443032ea41d55fa
+  size: 211504
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-BJs-Mastercard-Cards-in-Capital-One-N.A..pdf-360159.pdf
+  role: raw
+  sha256: 7b677f441b9a955c795793f73ffd5dec437afec1c7a948f35ad94838d9e9c406
+  size: 225529
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-West-Elm-Key-Rewards-Card-in-Capital-One-N.A..pdf-255647.pdf
+  role: raw
+  sha256: e5a38b0052ff8227f8f8a7a50a80c564def6c7e1a10d8c463443032ea41d55fa
+  size: 211504
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Kohl_s-Credit-Card-in-Capital-One-N.A.pdf-485284.pdf
+  role: raw
+  sha256: 3bd35ae6291e44d98d008d9070bc638496e76d51479c8af899c9cdfbcdab1e7c
+  size: 206268
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Cabelas-CLUB-Cards-in-Capital-One-N.A..pdf-255663.pdf
+  role: raw
+  sha256: b74296d53604cfa4acb4309ca9ed928ade5335269307daa8d64ac7671c92138f
+  size: 300749
+  stored: corpus
+- name: CAPITAL_ONE_NATIONAL_ASSOCIATION__Credit-Card-Agreement-for-Consumer-Secured-Cards-in-Capital-One-N.A..pdf-255665.pdf
+  role: raw
+  sha256: 280d5d00b03bcf390449f98becc3cdad6084de1e4fb044757867481b3b426cb4
+  size: 259399
+  stored: corpus
+- name: DISCOVER_BANK__Prime_Cardmember_Agreement_033126.pdf-255536.pdf
+  role: raw
+  sha256: 8a3cb8286a80f480829bdce53836f5a69d0372d4ff0318138a5648112b3b084b
+  size: 646126
+  stored: corpus
+- name: DISCOVER_BANK__Secured_Cardmember_Agreement_033126.pdf-255534.pdf
+  role: raw
+  sha256: dfe39de3ddf17a0d217c981815923ca3401ff1a4e7d4b4db3823602065f0e02e
+  size: 7382452
+  stored: corpus
+- name: DISCOVER_BANK__Near_Prime_Cardmember_Agreement_033126.pdf-582106.pdf
+  role: raw
+  sha256: 6e124e3c45fef03f637521fc70e5a7a385685cafe20db4dce700532bb48a5c93
+  size: 6061876
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e0663a1c1f58d242bde56b6869f4ce70d173160e57f779be37694839c358ac6a
+  size: 778676
+  stored: corpus
+period_end: '2026-03-28'
+meta:
+  quarter: 2026_Q1
+  issuers:
+  - CAPITAL ONE, NATIONAL ASSOCIATION
+  - DISCOVER BANK
+  pdfs: 23

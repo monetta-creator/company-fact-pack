@@ -1,0 +1,21 @@
+doc_id: enforcement/occ-2020-aml-consent-order-cobna
+source: enforcement
+source_tier: A
+doc_type: consent-order
+title: OCC consent order 2020 (Capital One, N.A. - AML/BSA)
+url: https://www.occ.gov/static/enforcement-actions/ea2020-056.pdf
+retrieved_at: '2026-08-20T02:38:46Z'
+entity_ids:
+- cof
+fetcher: enforcement v1
+files:
+- name: ea2020-056.pdf
+  role: raw
+  sha256: 41b1394ce8bcddd599875605cb87ace5f08bd34ac1e5542242fb3fbe79a1e23f
+  size: 270349
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 8d472a54f4b21de48130cdebc58303c158fe87f74a9574489a0c2ef2958d7db2
+  size: 54032
+  stored: corpus

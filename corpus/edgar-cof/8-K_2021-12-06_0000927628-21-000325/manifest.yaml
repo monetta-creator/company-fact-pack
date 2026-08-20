@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2021-12-06_0000927628-21-000325
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-12-06 (period 2021-12-06)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762821000325/cof-20211206.htm
+retrieved_at: '2026-08-20T02:54:21Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20211206.htm
+  role: raw
+  sha256: 25dcbe31aff55ef8d05c8d6afb05dd1d060771f1b4921c527e6ed74049320ff7
+  size: 54748
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 73d585dfb4c9de27cb86674300412c49159abc12fd97129ce7e945d311f747c9
+  size: 5323
+  stored: corpus
+filed_date: '2021-12-06'
+period_end: '2021-12-06'
+extraction_method: lxml
+meta:
+  accession: 0000927628-21-000325
+  form: 8-K
+  items: 7.01,9.01

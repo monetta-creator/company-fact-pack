@@ -1,0 +1,84 @@
+false 0001393612 0001393612 2021-06-09 2021-06-09
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 9, 2021
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events.
+
+Discover Financial Services (“Discover”), through its subsidiary DFS Services LLC, owns 26.3 million shares of Class B Common Stock of Marqeta, Inc. (“Marqeta”). Marqeta’s initial public offering occurred on June 8, 2021, and the closing share price of Marqeta’s Class A Common Stock on June 9, 2021 was $30.52. Based on that closing share price, and assuming the Class B Common Stock is of equal value per share to the Class A Common Stock, the value of Discover’s Marqeta shares on June 9, 2021 was approximately $801 million. Discover’s cost basis in these Class B Common Stock shares at March 31, 2021 was $8.6 million. The second quarter 2021 gain Discover ultimately recognizes will be based on the closing price of these shares at quarter end.
+
+This position will be reported on Discover’s balance sheet at fair value with adjustments recorded through earnings in the non-interest income line item of Discover’s Payments segment. Discover’s ability to dispose of its position in Marqeta is subject to certain restrictions and holding periods, as described in Marqeta’s prospectus for its initial public offering that it filed with the U.S. Securities and Exchange Commission.
+
+In anticipation of this recognition event, Discover has decided to accelerate certain marketing and non-marketing growth investments, beginning in the second quarter of 2021. As previously indicated, Discover is evaluating its capital return to shareholders in the second half of the year.
+
+Statements included in this Current Report on Form 8-K that are not historical or current facts are “forward-looking statements” made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and are subject to certain risks and uncertainties that could cause actual gains, results and market performance to differ materially from historical gains, results and market performance and those presently anticipated or projected. Forward-looking statements can be identified by the use of such words as may, will, should, could, would, estimate, project, believe, intend, anticipate, plan, seek, expect and similar expressions. You should not rely upon forward-looking statements as predictions of future events. Although Discover believes that the expectations reflected in the forward-looking statements are reasonable, it cannot guarantee that the future gains, results, market performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Discover disclaims any obligation to subsequently revise any forward-looking statements to reflect events or circumstances after the date of such statements, or to reflect the occurrence of anticipated or unanticipated events.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | DISCOVER FINANCIAL SERVICES
+Dated: June 10, 2021 |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: D. Christopher Greene
+ |  |  |  | Title: Vice President, Deputy General Counsel and Secretary
+[/TABLE]

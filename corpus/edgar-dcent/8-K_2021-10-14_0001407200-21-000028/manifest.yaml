@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2021-10-14_0001407200-21-000028
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-10-14 (period 2021-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720021000028/qtrly_dcmtxdcentxasofsepte.htm
+retrieved_at: '2026-08-20T02:58:03Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly_dcmtxdcentxasofsepte.htm
+  role: raw
+  sha256: d0e4ed43392f1858c115a0b9146d253bbcb1dc78423a1b5b1e9773c0e7746f2e
+  size: 120243
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 40bc39472049baa19096c82e3b3f3496fbc85fcb1f4047c0044a222ddaa4658f
+  size: 13870
+  stored: corpus
+filed_date: '2021-10-14'
+period_end: '2021-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001407200-21-000028
+  form: 8-K
+  items: 6.05,8.01

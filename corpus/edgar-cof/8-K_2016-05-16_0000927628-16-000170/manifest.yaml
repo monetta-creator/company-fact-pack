@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-05-16_0000927628-16-000170
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-05-16 (period 2016-05-16)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000170/aprilcreditmetricsform8-k.htm
+retrieved_at: '2026-08-20T02:55:10Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: aprilcreditmetricsform8-k.htm
+  role: raw
+  sha256: 2df06906d725cb331a3aee42769e631fcea855780c0d5868fce8125745664c8d
+  size: 38992
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4624f4838beccc93ffac2185111cca4db9fec6324442d3c07be48720682e1d46
+  size: 3187
+  stored: corpus
+filed_date: '2016-05-16'
+period_end: '2016-05-16'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000170
+  form: 8-K
+  items: 7.01,9.01

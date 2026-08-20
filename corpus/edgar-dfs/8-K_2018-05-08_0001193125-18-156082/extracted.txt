@@ -1,0 +1,106 @@
+8-K 1 d584172d8k.htm FORM 8-K Form 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported):
+
+May 8, 2018
+
+Commission File No. 001-33378
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of
+ Incorporation or Organization) |  | (I.R.S. Employer
+ Identification No.)
+[/TABLE]
+
+[TABLE]
+2500 Lake Cook Road,
+ Riverwoods, Illinois |  | 60015
+(Address of Principal Executive Offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code:
+
+(224) 405-0900
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+(Not applicable)
+
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+ 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+ 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Item 8.01. Other Events.
+
+On May 8, 2018, Discover Financial Services (the “Company”) and U.S. Bank National Association, as trustee (the
+“Trustee”), entered into a First Supplemental Indenture, dated as of May 8, 2018 (the “First Supplemental Indenture”), to the Senior Indenture, dated as of June 12, 2007, between the Company and the Trustee. The First
+Supplemental Indenture amends certain of the Company’s outstanding senior notes to eliminate the Company’s right to redeem these notes prior to November 9, 2018.
+
+A copy of the First Supplemental Indenture is attached as Exhibit 4.1 of this Current Report on Form 8-K and is incorporated by reference herein.
+
+Item 9.01. Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit
+ No. |  | Description
+4.1 |  | First Supplemental Indenture, dated May 8, 2018 between the Company and U.S. Bank National Association
+[/TABLE]
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit
+ No. |  | Description
+4.1 |  | First Supplemental Indenture, dated May 8, 2018 between the Company and U.S. Bank National Association
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: May 8, 2018 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  | Title: |  | Vice President, Deputy General Counsel and Assistant Secretary
+[/TABLE]

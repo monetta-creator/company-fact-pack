@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2016-04-08_0001407200-16-000103
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-04-08 (period 2016-04-08)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720016000103/qtrly8-k_dcmtdcentasofmarch3.htm
+retrieved_at: '2026-08-20T02:58:49Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly8-k_dcmtdcentasofmarch3.htm
+  role: raw
+  sha256: a6e14c34cc182ed154c71cad5b18b9cc329e53c9cdeba31c595bf6f66fc665a2
+  size: 84474
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 2428cf182c0e2fe644198185a2795de0365236d837810599690ded53f39dc267
+  size: 13878
+  stored: corpus
+filed_date: '2016-04-08'
+period_end: '2016-04-08'
+extraction_method: lxml
+meta:
+  accession: 0001407200-16-000103
+  form: 8-K
+  items: '8.01'

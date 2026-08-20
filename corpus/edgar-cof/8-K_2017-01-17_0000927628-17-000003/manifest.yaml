@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-01-17_0000927628-17-000003
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-01-17 (period 2017-01-17)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000003/december2016creditmetricsf.htm
+retrieved_at: '2026-08-20T02:55:03Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: december2016creditmetricsf.htm
+  role: raw
+  sha256: eb11d827a0f627dfc9df054ec51b16e3de0931aa3bbcd62c4b70b28595bd7e6f
+  size: 39006
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: fe62b05a601e1fd990599d1b3db77caed391b8adfef153bed78e32dda94780f0
+  size: 3201
+  stored: corpus
+filed_date: '2017-01-17'
+period_end: '2017-01-17'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000003
+  form: 8-K
+  items: 7.01,9.01

@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2019-09-16_0000927628-19-000287
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-09-16 (period 2019-09-16)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000287/aug2019creditmetricsfo.htm
+retrieved_at: '2026-08-20T02:54:38Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: aug2019creditmetricsfo.htm
+  role: raw
+  sha256: b4e2216f5bdb7d9cefeabe6a265008a8167621999ae6e1544f701eac962eb70d
+  size: 63312
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 5b9a7261796a4de86c10465556b3652ea2a3093833e03d0e5fdbb7d75d81b606
+  size: 5676
+  stored: corpus
+filed_date: '2019-09-16'
+period_end: '2019-09-16'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000287
+  form: 8-K
+  items: 7.01,9.01

@@ -1,0 +1,241 @@
+Field: Set; Name: xdx; ID: xdx_029_US%2DGAAP%2D2020 Field: Set; Name: xdx; ID: xdx_03D_COF_capitalone.com_20201022 Field: Set; Name: xdx; ID: xdx_045_20201022_20201022 Field: Set; Name: xdx; ID: xdx_05B_edei%2D%2DEntityCentralIndexKey_0000927628 Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares
+0000927628 false 0000927628 2020-10-22 2020-10-22 0000927628 us-gaap:CommonStockMember 2020-10-22 2020-10-22 0000927628 us-gaap:SeriesFPreferredStockMember 2020-10-22 2020-10-22 0000927628 us-gaap:SeriesGPreferredStockMember 2020-10-22 2020-10-22 0000927628 us-gaap:SeriesHPreferredStockMember 2020-10-22 2020-10-22 0000927628 COF:SeriesIPreferredStockMember 2020-10-22 2020-10-22 0000927628 COF:SeriesJPreferredStockMember 2020-10-22 2020-10-22 0000927628 COF:SeriesKPreferredStockMember 2020-10-22 2020-10-22 0000927628 COF:Sec0.800PercentSeniorNotesDue2024Member 2020-10-22 2020-10-22 0000927628 COF:Sec1.650PercentSeniorNotesDue2029Member 2020-10-22 2020-10-22 iso4217:USD xbrli:shares iso4217:USD xbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________
+
+FORM 8-K
+
+____________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+October 22, 2020
+
+Date of Report (Date of earliest event
+reported)
+
+____________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified
+in its charter)
+
+____________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680
+Capital One Drive ,
+ McLean ,
+ Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s
+telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name
+or former address, if changed since last report)
+
+____________________________
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F | COF PRF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Field: Page; Sequence: 1
+
+Field: /Page
+Item 8.01 Other Events.
+
+On October 22, 2020, Capital One Financial Corporation (the
+“Company”) issued a press release announcing that it will redeem all outstanding shares of its Fixed Rate Non-Cumulative
+Perpetual Preferred Stock, Series F, $0.01 par value per share (“Series F Preferred Stock”) and the corresponding depositary
+shares representing fractional interests in the Series F Preferred Stock (“Series F Depositary Shares”).
+
+The Series F Depositary Shares (NYSE: COF PRF, CUSIP: 14040H881),
+each representing a 1/40th interest in a share of Series F Preferred Stock, will be redeemed simultaneously with the redemption
+of the Series F Preferred Stock at a redemption price of $25 per depositary share (equivalent to $1,000 per share of preferred
+stock). All 20,000,000 outstanding Series F Depositary Shares will be redeemed on the dividend payment date of December 1, 2020.
+
+Regular dividends on the outstanding shares of the Series F
+Preferred Stock will be paid separately on December 1, 2020 to holders of record as of the close of business on November 16, 2020,
+in the customary manner. On and after the redemption date, all dividends on the shares of Series F Preferred Stock will cease to
+accrue.
+
+A copy of the press release is attached as Exhibit 99.1 hereto
+and incorporated by reference into this Item 8.01.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. | Description
+99.1 | Press Release, dated October 22, 2020
+104 | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+Field: Page; Sequence: 2
+
+Field: /Page
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+[TABLE]
+ |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: October 22, 2020 |  | By: | /s/ Matthew W. Cooper
+ |  | Name: | Matthew W. Cooper
+ |  | Title: | General Counsel
+[/TABLE]
+
+Field: Page; Sequence: 3; Options: Last
+
+Field: /Page
+
+
+=== EXHIBIT dp139023_ex9901.htm ===
+
+EX-99.1 2 dp139023_ex9901.htm EXHIBIT 99.1
+
+Exhibit 99.1
+
+ |  | Media
+ Release
+
+[TABLE]
+ |  | Contacts: |  |  |  |
+ |  | Investor Relations |  | Media Relations
+For
+ Immediate Release: October 22, 2020 |  | Jeff Norris |  | Danielle Dietz |  | Sie Soheili |  | Tatiana Stead
+ |  | 703.720.2455 |  | 703.720.2455 |  | 703.720.3929 |  | 703.720.2352
+[/TABLE]
+
+Capital
+One Announces Full Redemption of Depositary Shares Representing Interests in Its Series F Preferred Stock
+
+Full
+Redemption of Depositary Shares Representing Interests in its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F
+
+MCLEAN,
+Va., Oct. 22, 2020 -- Capital One Financial Corporation (NYSE: COF) today announced that it will redeem all outstanding shares
+of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F, $0.01 par value per share ("Series F Preferred Stock"),
+and the corresponding depositary shares representing fractional interests in the Series F Preferred Stock ("Series F Depositary
+Shares").
+
+The
+Series F Depositary Shares (NYSE: COF PRF, CUSIP: 14040H881), each representing a 1/40th interest in a share of Series F Preferred
+Stock, will be redeemed simultaneously with the redemption of the Series F Preferred Stock at a redemption price of $25 per depositary
+share (equivalent to $1,000 per share of preferred stock). All 20 million outstanding Series F Depositary Shares will be redeemed
+on the dividend payment date of December 1, 2020.
+
+Regular
+dividends on the outstanding shares of the Series F Preferred Stock of $15.50 per share (equivalent to $0.3875 per Series F Depositary
+Share) will be paid separately on December 1, 2020 to holders of record as of the close of business on November 16, 2020, in the
+customary manner. Accordingly, the redemption price for the Series F Preferred Stock will not include any accrued and unpaid dividends.
+On and after the redemption date, all dividends on the shares of Series F Preferred Stock will cease to accrue.
+
+The
+Series F Depositary Shares are held through The Depository Trust Company ("DTC") and will be redeemed in accordance
+with the procedures of DTC. Payment to DTC for the Series F Depositary Shares will be made by Computershare Trust Company, N.A.,
+as redemption agent, in accordance with the Deposit Agreement that governs the Series F Depositary Shares. The address for the
+redemption agent is as follows:
+
+Computershare
+Trust Company, N.A.
+
+Attn: Corporate Actions
+
+150 Royall St.
+
+Canton, MA 02021
+
+Field: Page; Sequence: 1
+
+Field: /Page
+
+Forward-Looking
+Statements
+
+Certain
+statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital
+One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could
+differ materially from those contained in the forward-looking information due to a number of factors, including those listed from
+time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the
+Annual Report on Form 10-K for the year ended December 31, 2019 and the Quarterly Report on Form 10-Q for the quarterly period
+ended June 30, 2020.
+
+About
+Capital One
+
+Capital
+One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A.,
+and Capital One Bank (USA), N.A., had $305.7 billion in deposits and $421.9 billion in total assets as of September 30, 2020. Headquartered
+in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and
+commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas,
+Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange
+under the symbol "COF" and is included in the S&P 100 index.
+
+Visit
+the Capital One newsroom for more Capital One news.
+
+#
+# #
+
+Field: Page; Sequence: 2; Options: Last
+
+Field: /Page

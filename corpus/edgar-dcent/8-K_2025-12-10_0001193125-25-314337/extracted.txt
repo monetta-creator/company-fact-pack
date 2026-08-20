@@ -1,0 +1,214 @@
+8-K 1 d90765d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) December 10, 2025
+
+[TABLE]
+Commission File Number: |  | Commission File Number: |  | Commission File Number:
+333-141703-02 |  | 000-23108 |  | 333-205455
+Central Index Key Number: |  | Central Index Key Number: |  | Central Index Key Number:
+0001407200 |  | 0000894329 |  | 0001645731
+DISCOVER CARD
+ EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING LLC
+(Exact name of issuing entity in respect
+ of the notes as specified in charter) |  | (Exact name of issuing entity in respect
+ of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as
+ specified in charter)
+Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the depositor)
+c/o Discover Funding LLC
+ 800 Prides Crossing
+ Suite 100 Newark,
+Delaware 19713 |  | c/o Discover Funding LLC
+ 800 Prides Crossing
+ Suite 100 Newark,
+Delaware 19713 |  | Discover Funding LLC
+ 800 Prides Crossing
+ Suite 100 Newark,
+Delaware 19713
+(Address of principal executive offices
+ of the issuing entity) |  | (Address of principal executive offices
+ of the issuing entity) |  | (Address of principal executive offices
+ of the depositor)
+[/TABLE]
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+Central Index Key Number of Sponsor:
+
+0000047288
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+(Exact name of the sponsor as specified in its charter)
+
+[TABLE]
+National banking association |  | 1680 Capital One Drive
+ McLean, Virginia |  | 22102
+(State or jurisdiction of
+ incorporation or organization
+ of the sponsor) |  | (Address of Principal Executive Office) |  | (Zip Code)
+[/TABLE]
+
+(703) 720-3148
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report:
+
+N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading
+ Symbol(s) |  | Name of each exchange
+ on which registered
+N/A |  | N/A |  | N/A
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Section 8 – Other Events.
+
+Item 8.01. Other Events.
+
+On December 10, 2025, Capital One
+Financial Corporation (“Capital One”) issued a press release announcing that its wholly-owned subsidiary, Capital One, National Association (“CONA”), plans to defease the outstanding DiscoverSeries Class A(2021-2) Notes, Class A(2023-1) Notes, and Class A(2023-2) Notes (collectively, the “Class A
+Notes”) issued by the Discover Card Execution Note Trust (“DCENT”). The defeasance is expected to be completed as early as December 2025. As previously reported, CONA assumed all rights and obligations of Discover Bank with respect
+to DCENT—including as sponsor, master servicer, servicer, and asset originator—in connection with the merger of Discover Bank into CONA.
+
+The
+defeasance collateral is expected to consist of U.S. Treasury bonds, cash, or a combination of both, in an aggregate amount that is expected to be sufficient to pay the remaining principal of, and interest on, the Class A Notes, as detailed in
+the transaction documents. A portion of the U.S. Treasury bonds, cash, or a combination of both is expected to be deposited into dedicated principal funding accounts and interest funding accounts established for each tranche of the Class A
+Notes. Upon completion of the defeasance, the amounts credited to each of these segregated funding accounts will be the sole source for the scheduled payments of principal of, and interest on, the Class A Notes.
+
+In connection with the planned defeasance, CONA expects to (i) retire and cancel each subordinated class of DiscoverSeries notes, all of which are held
+by affiliates of CONA, (ii) direct the release of DCENT’s beneficial interest in the portfolio of credit card receivables held by Discover Card Master Trust I (“DCMT”) from the lien of the Indenture, and (iii) wind down
+DCMT and direct the reassignment of the portfolio of credit card receivables to CONA.
+
+A copy of the Capital One press release announcing the planned
+defeasance and related matters is filed as Exhibit 99.1 to this current report on Form 8-K.
+
+Section 9 – Financial Statements and Exhibits.
+
+Item 9.01 (d). Exhibits.
+
+Exhibit Index
+
+Each of the following are filed as an Exhibit to this Report.
+
+[TABLE]
+Exhibit Number |  | Description
+Exhibit 99.1 |  | Press Release, dated December 10, 2025.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+DISCOVER FUNDING LLC
+Acting solely in its capacity as depositor of Discover Card Master Trust I and Discover Card Execution Note Trust
+By: |  | /s/ Eric D. Bauder
+ |  | Name: Eric D. Bauder
+ |  | Title: Assistant Vice President, Treasurer
+[/TABLE]
+
+December 10, 2025
+
+
+=== EXHIBIT d90765dex991.htm ===
+
+EX-99.1 2 d90765dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+Capital One Announces Plans to Defease the Discover Card Execution Note Trust Class A Notes
+
+Capital One Financial Corporation (NYSE: COF) (“Capital One”) announced today that its wholly-owned subsidiary, Capital One, National Association
+(“CONA”), plans to defease the outstanding DiscoverSeries Class A(2021-2) Notes, Class A(2023-1) Notes, and Class A(2023-2) Notes (collectively, the “Class A Notes”) issued by the Discover Card Execution Note Trust (“DCENT”). As previously reported, CONA assumed all rights and
+obligations of Discover Bank with respect to DCENT – including as sponsor, master servicer, servicer, and asset originator – in connection with the merger of Discover Bank into CONA.
+
+The defeasance is expected to be completed as early as December 2025 and will be undertaken pursuant to the Second Amended and Restated Indenture, dated as of
+May 18, 2025, between DCENT, as Issuer, and U.S. Bank Trust Company, National Association, as Indenture Trustee, as amended (the “Indenture”).
+
+The defeasance collateral is expected to consist of U.S. Treasury bonds, cash, or a combination of both, in an aggregate amount that is expected to be
+sufficient to pay the remaining principal of, and interest on, the Class A Notes, as detailed in the transaction documents. A portion of the U.S. Treasury bonds, cash, or a combination of both is expected to be deposited into dedicated
+principal funding accounts and interest funding accounts established for each tranche of the Class A Notes. Upon completion of the defeasance, the amounts credited to each of these segregated funding accounts will be the sole source for the
+scheduled payments of principal of, and interest on, the Class A Notes. The expected maturity dates for the Class A Notes are:
+
+ | • |  | Class A (2021-2) Notes: September 15, 2026
+
+ | • |  | Class A (2023-1) Notes: March 16, 2026
+
+ | • |  | Class A (2023-2) Notes: June 15, 2026
+
+In connection with the planned defeasance, CONA expects to (i) retire and cancel each subordinated class of DiscoverSeries notes, all of which are held
+by affiliates of CONA, (ii) direct the release of DCENT’s beneficial interest in the portfolio of credit card receivables held by Discover Card Master Trust I (“DCMT”) from the lien of the Indenture, and (iii) wind down
+DCMT and direct the reassignment of the portfolio of credit card receivables to CONA.
+
+This press release is for informational purposes only and does not constitute a commitment with respect to
+any of the securities discussed herein.
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Forward-looking statements
+often use words such as “will,” “anticipate,” “target,” “expect,” “think,” “estimate,” “intend,” “plan,” “goal,” “believe,”
+“forecast,” “outlook” or other words of similar meaning. Any forward-looking statements made by Capital One or on its behalf speak only as of the date they are made or as of the date indicated, and Capital One does not
+undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise. Capital One cautions readers that any forward-looking information, including, but not limited to, information relating to
+Capital One’s plans, objectives, expectations and intentions, is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors.
+
+About Capital One
+
+Capital One Financial Corporation
+( www.capitalone.com ) is a financial holding company which, along with its subsidiaries, had $468.8 billion in deposits and $661.9 billion in total assets as of September 30, 2025. Headquartered in McLean, Virginia, Capital One
+offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas,
+Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Contacts: Danielle Dietz - danielle.dietz@capitalone.com
+
+Sie Soheili - sie.soheili@capitalone.com

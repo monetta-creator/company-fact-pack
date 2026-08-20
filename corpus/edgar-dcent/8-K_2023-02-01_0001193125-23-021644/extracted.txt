@@ -1,0 +1,263 @@
+8-K 1 d241989d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 31, 2023
+
+[TABLE]
+Commission File Number: |  | Commission File Number: |  | Commission File Number:
+333-141703-02;
+ 333-167413;
+ 333-191359;
+ 333-205455-01;
+ 333-228025-02;
+ 333-260957 |  | 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 333-228025-01;
+ 333-260957-02;
+ 000-23108 |  | 333-205455;
+ 333-228025;
+ 333-260957-01
+DISCOVER CARD
+ EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING LLC
+(Exact name of issuing entity in respect of the notes as specified in charter) |  | (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as specified in charter)
+Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the depositor)
+c/o Wilmington Trust Company
+ Rodney Square North 1100
+North Market Street Wilmington, Delaware
+ 19890-0001 |  | c/o Discover Bank
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713
+(Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the depositor)
+[/TABLE]
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+DISCOVER BANK
+
+(Exact name of the sponsor as specified in its charter)
+
+[TABLE]
+Delaware |  | 800 Prides Crossing
+ Suite 100 Newark,
+Delaware |  | 19713 |  | 51-0020270
+(State or jurisdiction of
+ incorporation or organization
+ of the sponsor) |  | (Address of Principal Executive Office) |  | (Zip Code) |  | (IRS Employer Identification No. of
+ the sponsor)
+[/TABLE]
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Item 1.01 | Entry into Material Definitive Agreements
+
+Class B(2023-1) Notes . On January 31, 2023, Discover Card Execution
+Note Trust entered into the Class B(2023-1) Terms Document, dated as of January 31, 2023, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as
+successor to U.S. Bank National Association), as Indenture Trustee.
+
+Class C(2023-1) Notes . On January 31, 2023, Discover Card Execution
+Note Trust entered into the Class C(2023-1) Terms Document, dated as of January 31, 2023, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as
+successor to U.S. Bank National Association), as Indenture Trustee.
+
+Item 8.01 | Other Events
+
+Unregistered Sale of Class B(2023-1) Notes and Class C(2023-1) Notes . On January 31, 2023, Discover Card Execution Note Trust issued the DiscoverSeries Class B(2023-1) Notes and the DiscoverSeries Class C(2023-1) Notes (collectively, the “Notes”) to Discover Funding LLC, an affiliate of Discover Bank, in reliance upon the exemption contained in Section 4(a)(2) of the Securities Act of
+1933, as amended. The DiscoverSeries Class B(2023-1) Notes have a maximum principal amount of up to $3,000,000,000 and the DiscoverSeries Class C(2023-1) Notes have a maximum principal amount of up to $3,500,000,00.
+
+Extension of the Series Termination Date for the Series 2007-CC Collateral Certificate . On January 31, 2023, Discover Bank, as master servicer (the “ Master Servicer ”) and as servicer (the “ Servicer ”), Discover Funding LLC, as
+transferor (the “ Transferor ”), and U.S. Bank Trust Company, National Association (successor to U.S. Bank National Association), as trustee (the “ Trustee ”), entered into an agreement to extend the Series Termination
+Date for the Series 2007-CC Certificate to July 1, 2049 in accordance with the Amended and Restated Series Supplement, dated as of December 22, 2015, by and among the Master Servicer, the Servicer,
+the Transferor, and the Trustee, to Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015, by and among the Master Servicer, the Servicer, the Transferor and the Trustee.
+
+Item 9.01 | Exhibit
+
+[TABLE]
+Exhibit No. |  | Description
+4.1 |  | Class B(2023-1) Terms Document, dated as of January
+31, 2023, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee.
+4.2 |  | Class C(2023-1) Terms Document, dated as of January
+31, 2023, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee.
+99.1 |  | Series Termination Date Extension Agreement, dated as of January
+31, 2023, between Discover Bank, as Master Servicer and as Servicer, Discover Funding LLC, as Transferor, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association) as Trustee.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: February 1, 2023 |  |
+ |  | Discover Funding LLC (as
+Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant
+ under Commission File Numbers 333-205455, 333-228025 and 333-260957-01)
+ By: /s/ Patricia S.
+Hall
+ Patricia S. Hall
+ Vice President, Chief Financial
+ Officer and Treasurer
+[/TABLE]
+
+
+=== EXHIBIT d241989dex991.htm ===
+
+EX-99.1 4 d241989dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+SERIES TERMINATION DATE EXTENSION AGREEMENT
+
+This SERIES TERMINATION DATE EXTENSION AGREEMENT, dated as of January 31, 2023 (this “ Agreement ” ),
+by and among Discover Bank, as master servicer (the “ Master Servicer ”) and as servicer (the “ Servicer ”), Discover Funding LLC, as transferor (the “ Transferor ”), and U.S. Bank
+Trust Company, National Association (successor to U.S. Bank National Association, “ USB ”), as trustee (the “ Trustee ”). Unless otherwise specified, capitalized terms used in this Agreement shall have the
+same meanings ascribed to them in the Pooling and Servicing Agreement (as defined below).
+
+WHEREAS, the parties hereto have entered into:
+(i) the Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015 (the “ PSA ”), among the Master Servicer, the Servicer, the Transferor and the Trustee, and (ii) the Amended and
+Restated Series Supplement to Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015 (the “ Supplement ”, together with the PSA, the “ Pooling and Servicing
+Agreement ”), among the Master Servicer, the Servicer, the Transferor and the Trustee;
+
+WHEREAS, the Series Termination Date
+for the Series 2007-CC Collateral Certificate may, by its terms, be extended by an agreement among the parties to the Supplement; and
+
+WHEREAS, pursuant to the Supplement, the Master Servicer, the Servicer, the Transferor and the Trustee desire to extend the Series Termination
+Date.
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements herein contained, each party agrees as follows:
+
+Section 1. Extension of Series Termination Date . As of the Effective Date (as defined below), the parties hereto agree that the
+Series Termination Date shall be extended to July 1, 2049.
+
+Section 2. Effectiveness of Agreement . This Agreement shall
+become effective in accordance with its terms as of the date hereof (the “ Effective Date ”) upon:
+
+ | (1) | receipt by the parties hereto of a duly executed counterpart of this Agreement from each party hereto;
+
+ | (2) | receipt by the Trustee of a duly executed copy of the Direction Letter, dated as of the date hereof, from the
+Transferor to the Trustee; and
+
+1
+
+ | (3) | receipt by the Trustee of a legal opinion (addressed to the Trustee) of Mayer Brown, as counsel to the
+Transferor, covering conditions precedent to the execution of this Agreement.
+
+Section 3. Severability . In
+case any provision in this Agreement will be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not in any way be affected or impaired thereby.
+
+Section 4. Ratification of Pooling and Servicing Agreement . Except as specifically modified or supplemented by this Agreement, the
+Pooling and Servicing Agreement is hereby confirmed and ratified in all respects and shall remain in full force and effect. This Agreement shall not constitute a novation of the Pooling and Servicing Agreement, but shall constitute an amendment
+thereof. Each of the parties to the Pooling and Servicing Agreement agrees to be bound by the terms of the obligations of the Pooling and Servicing Agreement, as modified by this Agreement, as though the terms and obligations of such agreement were
+set forth herein.
+
+Section 5. Governing Law . Except as otherwise specifically provided herein, this Agreement shall be
+construed in accordance with the internal laws of the State of New York without reference to its conflict of law provisions, and the obligations, rights and remedies of the parties hereunder shall be determined in accordance with such laws.
+
+Section 6. Election Under Delaware Asset-Backed Securities Facilitation Act . Without limiting any other provisions of this
+Agreement, the parties hereto agree that (a) the transactions contemplated hereby constitute a “securitization transaction” and (b) to the fullest extent permitted under applicable law, including without limitation, the Asset
+Backed Securities Facilitation Act Delaware Code Ann. tit. 6, § 2703A et seq: (1) all right, title and interest to the Transferred Assets, which have been transferred to the Trust in connection with the securitization transactions
+contemplated herein, shall be deemed to no longer be the property, assets or rights of the Transferor; (2) the Transferor, its creditors or, in any insolvency proceeding with respect to the Transferor or the Transferor’s property, a
+bankruptcy trustee, receiver, debtor, debtor in possession or similar person, shall have no rights, legal or equitable, whatsoever to reacquire, reclaim, recover, repudiate, disaffirm, redeem or recharacterize as property of the Transferor any of
+the Transferred Assets; and (3) in the event of a bankruptcy, receivership or other insolvency proceeding with respect to the Transferor or the Transferor’s property, such Transferred Assets shall not be deemed to be part of the
+Transferor’s property, assets, rights or estate.
+
+Section 7. Counterparts . This Agreement may be executed in any number
+of counterparts, each of which so executed will be deemed to be an original, but all such counterparts will together constitute but one and the same instrument. The parties agree that this Agreement or any other document necessary for the
+consummation of the transaction contemplated by this Agreement may be accepted, executed or agreed to through the use of an electronic signature provided by one or more electronic networks or databases (including one or more distributed electronic
+networks or databases) provided by any electronic signature provider
+
+2
+
+that creates a record that may be retained, retrieved and reviewed by a recipient thereof and is in accordance with the Electronic Signatures in Global and National Commerce Act, Title 15, United
+States Code, Sections 7001 et seq., the Uniform Electronic Transaction Act and any applicable state law. Any document accepted, executed or agreed to in conformity with the requirements of this Section 5 will be binding on all parties
+thereto to the same extent as if it were physically executed.
+
+Section 8. Direction to Indenture
+Trustee . The Transferor hereby authorizes and directs the Indenture Trustee to execute and deliver this Agreement. The Transferor hereby confirms that such authorization and direction and each such action by the Indenture Trustee pursuant to the
+foregoing authorization and direction (i) is not inconsistent with the terms of the Pooling and Servicing Agreement, (ii) does not constitute fraud, negligence or willful misconduct and (iii) is covered by the indemnification provided
+under Section 7.04 of the PSA. In furtherance of the foregoing, and notwithstanding any rule of law or provision of any document or instrument to the contrary, in no event shall USB (in its individual capacity) have any duty or liability under
+or in connection with this Agreement and the undersigned hereby agrees to indemnify, defend and hold harmless USB (in its individual capacity) in connection with its execution of this Agreement.
+
+[Signature page follow]
+
+3
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their
+respective officers thereunto duly authorized, as of the date first above written.
+
+[TABLE]
+Discover Bank,
+as Master Servicer and Servicer
+By: |  | /s/ Patricia S. Hall
+ |  | Name: Patricia S. Hall
+ |  | Title: Vice President, Chief Financial Officer
+ |  | and Assistant Treasurer
+Discover Funding LLC,
+as Transferor
+By: |  | /s/ Patricia S. Hall
+ |  | Name: Patricia S. Hall
+ |  | Title: Vice President, Chief Financial Officer
+ |  | and Treasurer
+U.S. Bank Trust Company, National Association,
+as Trustee
+By: |  | /s/ Christopher J. Nuxoll
+ |  | Name: Christopher J. Nuxoll
+ |  | Title: Vice President
+[/TABLE]
+
+[Signature Page to Extension Agreement]

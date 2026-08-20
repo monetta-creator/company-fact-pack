@@ -1,0 +1,210 @@
+CAPITAL ONE FINANCIAL CORP Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K false 0000927628 0000927628 2020-09-21 2020-09-21 0000927628 us-gaap:CommonStockMember 2020-09-21 2020-09-21 0000927628 us-gaap:SeriesFPreferredStockMember 2020-09-21 2020-09-21 0000927628 us-gaap:SeriesGPreferredStockMember 2020-09-21 2020-09-21 0000927628 us-gaap:SeriesHPreferredStockMember 2020-09-21 2020-09-21 0000927628 cof:SeriesIPreferredStockMember 2020-09-21 2020-09-21 0000927628 cof:SeriesJPreferredStockMember 2020-09-21 2020-09-21 0000927628 us-gaap:FixedIncomeInterestRateMember 2020-09-21 2020-09-21 0000927628 cof:M0.800SeniorNotesDue2024Member 2020-09-21 2020-09-21 0000927628 cof:M1.650SeniorNotesDue2029Member 2020-09-21 2020-09-21
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+September 21, 2020
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F |  | COF PRF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G |  | COF PRG |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H |  | COF PRH |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+On September 21, 2020, Capital One Financial Corporation (the “Company”) issued a press release announcing that its subsidiary Capital One Bank (USA), N.A. has commenced an offer (the “Offer”) to purchase for cash any and all of certain securities issued by Cabela’s Credit Card Master Note Trust from each registered holder.
+
+A copy of the Company’s press release announcing the commencement of the Offer is attached as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated September 21, 2020.
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: September 21, 2020 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel
+[/TABLE]
+
+
+=== EXHIBIT d88156dex991.htm ===
+
+EX-99.1 2 d88156dex991.htm EX-99.1 EX-99.1
+Exhibit 99.1
+
+ |  | News Release
+
+[TABLE]
+ |  |  |  |  |  | Contacts:
+ |  |  |  |  |  | Investor Relations |  | Media Relations
+ |  |  |  |  |  | Jeff Norris |  | Danielle Dietz |  | Sie Soheili |  | Tatiana Stead
+ |  |  |  |  |  | 703.720.2455 |  | 703.720.2455 |  | 703.720.3929 |  | 703.720.2352
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: September 21, 2020
+
+Capital One Announces Capital One Bank (USA), National Association
+
+Any and All Cash Tender Offer for $327,250,000 of Notes Issued by
+
+Cabela’s Credit Card Master Note Trust
+
+McLean, Va., September 21, 2020 – Capital One Financial Corporation (NYSE: COF) (“Capital One”) announced today that its subsidiary
+Capital One Bank (USA), National Association (“COBNA” or the “Offeror”) has commenced an offer (the “Offer”) to purchase for cash any and all of the securities listed in the table below (the “Securities”)
+issued by Cabela’s Credit Card Master Note Trust (the “Trust”) from each registered holder of the Securities (the “Holders”). The Trust was formed by WFB Funding, LLC, a Nebraska limited liability company, as depositor. WFB
+Funding, LLC is an indirect wholly-owned subsidiary of COBNA and is the sole beneficial owner of the Trust. COBNA acts as servicer and administrator of the Trust.
+
+[TABLE]
+CUSIP Number |  | Title of Security (1) |  | Expected Principal Payment Date |  | Stated Maturity Date |  | Aggregate Principal Amount Outstanding |  | Benchmark |  | Bloomberg Reference Page |  | Fixed
+Spread (basis points) |  | Hypothetical Purchase Price (2)
+126802CL9 |  | 2.71% Class A Fixed Rate Asset-Backed Notes, Series 2013-I |  | February 15, 2023 |  | February 17, 2026 |  | $327,250,000 |  | Interpolated Swap Rate (as defined below) |  | IRSB US |  | 15 |  | $1,055.29
+[/TABLE]
+
+(1) | The Securities represent the most senior class of a series of notes issued by the Trust, referred to as the
+“ Series 2013-I Notes .” The Offeror owns each of the subordinated classes of the Series 2013-I Notes, which consist of the Class B, Class C,
+and Class D Fixed Rate Asset-Backed Notes, Series 2013-I.
+
+(2) | Per $1,000 principal amount of Securities using a hypothetical Pricing Determination Date of September 18,
+2020, a hypothetical Settlement Date of October 1, 2020 and a hypothetical Interpolated Swap Rate which would have been in effect had it been measured at 2:00 p.m., New York City time, on September 18, 2020. This hypothetical Purchase
+Price is for reference only. The actual Purchase Price will differ from the hypothetical Purchase Price when calculated as of the Pricing Determination Date (as defined below) or the Settlement Date (as defined below) due to changes in the
+Interpolated Swap Rate.
+
+The Offer is being made pursuant to an Offer to Purchase dated September 21, 2020 (the “Offer to
+Purchase”), which contains detailed information concerning the terms of the Offer. The Offer is scheduled to expire at 5:00 p.m., New York City time, on September 25, 2020, unless extended or earlier terminated (the “Expiration
+Date”). Upon the terms and subject to the conditions of the Offer, the Settlement Date is expected to be October 1, 2020.
+
+The purchase price
+payable for the Securities (the “Purchase Price”) will be a price per $1,000 principal amount of the Securities validly tendered (and not validly withdrawn) by the Holders at any time on or prior to the Expiration Date and accepted for
+purchase by the Offeror equal to an amount, calculated in accordance with the Offer to Purchase, that would reflect, as of the Expiration Date, a yield to the expected principal payment date for the Securities equal to the sum of (i) the
+Interpolated Swap Rate (as defined in the Offer to Purchase and calculated thereunder), determined at 2:00 p.m., New York City time, on the Expiration Date (the “Pricing Determination Date”), plus (ii) the Fixed Spread set forth under
+the heading “Fixed Spread” above, minus Accrued Interest (as defined below) on the Securities, as more fully described in the Offer to Purchase.
+
+The Offeror will pay the Purchase Price, plus accrued and unpaid interest from the most recent interest payment
+date to, but not including, the Settlement Date (the “Accrued Interest”) for any Securities validly tendered (and not validly withdrawn) by the Holders at any time on or prior to the Expiration Date and accepted for purchase by the Offeror
+in same-day funds on the Settlement Date.
+
+The Interpolated Swap Rate will be calculated in accordance with
+standard market practice and will be based on the bid and offered swap rates for the 2 Year USD Semi-Annual Mid-Swap Rate and the 3 Year USD Semi-Annual Mid-Swap Rate, each as displayed on the Interest Rate Swap Rate (“IRSB”) Bloomberg Reference Page “IRSB US” (the “Reference Page”) as
+of the Pricing Determination Date.
+
+The Interpolated Swap Rate will be determined at the Pricing Determination Date. If the Dealer Managers determine that
+the Reference Page is not operational or is displaying inaccurate information at that time, the bid and offered swap rates for the 2 Year USD Semi-Annual Mid-Swap Rate and the 3 Year USD Semi-Annual Mid-Swap Rate determined at or around the Pricing Determination Date shall be determined by such other means as the Offeror, in
+consultation with the Dealer Managers, may consider to be appropriate under the circumstances.
+
+Tenders of Securities pursuant to the Offer may be validly
+withdrawn at any time before the earlier of (i) the Expiration Date, and (ii) if the Offer is extended, the 10th business day after commencement of the Offer. Securities subject to the Offer may also be validly withdrawn at any time after
+the 60th business day after commencement of the Offer if for any reason the Offer has not been consummated within 60 business days after commencement.
+
+The Offer is conditioned upon a minimum aggregate principal amount of $294,525,000 of the outstanding Securities being validly tendered and not validly
+withdrawn prior to 5:00 p.m., New York City time, on the Expiration Date and on satisfaction of certain additional customary general conditions described in the Offer to Purchase. Subject to applicable law, the Offeror may, at its sole discretion,
+waive any condition applicable to the Offer and may extend the Offer. Capitalized terms used but not defined in this press release shall have meanings ascribed to them in the Offer to Purchase.
+
+The Offeror expects to retire and cancel the Securities that it acquires in the Offer. In accordance with the terms of the Indenture governing the Securities,
+the Offeror intends to redeem the remaining outstanding Securities not acquired in the Offer following the cancellation of the Securities that it acquired in the Offer. The redemption price for the Securities not acquired in the Offer will be based
+on the face amount of such Securities and, therefore, will be lower than the Purchase Price offered for the Securities to be purchased in the Offer.
+
+The
+Offeror expressly reserves the right, in its sole discretion, at any time or from time to time, regardless of whether or not the conditions set forth in the Offer to Purchase for the Offer have been satisfied, subject to applicable law, to extend
+the Expiration Date for the Offer, or to amend in any respect or to terminate the Offer, in each case by giving written or oral notice of such extension, amendment or termination to the Tender Agent.
+
+The Offeror has appointed J.P. Morgan Securities LLC and RBC Capital Markets, LLC to act as dealer managers for the Offer, and has retained D.F.
+King & Co., Inc. to serve as the information agent and the tender agent. Requests for documents may be directed to D.F. King & Co., Inc. by telephone at +1 (212) 269-5550 (banks and
+brokers) or +1 (877) 679-4107 or email at capitalone@dfking.com. Questions regarding the Offer may be directed to J.P. Morgan Securities LLC toll free at (866) 834-4666 or collect at (212) 834-3424, or RBC Capital Markets, LLC toll free at (877) 381-2099 or collect at (212) 618-7843.
+
+Copies of the Offer to Purchase, the related Notice of Guaranteed Delivery, and the other
+relevant notices and documents are available at the Offer Website at http://www.dfking.com/capitalone.
+
+2
+
+This press release is for informational purposes only and does not constitute an offer to purchase nor the
+solicitation of an offer to sell any Securities. The Offer is being made only pursuant to the Offer to Purchase and the related Notice of Guaranteed Delivery. The Offer is not being made to holders of Securities in any jurisdiction in which the
+making or acceptance thereof would not be in compliance with the securities, blue sky or other laws of such jurisdiction. None of the Offeror, the Dealer Managers, the Information Agent, the Tender Agent or any of their respective affiliates makes
+any recommendation in connection with the Offer. Please refer to the Offer to Purchase for a description of terms, conditions, disclaimers and other information applicable to the Offer.
+
+Forward-Looking Statements
+
+Certain statements in this
+release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ
+materially from those contained in the forward-looking information due to a number of factors, including, but not limited to, those listed under “Forward-Looking Information” in the Offer to Purchase.
+
+About Capital One
+
+Capital
+One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, National Association and Capital One Bank (USA), National Association, had $304.2 billion in deposits and
+$421.3 billion in total assets as of June 30, 2020. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of
+channels. Capital One, National Association has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the
+symbol “COF” and is included in the S&P 100 Index.
+
+# # #
+
+3

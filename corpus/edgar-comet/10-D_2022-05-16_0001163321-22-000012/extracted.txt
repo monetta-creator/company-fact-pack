@@ -1,0 +1,571 @@
+10-D 1 form10-dapril2022.htm COMET 10-D APRIL 2022 Document created using Wdesk Copyright 2022 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-D
+
+ASSET-BACKED ISSUER
+
+Distribution Report Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+For the monthly reporting period from
+
+April 1, 2022 through April 30, 2022
+
+Commission File Number of issuing entity: 333-75276 Central Index Key Number of issuing entity: 0001163321 CAPITAL ONE MULTI-ASSET EXECUTION TRUST (Exact name of issuing entity as specified in its charter) (Issuing entity in respect of the Notes) | Commission File Number of issuing entity: 000-25762 Central Index Key Number of issuing entity: 0000922869 CAPITAL ONE MASTER TRUST (Exact name of issuing entity as specified in its charter) (Issuing entity in respect of the COMT Collateral Certificate)
+
+Commission File Number of depositor: 333-75276-01
+
+Central Index Key Number of depositor: 0001162387
+
+CAPITAL ONE FUNDING, LLC
+
+(Exact name of depositor as specified in its charter )
+
+Central Index Key Number of sponsor: 0001514949
+
+CAPITAL ONE BANK (USA), NATIONAL
+
+ASSOCIATION
+
+(Exact name of sponsor as specified in its charter)
+
+Eric Bauder
+
+Senior Director, Capital Markets
+
+703-720-3148
+
+[TABLE]
+Delaware (State or other jurisdiction of incorporation or organization of the issuing entity) |  | New York (State or other jurisdiction of incorporation or organization of the issuing entity)
+c/o Capital One Funding, LLC 1600 Capital One Drive Room 27907A McLean, VA 22102 (Address of principal executive offices of issuing entity) |  | c/o Capital One Funding, LLC 1600 Capital One Drive Room 27907A McLean, VA 22102 (Address of principal executive offices of issuing entity)
+804-284-2500 (Telephone number, including area code) |  | 804-284-2500 (Telephone number, including area code)
+Not Applicable (I.R.S. Employer Identification No.) |  | Not Applicable (I.R.S. Employer Identification No.)
+N/A (Former name, former address, if changed since last report) |  | N/A (Former name, former address, if changed since last report)
+[/TABLE]
+
+1
+
+Each class of Notes to which this report on Form 10-D relates is subject to the reporting requirements of Section 15(d) of the Securities Exchange Act of 1934. The title of each class of Notes to which this report on Form 10-D relates is set forth in Exhibit 99.2 hereto.
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes X No ___
+
+2
+
+PART I - DISTRIBUTION INFORMATION
+
+ITEM 1 - Distribution and Pool Performance Information
+
+Response to Item 1 is set forth in Exhibits 99.1 and 99.2.
+
+ITEM 10 - Exhibits
+
+Exhibit 99.1 Monthly Series 2002-CC Certificateholders’ Statement
+
+Exhibit 99.2 Card Series Schedule to Monthly Noteholders’ Statement
+
+3
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Dated: May 16, 2022
+
+[TABLE]
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST
+ | (Issuing Entity)
+CAPITAL ONE MASTER TRUST
+ | (Issuing Entity)
+By: | CAPITAL ONE BANK (USA), NATIONAL ASSOCIATION
+(Servicer)
+By: | /s/ Jeremy Potts
+Name: | Jeremy Potts
+Title: | Vice President, Assistant Controller
+[/TABLE]
+
+4
+
+
+=== EXHIBIT exhibit9912002-ccapril2022.htm ===
+
+EX-99.1 2 exhibit9912002-ccapril2022.htm COMET EXHIBIT 99.1 APRIL 2022 Document created using Wdesk Copyright 2022 Workiva Document
+
+Exhibit 99.1
+
+MONTHLY STATEMENT
+
+Capital One Master Trust
+
+SERIES 2002-CC
+
+Under the Amended and Restated Pooling and Servicing Agreement dated as of September 30, 1993, as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007, and March 17, 2016, and as further amended by the First Amendment thereto dated as of January 27, 2017 (as so amended, the “ Agreement ” ), among Capital One Bank (USA), National Association, as Servicer, Capital One Funding, LLC ( “ Funding ” ), as Transferor, and The Bank of New York Mellon, as Trustee (the “ Trustee ” ), Capital One Bank (USA), National Association as Servicer is required to prepare certain information each month regarding current distributions to Certificateholders and the performance of the Capital One Master Trust (the “ Trust ” ) during the previous month. The information which is required to be prepared with respect to the Distribution Date of May 16, 2022, and with respect to the performance of the Trust during the month of April 2022 is set forth below. The current Distribution Date is May 16, 2022. Certain other information is presented based on the aggregate amounts for the Trust as a whole.
+
+Material terms, parties and related abbreviations used herein may be found in the following documents as filed with the Securities and Exchange Commission ( “ SEC ” ).
+
+[TABLE]
+Amended and Restated Series 2002-CC Supplement to the Amended and Restated Pooling and Servicing Agreement dated as of October 9, 2002, as amended and restated as of March 17, 2016, relating to the COMT Collateral Certificate. |  | Included in Exhibit 4.3 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+Amended and Restated Pooling and Servicing Agreement dated as of September 30, 1993, as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007 and March 17, 2016. |  | Included in Exhibit 4.2 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+First Amendment to Amended and Restated Pooling and Servicing Agreement dated as of January 27, 2017. |  | Included in Exhibit 4.1 to Funding’s Form 8-K filed with the SEC on January 27, 2017.
+[/TABLE]
+
+1
+
+[TABLE]
+A) | CAPITAL ONE MASTER TRUST (RECEIVABLES) |  |  |
+ | MONTHLY PERIOD: April 2022 |
+ |  | ACCOUNTS (a) |  |
+1) | Beginning of the Month Principal Receivables |  |  | $ | 20,558,680,370.57 |
+2) | Beginning of the Month Finance Charge Receivables |  |  | $ | 254,396,091.22 |
+3) | Beginning of the Month AMF Receivables |  |  | $ | 6,900,517.98 |
+4) | Beginning of the Month Discounted Receivables |  |  | $ | 0.00 |
+5) | Beginning of the Month Total Receivables | 10,449,629 |  | $ | 20,819,976,979.77 |
+6) | Removed Principal Receivables |  |  | $ | 0.00 |
+7) | Removed Finance Charge Receivables |  |  | $ | 0.00 |
+8) | Removed AMF Receivables |  |  | $ | 0.00 |
+9) | Removed Total Receivables | 0 |  | $ | 0.00 |
+10) | Additional Principal Receivables |  |  | $ | 0.00 |
+11) | Additional Finance Charge Receivables |  |  | $ | 0.00 |
+12) | Additional AMF Receivables |  |  | $ | 0.00 |
+13) | Additional Total Receivables | 0 |  | $ | 0.00 |
+14) | Discounted Receivables Generated this Period |  |  | $ | 0.00 |
+15) | End of the Month Principal Receivables |  |  | $ | 20,660,160,596.72 |
+16) | End of the Month Finance Charge Receivables |  |  | $ | 248,059,962.50 |
+17) | End of the Month AMF Receivables |  |  | $ | 7,499,230.38 |
+18) | End of the Month Discounted Receivables |  |  | $ | 0.00 |
+19) | End of the Month Total Receivables | 10,384,742 |  | $ | 20,915,719,789.60 |
+20) | Beginning of the Month Excess Funding Account Balance |  |  | $ | 0.00 |
+21) | Adjusted Invested Amount of all Master Trust Series |  |  | $ | 15,427,838,191.27 |
+22) | End of the Month Transferor Interest |  |  | $ | 5,232,322,405.45 |
+23) | End of the Month Transferor Percentage (b) |  |  | 25.33%
+24) | End of the Month Regulation RR Transferor Percentage (c) |  |  | 33.91%
+[/TABLE]
+
+[TABLE]
+(a) | Accounts include accounts which have a credit balance and accounts which have no balance because receivables may be generated with respect to such accounts in the future. Accounts do not include certain charged-off accounts with zero balances. Beginning in November 2009, Accounts, as defined herein, also include accounts which are closed, but still have a balance. Such accounts were omitted from reporting prior to this time. All other items have been and are still appropriately reflecting closed accounts with a balance.
+(b) | Calculated as End of Month Transferor Interest (line 22) divided by End of the Month Principal Receivables (line 15). Capital One Bank (USA), National Association, as “originator” for the purposes of the EU risk retention rules, currently retains a material net economic interest that is not less than five percent of the nominal value of the securitized exposure, which interest is not subject to any credit risk mitigation, short position or other hedge, except to the extent permitted by the EU risk retention rules.
+(c) | Calculated as End of Month Transferor Interest (line 22) divided by the aggregate unpaid principal balance of the outstanding notes issued by COMET (including notes held for the life of such notes by Capital One Bank (USA), National Association or its wholly-owned affiliates). Capital One Bank (USA), National Association, as sponsor, currently complies with the U.S. risk retention rules through retention by Capital One Funding of a “seller’s interest,” in the form of the Transferor Interest.
+[/TABLE]
+
+[TABLE]
+B) | CAPITAL ONE MASTER TRUST (DELINQUENCIES AND LOSSES) |  |
+ | MONTHLY PERIOD: April 2022 |  |  |
+ |  | ACCOUNTS |  | RECEIVABLES
+1) | End of the Month Delinquencies: |  |  |
+2) | 30 - 59 Days Delinquent | 16,880 |  |  | $ | 53,531,016.83 |
+3) | 60 - 89 Days Delinquent | 12,588 |  |  | $ | 44,619,125.84 |
+4) | 90 - 119 Days Delinquent | 10,476 |  |  | $ | 37,351,697.86 |
+5) | 120 - 149 Days Delinquent | 7,552 |  |  | $ | 32,802,553.13 |
+6) | 150 + Days Delinquent | 7,056 |  |  | $ | 31,898,858.33 |
+7) | Total 30+ Days Delinquent | 54,552 |  |  | $ | 200,203,251.99 |
+8) | Delinquencies 30 + Days as a Percent of End of the Month Total Receivables |  |  | 0.96%
+9) | Total 60+ Days Delinquent | 37,672 |  |  | $ | 146,672,235.16 |
+[/TABLE]
+
+2
+
+[TABLE]
+10) | Delinquencies 60 + Days as a Percent of End of the Month Total Receivables |  |  | 0.70%
+11) | Defaulted Accounts during the Month | 10,300 |  |  | $ | 35,564,273.04 |
+12) | Annualized Default Rate as a Percent of Adjusted Beginning of the Month Principal Receivables which includes Additional Principal Receivables |  |  | 2.08%
+13) | Recoveries of Charged-Off Accounts during the Month |  |  | $ | 18,760,471.90 |
+14) | Annualized Recoveries as a Percent of Adjusted Beginning of the Month Principal Receivables which includes Additional Principal Receivables |  |  | 1.10%
+15) | Defaulted Accounts, net of Recoveries, during the Month |  |  | $ | 16,803,801.14 |
+16) | Annualized Net Default Rate as a Percent of Adjusted Beginning of Month Principal Receivables which includes Additional Principal Receivables |  |  | 0.98%
+[/TABLE]
+
+[TABLE]
+C) | CAPITAL ONE MASTER TRUST (COLLECTIONS) |  |  |
+ | MONTHLY PERIOD: April 2022 | COLLECTIONS |  | PERCENTAGES
+1) | Total Collections and Gross Payment Rate as a Percent of Adjusted Beginning of Month Total Receivables which includes Additional Total Receivables | $ | 10,549,625,825.09 |  |  | 50.67%
+2) | Collections of Principal Receivables and Principal Payment Rate as a Percent of Adjusted Beginning of the Month Principal Receivables which includes Additional Principal Receivables | $ | 10,104,364,333.74 |  |  | 49.15%
+ | 3) | Prior Month Billed Finance Charges and Fees | $ | 195,532,458.45 |  |  |
+ | 4) | Amortized AMF Income | $ | 9,966,810.17 |  |  |
+ | 5) | Interchange Collected | $ | 222,064,350.78 |  |  |
+ | 6) | Recoveries of Charged Off Accounts | $ | 18,760,471.90 |  |  |
+ | 7) | Collections of Discounted Receivables | $ | 0.00 |  |  |
+8) | Collections of Finance Charge Receivables and Annualized Yield as a Percent of Adjusted Beginning of the Month Principal Receivables which includes Additional Principal Receivables | $ | 446,324,091.30 |  |  | 26.05%
+[/TABLE]
+
+[TABLE]
+D) | CAPITAL ONE MASTER TRUST (AMF COLLECTIONS) |  |  |
+ | MONTHLY PERIOD: April 2022 |  |  |
+1) | Beginning Unamortized AMF Balance |  |  | $ | 54,202,754.80 |
+ | 2) |  | + AMF SLUG | $ | 0.00 |  |  |
+ | 3) |  | + AMF Collections | $ | 8,904,210.22 |  |  |
+ | 4) |  | - Amortized AMF Income | $ | 9,966,810.17 |  |  |
+5) | Ending Unamortized AMF Balance |  |  | $ | 53,140,154.85 |
+[/TABLE]
+
+[TABLE]
+E) | CAPITAL ONE MASTER TRUST : SERIES 2002-CC (Floating Allocation Amount) |  |
+ | MONTHLY PERIOD: April 2022 |  |  |
+1) | Floating Allocation Amount |  |  | $ | 15,427,838,191.27
+2) | Floating Allocation Percentage |  |  | 75.042940%
+3) | Finance Charge Collections Allocated |  |  | $ | 334,934,720.39 |
+4) | Plus: Other amounts to be treated as Finance Charge Amounts | $ | 9.60 |  |  |
+5) | Less: Servicer Interchange | $ | 9,642,398.87 |  |  |
+6) | Available Funds |  |  | $ | 325,292,331.12 |
+7) | Allocations of Series 2002-CC Finance Charge Amounts |  |  |
+ | a) |  | Class A Targeted Deposit to Interest Funding Account | $ | 19,560,939.99 |  |  |
+ | b) |  | Class B Targeted Deposit to Interest Funding Account | $ | 936,874.12 |  |  |
+ | c) |  | Class C Targeted Deposit to Interest Funding Account | $ | 1,185,669.79 |  |  |
+ | d) |  | Series 2002-CC Servicing Fee to the Servicer | $ | 16,070,664.78 |  |  |
+ | e) |  | Series 2002-CC Servicing Fee previously due and unpaid to the Servicer | $ | 0.00 |  |  |
+ | f) |  | Class D Targeted Deposit to Interest Funding Account | $ | 0.00 |  |  |
+ | g) |  | Series 2002-CC Defaulted Amount | $ | 26,688,476.11 |  |  |
+ | h) |  | Nominal Liquidation Amount Deficits | $ | 0.00 |  |  |
+ | i) |  | Accumulation Reserve Account Targeted Deposit | $ | 0.00 |  |  |
+[/TABLE]
+
+3
+
+[TABLE]
+ | j) |  | Class C Reserve Account Targeted Deposit | $ | 0.00 |  |  |
+ | k) |  | Class D Reserve Account Targeted Deposit | $ | 0.00 |  |  |
+ | l) |  | Other deposits or payments required by Term Documents | $ | 0.00 |  |  |
+8) | Shared Excess Finance Charges of Series 2002-CC |  |  | $ | 260,849,706.33 |
+9) | Total Excess Finance Charges for All Series in Group 1 |  |  | $ | 260,849,706.33 |
+10) | Finance Charge Shortfall for Series 2002-CC |  |  | $ | 0.00 |
+11) | Finance Charge Shortfall for All Series in Group 1 |  |  | $ | 0.00 |
+12) | Excess Finance Charges Allocated to Series 2002-CC |  |  | $ | 0.00 |
+[/TABLE]
+
+[TABLE]
+F) | CAPITAL ONE MASTER TRUST: SERIES 2002-CC (Principal Allocation Amount) |
+ | MONTHLY PERIOD: April 2022 |
+1) | Principal Allocation Amount |  | $ | 15,427,838,191.27 |
+2) | Principal Allocation Percentage |  | 75.042940%
+3) | Principal Collections Allocated |  | $ | 7,582,612,072.21 |
+4) | Series 2002-CC Monthly Principal Payment |  | $ | 0.00 |
+5) | Shared Principal Collections (excess principal) of Series 2002-CC |  | $ | 7,582,612,072.21 |
+6) | Total Shared Principal Collections (excess principal) for All Series in Group |  | $ | 7,582,612,072.21 |
+7) | Principal Shortfall for Series 2002-CC |  | $ | 0.00 |
+8) | Principal Shortfall for All Series in Group 1 |  | $ | 0.00 |
+9) | Shared Principal Collections Allocated to Series 2002-CC |  | $ | 0.00 |
+[/TABLE]
+
+4
+
+MONTHLY SERVICER’S CERTIFICATE
+
+CAPITAL ONE BANK (USA), National Association
+
+CAPITAL ONE MASTER TRUST
+
+SERIES 2002-CC
+
+The undersigned, a duly authorized representative of Capital One Bank (USA), National Association, as Servicer, pursuant to the Amended and Restated Pooling and Servicing Agreement dated as of September 30, 1993, as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007 and March 17, 2016, and as further amended by the First Amendment thereto dated as of January 27, 2017 (as so amended, the “Agreement”), as supplemented by the Amended and Restated Series 2002-CC Supplement dated as of October 9, 2002, as amended and restated as of March 17, 2016 (as amended and restated, the “Series Supplement”), among Capital One Funding, LLC, as Transferor, Capital One Bank (USA), National Association, as Servicer, and The Bank of New York Mellon, as Trustee, does hereby certify as follows:
+
+[TABLE]
+1. | Capitalized terms used in this Certificate have their respective meanings as set forth in the Agreement or Series Supplement, as applicable.
+2. | Capital One Bank (USA), National Association is, as of the date hereof, the Servicer under the Agreement.
+3. | The undersigned is a Servicing Officer.
+4. | This Certificate relates to the Distribution Date occurring on May 16, 2022.
+5. | As of the date hereof, to the best knowledge of the undersigned, the Servicer has performed in all material respects under the Agreement through the Monthly Period preceding such Distribution Date.
+6. | As of the date hereof, to the best knowledge of the undersigned, no Pay Out Event occurred on or prior to such Distribution Date.
+7. | As of the date hereof, to the best knowledge of the undersigned, no Lien has been placed on any of the receivables other than pursuant to the Agreement.
+IN WITNESS WHEREOF, the undersigned has duly executed and delivered this Certificate this 11th day of May 2022.
+[/TABLE]
+
+[TABLE]
+CAPITAL ONE BANK (USA), National Association as Servicer
+By: | /s/ Jeremy Potts
+Name: | Jeremy Potts
+Title: | Authorized Officer
+[/TABLE]
+
+Back to Top
+
+5
+
+
+=== EXHIBIT exhibit992nhsapril2022.htm ===
+
+EX-99.2 3 exhibit992nhsapril2022.htm COMET EXHIBIT 99.2 APRIL 2022 Document created using Wdesk Copyright 2022 Workiva Document
+
+Exhibit 99.2
+
+CARD SERIES SCHEDULE TO
+
+MONTHLY NOTEHOLDERS' STATEMENT
+
+Date: May 11, 2022
+
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST, ASSET POOL 1
+
+Monthly Period Ending: April 30, 2022
+
+Reference is made to the Amended and Restated Series 2002-CC Supplement, dated as of October 9, 2002, as amended and restated as of March 17, 2016 (as amended and restated, the “Series 2002-CC Supplement”), among Capital One Funding, LLC, a Virginia limited liability company (“Funding”), as Transferor, Capital One Bank (USA), National Association, a national banking association (the “Bank”), as Servicer, and The Bank of New York Mellon, as Trustee, and the Indenture dated as of October 9, 2002, as amended and restated as of January 13, 2006 and March 17, 2016 (as amended and restated, the “Indenture”), between Capital One Multi-asset Execution Trust, as Issuer, and The Bank of New York Mellon, as Indenture Trustee.
+
+The following computations are prepared with respect to the Transfer Date of May 13, 2022 and with respect to the performance of the Trust during the related Monthly Period from April 1, 2022 through April 30, 2022.
+
+The Current Distribution Date is May 16, 2022.
+
+Interest Period for all tranches generally includes the previous Distribution Date (or in the case of the initial Interest Payment Date, the Issuance Date) through the day preceding the current Distribution Date.
+
+Interest on floating rate tranches is calculated on the basis of a 360-day year and the actual number of days in the related Interest Period. Interest on fixed rate tranches is calculated on the basis of a 360-day year and twelve 30-day months.
+
+Material terms, parties and related abbreviations used herein may be found in the following documents as filed with the Securities and Exchange
+
+Commission (“SEC”).
+
+[TABLE]
+Amended and Restated Pooling and Servicing Agreement dated as of September 30, 1993, as amended and restated as of August 1, 2002, January 13, 2006, July 1, 2007, and March 17, 2016. |  | Included in Exhibit 4.2 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+First Amendment to Amended and Restated Pooling and Servicing Agreement dated as January 27, 2017. |  | Included in Exhibit 4.1 to Funding’s Form 8-K filed with the SEC on January 27, 2017.
+Amended and Restated Series 2002-CC Supplement to the Amended and Restated Pooling and Servicing Agreement dated as of October 9, 2002, as amended and restated as of March 17, 2016, relating to the COMT Collateral Certificate. |  | Included in Exhibit 4.3 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+Transfer and Administration Agreement dated as of October 9, 2002. |  | Included in Exhibit 4.2 to Funding’s Form 8-K filed with the SEC on November 12, 2002.
+First Amendment to Transfer and Administration Agreement dated as of March 1, 2008. |  | Included in Exhibit 4.10 to Funding’s Form 8-K filed with the SEC on March 4, 2008.
+Capital One Multi-asset Execution Trust Amended and Restated Trust Agreement dated as of October 9, 2002. |  | Included in Exhibit 4.3 to Funding’s Form 8-K filed with the SEC on November 12, 2002.
+Indenture dated as of October 9, 2002, as amended and restated as of January 13, 2006 and March 17, 2016. |  | Included in Exhibit 4.4 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+COMT Asset Pool I Supplement dated as of October 9, 2002. |  | Included in Exhibit 4.5 to Funding’s Form 8-K filed with the SEC on November 12, 2002.
+First Amendment to COMT Asset Pool I Supplement dated as of March 1, 2008. |  | Included in Exhibit 4.8 to Funding’s Form 8-K filed with the SEC on March 4, 2008.
+Card Series Indenture Supplement dated as of October 9, 2002, as amended and restated as of March 17, 2016. |  | Included in Exhibit 4.5 to Funding’s Form 8-K filed with the SEC on March 17, 2016.
+[/TABLE]
+
+1
+
+A. Interest to be paid on the corresponding Distribution Date:
+
+[TABLE]
+ | CUSIP Number |  | Interest Payment Date |  | Total Amount of Interest to be paid |  | Per $1000 of Outstanding Dollar Principal Amount
+CLASS A (2015-4) | 14041NEX5 |  | 5/16/2022 |  | $ | 630,208.33 |  |  | 2.2916666545 |
+CLASS A (2017-5) | 14041NFP1 |  | 5/16/2022 |  | $ | 585,972.33 |  |  | 0.9766205500 |
+CLASS A (2017-6) | 14041NFQ9 |  | 5/16/2022 |  | $ | 1,717,500.00 |  |  | 1.9083333333 |
+CLASS A (2018-2) | 14041NFS5 |  | 5/16/2022 |  | $ | 311,426.00 |  |  | 0.7785650000 |
+CLASS A (2019-2) | 14041NFU0 |  | 5/16/2022 |  | $ | 1,863,333.33 |  |  | 1.4333333308 |
+CLASS A (2019-3) | 14041NFV8 |  | 5/16/2022 |  | $ | 2,489,166.67 |  |  | 1.7166666690 |
+CLASS A (2021-1) | 14041NFW6 |  | 5/16/2022 |  | $ | 733,333.33 |  |  | 0.4583333313 |
+CLASS A (2021-2) | 14041NFX4 |  | 5/16/2022 |  | $ | 1,621,666.67 |  |  | 1.1583333357 |
+CLASS A (2021-3) | 14041NFY2 |  | 5/16/2022 |  | $ | 1,733,333.33 |  |  | 0.8666666650 |
+CLASS A (2022-1) | 14041NFZ9 |  | 5/16/2022 |  | $ | 7,875,000.00 |  |  | 3.5000000000 |
+Total Class A |  |  |  |  | $ | 19,560,939.99 |  |  |
+CLASS B (2005-3) | 14041NCG4 |  | 7/15/2022 |  | $ | — |  |  | — |
+CLASS B (2009-C) |  |  | 5/16/2022 |  | $ | 799,588.04 |  |  | 0.6174425019 |
+Total Class B |  |  |  |  | $ | 799,588.04 |  |  |
+CLASS C (2009-A) |  |  | 5/16/2022 |  | $ | 1,185,669.79 |  |  | 0.8499425018 |
+Total Class C |  |  |  |  | $ | 1,185,669.79 |  |  |
+Total |  |  |  |  | $ | 21,546,197.82 |  |  |
+[/TABLE]
+
+2
+
+B. Principal to be paid on the Distribution Date:
+
+[TABLE]
+ | CUSIP Number |  | Principal Payment Date |  | Total Amount of Principal to be paid |  | Per $1000 of Outstanding Dollar Principal Amount
+NOTHING TO REPORT |  |  |  |  |  |  |
+[/TABLE]
+
+3
+
+C. Outstanding Dollar Principal Amount and Nominal Liquidation Amount for the related Monthly Period:
+
+(as of the end of the related Monthly Period)
+
+[TABLE]
+ | Initial Dollar Principal Amount |  | Outstanding Dollar Principal Amount |  | Adjusted Outstanding Dollar Principal Amount |  | Nominal Liquidation Amount
+CLASS A (2015-4) | $ | 275,000,000.00 |  |  | $ | 275,000,000.00 |  |  | $ | 275,000,000.00 |  |  | $ | 275,000,000.00 |
+CLASS A (2017-5) | $ | 600,000,000.00 |  |  | $ | 600,000,000.00 |  |  | $ | 600,000,000.00 |  |  | $ | 600,000,000.00 |
+CLASS A (2017-6) | $ | 900,000,000.00 |  |  | $ | 900,000,000.00 |  |  | $ | 900,000,000.00 |  |  | $ | 900,000,000.00 |
+CLASS A (2018-2) | $ | 400,000,000.00 |  |  | $ | 400,000,000.00 |  |  | $ | 400,000,000.00 |  |  | $ | 400,000,000.00 |
+CLASS A (2019-2) | $ | 1,300,000,000.00 |  |  | $ | 1,300,000,000.00 |  |  | $ | 1,300,000,000.00 |  |  | $ | 1,300,000,000.00 |
+CLASS A (2019-3) | $ | 1,450,000,000.00 |  |  | $ | 1,450,000,000.00 |  |  | $ | 1,450,000,000.00 |  |  | $ | 1,450,000,000.00 |
+CLASS A (2021-1) | $ | 1,600,000,000.00 |  |  | $ | 1,600,000,000.00 |  |  | $ | 1,600,000,000.00 |  |  | $ | 1,600,000,000.00 |
+CLASS A (2021-2) | $ | 1,400,000,000.00 |  |  | $ | 1,400,000,000.00 |  |  | $ | 1,400,000,000.00 |  |  | $ | 1,400,000,000.00 |
+CLASS A (2021-3) | $ | 2,000,000,000.00 |  |  | $ | 2,000,000,000.00 |  |  | $ | 2,000,000,000.00 |  |  | $ | 2,000,000,000.00 |
+CLASS A (2022-1) | $ | 2,250,000,000.00 |  |  | $ | 2,250,000,000.00 |  |  | $ | 2,250,000,000.00 |  |  | $ | 2,250,000,000.00 |
+Total Class A | $ | 12,175,000,000.00 |  |  | $ | 12,175,000,000.00 |  |  | $ | 12,175,000,000.00 |  |  | $ | 12,175,000,000.00 |
+CLASS B (2005-3) | $ | 100,000,000.00 |  |  | $ | 100,000,000.00 |  |  | $ | 100,000,000.00 |  |  | $ | 100,000,000.00 |
+CLASS B (2009-C) | $ | 1,295,000,000.00 |  |  | $ | 1,295,000,000.00 |  |  | $ | 1,295,000,000.00 |  |  | $ | 1,295,000,000.00 |
+Total Class B | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |
+CLASS C (2009-A) | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |
+Total Class C | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |  |  | $ | 1,395,000,000.00 |
+CLASS D (2002-1) | $ | — |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |
+Total Class D | $ | — |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |
+Total | $ | 14,965,000,000.00 |  |  | $ | 15,427,838,191.27 |  |  | $ | 15,427,838,191.27 |  |  | $ | 15,427,838,191.27 |
+[/TABLE]
+
+4
+
+D. Nominal Liquidation Amount for Tranches of Notes Outstanding:
+
+(including all tranches issued as of the end of the Monthly Period, after taking into account all allocations expected to occur on the Distribution Date)
+
+[TABLE]
+ | End of Month Nominal Liquidation Amount | Increase due to accretions of Principal for Discount Notes | Withdrawal from Principal Funding sub-account | Reimbursements of Nominal Liquidation Amount from Available Funds | Reductions due to reallocation of Card Series Principal Amounts | Reduction due to Investor Charge-offs | Reductions due to deposits into the Principal Funding sub-Account | Nominal Liquidation Amount as of the Distribution Date*
+CLASS A (2015-4) | $ | 275,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 275,000,000.00 |
+CLASS A (2017-5) | $ | 600,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 600,000,000.00 |
+CLASS A (2017-6) | $ | 900,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 900,000,000.00 |
+CLASS A (2018-2) | $ | 400,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 400,000,000.00 |
+CLASS A (2019-2) | $ | 1,300,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,300,000,000.00 |
+CLASS A (2019-3) | $ | 1,450,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,450,000,000.00 |
+CLASS A (2021-1) | $ | 1,600,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,600,000,000.00 |
+CLASS A (2021-2) | $ | 1,400,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,400,000,000.00 |
+CLASS A (2021-3) | $ | 2,000,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 2,000,000,000.00 |
+CLASS A (2022-1) | $ | 2,250,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 2,250,000,000.00 |
+Total Class A | $ | 12,175,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 12,175,000,000.00 |
+CLASS B (2005-3) | $ | 100,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 100,000,000.00 |
+CLASS B (2009-C) | $ | 1,295,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,295,000,000.00 |
+Total Class B | $ | 1,395,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,395,000,000.00 |
+CLASS C (2009-A) | $ | 1,395,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,395,000,000.00 |
+Total Class C | $ | 1,395,000,000.00 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 1,395,000,000.00 |
+CLASS D (2002-1) | $ | 462,838,191.27 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 462,838,191.27 |
+Total Class D | $ | 462,838,191.27 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 462,838,191.27 |
+Total | $ | 15,427,838,191.27 |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | — |  | $ | 15,427,838,191.27 |
+[/TABLE]
+
+* This report does not capture any new issuances or increases of notes occurring after the end of the Monthly Period.
+
+5
+
+E. Targeted Deposits to Principal Funding sub-Accounts:
+
+[TABLE]
+ | Beginning Principal Funding sub-Account Balance | Targeted Deposit to Principal Funding sub-Account | Previous shortfalls of targeted deposits to the Principal Funding Sub-Account | Actual Deposit to Principal Funding sub-Account | Amounts withdrawn from the Principal Funding sub-Account for payment to Noteholders | Ending Principal Funding sub-Account Balance | Principal Funding sub-Account Earnings
+NOTHING TO REPORT |  |  |  |  |  |  |
+[/TABLE]
+
+6
+
+F. Targeted Deposits to Interest Funding sub-Accounts:
+
+[TABLE]
+ | Applicable Interest Rates | Beginning Interest Funding sub-Account Balance (1) | Targeted Deposit to Interest Funding sub-Account | Previous Shortfalls of targeted deposits to the Interest Funding sub-Account | Actual Deposit to Interest Funding sub-Account (2) | Amounts withdrawn from the Interest Funding sub-Account for payment to Noteholders (3) | Ending Interest Funding sub-Account Balance (1) | Interest Funding sub-Account Earnings
+CLASS A (2015-4) | 2.750 | % | $ | — |  | $ | 630,208.33 |  | $ | — |  | $ | 630,208.33 |  | $ | 630,208.33 |  | $ | — |  | $ | — |
+CLASS A (2017-5) | 1.134 | % | $ | — |  | $ | 585,972.33 |  | $ | — |  | $ | 585,972.33 |  | $ | 585,972.33 |  | $ | — |  | $ | — |
+CLASS A (2017-6) | 2.290 | % | $ | — |  | $ | 1,717,500.00 |  | $ | — |  | $ | 1,717,500.00 |  | $ | 1,717,500.00 |  | $ | — |  | $ | — |
+CLASS A (2018-2) | 0.904 | % | $ | — |  | $ | 311,426.00 |  | $ | — |  | $ | 311,426.00 |  | $ | 311,426.00 |  | $ | — |  | $ | — |
+CLASS A (2019-2) | 1.720 | % | $ | — |  | $ | 1,863,333.33 |  | $ | — |  | $ | 1,863,333.33 |  | $ | 1,863,333.33 |  | $ | — |  | $ | — |
+CLASS A (2019-3) | 2.060 | % | $ | — |  | $ | 2,489,166.67 |  | $ | — |  | $ | 2,489,166.67 |  | $ | 2,489,166.67 |  | $ | — |  | $ | — |
+CLASS A (2021-1) | 0.550 | % | $ | — |  | $ | 733,333.33 |  | $ | — |  | $ | 733,333.33 |  | $ | 733,333.33 |  | $ | — |  | $ | — |
+CLASS A (2021-2) | 1.390 | % | $ | — |  | $ | 1,621,666.67 |  | $ | — |  | $ | 1,621,666.67 |  | $ | 1,621,666.67 |  | $ | — |  | $ | — |
+CLASS A (2021-3) | 1.040 | % | $ | — |  | $ | 1,733,333.33 |  | $ | — |  | $ | 1,733,333.33 |  | $ | 1,733,333.33 |  | $ | — |  | $ | — |
+CLASS A (2022-1) | 2.800 | % | $ | — |  | $ | 7,875,000.00 |  | $ | — |  | $ | 7,875,000.00 |  | $ | 7,875,000.00 |  | $ | — |  | $ | — |
+Total Class A |  | $ | — |  | $ | 19,560,939.99 |  | $ | — |  | $ | 19,560,939.99 |  | $ | 19,560,939.99 |  | $ | — |  | $ | — |
+CLASS B (2005-3) | 1.594 | % | $ | — |  | $ | 137,286.08 |  | $ | — |  | $ | 137,286.08 |  | $ | — |  | $ | 137,286.08 |  | $ | 9.60 |
+CLASS B (2009-C) | 0.717 | % | $ | — |  | $ | 799,588.04 |  | $ | — |  | $ | 799,588.04 |  | $ | 799,588.04 |  | $ | — |  | $ | — |
+Total Class B |  | $ | — |  | $ | 936,874.12 |  | $ | — |  | $ | 936,874.12 |  | $ | 799,588.04 |  | $ | 137,286.08 |  | $ | 9.60 |
+CLASS C (2009-A) | 0.987 | % | $ | — |  | $ | 1,185,669.79 |  | $ | — |  | $ | 1,185,669.79 |  | $ | 1,185,669.79 |  | $ | — |  | $ | — |
+Total Class C |  | $ | — |  | $ | 1,185,669.79 |  | $ | — |  | $ | 1,185,669.79 |  | $ | 1,185,669.79 |  | $ | — |  | $ | — |
+Total |  | $ | — |  | $ | 21,683,483.90 |  | $ | — |  | $ | 21,683,483.90 |  | $ | 21,546,197.82 |  | $ | 137,286.08 |  | $ | 9.60 |
+[/TABLE]
+
+7
+
+G. Class C Reserve sub-Accounts:
+
+[TABLE]
+ | Beginning Class C Reserve sub-Account Balance |  | Targeted Deposit to Class C Reserve sub-Account |  | Actual Deposit to Class C Reserve sub-Account |  | Withdrawals from Class C Reserve sub-Account Balance |  | Ending Class C Reserve sub-Account Balance |  | Class C Reserve sub-Account Earnings
+NOTHING TO REPORT
+[/TABLE]
+
+H. Targeted Deposits to Class D Reserve sub-Accounts:
+
+(Beginning Class D Reserve sub-account Balance includes Class D Reserve sub-Account Earnings and deposits related to any new issuances)
+
+[TABLE]
+ | Beginning Class D Reserve sub-Account Balance |  | Targeted Deposit to Class D Reserve sub-Account |  | Actual Deposit to Class D Reserve sub-Account |  | Withdrawals from Class D Reserve sub-Account Balance |  | Ending Class D Reserve sub-Account Balance |  | Class D Reserve sub-Account Earnings
+NOTHING TO REPORT
+[/TABLE]
+
+I. Targeted Deposits to Accumulation Reserve sub-Accounts:
+
+[TABLE]
+ | Beginning Accumulation Reserve sub-Account Balance |  | Targeted Deposit to Accumulation Reserve sub-Account |  | Actual Deposit to Accumulation Reserve sub-Account |  | Withdrawals from Accumulation Reserve Account for Interest |  | Withdrawals from Accumulation Reserve Account for Payments to Issuer |  | Ending Accumulation Reserve Balance sub-Account |  | Accumulation Reserve sub-Account Earnings
+NOTHING TO REPORT
+[/TABLE]
+
+8
+
+J. Class A Usage of Class B, C and D Subordination Amounts:
+
+[TABLE]
+ | Class A Usage of Class B Subordination Amount for this Monthly Period |  | Class A Usage of Class C Subordination Amount for this Monthly Period |  | Class A Usage of Class D Subordination Amount for this Monthly Period |  | Cumulative Class A Usage of Class B Subordination Amount |  | Cumulative Class A Usage of Class C Subordination Amount |  | Cumulative Class A Usage of Class D Subordination Amount
+NOTHING TO REPORT
+[/TABLE]
+
+K. Class B Usage of Class C and D Subordination Amounts:
+
+[TABLE]
+ | Class B Usage of Class C Subordination Amount for this Monthly Period |  | Class B Usage of Class D Subordination Amount for this Monthly Period |  | Cumulative Class B Usage of Class C Subordination Amount |  | Cumulative Class B Usage of Class D Subordination Amount
+NOTHING TO REPORT
+[/TABLE]
+
+L. Class C Usage of Class D Subordination Amount
+
+[TABLE]
+ | Class C Usage of Class D Subordination Amount for this Monthly Period |  | Cumulative Class C Usage of Class D Subordination Amount
+NOTHING TO REPORT
+[/TABLE]
+
+9
+
+M. Required and Available Subordination Amount to Class A, B and C Notes:
+
+(as of Determination Date, after taking into account all maturities expected to occur on the Distribution Date)
+
+[TABLE]
+ |  | Required Subordination Amount from Class B Notes |  | Available Subordination Amount from Class B Notes |  | Required Subordination Amount from Class C Notes |  | Available Subordination Amount from Class C Notes |  | Required Subordination Amount from Class D Notes |  | Available Subordination Amount from Class D Notes
+CLASS A (2015-4) |  | $ | 31,329,375.00 |  |  | $ | 31,329,375.00 |  |  | $ | 31,329,375.00 |  |  | $ | 31,329,375.00 |  |  | $ | 10,443,125.00 |  |  | $ | 10,443,125.00 |
+CLASS A (2017-5) |  | $ | 68,355,000.00 |  |  | $ | 68,355,000.00 |  |  | $ | 68,355,000.00 |  |  | $ | 68,355,000.00 |  |  | $ | 22,785,000.00 |  |  | $ | 22,785,000.00 |
+CLASS A (2017-6) |  | $ | 102,532,500.00 |  |  | $ | 102,532,500.00 |  |  | $ | 102,532,500.00 |  |  | $ | 102,532,500.00 |  |  | $ | 34,177,500.00 |  |  | $ | 34,177,500.00 |
+CLASS A (2018-2) |  | $ | 45,570,000.00 |  |  | $ | 45,570,000.00 |  |  | $ | 45,570,000.00 |  |  | $ | 45,570,000.00 |  |  | $ | 15,190,000.00 |  |  | $ | 15,190,000.00 |
+CLASS A (2019-2) |  | $ | 148,102,500.00 |  |  | $ | 148,102,500.00 |  |  | $ | 148,102,500.00 |  |  | $ | 148,102,500.00 |  |  | $ | 49,367,500.00 |  |  | $ | 49,367,500.00 |
+CLASS A (2019-3) |  | $ | 165,191,250.00 |  |  | $ | 165,191,250.00 |  |  | $ | 165,191,250.00 |  |  | $ | 165,191,250.00 |  |  | $ | 55,063,750.00 |  |  | $ | 55,063,750.00 |
+CLASS A (2021-1) |  | $ | 182,280,000.00 |  |  | $ | 182,280,000.00 |  |  | $ | 182,280,000.00 |  |  | $ | 182,280,000.00 |  |  | $ | 60,760,000.00 |  |  | $ | 60,760,000.00 |
+CLASS A (2021-2) |  | $ | 159,495,000.00 |  |  | $ | 159,495,000.00 |  |  | $ | 159,495,000.00 |  |  | $ | 159,495,000.00 |  |  | $ | 53,165,000.00 |  |  | $ | 53,165,000.00 |
+CLASS A (2021-3) |  | $ | 227,850,000.00 |  |  | $ | 227,850,000.00 |  |  | $ | 227,850,000.00 |  |  | $ | 227,850,000.00 |  |  | $ | 75,950,000.00 |  |  | $ | 75,950,000.00 |
+CLASS A (2022-1) |  | $ | 256,331,250.00 |  |  | $ | 256,331,250.00 |  |  | $ | 256,331,250.00 |  |  | $ | 256,331,250.00 |  |  | $ | 85,443,750.00 |  |  | $ | 85,443,750.00 |
+Total Class A |  | $ | 1,387,036,875.00 |  |  | $ | 1,387,036,875.00 |  |  | $ | 1,387,036,875.00 |  |  | $ | 1,387,036,875.00 |  |  | $ | 462,345,625.00 |  |  | $ | 462,345,625.00 |
+CLASS B (2005-3) |  |  |  |  |  | $ | 99,487,547.50 |  |  | $ | 99,487,547.50 |  |  | $ | 33,162,515.83 |  |  | $ | 33,162,515.83 |
+CLASS B (2009-C) |  |  |  |  |  | $ | 1,288,363,740.18 |  |  | $ | 1,288,363,740.18 |  |  | $ | 429,454,580.06 |  |  | $ | 429,454,580.06 |
+Total Class B |  |  |  |  |  | $ | 1,387,851,287.68 |  |  | $ | 1,387,851,287.68 |  |  | $ | 462,617,095.89 |  |  | $ | 462,617,095.89 |
+CLASS C (2009-A) |  |  |  |  |  |  |  |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |
+Total Class C |  |  |  |  |  |  |  |  |  | $ | 462,838,191.27 |  |  | $ | 462,838,191.27 |
+[/TABLE]
+
+10
+
+N. Early Redemption Event
+
+[TABLE]
+Current Month Excess Spread Amount | $260,849,706.33
+Prior Month Excess Spread Amount | $271,012,099.00
+Two Months Prior Excess Spread Amount | $232,491,258.87
+Three Month Average Excess Spread Amount | $254,784,354.73
+Is the average of the Excess Spread Amount for preceding three months greater than $0? | YES
+[/TABLE]
+
+O. Repurchase Demand Activity (Rule 15Ga-1)
+
+Nothing to Report
+
+Most Recent Form ABS - 15G
+
+Filed by: Capital One Funding, LLC
+
+CIK#: 0001162387
+
+Date: February 10, 2022
+
+11
+
+IN WITNESS WHEREOF, the undersigned has duly executed and delivered this Certificate this 11th day of May 2022.
+
+[TABLE]
+CAPITAL ONE BANK (USA), National Association as Administrator
+By: | /s/ Jeremy Potts
+Name: | Jeremy Potts
+Title: | Authorized Officer
+[/TABLE]
+
+Back to Top
+
+12

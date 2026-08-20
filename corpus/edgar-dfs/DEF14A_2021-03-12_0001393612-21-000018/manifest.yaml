@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/DEF14A_2021-03-12_0001393612-21-000018
+source: edgar-dfs
+source_tier: A
+doc_type: DEF 14A
+title: DEF 14A filed 2021-03-12 (period 2021-05-05)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361221000018/a2021proxy.htm
+retrieved_at: '2026-08-20T02:34:02Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a2021proxy.htm
+  role: raw
+  sha256: 05fa47994ffbeb8199a0775b9be73000cbd1b8872a1517dd20b615c891ea2eb4
+  size: 1085626
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 2497e57e6a7e28cec6f58585618e1a7aa2686fcedf89f52645beb36f4ec7888f
+  size: 249114
+  stored: corpus
+filed_date: '2021-03-12'
+period_end: '2021-05-05'
+extraction_method: lxml
+meta:
+  accession: 0001393612-21-000018
+  form: DEF 14A
+  items: ''

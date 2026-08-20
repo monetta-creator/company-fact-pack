@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2019-02-05_0000927628-19-000060
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-02-05 (period 2019-01-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000060/a8-kdividendsjanuary312019.htm
+retrieved_at: '2026-08-20T02:54:43Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsjanuary312019.htm
+  role: raw
+  sha256: 3eb97737b099011fb0b862cf59e882daf142369e86b504de88f7158a6e4b622f
+  size: 32824
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b351224975333bdbb968608af454e38199a62d4d623531f42b3cb09c34647b98
+  size: 4225
+  stored: corpus
+filed_date: '2019-02-05'
+period_end: '2019-01-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000060
+  form: 8-K
+  items: '8.01'

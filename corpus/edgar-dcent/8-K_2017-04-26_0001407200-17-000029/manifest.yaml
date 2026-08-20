@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2017-04-26_0001407200-17-000029
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-04-26 (period 2017-04-25)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720017000029/qtrly8-k_dcmtxdcentxasofma.htm
+retrieved_at: '2026-08-20T02:58:39Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly8-k_dcmtxdcentxasofma.htm
+  role: raw
+  sha256: f441e9101f90a714fa56bd6535c8cf02521fcf1b28c5a5f21c639ed8a855deb2
+  size: 279392
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9b9b4af686f6174d9c9972d5c07cb78dc68419bfe1e7de46c6eea15a13a74e0d
+  size: 22313
+  stored: corpus
+filed_date: '2017-04-26'
+period_end: '2017-04-25'
+extraction_method: lxml
+meta:
+  accession: 0001407200-17-000029
+  form: 8-K
+  items: 6.05,8.01

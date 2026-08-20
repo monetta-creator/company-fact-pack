@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2017-11-15_0001393612-17-000059
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-11-15 (period 2017-11-15)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361217000059/monthlycreditcardstats10-3.htm
+retrieved_at: '2026-08-20T02:55:56Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: monthlycreditcardstats10-3.htm
+  role: raw
+  sha256: c0d2f6fc18da6f01bdc004cf53b9e5da4767582617bdb1191a1c147ab77e6672
+  size: 37186
+  stored: corpus
+- name: exhibit99110-31x17.htm
+  role: exhibit
+  sha256: 9e1f626eac4cf660402de9fb11c336d26f0797960269c9ed4eeb8f55eb626e4f
+  size: 44641
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 507b0b540a1e00d2db3706b2a5fa970dc1b544e2c16638211d20fd6c4b7ed419
+  size: 6653
+  stored: corpus
+filed_date: '2017-11-15'
+period_end: '2017-11-15'
+extraction_method: lxml
+meta:
+  accession: 0001393612-17-000059
+  form: 8-K
+  items: 7.01,9.01

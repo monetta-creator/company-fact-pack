@@ -1,0 +1,144 @@
+false 0000927628 0000927628 2020-02-26 2020-02-26 0000927628 us-gaap:SeriesFPreferredStockMember 2020-02-26 2020-02-26 0000927628 cof:SeniorNotesDue2029Member 2020-02-26 2020-02-26 0000927628 us-gaap:CommonStockMember 2020-02-26 2020-02-26 0000927628 cof:SeriesIPreferredStockMember 2020-02-26 2020-02-26 0000927628 us-gaap:SeriesBPreferredStockMember 2020-02-26 2020-02-26 0000927628 us-gaap:SeriesHPreferredStockMember 2020-02-26 2020-02-26 0000927628 us-gaap:SeriesGPreferredStockMember 2020-02-26 2020-02-26 0000927628 cof:SeniorNotesDue2024Member 2020-02-26 2020-02-26 0000927628 cof:SeriesJPreferredStockMember 2020-02-26 2020-02-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+February 26, 2020
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B | COF PRP | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F | COF PRF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) On February 26, 2020, the Board of Directors (the “Board”) of Capital One Financial Corporation (the “Company”) appointed Eileen Serra to serve as a director, effective immediately. The size of the Board was increased to twelve in connection with the appointment. Ms. Serra has not been appointed to serve on any Board committee at this time and will stand for election by the Company’s stockholders at the Annual Meeting of Stockholders in April 2020.
+
+Ms. Serra was not selected as a director pursuant to any arrangement or understanding between her and any other person and there are no related party transactions between the Company and Ms. Serra. She will receive compensation for her service on the Board in accordance with the standard compensatory arrangement described in the Company’s proxy statement filed on March 20, 2019 for non-employee directors, pro-rated for service until the Annual Meeting of Stockholders in April 2020.
+
+A copy of the Company’s press release announcing the appointment of Ms. Serra to the Board is attached as Exhibit 99.1 to this Form 8-K.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated February 27, 2020
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: February 27, 2020 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleas.htm ===
+
+EX-99.1 2 exhibit991-pressreleas.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2020 Workiva Exhibit
+
+Exhibit 99.1
+
+ |  | Media Release Media Contact Tatiana Stead tatiana.stead@capitalone.com
+
+For Release: February 27, 2020
+
+Eileen Serra to Join the Capital One Board of Directors
+
+Former Chase Credit Card CEO brings decades of experience to Capital One
+
+McLean, Va., February 27, 2020 - Capital One Financial Corporation (NYSE: COF) today announced that Eileen Serra has been appointed to the company's Board of Directors, effective February 26, 2020. Ms. Serra will stand for election by Capital One shareholders in April 2020.
+
+Ms. Serra served in various leadership roles over the course of her more than 20 years in the financial services industry, which included responsibility for operations, product development, customer engagement, digital transformation, strategic and growth initiatives, and talent management.
+
+"Eileen brings many great strengths to our Board of Directors. She has more than two decades of experience in the banking industry and has a passion for developing products and growing businesses," said Richard D. Fairbank, Chairman and Chief Executive Officer of Capital One. "Capital One is focused on reimagining banking, and Eileen's proven leadership and strategy background will be very valuable as we continue to deliver on our technology transformation and build brand-defining customer experiences. Most of all, Eileen has the wisdom and authenticity to be an outstanding Director and make a big impact on our company for years to come. I'm thrilled to welcome her to Capital One."
+
+A seasoned credit card industry executive, Ms. Serra served in a variety of executive positions at JP Morgan Chase, including as Chief Executive Officer of Chase Card Services from 2012 through 2015. While at Chase, Ms. Serra established and developed successful consumer credit card products and brands, loyalty programs, partner relationships, and digital mobile payment solutions. Most recently, from 2016 until her retirement in February 2018, she served as a Senior Advisor focusing on strategic growth initiatives.
+
+Prior to joining JP Morgan Chase, Ms. Serra was a Managing Director and Head of Private Client Banking Solutions at Merrill Lynch. She also served as Senior Vice President at American Express where, among other responsibilities, she led the Small Business Credit Card and Lending businesses. Prior to American Express, she was a partner at McKinsey & Company. Ms. Serra currently serves as a Director and a member of the Compensation Committee of Gartner, Inc., serves on the Board of Women's Refugee Commission , and a Trustee of the non-profit Family Promise , an organization focused on assisting homeless families.
+
+Ms. Serra has a bachelor’s degree from the University of California at Davis and a Master’s Degree of Business Administration from the University of Chicago Booth School of Business.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $262.7 billion in deposits and $390.4 billion in total assets as of December 31, 2019. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+V isit the Capital One newsroom for more Capital One news.

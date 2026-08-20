@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2016-03-17_0001193125-16-508367
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-03-17 (period 2016-03-17)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312516508367/d125824d8k.htm
+retrieved_at: '2026-08-20T02:57:31Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d125824d8k.htm
+  role: raw
+  sha256: 3db3a61a9dec3efd198fb8a545caa11f4ca9917f49e7b5dd2b598c3bd549479f
+  size: 23091
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 809ede5b8842ef8fa0cdb36d85a63ea82cb75cb17d24b76b85b1c21562148aa5
+  size: 6421
+  stored: corpus
+filed_date: '2016-03-17'
+period_end: '2016-03-17'
+extraction_method: lxml
+meta:
+  accession: 0001193125-16-508367
+  form: 8-K
+  items: 8.01,9.01

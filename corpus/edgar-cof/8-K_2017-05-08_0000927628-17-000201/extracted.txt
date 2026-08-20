@@ -1,0 +1,144 @@
+8-K 1 a8-kdated582017.htm 8-K Document created using Wdesk 1 Copyright 2017 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 3, 2017
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+Effective May 8, 2017, Timothy P. Golden, age 45, will serve as Capital One Financial Corporation’s (the “Company”) principal accounting officer. Mr. Golden will continue to serve as Senior Vice President and Controller, a position he has held since he joined the Company in March 2017. Prior to joining the Company, Mr. Golden was a partner for ten years in the PricewaterhouseCoopers Banking and Capital Markets practice, where he worked with large banking and consumer finance clients.
+
+Effective July 1, 2017, Stephen S. Crawford will transition from his current role as the Company’s Head of Finance and Corporate Development to Senior Advisor to the CEO. Mr. Crawford will provide the CEO advice on strategic and financial matters in his role. As part of this transition, R. Scott Blackley, the Company’s Chief Financial Officer, will take on an expanded role leading the Company’s Global Finance organization and Corporate Development. In connection with Mr. Crawford’s new role, he will receive compensation of $4 million annually. In connection with Mr. Blackley’s expanded role, his total target compensation will be increased by 12.5%, which will be delivered in accordance with the Company’s named executive officer compensation program, as described in the Company’s Proxy Statement for the 2017 Annual Stockholder Meeting.
+
+Also effective July 1, 2017, the Company will enter into an Amended and Restated Non-Competition Agreement (the “Agreement”) with Mr. Blackley, amending and restating the Non-Competition Agreement entered into between the Company and Mr. Blackley effective March 14, 2017. Under the Agreement, Mr. Blackley’s restriction from providing certain competitive services to any entity following separation from the Company will be modified from one year to two years. There were no other changes to the terms of the Non-Competition Agreement as a result of the amendment.
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+(a) | The 2017 Annual Stockholder Meeting (the “Annual Meeting”) of the Company was held on May 4, 2017. On March 13, 2017, the record date for the Annual Meeting, 482,707,391 shares of the Company’s common stock were issued and outstanding, of which 438,313,400 were present for purposes of establishing a quorum.
+
+(b) | Stockholders voted on the following matters:
+
+(1) | Stockholders elected Mr. Richard D. Fairbank, Ms. Ann Fritz Hackett, Mr. Lewis Hay, III, Mr. Benjamin P. Jenkins, III, Mr. Peter Thomas Killalea, Mr. Pierre E. Leroy, Mr. Peter E. Raskind, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner and Ms. Catherine G. West to the Company’s Board of Directors for terms expiring at the 2018 annual meeting of stockholders;
+
+(2) | Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent auditors of the Company for 2017;
+
+(3) | Stockholders approved, on an advisory basis, the Company’s 2016 named executive officer compensation;
+
+(4) | Stockholders voted, on an advisory basis, on the frequency of conducting an advisory vote to approve the Company’s named executive officer compensation;
+
+(5) | Stockholders approved and adopted the Company’s Amended and Restated Associate Stock Purchase Plan; and
+
+(6) | Stockholders did not approve a stockholder proposal requesting stockholders’ right to act by written consent.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+2
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 399,004,443 |  | 8,365,345 |  | 1,229,650 |  | 29,713,962
+Ann Fritz Hackett |  | 402,080,909 |  | 6,214,747 |  | 303,782 |  | 29,713,962
+Lewis Hay, III |  | 399,590,196 |  | 8,686,337 |  | 322,905 |  | 29,713,962
+Benjamin P. Jenkins, III |  | 405,174,434 |  | 3,116,745 |  | 308,259 |  | 29,713,962
+Peter Thomas Killalea |  | 405,218,507 |  | 3,071,353 |  | 309,578 |  | 29,713,962
+Pierre E. Leroy |  | 399,935,106 |  | 8,346,225 |  | 318,107 |  | 29,713,962
+Peter E. Raskind |  | 407,122,516 |  | 1,167,957 |  | 308,965 |  | 29,713,962
+Mayo A. Shattuck III |  | 396,726,204 |  | 11,547,793 |  | 325,441 |  | 29,713,962
+Bradford H. Warner |  | 406,938,510 |  | 1,354,390 |  | 306,538 |  | 29,713,962
+Catherine G. West |  | 406,585,409 |  | 1,710,270 |  | 303,759 |  | 29,713,962
+Ratification of Selection of Ernst & Young LLP as Independent Auditors of the Company for 2017 |  | 429,994,169 |  | 8,150,577 |  | 168,654 |  | N/A
+Advisory Approval of the Company’s 2016 Named Executive Officer Compensation |  | 388,918,808 |  | 19,179,067 |  | 501,563 |  | 29,713,962
+Approval and Adoption of the Company’s Amended and Restated Associate Stock Purchase Plan |  | 404,569,509 |  | 3,550,825 |  | 479,104 |  | 29,713,962
+Stockholder Proposal Requesting Stockholders’ Right to Act by Written Consent |  | 183,161,028 |  | 224,665,615 |  | 772,795 |  | 29,713,962
+[/TABLE]
+
+[TABLE]
+Item |  | One Year |  | Two Years |  | Three Years |  | Abstain |  | Broker Non-Votes
+Advisory Vote on the Frequency of Future Advisory Votes to Approve Executive Compensation |  | 367,558,769 |  | 642,752 |  |  | 40,030,232 |  |  | 367,685 |  |  | 29,713,962 |
+[/TABLE]
+
+In accordance with the Board of Directors’ recommendation and the voting results on this advisory proposal, the Company will hold an annual advisory vote to approve the compensation of its named executives.
+
+Item 7.01. Regulation FD Disclosure.
+
+On May 4, 2017, the Board of Directors of the Company declared a quarterly common stock dividend of $0.40 per share. The dividend is payable on May 25, 2017 to stockholders of record at the close of the business on May 15, 2017.
+
+The Board of Directors also approved quarterly dividends on the Company’s 6.00% fixed-rate non-cumulative perpetual preferred stock, Series B, the Company’s 6.25% fixed-rate non-cumulative perpetual preferred stock, Series C, the Company’s 6.70% fixed-rate non-cumulative perpetual preferred stock, Series D, the Company’s 6.20% fixed-rate non-cumulative perpetual preferred stock, Series F, the Company’s 5.20% fixed rate non-cumulative perpetual preferred stock, Series G, the Company’s 6.00% fixed-rate non-cumulative perpetual preferred stock, Series H, as well as semi-annual dividends on the Company’s fixed-to-floating rate non-cumulative perpetual preferred stock, Series E. These dividends are payable on June 1, 2017 to stockholders of record at the close of business on May 17, 2017.
+
+Based on these declarations, the Company will pay approximately $195 million in common equity dividends and approximately $80 million in total preferred dividends in the second quarter of 2017. Under the terms of the Company’s outstanding preferred stock, the Company’s ability to pay dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the preferred stock, is subject to restrictions in the event that the Company does not declare and either pay or set aside a sum sufficient for payment of dividends on the preferred stock for the immediately preceding dividend period.
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: May 8, 2017 | By: | /s/ John G. Finneran, Jr.
+ |  | John G. Finneran, Jr.
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+4

@@ -1,0 +1,101 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2020-05-11 2020-05-11 0000927628 us-gaap:CommonStockMember 2020-05-11 2020-05-11 0000927628 us-gaap:SeriesFPreferredStockMember 2020-05-11 2020-05-11 0000927628 us-gaap:SeriesGPreferredStockMember 2020-05-11 2020-05-11 0000927628 us-gaap:SeriesHPreferredStockMember 2020-05-11 2020-05-11 0000927628 cof:SeriesIPreferredStockMember 2020-05-11 2020-05-11 0000927628 cof:SeriesJPreferredStockMember 2020-05-11 2020-05-11 0000927628 cof:M0.800SeniorNotesDue2024Member 2020-05-11 2020-05-11 0000927628 cof:M1.650SeniorNotesDue2029Member 2020-05-11 2020-05-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+May 11, 2020
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , McLean , Virginia |  |  |  | 22102
+(Address of principal executive offices) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F |  | COF PRF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G |  | COF PRG |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H |  | COF PRH |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+On May 11, 2020, Capital One Financial Corporation (the “Company”) closed the public offering of $1,000,000,000 aggregate principal amount of its 2.600% Senior Notes due 2023 (the “2023 Notes”) and $1,000,000,000 aggregate principal amount of its 3.650% Senior Notes due 2027 (the “2027 Notes” and, together with the 2023 Notes, the “Notes”), pursuant to an underwriting agreement (the “Underwriting Agreement”), dated May 6, 2020, with BofA Securities, Inc., Citigroup Global Markets Inc., Credit Suisse Securities (USA) LLC, Morgan Stanley & Co. LLC and Capital One Securities, Inc., as representatives of the several underwriters listed therein. The Notes were issued pursuant to a Senior Indenture dated as of November 1, 1996 (the “Indenture”) between the Company and The Bank of New York Mellon Trust Company, N.A., formerly known as The Bank of New York Trust Company, N.A. (as successor to Harris Trust and Savings Bank), as Indenture Trustee. The Notes have been registered under the Securities Act of 1933, as amended, by a registration statement on Form S-3 (File No. 333-223608).
+
+The foregoing description of the Underwriting Agreement, Notes, the Indenture and other documents relating to this transaction does not purport to be complete and is qualified in its entirety by reference to the full text of these securities and documents, forms or copies of which are attached as exhibits to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  |  | Description
+ | 1.1 |  |  | Underwriting Agreement dated May 6, 2020
+ | 4.1 |  |  | Senior Indenture dated as of November 1, 1996 between Capital One Financial Corporation and The Bank of New York Mellon Trust Company, N.A., formerly known as The Bank of New York Trust Company, N.A. (as successor to Harris Trust and Savings Bank), as trustee (incorporated by reference to Exhibit 4.1 of the Company’s Report on Form 8-K, filed on November 13, 1996)
+ | 4.2 |  |  | Form of 2.600% Senior Note due 2023
+ | 4.3 |  |  | Form of 3.650% Senior Note due 2027
+ | 5.1 |  |  | Opinion of Gibson, Dunn & Crutcher LLP
+ | 23.1 |  |  | Consent of Gibson, Dunn & Crutcher LLP (included in Exhibit 5.1)
+ | 104 |  |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Dated: May 11, 2020 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel
+[/TABLE]

@@ -1,0 +1,180 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2026-01-22 2026-01-22 0000927628 us-gaap:CommonStockMember 2026-01-22 2026-01-22 0000927628 cof:SeriesIPreferredStockMember 2026-01-22 2026-01-22 0000927628 cof:SeriesJPreferredStockMember 2026-01-22 2026-01-22 0000927628 cof:SeriesKPreferredStockMember 2026-01-22 2026-01-22 0000927628 cof:SeriesLPreferredStockMember 2026-01-22 2026-01-22 0000927628 cof:SeriesNPreferredStockMember 2026-01-22 2026-01-22 0000927628 us-gaap:SeniorNotesMember 2026-01-22 2026-01-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+January 22, 2026
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , |  |  |  |
+McLean , Virginia |  |  |  | 22102
+(Address of principal executive offices) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L |  | COF PRL |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N |  | COF PRN |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.02 | Unregistered Sales of Equity Securities.
+
+On January 22, 2026, Capital One Financial Corporation (the “Company”) entered into an Agreement and Plan of Merger and Reorganization (the “Merger Agreement”) with Brex Inc., a Delaware corporation (“Brex”), and certain other parties thereto, pursuant to which, upon the terms and subject to the conditions set forth therein, the Company will acquire Brex (the “Transaction”). The completion of the Transaction is subject to the satisfaction of customary closing conditions, including receipt of required regulatory approvals.
+
+Pursuant to the terms and subject to the conditions set forth in the Merger Agreement, the Company will acquire the outstanding equity of Brex for $5,150,000,000 in aggregate consideration, subject to certain adjustments described in the Merger Agreement, consisting of approximately $2.75 billion in cash and approximately 10.6 million shares of common stock, par value $0.01 per share, of the Company (“Company Common Stock”).
+
+The shares of Company Common Stock to be issued under the Merger Agreement are intended to be exempt from registration under the Securities Act of 1933, as amended (the “Securities Act”), by virtue of the exemption provided in Section 4(a)(2) of the Securities Act.
+
+Item 7.01 | Regulation FD Disclosure.
+
+On January 22, 2026, the Company and Brex issued a joint press release announcing the execution of the Merger Agreement and the Transaction, a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+The information provided in Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, and shall not be incorporated by reference into any registration statement or other document pursuant to the Securities Act, except as otherwise expressly stated in such filing.
+
+Forward-Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include, but are not limited to, statements related to the expected benefits of the Transaction. Forward-looking statements often use words such as “will,” “anticipate,” “target,” “expect,” “think,” “estimate,” “intend,” “plan,” “goal,” “believe,” “forecast,” “outlook” or other words of similar meaning. Any forward-looking statements made by Capital One or on its behalf speak only as of the date they are made or as of the date indicated, and Capital One does not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors. Such factors include, among others, risks relating to the Transaction, including the risk that the benefits from the Transaction may not be fully realized. Additional factors that could affect future results of Capital One can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Joint press release of Capital One Financial Corporation and Brex Inc., dated January 22, 2026
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: January 22, 2026 |  |  |  | By: |  | /s/ MATTHEW W. COOPER
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+
+=== EXHIBIT d97758dex991.htm ===
+
+EX-99.1 2 d97758dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+[TABLE]
+ |  | Media Relations |  | Investor Relations
+ |  | Sie Soheili
+ sie.soheili@capitalone.com
+ Danielle Bereznak
+ dshechtman@brex.com |  | Danielle Dietz
+ danielle.dietz@capitalone.com
+[/TABLE]
+
+Capital One to Acquire Brex
+
+MCLEAN, VA, and SAN FRANCISCO, CA — January 22, 2026 — Capital One Financial Corporation (NYSE: COF) today announced that it has entered into
+a definitive agreement to acquire Brex, in a combination of stock and cash transaction valued at $5.15 billion.
+
+Brex is a modern, AI-native software platform offering intelligent finance solutions that make it easy for businesses to issue corporate cards, automate expense management and make secure, real-time payments. The company also
+leverages AI agents to help customers automate complex workflows to reduce manual review and control spend.
+
+”Since our founding, we set out to
+build a payments company at the frontier of the technology revolution,” said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer of Capital One. “Acquiring Brex accelerates this journey, especially in the business
+payments marketplace.”
+
+“Brex invented the integrated combination of corporate credit cards, spend management software and banking together in
+a single platform. They have taken the rarest of journeys for a fintech, building a vertically integrated platform from the bottom of the tech stack to the top,” added Fairbank.
+
+“We started Brex in 2017 as a category creator – bringing together financial services and software into one AI-native platform,” said Pedro Franceschi, Founder and CEO of Brex. “Now we get to supercharge our next chapter in partnership with the team at Capital One. Together, we’ll maximize founder
+mode by combining Brex’s payments expertise and spend management software with Capital One’s massive scale, sophisticated underwriting, and compelling brand to accelerate growth and increase the speed at which we can offer better finance
+solutions to the millions of businesses in the U.S. mainstream economy.”
+
+Upon completion of the transaction, Franceschi will continue to lead Brex
+as part of Capital One.
+
+The transaction is expected to close in the middle of calendar year 2026, subject to the satisfaction of
+customary closing conditions. BofA Securities served as financial advisor and Wachtell, Lipton, Rosen & Katz served as legal advisor to Capital One, with Baker McKenzie providing counsel on certain foreign legal matters to Capital One.
+Centerview Partners LLC served as financial advisor and Wilson Sonsini, Simpson Thatcher and Skadden Arps served as legal advisors to Brex.
+
+About
+Capital One
+
+Capital One Financial Corporation (NYSE: COF) is a leading technology-based financial services company with $475.8 billion in
+deposits and $669.0 billion in total assets as of December 31, 2025. Headquartered in McLean, Virginia, the company operates as a premier global payments provider and diversified financial institution, delivering a broad suite of products
+and consumer lifestyle and shopping experiences through its Credit Card, Consumer Banking including its Global Payment Network, and Commercial Banking lines of business. As the only major U.S. bank to migrate entirely to the public cloud, Capital
+One leverages proprietary data and advanced analytics to democratize financial tools across its primary markets in the United States, Canada, and the United Kingdom.
+
+For more information, visit capitalone.com, capitalone.com/about/newsroom/, and investor.capitalone.com.
+
+About Brex
+
+Brex is the intelligent finance platform that
+empowers growing companies to spend smarter and move faster – in more than 50 countries. By combining the world’s smartest corporate card with intuitive spend management software and banking, Brex enables founders and finance teams to
+accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-powered automation and world-class service eliminate manual expense and accounting tasks for customers. Over
+25,000 of the world’s best companies, from startups to enterprises, run their finances on Brex – including DoorDash, TikTok, Anthropic, Robinhood, Crowdstrike, Zoom, Plaid, Intel, SeatGeek and the Boston Celtics.
+
+Forward-Looking Statements
+
+Information in this
+communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include, but are not limited to, statements related
+to the expected benefits of the transaction. Forward-looking statements often use words such as “will,” “anticipate,” “target,” “expect,” “think,” “estimate,”
+“intend,” “plan,” “goal,” “believe,” “forecast,” “outlook” or other words of similar meaning. Any forward-looking statements made by Capital One or on its behalf speak only as
+of the date they are made or as of the date indicated, and Capital One does not undertake any obligation to update forward-looking statements as a result of new information, future events or otherwise. Capital One cautions readers that any
+forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors. Such factors include, among others, risks
+relating to the transaction, including the risk that the benefits from the transaction may not be fully realized. Additional factors that could affect future results of Capital One can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, in each case filed with the SEC and
+available on the SEC’s website at http://www.sec.gov.
+
+###

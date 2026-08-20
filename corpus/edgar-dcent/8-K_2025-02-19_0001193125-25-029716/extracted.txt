@@ -1,0 +1,824 @@
+8-K 1 d937072d8k.htm 8-K 8-K 26 Page_Name * DO NOT REMOVE OR EDIT
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 19, 2025
+
+[TABLE]
+Commission File Number: |  | Commission File Number: |  | Commission File Number:
+333-141703-02;
+ 333-167413;
+ 333-191359;
+ 333-205455-01;
+ 333-228025-02;
+ 333-260957;
+ 333-283276 |  | 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 333-228025-01;
+ 333-260957-02;
+ 333-283276-02;
+ 000-23108 |  | 333-205455;
+ 333-228025;
+ 333-260957-01;
+ 333-283276-01
+[/TABLE]
+
+[TABLE]
+DISCOVER CARD
+ EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING LLC
+(Exact name of issuing entity in respect of the notes as specified in charter) |  | (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as specified in charter)
+[/TABLE]
+
+[TABLE]
+Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization
+ of the depositor)
+[/TABLE]
+
+[TABLE]
+c/o Wilmington Trust Company
+ Rodney Square North
+ 1100 North Market Street
+ Wilmington, Delaware
+ 19890-0001 |  | c/o Discover Bank
+ 800 Prides Crossing
+ Suite 100
+ Newark, Delaware
+ 19713 |  | Discover Funding LLC
+ 800 Prides Crossing
+ Suite 100
+ Newark, Delaware
+ 19713
+(Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the issuing entity) |  | (Address of principal executive offices of the depositor)
+[/TABLE]
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+DISCOVER BANK
+
+(Exact name of the sponsor as specified in its charter)
+
+[TABLE]
+Delaware |  | 800 Prides Crossing
+ Suite 100
+ Newark, Delaware |  | 19713 |  | 51-0020270
+(State or jurisdiction of
+ incorporation or organization
+ of the sponsor) |  | (Address of Principal Executive Office) |  | (Zip Code) |  | (IRS Employer
+ Identification No. of
+ the sponsor)
+[/TABLE]
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events
+
+On May 9, 2024, Discover Financial Services, Discover Bank and other affiliated entities entered into the Fourth Amended and Restated
+Master Services Agreement. A copy of the Fourth Amended and Restated Master Services Agreement is filed as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 9.01. | Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+Exhibit 99.1 |  | Fourth Amended and Restated Master Services Agreement, dated May 9, 2024, among Discover Financial Services, Discover Bank and other affiliated entities party thereto
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+Date: February 19, 2025
+
+[TABLE]
+Discover Funding LLC
+    (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as
+registrant under Commission File Numbers 333-205455, 333-228025, 333-260957-01 and 333-283276-01)
+By: |  | /s/ Patricia S. Hall
+ |  | Patricia S. Hall
+ |  | Vice President, Chief Financial Officer and
+Treasurer
+[/TABLE]
+
+
+=== EXHIBIT d937072dex991.htm ===
+
+EX-99.1 2 d937072dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+FOURTH AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+
+This FOURTH AMENDED AND RESTATED MASTER SERVICES AGREEMENT (including the Shared Employee Addendum and each Services Addendum hereto, this
+“Agreement”) by and among Discover Financial Services, a Delaware corporation (“DFS”), Discover Bank, a Delaware banking corporation (including its subsidiaries, “the Bank”), and each of the other parties named on the
+signature pages hereto (together with DFS and the Bank, each a “Party” and, collectively, the “Parties”), is made effective as of May 9, 2024.
+
+WITNESSETH:
+
+WHEREAS, DFS, the
+Bank and each of the other parties thereto entered into the Third Amended and Restated Master Services Agreement dated as of January 1, 2021 (the “2021 Agreement”) pursuant to which the Parties perform services for, and/or receive
+services from, one or more of the other Parties hereto from time to time;
+
+WHEREAS, the Parties desire to amend and restate the 2021
+Agreement in order to (i) update the section on fees to include calculation methodology and third-party payments, (ii) update the list of Parties to reflect the company’s current organizational structure, and (iii) amend Appendix
+1 – Data Privacy and Information Security; and
+
+WHEREAS, all existing Services Addenda executed under the 2021 Agreement shall remain
+in full force and effect and shall be incorporated by reference into this Agreement;
+
+NOW, THEREFORE, in consideration of the mutual
+covenants herein contained, the Parties hereto hereby agree as follows:
+
+1. Services; Duty of Care . A Party providing services
+hereunder (the “Servicing Party”) shall perform and deliver services for or on behalf of another Party hereto (the “Receiving Party”) as more fully described under a duly executed services addendum between the Servicing Party and
+the Receiving Party (each a “Services Addendum” and collectively the “Services Addenda”), the form of which is attached hereto as Exhibit A (the services to be provided under any and all Services Addenda executed hereunder are
+hereinafter referred to individually and collectively as the “Services”). The Servicing Party and Receiving Party shall review the Services Addendum at least annually for accuracy and completeness and shall work together to amend any such
+Services Addendum, as appropriate.
+
+The Servicing Party shall perform the Services in accordance with applicable laws and regulations
+utilizing at least such levels of diligence, care, completeness and timeliness customarily followed by large financial institutions and shall comply with all of DFS’ security, supervision and other procedures and policies in connection with its
+provision of Services. The Servicing Party may satisfy its obligations to perform hereunder either through its own employees, agents, or representatives, and/or through independent contractors used to provide the Services as if provided directly by
+the Servicing Party. The Servicing Party shall be responsible for the actions of its agents, employees, representatives, or independent contractors providing the Services and shall require, by contract, each of its independent contractors to, when
+providing Services, comply with (i) the terms of this Agreement; and (ii) all laws and regulations applicable to it, the Services it provides, the Servicing Party and Receiving Party.
+
+The Services Addenda are hereby incorporated by reference into this Agreement. Except as otherwise provided herein, if any of the terms or
+conditions of this Agreement conflict with any of the terms or conditions of any Services Addendum, the terms or conditions of such Services Addendum will control solely with respect to the Services covered under such Services Addendum.
+
+Appendix 1 - Data Privacy and Information Security is hereby incorporated by reference into
+this Agreement and into all Services Addenda outstanding hereunder from time to time.
+
+2. Fees .
+
+(a) Servicing Fees. The Receiving Party shall pay service fees to the Servicing Party as more fully described in the applicable Services Addendum
+(“Servicing Fees”). Servicing Fees payable hereunder shall be paid monthly in arrears. Each Receiving Party reserves the right to net any Servicing Fees due to a Servicing Party against any Servicing Fees owed by the Receiving Party to
+such Servicing Party under this Agreement or any other agreement between the Parties.
+
+(b) Calculations. Servicing Fees shall be determined for each
+support function providing services to the Receiving Party largely consistent with an internal business profitability process for allocating costs across business lines. The cost allocation method will be decided in consultation with management of
+the support function providing services and will utilize the cost allocation method(s) most appropriate for allocating costs of the support functions to each business line of the Receiving Party. Cost allocation rates may be based on actual or
+planned costs. When applicable, the cost allocation methodology shall be consistent with the requirements of the Federal Reserve Board’s Regulation W (12 CFR 223 et. seq.).
+
+(c) Third Party Fees. If a Party (“Payor Party”) pays a third party for goods or services provided to another Party (“Reimbursing Party”)
+at the request or consent of the Reimbursing Party, the Payor Party shall be reimbursed for such payment on a monthly basis. Before making any payment, the Reimbursing Party may request reasonable documentation in support of the amount to be
+reimbursed.
+
+3. Term; Insolvency . This Agreement shall have a term of twelve months from the date hereof and shall automatically
+renew on an annual basis for subsequent twelve-month periods unless otherwise agreed to by each of the Parties hereto no less than thirty days prior to the expiration of any such twelve-month period. The term of each Services Addendum shall be the
+same as the term of this Agreement unless otherwise specified in the Services Addendum; provided that a Services Addendum may be terminated by either Party thereto upon thirty days’ notice to the other Party.
+
+Notwithstanding the foregoing, each Party hereby acknowledges and agrees that (i) in the event that a Servicing Party shall have provided
+a Receiving Party with a 30 day termination notice pursuant to the foregoing paragraph, the Servicing Party shall be required to continue providing the applicable Services to the Receiving Party until such time as the provision of such Services
+shall have been transferred to the Receiving Party or a third party; (ii) in the event that the Bank or any Bank subsidiary party to any Services Addendum becomes the subject of an insolvency or bankruptcy proceeding, the applicable Servicing
+Party shall be required to continue providing the related Services to the Bank or such Bank subsidiary until such time as the related Services shall have been successfully transitioned to the Bank, such Bank subsidiary or a third-party servicer, and
+the applicable Servicing Party shall take all steps reasonably necessary to assist in the transition of such Services; and (iii) in the event that a non-Bank Servicing Party becomes the subject of a
+bankruptcy proceeding, such non-Bank Servicing Party shall be required to continue providing Services under any Servicing Addenda under which the Receiving Party is the Bank or a Bank subsidiary until such
+time as the related Services shall have been transitioned to the Receiving Party or a third-party servicer, and such non-Bank Servicing Party shall take all steps reasonably necessary to assist in the
+transition of the such Services.
+
+2
+
+4. Shared Employees .
+
+a. The duties and responsibilities of each Shared Employee at the Bank (“Bank Responsibilities”) are set forth in the Shared
+Employee Addendum. While performing Bank Responsibilities, the Shared Employee shall be deemed to be employed exclusively by the Bank and the Bank alone shall be responsible for the supervision and direction of the Shared Employee during such
+periods. While performing duties and responsibilities for an Affiliate, the Shared Employee shall be deemed to be employed exclusively by the Affiliate, and the Affiliate alone shall be responsible for the supervision and direction of the Shared
+Employee during such periods. All data, documents, and information furnished by the Bank to any Shared Employee, or obtained by the Shared Employee, in connection with Shared Employee’s performance of Bank Responsibilities shall remain the
+exclusive property of the Bank and shall be subject to the confidentiality provisions of Section 11 hereof.
+
+b.
+A Shared Employee shall act in the best interests of the Bank while performing Bank Responsibilities.
+
+c. Allocation of Shared Employee
+costs and expenses shall be as set forth in the applicable Services Addendum.
+
+d. Subject to this Section 4 ,
+allocation of time and responsibilities of a Shared Employee between the Bank and the related non-subsidiary Affiliate shall be agreed by the Bank and such Affiliate from time to time. In the event that there
+is a conflict between priorities of the Bank and the related Affiliate, a Shared Employee’s performance of Bank Responsibilities shall take priority over performance of Services for such Affiliate to the extent failure by the Shared Employee to
+perform Bank Responsibilities could adversely affect the safe and sound operation of the Bank or compliance with banking laws or regulations, as determined by the Bank acting reasonably and in good faith.
+
+e. The relationship between the Bank and the related Affiliate pursuant to this Section 4 is solely that of
+independent parties contracting to allocate the time and expenses of a Shared Employee.
+
+5. Business Continuity Planning .
+
+Each Servicing Party shall adhere to Business Continuity Planning Policy of DFS and the Business Continuity Planning program maintained in
+accordance therewith. In the event of a business interruption, in addition to performing recovery actions in accordance with the Business Continuity Planning program, a Servicing Party shall immediately notify the Parties to which it is providing
+Services of the nature and extent of the interruption and the location of any recovery center to the extent applicable. Except as may be provided in Section 7 below, the occurrence of a business interruption event shall not
+relieve a Servicing Party of its obligation to perform the Services in accordance with the terms hereof.
+
+3
+
+6. Audit .
+
+a. Each Party acknowledges that the other Parties hereto may be subject to regulation and examination by regulatory agencies (“Regulatory
+Agencies”). Each Servicing Party shall provide the Regulatory Agencies with access (i) to any facility or part of a facility at which such Servicing Party or any of its subcontractors is performing the Services, (ii) to such Servicing
+Party’s personnel, and (iii) to data and records relating to the Services, for the purpose of performing audits, examinations and inspections of such Servicing Party or any of its subcontractors with respect to the Services during the Term
+and for the period such Servicing Party is required to maintain records under applicable law. Each Servicing Party shall cooperate fully with regard to examinations by the Regulatory Agencies. Each Servicing Party shall immediately give to the
+applicable Receiving Party notice of any inquiry or communication, whether formal or informal, by a Regulatory Agency regarding the Services being provided to such Receiving Party. Each Servicing Party shall provide any and all assistance to the
+applicable Receiving Party to facilitate any audit of a third party subcontractor of the Servicing Party by a Regulatory Agency.
+
+b. Each
+Servicing Party shall provide the applicable Receiving Party and its auditors (including internal audit staff and external auditors), inspectors, and such other representatives as such Receiving Party may from time to time designate, access at all
+reasonable times upon reasonable advance notice to the Servicing Party to any facility or part of a facility at which either the Servicing Party or any of its subcontractors is performing the Services, to the Servicing Party’s personnel, and to
+data, records, policies and procedures relating to the Services, for the purpose of performing audits, examination and inspections of either the Servicing Party or any of its subcontractors during the Term of the Agreement and for the period the
+Servicing Party is required to maintain records under applicable law, to examine the Servicing Party’s performance of the Services and compliance with the terms of this Agreement, including (i) practices, policies and procedures;
+(ii) systems, equipment and software; (iii) general controls and security practices and procedures; (iv) disaster recovery and back-up procedures; and (v) any other matters reasonably
+requested by the Receiving Party. Each Servicing Party will provide the Receiving Party with copies of any internal audit reports reasonably related to the Services or systems or practices that support the Services upon request.
+
+7. Force Majeure . No Servicing Party shall be liable for any loss, injury, damages, delay in performance or failure to perform any
+obligation under this Agreement to the extent such loss, injury, damages, delay or failure to perform is the result of causes beyond the control of that party and is without its fault or negligence, including, but not limited to, acts of God, labor
+disputes, governmental regulations or orders, civil disturbance, war conditions, terrorist acts, riots, explosions, fires or the result of a failure by the other Party to satisfy its obligations under this Agreement, except to the extent such loss,
+injury, damages, delay or non-performance is the result of any failure of the Servicing Party performing Services to comply with its obligations set forth in its Disaster Recovery Plan.
+
+Upon occurrence of any force majeure event, the Servicing Party shall render the Services in accordance with the emergency service levels and
+other conditions as detailed in its Disaster Recovery Plan. Each Receiving Party shall also make a good faith effort to mitigate the effects of any occurrence beyond its control that results in any loss, injury, damages, delay or failure to perform
+its obligations under this Agreement.
+
+8. Representations and Warranties. Each Party represents and warrants that it is duly
+organized, validly existing and in good standing under the laws of its jurisdiction, and this Agreement when duly executed and delivered will constitute a legal, valid and binding obligation of such Party, enforceable against such Party in
+accordance with its terms, except as enforcement may be limited by bankruptcy, insolvency, liquidation or other similar laws affecting generally the enforcement of creditors’ rights. Each Party further represents and warrants as follows:
+
+a. Such Party has full power and authority to do and perform all acts contemplated by this Agreement.
+
+4
+
+b. None of the execution and delivery of this Agreement, the consummation of the
+transactions herein contemplated, the fulfillment of, or compliance with, the terms and provisions hereof, nor the performance of its obligations under this Agreement will conflict with, or result in a breach of any of the terms, conditions or
+provisions of any law applicable to such Party, the governing documents of such Party or of any agreement to which any such Party may be bound.
+
+c. Prior to the performance of any of its obligations pursuant to this Agreement, such Party will have obtained and/or made any consent,
+approval, waiver or other authorization of or by, or filing or registration with, any court, administrative or governmental agency that is required to be obtained in connection with the execution, delivery or performance by such Party, or the
+consummation by such Party, of the transactions contemplated by this Agreement.
+
+d. Each Servicing Party represents and warrants that none
+of the Services nor the provision or utilization thereof as contemplated under this Agreement, do or will infringe, violate, trespass or in any manner contravene or breach or constitute the unauthorized use or misappropriation of any intellectual
+property of any third party.
+
+9. Liability and Indemnification .
+
+a. Each Servicing Party agrees to be liable for, and to indemnify and hold harmless each Party to which it is providing Services from and
+against, any and all liability, loss, claim, cost or expense (including court costs and attorneys’ fees) attributable to (i) a breach of any representation or warranty made by the Servicing Party pursuant to this Agreement;
+(ii) willful misconduct or gross negligence the Servicing Party; or (iii) any default by the Servicing Party in any of its obligations or covenants under this Agreement.
+
+b. Each Receiving Party agrees to indemnify and hold harmless each Party providing Services to it from and against any and all liability,
+loss, claim, cost or expense (including court costs and attorneys’ fees) attributable to (i) a breach of any representation or warranty by the Receiving Party pursuant to this Agreement; (ii) willful misconduct or gross negligence of
+the Receiving Party; or (iii) any default of the Receiving Party in any of its obligations or covenants under this Agreement.
+
+c. For
+purposes of Subsections 9(a) and (b) , references to a Servicing Party or Receiving Party shall be deemed to include their affiliates (other than each other) and any of their employees, agents, representatives and/or independent
+contractors of each.
+
+10. Notice . Any notice required to be given hereunder by one Party to another Party shall be given in writing
+by personal delivery or certified mail, return receipt requested, and shall be effective when received. Every such notice shall be addressed as to such other Party at 2500 Lake Cook Road, Riverwoods, Illinois 60015, Attention: General Counsel.
+
+5
+
+11. Confidentiality .
+
+a. It is understood that, in the performance of Services hereunder, a Servicing Party may have access to private or confidential information
+of a Receiving Party (for purposes of this Section 11 , the “Disclosing Party”) and the Disclosing Party’s employees and customers. Each Servicing Party shall keep, and have its employees, agents and
+subcontractors keep, any and all private or confidential information of the Disclosing Party strictly confidential and to use such information only for the purpose of providing the Services or as otherwise agreed to by the Disclosing Party. Each
+Servicing Party acknowledges and agrees that in the event of a breach or threatened breach of the provisions of this Section, the Disclosing Party will have no adequate remedy in money or damages and, accordingly, shall be entitled to an injunction
+against such breach. However, no specification in this Agreement of a specific legal or equitable remedy shall be construed as a waiver or prohibition against any other legal or equitable remedies in the event of a breach of any provision of this
+Agreement. The Servicing Party shall not provide any private or confidential information of the Disclosing Party to unaffiliated third parties pursuant to an administrative or judicial subpoena, summons, search warrant or other governmental order
+without providing prior notice to the Disclosing Party, unless otherwise provided by law or court order.
+
+b. Each Servicing Party agrees
+that confidential information includes all non-public personal information (as that term is defined in Title V of the Gramm-Leach-Bliley Act of 1999 (“GLBA”) or any successor federal statue, and the
+rules and regulations thereunder, all as may be amended from time to time) and other non-public information regarding the Disclosing Party’s customers (collectively, “Customer Information”).
+Each Servicing Party agrees as follows with respect to Customer Information: (i) the Servicing Party shall exercise a standard of care in the protection of Customer Information which is consistent with all applicable laws, rules and
+regulations; (ii) the Servicing Party shall use and maintain Customer Information only as necessary for the purpose of providing the Services for which the Customer Information was disclosed and only in accordance with applicable law, rule or
+regulation of any jurisdiction relating to disclosure or use of Customer Information; (iii) shall not use any Customer Information in any manner prohibited by Title V of GLBA; and (iv) the Servicing Party will implement and maintain an
+appropriate written information security program, the terms of which shall meet or exceed all applicable legal and regulatory requirements. In the event that a Servicing Party learns or has reason to believe that Customer Information of a Disclosing
+Party has been disclosed or accessed by an unauthorized person: (i) it shall immediately give notice of such event to the Disclosing Party and cooperate with the Disclosing Party and the relevant Regulatory Authorities in the event of
+litigation or a regulatory inquiry concerning the disclosure and (ii) it shall immediately take appropriate steps to ensure that any disclosure of, or unauthorized access to, Customer Information does not continue and shall inform the
+Disclosing Party of steps taken to address the cause of the disclosure.
+
+c. Each Servicing Party’s obligations and agreements under
+this Section 11 shall not apply to any information supplied that: (i) was known to the receiving party prior to the disclosure by the other; (ii) is or becomes generally available to the public other than by
+breach of this Agreement; or (iii) otherwise becomes lawfully available on a nonconfidential basis from a third party who is not under an obligation of confidence to the other party.
+
+d. Upon termination of this Agreement, or upon the Disclosing Party’s written request, the Servicing Party shall promptly return to the
+Disclosing Party confidential information of the Disclosing Party, including Customer Information, which is and shall remain the property of the Disclosing Party.
+
+6
+
+12. Interpretation . In the event of a conflict between the terms of this Agreement
+and of any Service Addendum, the terms of this Agreement shall prevail, unless the Service Addendum includes a provision expressly modifying a particular term in this Agreement.
+
+13. General Conditions .
+
+a. The validity, construction and performance of this Agreement are governed by the laws of the State of Delaware, United States of America.
+
+b. All provisions contained in this Agreement extend to and are binding upon the Parties and their respective successors and assigns.
+This Agreement may not be assigned by any Party without the prior written consent of the other Parties, which consent will not be unreasonably withheld.
+
+c. Each paragraph and provision of this Agreement is severable from the entire Agreement, and if one provision hereof is declared invalid, the
+remaining provisions shall nevertheless remain in effect.
+
+d. This Agreement and the respective Addenda hereto constitute the entire
+agreement between Parties with respect to the Services, and no representation or statement not contained in this Agreement or the Addenda shall be binding upon any Party as a warranty or otherwise. This Agreement may not be amended, changed,
+modified or altered except in writing, signed by each Party. No Addendum may be amended, changed, modified or altered except in writing, signed by each Party thereto.
+
+e. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall be
+deemed to constitute but one and the same instrument.
+
+f. The relationship between a Servicing Party and a Receiving Party hereunder is
+that of independent contractor. Nothing herein contained shall be construed as constituting a partnership, joint venture or agency between any of the Parties.
+
+g. No term or provision hereof will be deemed waived, and no variation of terms or provisions hereof shall be deemed consented to, unless such
+waiver or consent shall be in writing and signed by the Party against whom such waiver or consent is sought to be enforced. Any delay, waiver or omission by a Party to exercise any right or power arising from any breach or default of the other party
+in any of the terms, provisions or covenants of this Agreement shall not be construed to be a waiver by such Party of any subsequent breach or default of the same or other terms, provisions or covenants on the part of another Party.
+
+h. Headings used in this Agreement are for reference purposes only and shall not be deemed a part of this Agreement.
+
+i. Any exhibit to this Agreement shall be construed as an integral part of this Agreement to the same extent as if the same had been set forth
+herein. Any agreement, schedule, or exhibit referred to herein shall mean such agreement, schedule, or exhibit as amended, restated, supplemented or modified from time to time to the extent permitted by the applicable provisions thereof and this
+Agreement.
+
+7
+
+j. Each defined term shall have the meaning set forth herein and shall be equally applicable
+to both the singular and plural forms. The words “including,” “include” and “includes” shall each be deemed to be followed by the term “without limitation.” Reference to any statute, rule or regulation means
+such statute, rule or regulation as amended and supplemented at the time and from time to time and includes any successor statute, rule or regulation. Unless otherwise stated, references to recitals, articles, sections, paragraphs, and schedules
+shall be references to recitals, articles, sections, paragraphs and schedules of this Agreement.
+
+k. The agreements contained in Sections 9 , 11 and 13 of this Agreement shall survive the termination of this Agreement.
+
+[Signature pages follow]
+
+8
+
+IN WITNESS WHEREOF, each of the parties hereto has caused this Fourth Amended and Restated
+Master Services Agreement to be executed by a duly authorized officer as of the date first above written.
+
+[TABLE]
+DISCOVER FINANCIAL SERVICES |  |  |  | DISCOVER BANK
+By: |  |  |  |  |  | By: |  |
+Name: J. Michael Shepherd |  |  |  | Name: J. Michael Shepherd
+Title: Interim CEO and Interim President |  |  |  | Title: Interim President
+DFS SERVICES LLC |  |  |  | DFS CORPORATE SERVICES LLC
+By: |  |  |  |  |  | By: |  |
+Name: Jason P. Hanson |  |  |  | Name: J. Michael Shepherd
+Title: CEO and President |  |  |  | Title: Interim CEO
+DISCOVER PRODUCTS INC. |  |  |  | DISCOVER PROPERTIES LLC
+By: |  |  |  |  |  | By: |  |
+Name: J. Michael Shepherd |  |  |  | Name: J. Michael Shepherd
+Title: Interim CEO |  |  |  | Title: Interim President
+DFS INTERNATIONAL INC. |  |  |  | DINERS CLUB INTERNATIONAL LTD.
+By: |  |  |  |  |  | By: |  |
+Name: J. Michael Shepherd |  |  |  | Name: Ricardo Leite
+Title: Interim President |  |  |  | Title: CEO and President
+DISCOVER HOME LOANS, INC. |  |  |  | DISCOVER FINANCIAL SERVICES (CANADA), INC.
+By: |  |  |  |  |  | By: |  |
+Name: Daniel P. Capozzi |  |  |  | Name: Jason P. Hanson
+Title: CEO and President |  |  |  | Title: President
+THE STUDENT LOAN CORPORATION |  |  |  | DISCOVER FINANCIAL SERVICES (HONG KONG) LIMITED
+By: |  |  |  |  |  | By: |  |
+Name: Daniel P. Capozzi |  |  |  | Name: Annie Zhang
+Title: CEO and President |  |  |  | Title: President
+DISCOVER VENTURES INC |  |  |  | DISCOVER FINANCIAL SERVICES (UK) LIMITED
+By: |  |  |  |  |  | By: |  |
+Name: Erin Stieber |  |  |  | Name: Jason P. Hanson
+Title: President |  |  |  | Title: President
+[/TABLE]
+
+[TABLE]
+PULSE NETWORK LLC |  |  |  | DINERS CLUB SERVICES PRIVATE LIMITED
+By: |  |  |  |  |  | By: |  |
+Name: David R. Schneider |  |  |  | Name: Annie Zhang
+Title: CEO and President |  |  |  | Title: Director
+DISCOVER FUNDING LLC |  |  |  | GTC INSURANCE AGENCY, INC.
+By: |  |  |  |  |  | By: |  |
+Name: Li Ma |  |  |  | Name: Daniel P. Capozzi
+Title: CEO and President |  |  |  | Title: President
+DISCOVER GLOBAL EMPLOYMENT COMPANY PRIVATE LIMITED |  |  |  | DISCOVER SERVICES CORPORATION
+By: |  |  |  |  |  | By: |  |
+Name: Jason P. Hanson |  |  |  | Name: Daniel P. Capozzi
+Title: President |  |  |  | Title: President
+DISCOVER INFORMATION TECHNOLOGY (SHANGHAI) LIMITED |  |  |  | DINERS CLUB TAIWAN LTD.
+By: |  |  |  |  |  | By: |  |
+Name: Keith E. Toney |  |  |  | Name: Jack Garland
+Title: Director |  |  |  | Title: Director and Chairman
+[/TABLE]
+
+EXHIBIT A to AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+
+SHARED EMPLOYEE ADDENDUM
+
+Each of the
+following Shared Employees shall have the responsibilities set forth next to their name, and such other powers and authorities as may be prescribed by Discover Bank’s Board of Directors from time to time by resolution or other means, such as
+set forth in policies approved by the Board of Directors. This Exhibit A may be amended from time to time by Discover Bank, such amendment to be effective on the date of the approval of revised Bank Responsibilities of the applicable Shared
+Employee.
+
+Interim President : Responsible for supervising, coordinating and managing the Bank’s business and activities and
+supervising, coordinating and managing its operating expenses and capital allocation. This includes (i) setting corporate strategy, direction, vision, values; (ii) reviewing/approving business unit strategies and plans; (iii) managing
+corporate functions such as the Finance Department and the Legal Organization; and (iv) ensuring appropriate controls, risk management, and governance. Lead the Board and facilitate productive reviews of the Company’s strategic plans and
+results. Further responsible for day-to-day operating activities of the Bank, including business strategies and revenue and sales and expense management. This includes
+(i) establishing organizational structure and operating systems within the business units to ensure strategies are achieved; (ii) ensuring implementation of corporate policies, directives, and processes; (iii) translating corporate
+vision, strategies, and performance targets into business unit plans, targets, and budgets; and (iv) ensuring that business units implement proper regulatory and operational controls and risk management.
+
+Executive Vice President, Head of Finance : Responsible for (i) managing the responsibilities of the Finance Department related to
+the Bank, including accounting, regulatory reporting, treasury, line of business finance, capital markets and capital functions; (ii) maintaining effective financial, accounting and regulatory reporting controls; and (iii) effective
+balance sheet management. Ensure implementation and maintenance of effective controls and risk management and ensuring that the Bank manages applicable risks within approved limits and guidelines.
+
+Executive Vice President, Interim Chief Legal Officer, and Interim General Counsel: Responsible for the legal affairs of the Bank,
+including litigation, corporate transactions, regulatory relations and legal support of Bank products.
+
+Executive Vice President,
+Consumer Banking : Responsible for strategy and execution of a broad range of products including a variety of credit cards, direct banking, private student loans, personal loans and home equity loans, while overseeing consumer-facing operations
+(which includes activities across the full customer lifecycle like credit operations, customer service, customer protection services, collections and recovery). Responsible for enterprise brand marketing activities related to acquiring new customers
+and increasing engagement with existing customers, in addition to managing the positioning of the Discover Brand. Ensure implementation and maintenance of effective controls and risk management and ensuring that the Bank manages applicable risks
+within approved limits and guidelines.
+
+Executive Vice President, Chief Risk Officer: Responsible for managing the Corporate Risk
+Management Department, a service provider to the Bank, which provides for oversight of risk management and analytics, and independent oversight of consumer and counterparty credit risk, market and liquidity risk, operational risk, model risk and
+risk arising from third party vendors. Responsible for oversight of the new initiatives program, as well as the incentive compensation program and resolution and capital planning. Also responsible for overseeing the Chief Compliance Officer and the
+Compliance Department, including the Compliance Department’s activities related to preventative compliance, testing, monitoring and reporting.
+
+Executive Vice President, President - Credit & Decision
+Management: Responsible for setting credit standards for the card, student loan, personal loan and home loan businesses. Responsible for deriving strategies for fraud and collections for card, student loan and personal loan. Responsible for
+overseeing and managing the Bank’s data engineering, data operations and predictive modeling functions. Provides analytic tools and platforms used for decision-making in the Bank’s account acquisition, risk underwriting and portfolio
+management functions. Develops and maintains the Bank’s data quality standards and frameworks applied to its data ingestion, streaming, transformation, and storage activities.
+
+Executive Vice President, President – Payment Services: Responsible for overseeing and managing the Discover Global Network,
+including Pulse and Diners Club International.
+
+Executive Vice President, Chief Information Officer : Responsible for overseeing and
+managing the Bank’s business technology functions for utilizing hardware, software, and third-party services. Oversees development, maintenance and use of computer systems, software and networks for the processing and distribution of technology
+solutions and services.
+
+Executive Vice President, Chief Human Resources Officer : Responsible for overseeing and managing the
+Bank’s human resources functions, including talent, training and development, human resources consulting, employee relations, total rewards, human resources business risk, diversity, equity and inclusion and social impact, people services and
+solutions and human resources technology and analytics.
+
+Executive Vice President, Chief Transformation Officer : Responsible for
+overseeing and managing the Bank’s major transformation programs, including the merger and integration with Capital One. Responsible for highest quality and timely Legal Day 1 (LD1) completion, along with appropriate preparation for post-LD1 system and organization integration.
+
+EXHIBIT B to AMENDED AND RESTATED MASTER SERVICES AGREEMENT
+
+FORM OF SERVICES ADDENDUM
+
+This Services Addendum is dated as of ________, 20__ and is entered into pursuant to and incorporated by reference into the Fourth Amended and
+Restated Master Services Agreement dated as of ___________, 2024 by and among the parties thereto, including each of the undersigned (as amended, the “Master Services Agreement”). _______________ (the “Servicing Party”) hereby
+agrees to provide to ____________________ (the “Receiving Party”) the Services described below. The provision of Services hereunder shall be governed by the terms of the Master Services Agreement. All capitalized terms used and not defined
+herein shall have the meanings ascribed thereto in the Master Services Agreement.
+
+Services to be Provided
+
+In addition to services as agreed from time to time by the Parties, Servicing Party will perform the following Services for, or on behalf of, Receiving Party:
+
+Shared Employees
+
+Will Receiving Party
+utilize Shared Employees of the Servicing Party?
+
+Yes/No
+
+For all Services Addenda under which the Bank or a Bank subsidiary is providing services that include Shared Employees, the Bank shall be reimbursed pursuant
+to a calculation based on an estimate of the percentage of time spent by the Shared Employee on non-bank matters.
+
+[All Services Addenda to which the Bank or a Bank subsidiary is a Party shall include the following provision:
+
+The Parties intend for the cost allocation, in all cases, to be on terms and under circumstances, including credit standards (if applicable), that are
+substantially the same or at least as favorable to the Bank or Bank subsidiary as those prevailing at the time for comparable transactions with or involving unaffiliated third parties. The Parties shall not impose any allocation on the Bank or Bank
+subsidiary that is inconsistent with that intent and, if it is determined by the Bank or Bank subsidiary in good faith or any regulatory body with supervisory authority over the Bank that an allocation hereunder is inconsistent with that intent, the
+Parties shall promptly modify the terms accordingly and shall adjust any prior allocations that violate that intent.]
+
+The parties agree that the fees
+payable to the Servicing Party hereunder shall not exceed the fees the Servicing Party would have received for similar services provided to an unaffiliated third party.]
+
+[TABLE]
+[SERVICING PARTY] |  |  |  | [RECEIVING PARTY]
+By: |  |  |  |  |  | By: |  |
+Name: |  |  |  |  |  | Name: |  |
+Title: |  |  |  |  |  | Title: |  |
+[/TABLE]
+
+APPENDIX I
+
+DATA PROTECTION REQUIREMENTS
+
+1. | DEFINITIONS.
+
+ | a. | “Data Protection Legislation” means GDPR and, to the extent applicable, the data
+protection or privacy laws of any other country or state within the United States.
+
+ | b. | “Data Subject” means an identified or identifiable natural person to whom
+Personal Data relates. An identifiable person is one who can be identified directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors
+specific to his physical, physiological, genetic, mental, economic, cultural or social identity.
+
+ | c. | “EEA” means the European Economic Area, the United Kingdom, and Switzerland.
+
+ | d. | “GDPR” means Regulation (EU) 2016/679 (as amended, including by any rules, regulations,
+implementing acts, delegating acts, national implementing legislation and regulations, and guidance) of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal
+data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), the UK Data Protection Act 2018, and any applicable successor data protection regulation(s). Other references to European Union or EEA
+legislation will include any implementing or equivalent UK Data Protection Laws and Swiss Data Protection Laws.
+
+ | e. | “Personal Data” means any information relating to an identified or identifiable
+natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors
+specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+ | f. | “Personal Information” means all information defined as “personal
+information,” “personal data” or any similar term under applicable federal or state consumer privacy laws.
+
+ | g. | “Processing” or “Process” means any operation or set of operations
+which is performed upon Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, Use, disclosure by
+transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+
+ | h. | “SCCs” means the EU Standard Contractual Clauses based on the Commission Implementing
+Decision (EU) 2021/914 as of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council, Modules 2 Controller to Processor,
+which Discover will make available to Vendor under separate document upon request.
+
+ | i. | “Security Event” means any breach of security that may lead to the accidental or
+unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed in connection with the Service.
+
+ | j. | “Security Incident” means any breach of security that may lead to the accidental or
+unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed in connection with the Service, as contemplated under the GDPR.
+
+ | k. | “ Sub-Processor ” means any data processor
+engaged by Vendor in connection with the provision of the Service.
+
+ | l. | “ Supervisory Authority ” means a data protection authority or similar regulatory or
+supervisory body as defined under applicable law or GDPR.
+
+ | m. | “ Swiss Data Protection Laws ” means all laws relating to data protection, the Processing
+of Personal Data, privacy and/or electronic communications in force from time to time in Switzerland, including the Federal Act on Data Protection of 19 June 1992 (SR 235.1; FADP) and the revised version of the Federal Act of Data Protection of
+25 September 2020, scheduled to come into force on 1 January 2023 (the “ Revised FADP ”), including any further revisions or updates from time to time.
+
+ | n. | “UK Data Protection Laws” means the GDPR, as transposed into United Kingdom national
+law by operation of Section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments, etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018,
+the Data Protection, Privacy and Electronic Communications (Amendments, etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom.
+
+2 . | GENERAL .
+
+ | a. | To the extent a Party (“Processor-Party”) Processes Personal Data on behalf of another Party
+(“Controller-Party”), such Processor-Party shall do so solely for the purposes of performing the Services under the Agreement and pursuant to the Controller-Party’s instructions, which are contained in the Agreement, this Appendix I
+and Schedule 1. Pursuant to this Agreement, Controller-Party will not disclose Personal Data to Processor-Party for any other purpose, and Processor-Party will not Process Personal Data for any other purpose, unless required by applicable law.
+Processor-Party will notify Controller-Party if it believes that it cannot follow Controller-Party’s instructions or fulfil its obligations under applicable Data Protection Legislation or this Agreement.
+
+ | b. | If applicable law requires Processor-Party (or, for the avoidance of doubt, any
+ Sub-Processor) to conduct Processing inconsistent with any of Controller-Party ’s instructions, or if Processor-Party believes that any instruction from Controller-Party is in violation of, or would
+result in a violation of applicable law, Processor-Party shall promptly notify Controller-Party thereof prior to commencing the Processing.
+
+ | c. | Any Processing of Personal Data under the Agreement shall be performed only in accordance with applicable Data
+Protection Legislation and, to the extent applicable, the SCCs.
+
+ | d. | Processor-Party will not solicit Data Subjects for their Personal Data except as directed by Controller-Party
+and will not collect and/or Process Personal Data obtained from illegal sources.
+
+ | e. | In addition to the processing activities set forth in Schedule 1.1, Processor-Party may, and Controller-Party
+instructs Processor-Party to, Process Personal Data for the following business purposes that are necessary to support the Services: detect data security incidents; protect against fraudulent or illegal activity; effectuate repairs; and maintain or
+improve the quality of the Services that Processor-Party provides to Controller-Party.
+
+ | f. | To the extent permissible under Data Protection Legislation, Processing any Personal Data outside the scope of
+the Agreement will require an amendment of this Agreement made in writing and executed by both parties.
+
+ | g. | Processor-Party shall keep all Personal Data confidential and impose binding confidentiality and information
+security obligations on any personnel, Contractor, Sub-Processor, or other Third Party that Process or otherwise have access to Personal Data; such obligations will meet or exceed the requirements set forth in
+Data Protection Legislation and this Agreement, and will survive the termination of the employment relationship.
+
+ | h. | Processor-Party will not obtain any rights or title to any Personal Data by virtue of providing the Services
+and may not determine the purposes for which Personal Data it receives under the Agreement may be Processed or otherwise used.
+
+ | i. | At any time upon Controller-Party’s request, Processor-Party shall make available a list of all Sub-Processors that Process or may Process Personal Data in connection with the Services. This list will also specify all geographic locations where Processing by such enumerated
+ Sub-Processors may take place. Processor-Party shall inform Controller-Party of any intended changes concerning the addition or replacement of Sub-Processors.
+Controller-Party may object to such change(s) if Controller-Party believes the new Sub-Processor represents an unacceptable risk to the protection of Personal Data. If, in Controller-Party’s sole and
+reasonable discretion which will be binding on Processor-Party, Processor-Party fails to adequately and promptly address Controller-Party’s objection, Processor-Party’s failure will constitute a material breach under the Agreement, and
+Controller-Party may take any action consistent with the Agreement’s provisions on material breach. Irrespective of Controller-Party’s objection to (or lack of objection to) Sub-Processors engaged by
+Processor-Party, Processor-Party agrees it is liable to Controller-Party for the acts and omissions of its Sub-Processors to the same extent that Processor-Party would be liable if performing the services
+and/or Processing of each Sub-Processor directly.
+
+ | j. | Processor-Party shall comply with all applicable sections of Data Protection Legislation.
+
+ | k. | In the event of any conflict between the provisions of this Appendix I and the provisions set forth elsewhere
+in the Agreement, the provisions of this Appendix shall prevail. In case of conflict or inconsistency between any provision of this Appendix or of the Agreement and the SCCs, the provisions of the SCCs shall prevail to the extent applicable to the
+Services.
+
+ | l. | For the purposes of this Appendix I the following terms shall have the definitions given to them in the
+California Consumer Privacy Act, Cal. Civ. Code 1798.100 et seq. and its implementing regulations (collectively, “CCPA”): “Business,” “Sale,” “Share,” “Service Provider,” “Contractor,” and
+“Third Party.”
+
+3. | ADDITIONAL REQUIREMENTS. To the extent any Processor-Party acts as a Service Provider or
+Contractor pursuant to this Agreement, such Processor-Party:
+
+ | a. | Shall:
+
+ | 1. | Promptly inform Controller-Party if Processor-Party receives a request from a Data Subject to exercise their
+rights with respect to their Personal Data under applicable Data Protection Legislation, provided that Controller-Party will be responsible for responding to such requests and Processor-Party will not respond to such Data Subjects except to
+acknowledge their requests.
+
+ | 2. | Provide Controller-Party with commercially reasonable assistance, upon request, to help Controller-Party
+respond to a Data Subject’s request.
+
+ | b. | Shall not:
+
+ | 1. | Sell or Share Personal Data;
+
+ | 2. | Retain, use, or disclose Personal Data for any purpose other than for the specific business purpose of
+performing Controller-Party’s documented instructions defined in this Agreement and Schedule 1.1, including retaining, using, or disclosing Personal Data for a commercial purpose other than performing Controller-Party’s instructions.
+
+ | 3. | Retain, use, or disclose Personal Data outside of the direct business relationship between the parties as
+defined in this Agreement.
+
+ | 4. | Combine Personal Data that Processor-Party receives from, or on behalf of, Controller-Party with Personal Data
+that it receives from, or on behalf of, another person or persons, or collects from its own interaction with the Data Subject, provided that Processor-Party may combine Personal Data to perform any business purposes permitted by Data Protection
+Legislation.
+
+ | 5. | Processor-Party certifies that it understands these restrictions.
+
+4. | INTERNATIONAL TRANSFERS . If, in fulfilling its obligations under the Agreement, Personal Data
+must be transferred, directly or via an onward transfer, from the EEA to any country that the appropriate competent authority under applicable Data Protection Legislation in the EU (or its equivalent in the United Kingdom or in Switzerland) has not
+recognized as providing an adequate level of protection for Personal Data, the Parties hereby agree to be bound by, where and to the extent applicable, the appropriate set of Standard Contractual Clauses, which shall be deemed incorporated into and
+form a part of this Agreement, as described in this Section.
+
+a. | Personal Data Transfers Subject to the EU GDPR. With respect to Personal Data transfers to
+Parties in a non-Adequate Jurisdiction that is subject to the EU GDPR, the related exporting Party and the importing Party to the transfer hereby agree to execute the EU Standard Contractual Clauses based on
+the Commission Implementing Decision (EU) 2021/914 as of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council,
+(“EU GDPR SCCs”). The EU GDPR SCCs are deemed incorporated into the Agreement in their entirety and without alteration, except to designate the appropriate module with respect to the Personal Data transfer between an exporting party and an
+importing party, and as noted in the following clauses and annexes, and shall apply to such Processing of Personal Data:
+
+ | (1) | Clause 7 – Docking Clause – shall apply.
+
+ | (2) | The following provision under Clause 9(a) shall apply: The data importer shall not sub-contract any of its processing activities performed on behalf of the data exporter under these Clauses to a sub-processor without the data exporter’s prior specific
+written authorisation. The data importer shall submit the
+
+ | request for specific authorisation at least thirty calendar days prior to the engagement of the sub-processor, together with the information necessary to
+enable the data exporter to decide on the authorisation. The list of sub-processors already authorised by the data exporter can be found in Annex III. The Parties shall keep Annex III up to date.
+
+ | (3) | The optional clause of Clause 11 shall not apply.
+
+ | (4) | The following provision under Clause 13(a) shall apply: The supervisory authority of the Member State in which
+the representative within the meaning of Article 27(1) of Regulation (EU) 2016/679 is established, as indicated in Annex I.C, shall act as competent supervisory authority.
+
+ | (5) | The following provision under Clause 17 shall apply: These Clauses shall be governed by the law of one of the
+EU Member States, provided such law allows for third-party beneficiary rights. The Parties agree that this shall be the law of the Republic of Ireland.
+
+ | (6) | the following provision under Clause 18(b) shall apply: The parties agree that those shall be the courts of the
+Republic of Ireland.
+
+ | (7) | Annex I.A and I.B shall incorporate by reference the information set forth in Schedule 1.2 of this Agreement.
+
+ | (8) | Annex I.C shall designate the Republic of Ireland as the supervisory authority.
+
+ | (9) | Annex II shall incorporate by reference the information set forth in Schedule 1.3 of this Agreement.
+
+ | (10) | Annex III shall incorporate by reference the list of sub-processors set
+forth in Schedule 1.4 of this Agreement.
+
+b. | Personal Data Transfers Subject to United Kingdom Data Protection Laws. For Personal Data
+transfers to Parties in a non-Adequate Jurisdiction that is subject to the UK Data Protection Laws, the EU GDPR SCCs (as adjusted in Section 3(a)) shall apply as modified by the UK’s International
+Data Transfer Addendum to the European Commission’s Standard Contractual Clauses for International Data Transfers, attached hereto as Schedule 1.5. If the EU GDPR SCCs, implemented as described above, cannot be used to lawfully transfer such
+Personal Data in compliance with the UK Data Protection laws, the UK International Data Transfer Agreement issued by the UK Information Commissioner under S119A(1) Data Protection Act 2018, as may be updated from time to time, shall instead be
+incorporated by reference and form an integral part of the Agreement, and shall apply to such transfers with the appropriate modifications made as described herein..
+
+c. | Personal Data Transfers Subject to Swiss Data Protection Laws.
+
+ | i. | For Personal Data transfers to Parties in a non-Adequate Jurisdiction
+that is subject to Swiss Data Protection Laws, the EU GDPR SCCs shall (as adjusted in Section 3(a)) apply with the following modifications to ensure an adequate level of protection for the transfers of Personal Data outside Switzerland in
+accordance with the Swiss Data Protection Laws:
+
+ | A. | References in the SCCs to “Directive 95/46/EC” or “Regulation (EU) 2016/679” shall be
+interpreted as references to the equivalent Article or Section of Swiss Data Protection Laws;
+
+ | B. | References to “EU”, “Union”, “Member State” shall not be interpreted in such a
+way as to exclude data subjects in Switzerland from the possibility of suing for their rights in their place of habitual residence (Switzerland);
+
+ | C. | References to “Member State law” shall be interpreted as references to Switzerland and Swiss law, as
+the case may be; and references to the “competent supervisory authority” and “competent courts” shall be interpreted as references to the Swiss Federal Data Protection and Information Commissioner and competent courts in
+Switzerland.
+
+ | D. | In addition to Personal Data, the SCCs shall be interpreted to also protect the data of legal entities until
+the entry into force of the Revised FADP.
+
+ | j. | If the SCCs, implemented as described above, cannot be used to lawfully transfer such Personal Data in
+compliance with the Swiss Data Protection Laws, the Swiss Transborder Data Flow Agreement (for outsourcing of data processing), as may be updated from time to time, shall instead be incorporated by reference and form an integral part of this
+Agreement and shall apply to such transfers.
+
+5. | INFORMATION SECURITY AND SECURITY INCIDENTS .
+
+ | a. | Each Party represents and warrants that it has implemented and will maintain technical and organizational
+measures designed to secure Personal Data and to prevent accidental, unauthorized or unlawful access, destruction, disclosure, alteration or loss of the Personal Data, and further represents and warrants that such measures are and will remain
+appropriate in light of the risks presented by the Processing and the nature of the Personal Data to be protected.
+
+ | b. | Each Party shall also comply with any specific measures required by Data Protection Legislation and guidance
+from competent administrative, regulatory, or supervisory bodies. These measures will include, but are not limited to, (i) the pseudonymization and encryption of Personal Data, as appropriate; (ii) the ability to ensure the ongoing
+confidentiality, integrity, availability, and resilience of processing systems and services; (iii) the ability to restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident; and
+(iv) a process for regularly testing, assessing, and evaluating the effectiveness of technical and organisational security measures. Each Party represents and warrants it will adapt its security measures on an ongoing basis in accordance with
+the development of regulations and the state of available technology, such that they continually satisfy the standards and requirements of this Section. Additionally, at the request of Controller-Party, Processor-Parties shall assist such
+Controller-Party to ensure that any technical and organizational information security measures implemented by such Controller-Party satisfy the requirements of applicable law.
+
+ | c. | Each Party represents and warrants that it has in place appropriate technical and organizational security
+measures to ensure compliance with Data Protection Legislation. Additionally, at the request of Controller-Party, Processor-Parties shall provide such Controller-Party with a comprehensive and up-to-date risk assessment that identifies all risks to Personal Data within Processor-Party’s organization, classifies the risks according to anticipated severity, and identifies the technical and
+organisational security measures the Processor-Party has implemented to protect against each identified risk. As an alternative, Processor-Parties may provide a current information security certification that is generally recognized within such
+Processor-Party’s industry as providing reasonable assurance of a high standard of security for Personal Data and is issued only after a third-party organisation has conducted a risk assessment similar to that required by this Section.
+
+ | d. | Processor-Party shall promptly, and in accordance with the applicable provisions of Data Protection
+Legislation, notify Controller-Party of any Security Incident. Processor-Party shall fully cooperate with and provide any additional information requested by Controller-Party to investigate the Security Incident. Furthermore, the parties are aware
+that Data Protection Legislation may impose a duty to inform the Supervisory Authority or affected Data Subjects in the event of a Personal Data Breach. Processor-Party will fully cooperate with and assist Controller-Party in providing notice to the
+Supervisory Authority and/or affected Data Subjects, as the case may be.
+
+6. | COOPERATION AND INQUIRIES .
+
+ | a. | Processor-Party shall make available to Controller-Party all information necessary for Controller-Party to
+fulfil such Controller-Party’s obligations under Data Protection Legislation and the terms of this Appendix, including demonstrating compliance therewith.
+
+ | b. | Processor-Party shall inform Controller-Party of any such inquiry, complaint, audit or claim without undue
+delay and at the latest within three (3) days of receipt, except and solely to the extent prohibited by applicable law.
+
+ | c. | With regards to the protection of the Data Subject’s rights pursuant to applicable Data Protection
+Legislation, Processor-Party agrees to implement technical and organizational measures that will permit Processor-Party to promptly facilitate the execution of such requests at Controller-Party’s request, such as requests for access,
+rectification, erasure, restriction or portability of Personal Data.
+
+ | d. | Where a Controller-Party determines it is obligated under applicable Data Protection Legislation or
+Controller-Party’s policy to conduct privacy and/or security assessments, Processor-Party shall fully cooperate with and assist such Controller-Party in fulfilling its obligations. Additionally, if Controller-Party determines that applicable
+Data Protection Legislation or Controller-Party’s policy requires Controller-Party to consult with or seek guidance from a Supervisory Authority or other regulatory body prior to commencing or in connection with any particular Processing,
+Processor-Party shall fully cooperate with and assist Controller-Party in fulfilling its obligations.
+
+ | e. | At the request of a Controller-Party, Processor-Party agree to provide Controller-Party with a record of
+Processing activities performed on Controller-Party’s behalf in the form and containing such information as requested by Controller-Party.
+
+7. | RETURN/DELETION OF PERSONAL DATA. Upon termination of the Agreement, any Processor-Party, at the
+option of its counterpart Party in respect of any Processing, will (i) return all Personal Data Processed in connection with the Services to the appropriate Party in a structured, commonly used, and machine-readable format, and will
+irretrievably delete existing copies and backups, or (ii) destroy and irretrievably delete all Personal Data Processed in connection with the Services, including materials or media containing such Personal Data, and including all copies and
+backups. Each Processor-Party agrees to certify deletion meeting the requirements of this Section upon any related Party’s request.
+
+8. | AUDIT .
+
+ | a. | Upon Controller-Party’s written request, Processor-Party shall make available to Controller-Party
+documentation sufficient to demonstrate that Processor-Party’s Processing of Personal Data complies with applicable Data Protection Legislation.
+
+ | b. | If, in Controller-Party’s reasonable discretion, the documentation provided by Processor-Party under
+Section 8.a above fails to demonstrate Processor-Party’s compliance with any provision or aspect Data Protection Legislation, Controller-Party may perform an audit of Processor-Party that includes
+ on-site inspection, for which Controller-Party agrees to provide thirty (30) days’ notice. Processor-Party agrees to permit and reasonably contribute to such audit, and to ensure that its Sub-Processors permit and contribute to the audit as Controller-Party reasonably deems necessary.
+
+ | c. | If the completed audit identifies gaps as it relates to industry standard requirements or otherwise identifies
+additional risk, Controller-Party may take reasonable and appropriate steps to stop and remediate any unauthorized use of Personal Data, including the performance of a follow-up audit as defined above.
+
+SCHEDULE 1.1
+
+DESCRIPTION OF PROCESSING ACTIVITIES
+
+[Omitted per Item 601(a)(5) of Regulation S-K]
+
+SCHEDULE 1.2
+
+DESCRIPTION OF CROSS-BORDER TRANSFER ACTIVITIES
+
+[Omitted per Item 601(a)(5) of Regulation S-K]
+
+SCHEDULE 1.3
+
+TECHNICAL
+AND ORGANISATIONAL MEASURES TO ENSURE THE SECURITY OF DATA
+
+[Omitted per Item 601(a)(5) of Regulation S-K]
+
+SCHEDULE 1.5
+
+[Omitted per Item 601(a)(5) of Regulation S-K]

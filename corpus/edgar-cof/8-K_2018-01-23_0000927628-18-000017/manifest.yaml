@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2018-01-23_0000927628-18-000017
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-01-23 (period 2018-01-23)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000017/q42017earningsrelease8-k.htm
+retrieved_at: '2026-08-20T02:47:22Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: q42017earningsrelease8-k.htm
+  role: raw
+  sha256: 79bb53c7bdaef4a346a2a3017cbf9e713a50fee905f50c92acf44a50a0d1af9f
+  size: 34606
+  stored: corpus
+- name: q42017earningsrelease-ex991.htm
+  role: exhibit
+  sha256: ea45ab54c203d8eadeb13a317bc88ec5240cabe589678f5876a1357dcdfe066d
+  size: 69085
+  stored: corpus
+- name: q42017earningsrelease-ex992.htm
+  role: exhibit
+  sha256: bdbb5c77882585cff5c303bc1e0b54cdb51ca21989ef691a9cb18e6ea5ba455e
+  size: 3853804
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 404b27a700cfed5717400ed468b2c79af820a90bf7126436307d0a1b4bb37b90
+  size: 115269
+  stored: corpus
+filed_date: '2018-01-23'
+period_end: '2018-01-23'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000017
+  form: 8-K
+  items: 2.02,9.01

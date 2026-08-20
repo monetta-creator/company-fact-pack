@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2018-10-31_0001393612-18-000051
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2018-10-31 (period 2018-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361218000051/dfs930201810q.htm
+retrieved_at: '2026-08-20T02:34:19Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs930201810q.htm
+  role: raw
+  sha256: 46a8109fafaa6690263b09a9b187120e09428636d6364acb581962b0ad29ba26
+  size: 3610588
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e9adece88bb4fd2816ae33f4b04a70161dcdcb8ba1e033857d372dce3d52729c
+  size: 277383
+  stored: corpus
+filed_date: '2018-10-31'
+period_end: '2018-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001393612-18-000051
+  form: 10-Q
+  items: ''

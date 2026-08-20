@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-05-05_0000927628-16-000162
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-05-05 (period 2016-05-04)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000162/a8-kdividendannouncement.htm
+retrieved_at: '2026-08-20T02:55:11Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendannouncement.htm
+  role: raw
+  sha256: b10c661c986b887ddcd2e7b62ce43dad1d1fada92b913197964bbddb1bc99b2c
+  size: 27762
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4de534152062878acf9f6369c586e1cb1bdfc1d5122dcddd038b5147cc05d566
+  size: 4044
+  stored: corpus
+filed_date: '2016-05-05'
+period_end: '2016-05-04'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000162
+  form: 8-K
+  items: '7.01'

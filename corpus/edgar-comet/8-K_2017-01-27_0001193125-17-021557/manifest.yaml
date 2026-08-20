@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2017-01-27_0001193125-17-021557
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-01-27 (period 2017-01-27)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312517021557/d327195d8k.htm
+retrieved_at: '2026-08-20T02:57:29Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d327195d8k.htm
+  role: raw
+  sha256: 4d8bd1c7cb256f7f803e38e8d9e720e86de3e89456540c660d4d00ac029ae425
+  size: 15975
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b62142afbbe9722c6f701b35102107719a755abe1846ad8dc303d8a35cf71d8b
+  size: 3465
+  stored: corpus
+filed_date: '2017-01-27'
+period_end: '2017-01-27'
+extraction_method: lxml
+meta:
+  accession: 0001193125-17-021557
+  form: 8-K
+  items: 8.01,9.01

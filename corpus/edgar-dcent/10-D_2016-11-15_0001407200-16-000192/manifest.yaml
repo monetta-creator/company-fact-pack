@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/10-D_2016-11-15_0001407200-16-000192
+source: edgar-dcent
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2016-11-15 (period 2016-11-15)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720016000192/dcent-dcmt10d111516_clean.htm
+retrieved_at: '2026-08-20T02:58:44Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: dcent-dcmt10d111516_clean.htm
+  role: raw
+  sha256: ea02219251c98a0df4f8a4aa7635d6e9c20c07cf076d2603c12f760d9ac3f0a7
+  size: 37098
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 522dd82e4df798ce7a5822acc33643471c8fca2a81e52cef2f50c6ccdd694cbb
+  size: 6512
+  stored: corpus
+filed_date: '2016-11-15'
+period_end: '2016-11-15'
+extraction_method: lxml
+meta:
+  accession: 0001407200-16-000192
+  form: 10-D
+  items: ''

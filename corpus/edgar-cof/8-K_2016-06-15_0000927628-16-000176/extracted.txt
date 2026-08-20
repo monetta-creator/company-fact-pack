@@ -1,0 +1,150 @@
+8-K 1 maycreditmetricsform8-k.htm 8-K Document created using Wdesk 1 Copyright 2016 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+June 15, 2016
+
+Date of Report (Date of earliest event reported)
+
+___________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Item 7.01 | Regulation FD Disclosure.
+
+Capital One Financial Corporation (the “Company”) hereby furnishes the information in Exhibit 99.1 hereto, Monthly Charge-off and Delinquency Metrics - As of and for the month ended May 31, 2016 .
+
+Note: Information in this report (including the exhibit) furnished pursuant to Item 7.01 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section. This report will not be deemed an admission as to the materiality of any information in the report that is required to be disclosed solely by Regulation FD. Furthermore, the information provided in Exhibit 99.1 shall not be deemed to be incorporated by reference into the filings of the Company under the Securities Act of 1933.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit |  | Description
+99.1 |  | Monthly Charge-off and Delinquency Metrics - As of and for the month ended May 31, 2016
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: | June 15, 2016 | By: | /s/ | R. SCOTT BLACKLEY
+ |  |  |  | R. Scott Blackley
+ |  |  |  | Chief Financial Officer and Controller
+[/TABLE]
+
+2
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit |  | Description
+99.1 |  | Monthly Charge-off and Delinquency Metrics - As of and for the month ended May 31, 2016
+[/TABLE]
+
+3
+
+
+=== EXHIBIT maycreditmetricsexhibit991.htm ===
+
+EX-99.1 2 maycreditmetricsexhibit991.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2016 Workiva Exhibit
+
+Exhibit 99.1
+
+Capital One Financial Corporation
+
+Monthly Charge-off and Delinquency Metrics
+
+As of and for the month ended May 31, 2016
+
+[TABLE]
+(Dollars in millions) |  | May 2016
+Domestic Card Metrics (1) |  |
+Net charge-offs |  | $ | 285 |
+Average loans held for investment |  | 85,771 |
+Net charge-off rate (2) |  | 3.99 | %
+30+ day performing delinquencies |  | $ | 2,627 |
+Period-end loans held for investment |  | 87,211 |
+30+ day performing delinquency rate (3) |  | 3.01 | %
+International Card Metrics (1) |  |
+Net charge-offs |  | $ | 26 |
+Average loans held for investment |  | 8,578 |
+Net charge-off rate (2) |  | 3.67 | %
+30+ day performing delinquencies |  | $ | 266 |
+Nonperforming loans |  | 51 |
+Period-end loans held for investment |  | 8,447 |
+30+ day performing delinquency rate (3) |  | 3.15 | %
+Nonperforming loan rate (4) |  | 0.61 |
+Auto Metrics |  |
+Net charge-offs |  | $ | 43 |
+Average loans held for investment |  | 43,619 |
+Net charge-off rate (2) |  | 1.17 | %
+30+ day performing delinquencies |  | $ | 2,401 |
+Nonperforming loans |  | 165 |
+Period-end loans held for investment |  | 43,806 |
+30+ day performing delinquency rate (3) |  | 5.48 | %
+Nonperforming loan rate (4) |  | 0.38 |
+[/TABLE]
+
+___________________
+
+(1) | Period-end loans held for investment and average loans held for investment include accrued finance charges and fees, net of the estimated uncollectible amount. We recognize billed finance charges and fee income on open-ended loans in accordance with the contractual provisions of the credit arrangements and estimate the uncollectible amount on a quarterly basis. The estimated uncollectible amount of billed finance charges and fees is reflected as a reduction in revenue and is not included in our net charge-offs.
+
+(2) | Calculated by dividing annualized net charge-offs for the period by average loans held for investment during the period for the specified loan category. Net charge-offs and the net charge-off rate are impacted periodically by fluctuations in recoveries, including impacts of debt sales.
+
+(3) | Calculated by dividing 30+ day performing delinquent loans as of the end of the period by period-end loans held for investment for the specified loan category.
+
+(4) | Calculated by dividing nonperforming loans as of the end of the period by period-end loans held for investment for the specified loan category.

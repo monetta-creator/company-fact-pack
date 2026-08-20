@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2021-07-22_0000927628-21-000245
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-07-22 (period 2021-07-22)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762821000245/cof-20210722.htm
+retrieved_at: '2026-08-20T02:46:39Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20210722.htm
+  role: raw
+  sha256: 1bedaaec2ae293960f700177105a5f1462455d55aafd524b637e714574fe46a3
+  size: 59835
+  stored: corpus
+- name: ex991june2021creditmetrics.htm
+  role: exhibit
+  sha256: 7453eb596aece7840d22ede4d5ab8f3815785ca5c7af97ed73150199347f64ce
+  size: 23489
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 899b19c673a9ca1fa938695986ccb2bb5f1e88310df799646b65ad072f956003
+  size: 7763
+  stored: corpus
+filed_date: '2021-07-22'
+period_end: '2021-07-22'
+extraction_method: lxml
+meta:
+  accession: 0000927628-21-000245
+  form: 8-K
+  items: 7.01,9.01

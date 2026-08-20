@@ -1,0 +1,140 @@
+false 0001393612 0001393612 2023-03-07 2023-03-07
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 7, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On March 7, 2023, Diane E. Offereins provided Discover Financial Services notice of her retirement, effective June 30, 2023. A copy of the press release announcing Ms. Offereins’ retirement and the naming of her successor is attached as Exhibit 99.1 to this report.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of Discover Financial Services dated March 9, 2023
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: March 9, 2023 |  |  |  | By: |  | /s/ Philip J. Castrogiovanni
+ |  |  |  | Name: |  | Philip J. Castrogiovanni
+ |  |  |  | Title: |  | Vice President, Deputy General Counsel and Assistant Secretary
+[/TABLE]
+
+
+=== EXHIBIT d443127dex991.htm ===
+
+EX-99.1 2 d443127dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+JASON HANSON TO SUCCEED DIANE OFFEREINS AS EXECUTIVE VICE PRESIDENT, PRESIDENT OF PAYMENT SERVICES FOR
+DISCOVER FINANCIAL SERVICES
+
+RIVERWOODS, Ill. Mar. 9, 2023 — Discover Financial Services (NYSE: DFS) today announced
+that Jason Hanson will succeed Diane Offereins as executive vice president, president of payment services. Hanson will oversee Discover’s Payment Services, which encompasses the Discover Global Network, PULSE, and Diner’s Club
+International. Offereins plans to retire after more than 25 years with the company effective June 30.
+
+Offereins first served a Chief Information Officer
+at Discover before moving to Payment Services. She helped lead Discover’s transition to an independent, publicly traded company in 2007 and its acquisition of PULSE and Diners Club International. Offereins was named one of the Most Powerful
+Women in Finance by American Banker for the last 15 consecutive years.
+
+Beyond her role at Discover, Offereins has long advocated for the
+advancement of women, both within Discover, and externally where she has served as a member and Chair of the Chicago Network, an organization committed to empowering women.
+
+“Under Diane’s leadership of our Payments business, we successfully expanded into debit and established a global payments network,” said Roger
+Hochschild, CEO and president of Discover. “She has built a lasting legacy at Discover as well as a talented team of leaders throughout which is enabling a smooth succession. Like Diane, Jason has deep industry expertise and is well positioned
+to lead Discover’s Payments business.”
+
+Hanson joined Discover in 2019 and currently serves as Senior Vice President, Network Operations and is
+a member of Discover’s Management Committee. He has led Discover’s payments strategy, business development, global acceptance, and network operations functions and overseen initiatives that contributed to Discover’s Payments growth.
+
+Prior to Discover, Hanson led corporate development efforts at FIS/Worldpay and spent over a decade with McKinsey & Company as a partner in
+their Payments and Private Equity practices. He is a graduate of the United States Military Academy and a U.S. Army veteran.
+
+Offereins and Hanson
+will work together until Offereins’s departure to ensure a seamless transition. Once promoted, Hanson will serve on the Executive Committee and report directly to Hochschild.
+
+About Discover
+
+Discover Financial Services (NYSE:
+DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues
+the Discover ® card, America’s cash rewards pioneer, and offers private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its
+banking business. It operates the Discover Global Network ® comprised of Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the
+world. For more information, visit www.discover.com/company .
+
+Media Contact:
+
+Matthew Towson
+
+Public Relations
+
+224-405-5649
+
+matthewtowson@discover.com

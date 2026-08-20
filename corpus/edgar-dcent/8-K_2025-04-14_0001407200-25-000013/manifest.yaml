@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2025-04-14_0001407200-25-000013
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-04-14 (period 2025-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720025000013/qtrly_dcmtxdcentxasofmarch.htm
+retrieved_at: '2026-08-20T02:57:38Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly_dcmtxdcentxasofmarch.htm
+  role: raw
+  sha256: 3bed1f6fbc3cd930ac557500297eeb2ca3556ae7263c5d001532bd347eaf7f7a
+  size: 133214
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 63855ea4392f07353b5d8bba728c3aae35e05a67abd1dc6a11c07f7b02e117a2
+  size: 14160
+  stored: corpus
+filed_date: '2025-04-14'
+period_end: '2025-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001407200-25-000013
+  form: 8-K
+  items: 6.05,8.01

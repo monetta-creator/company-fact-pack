@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2024-10-24_0000927628-24-000296
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2024-10-24 (period 2024-10-24)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762824000296/cof-20241024.htm
+retrieved_at: '2026-08-20T02:46:00Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20241024.htm
+  role: raw
+  sha256: 7139bcffdcba293320ea7a2cc6064308f88e3c6bb67006b20f58379347c4c08e
+  size: 39554
+  stored: corpus
+- name: ex991q32024earningsrelease.htm
+  role: exhibit
+  sha256: 47f3b81be26bd661d24e9525d2cf2ab7a8ef144630a73af4c11ab95743b9dbe1
+  size: 36600
+  stored: corpus
+- name: ex992q32024earningsrelease.htm
+  role: exhibit
+  sha256: 48d83bf8d6a0799da3c56730739d6a0ace79ffe1a20cda6bc9c2681e43c994e2
+  size: 2369422
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: a1dd76af7dd44d945f8eff10d8dcef51886cfe6b0fc1da152feccbc2f4b06fa7
+  size: 106739
+  stored: corpus
+filed_date: '2024-10-24'
+period_end: '2024-10-24'
+extraction_method: lxml
+meta:
+  accession: 0000927628-24-000296
+  form: 8-K
+  items: 2.02,9.01

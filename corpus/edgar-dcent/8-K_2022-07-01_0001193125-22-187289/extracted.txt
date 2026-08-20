@@ -1,0 +1,882 @@
+8-K 1 d566327d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 1, 2022
+
+[TABLE]
+Commission File
+Number: 333-141703-02; 333-167413; 333-191359;
+ 333-205455-01;
+ 333-228025-02;
+ 333-260957 |  | Commission File Number: 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 333-228025-01;
+ 000-23108;
+ 333-260957-02 |  | Commission File Number: 333-205455;
+ 333-228025;
+ 333-260957-01 |  |
+DISCOVER CARD EXECUTION NOTE
+ TRUST |  | DISCOVER CARD MASTER TRUST I |  | DISCOVER FUNDING
+ LLC |  | DISCOVER BANK
+(Exact name of issuing
+ entity in respect of the notes as specified in charter) |  | (Exact name of issuing
+ entity in respect of the
+ Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as
+ specified in charter) |  | (Exact name of sponsor as
+ specified in charter)
+Delaware |  | Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of incorporation or
+ organization of the issuing entity) |  | (State or jurisdiction of incorporation or
+ organization of the issuing entity) |  | (State or jurisdiction of incorporation or
+ organization of the depositor) |  | (State or jurisdiction of incorporation or
+ organization of the sponsor)
+c/o Wilmington Trust Company Rodney Square North 1100 North Market Street Wilmington, Delaware 19890-0001 |  | c/o Discover Bank
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | Discover Bank 800 Prides Crossing
+ Suite 100 Newark,
+Delaware 19713
+(Address of principal
+ executive offices of the
+ issuing entity) |  | (Address of principal
+ executive offices of
+the issuing entity) |  | (Address of principal
+ executive offices of the
+ depositor) |  | (Address of principal
+ executive offices of the
+ sponsor)
+[/TABLE]
+
+51-0020270
+
+(IRS Employer Identification No. of the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Item 6.02. | Change of Servicer or Trustee
+
+Pursuant to an Assignment and Assumption Agreement, dated as of January 28, 2022 by and between U.S. Bank National Association
+(“ U.S. Bank N.A. ”) and U.S. Bank Trust Company, National Association (“ U.S. Bank Trust Co. ”) and a result of the transfer of substantially all of U.S. Bank N.A.’s corporate trust business to U.S. Bank Trust
+Co., effective as of July 1, 2022, U.S. Bank Trust Co. succeeded U.S. Bank N.A. as the indenture trustee (in such capacity, the “ Indenture Trustee ”), under the Amended and Restated Indenture, dated as of December 22, 2015
+by and between Discover Card Execution Note Trust (the “ Issuer ”) and the Indenture Trustee, as amended by Amendment No. 1 to Master Indenture and Amendment No. 1 to Second Amended and Restated Indenture Supplement, dated
+as of August 27, 2019, between the Issuer, and the Indenture Trustee, as supplemented by the Second Amended and Restated Indenture Supplement, dated as of December 22, 2015, as amended by Amendment No. 1 to Master Indenture and
+Amendment No. 1 to Second Amended and Restated Indenture Supplement, dated as of August 27, 2019 (together, the “ Indenture ”), for the benefit of the noteholders. The duties and responsibilities of the indenture trustee,
+limitations on the indenture trustee’s liability and indemnification under the transaction agreements and the contractual provisions regarding the indenture trustee’s removal, replacement or resignation under the transaction agreements and
+other information contemplated by Item 1109(a)(3) through (6) of Regulation AB remains unchanged from the information described in the final prospectus, dated May 19, 2022 and filed with the Commission on May 23, 2022.
+
+U.S. Bank N.A. has made a strategic decision to reposition its corporate trust business by transferring substantially all of its corporate
+trust business to its affiliate, U.S. Bank Trust Co., a non-depository trust company. (U.S. Bank N.A. and U.S. Bank Trust Co. are collectively referred to herein as “ U.S. Bank .”). Upon
+U.S. Bank Trust Co.’s succession to the business of U.S. Bank N.A., it has become a wholly owned subsidiary of U.S. Bank N.A. U.S. Bank will continue to act as Indenture Trustee pursuant to the indenture and indenture supplement and as Trustee
+pursuant to the Pooling and Servicing Agreement and Series 2007-CC Series Supplement until the conditions precedent to the transfer of U.S. Bank N.A.’s roles to U.S. Bank Trust Co. have been satisfied.
+After such transfer, the Indenture Trustee will maintain the accounts of the issuing entity in the name of the Indenture Trustee at U.S. Bank N.A., and the Indenture Trustee will administer the indenture and the indenture supplement and
+the Trustee will administer the Pooling and Servicing Agreement and the Series 2007-CC Series Supplement from the same location and using the same systems and employees as U.S. Bank has for this transaction
+and prior transactions of Discover Funding LLC.
+
+U.S. Bancorp, with total assets exceeding $587 billion as of March 31, 2022, is
+the parent company of U.S. Bank N.A., the fifth largest commercial bank in the United States. As of March 31, 2022, U.S. Bancorp operated over 2,200 branch offices in 26 states. A network of specialized U.S. Bancorp offices across the nation
+provides a comprehensive line of banking, brokerage, insurance, investment, mortgage, trust and payment services products to consumers, businesses, and institutions.
+
+U.S. Bank has one of the largest corporate trust businesses in the country with office locations in 48 domestic and 2 international cities.
+The Pooling and Servicing Agreement and the indenture will be administered from U.S. Bank’s corporate trust office located at 190 South LaSalle Street, Chicago, Illinois 60603.
+
+U.S. Bank has provided corporate trust services since 1924. As of March 31, 2022, U.S. Bank was acting as trustee with respect to over
+120,000 issuances of securities with an aggregate outstanding principal balance of over $5.5 trillion. This portfolio includes corporate and municipal bonds, mortgage-backed and asset-backed securities and collateralized debt obligations.
+
+As trustee, paying agent, and registrar with respect to the master trust, U.S. Bank will make each certificateholders’ monthly statement
+available to the certificateholders and noteholders via the master trust trustee’s internet website at https://pivot.usbank.com. Noteholders with questions may direct them to the master trust trustee’s bondholder services group at (800) 934-6802.
+
+As of March 31, 2022, U.S. Bank (and its affiliate U.S. Bank Trust National
+Association) was acting as indenture trustee, registrar and paying agent on 48 issuances of credit card receivables-backed securities with an outstanding aggregate principal balance of approximately $26,560,400,000.
+
+U.S. Bank N.A. and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential
+mortgage-backed securities (“RMBS”) trusts. The complaints, primarily filed by investors or investor groups against U.S. Bank N.A. and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by
+the sponsors, mortgage loan sellers and servicers to comply with the governing agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the trustees’ purported failures to enforce repurchase obligations of
+mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and abide by a heightened standard of
+care following alleged events of default.
+
+U.S. Bank N.A. denies liability and believes that it has performed its obligations under the
+RMBS trusts in good faith, that its actions were not the cause of losses to investors, that it has meritorious defenses, and it has contested and intends to continue contesting the plaintiffs’ claims vigorously. However, U.S. Bank N.A. cannot
+assure you as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts.
+
+On
+March 9, 2018, a law firm purporting to represent fifteen Delaware statutory trusts (the “DSTs”) that issued securities backed by student loans (the “Student Loans”) filed a lawsuit in the Delaware Court of Chancery against
+U.S. Bank N.A. in its capacities as indenture trustee and successor special servicer, and three other institutions in their respective transaction capacities, with respect to the DSTs and the Student Loans. This lawsuit is captioned The National
+Collegiate Student Loan Master Trust I, et al. v. U.S. Bank National Association, et al. , C.A. No. 2018-0167-JRS (Del. Ch.) (the “NCMSLT Action”). The complaint, as amended on June 15, 2018,
+alleged that the DSTs have been harmed as a result of purported misconduct or omissions by the defendants concerning administration of the trusts and special servicing of the Student Loans. Since the filing of the NCMSLT Action, certain Student Loan
+borrowers have made assertions against U.S. Bank N.A. concerning special servicing that appear to be based on certain allegations made on behalf of the DSTs in the NCMSLT Action.
+
+U.S. Bank N.A. has filed a motion seeking dismissal of the operative complaint in its entirety with prejudice pursuant to Chancery Court Rules
+12(b)(1) and 12(b)(6) or, in the alternative, a stay of the case while other prior filed disputes involving the DSTs and the Student Loans are litigated. On November 7, 2018, the Court ruled that the case should be stayed in its entirety
+pending resolution of the first-filed cases. On January 21, 2020, the Court entered an order consolidating for pretrial purposes the NCMSLT Action and three other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the
+Student Loans, which remains pending.
+
+U.S. Bank N.A. denies liability in the NCMSLT Action and believes it has performed its obligations
+as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue contesting the
+plaintiffs’ claims vigorously.
+
+Item 8.01. | Other Events
+
+On July 1, 2022, Discover Funding LLC, U.S. Bank Trust Company, National Association, as indenture trustee, and U.S. Bank
+National Association as securities intermediary (in such capacity, the “ Intermediary ”), entered into the Account Control Agreement, pursuant to which the Intermediary will maintain certain accounts, which a copy is filed as Exhibit
+99.1.
+
+On July 1, 2022, Discover Card Execution Note Trust, as grantor, U.S. Bank Trust Company, National Association, as
+indenture trustee, and U.S. Bank National Association as securities intermediary, entered into Amendment No. 1 to Collateral Account Control Agreement, pursuant to which certain accounts were added to the Collateral Account Control
+Agreement, which a copy is filed as Exhibit 99.2.
+
+On July 1, 2022, Discover Bank executed a replacement Series 2007-CC Investor
+Certificate, that was authenticated by U.S. Bank Trust Company, National Association, as trustee, which a copy is filed as Exhibit 99.3.
+
+Item | 9.01 Exhibits
+
+Exhibit 99.1 Account Control Agreement, dated as of July 1, 2022 among Discover Funding LLC, U.S. Bank Trust Company,
+National Association, as indenture trustee, and U.S. Bank National Association as securities intermediary.
+
+Exhibit 99.2 Amendment No. 1 to Collateral Account Control Agreement, dated as of July 1, 2022 among Discover Card Execution Note Trust, as grantor, U.S. Bank Trust Company, National Association, as indenture trustee, and U.S. Bank National Association
+as securities intermediary.
+
+Exhibit 99.3 Series 2007-CC Investor Certificate,
+dated as of July 1, 2022 by Discover Bank and authenticated by U.S. Bank Trust Company, National Association, as trustee.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: July 1, 2022 |  |  |  |  |  |
+ |  |  |  | Discover Funding LLC (as Depositor for Discover Card Master Trust I and
+ Discover Card Execution Note Trust and as registrant under
+Commission File Numbers 333-205455, 333- 228025 and 333-260957-01)
+ |  |  |  | By: |  | /s/ Patricia S. Hall
+ |  |  |  |  |  | Patricia S. Hall Vice President, Chief
+Financial Officer and Treasurer
+[/TABLE]
+
+
+=== EXHIBIT d566327dex991.htm ===
+
+EX-99.1 2 d566327dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+EXECUTION VERSION
+
+SECURITIES ACCOUNT CONTROL
+AGREEMENT
+
+among
+
+DISCOVER FUNDING LLC,
+
+as
+Transferor,
+
+DISCOVER BANK,
+
+as Master Servicer and Servicer,
+
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,
+
+as Secured Party,
+
+and
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+as Intermediary
+
+Dated as of
+July 1, 2022
+
+DCMT
+
+Securities Account Control Agreement
+
+TABLE OF CONTENTS
+
+[TABLE]
+ |  |  | Page |
+ARTICLE I DEFINITIONS |  |  | 1 |
+ |  | Section 1.1 |  | Defined Terms |  |  | 1 |
+ARTICLE II ACCOUNTS |  |  | 1 |
+ |  | Section 2.1 |  | Accounts |  |  | 1 |
+ARTICLE III RIGHTS OF THE SECURED PARTY |  |  | 2 |
+ |  | Section 3.1 |  | Control of Accounts by Secured Party |  |  | 2 |
+ |  | Section 3.2 |  | No Control by Transferor or Third Parties Concerning Accounts |  |  | 3 |
+ |  | Section 3.3 |  | Perfection of Security Interests in Accounts |  |  | 3 |
+ |  | Section 3.4 |  | Notices of Adverse Claims |  |  | 3 |
+ARTICLE IV RIGHTS AND RESPONSIBILITIES OF INTERMEDIARY |  |  | 4 |
+ |  | Section 4.1 |  | Limited Obligations |  |  | 4 |
+ARTICLE V MISCELLANEOUS |  |  | 4 |
+ |  | Section 5.1 |  | Amendment and Other Modifications |  |  | 4 |
+ |  | Section 5.2 |  | Termination; Survival |  |  | 4 |
+ |  | Section 5.3 |  | Governing Law |  |  | 4 |
+ |  | Section 5.4 |  | Submission to Jurisdiction; Waiver of Jury Trial |  |  | 4 |
+ |  | Section 5.5 |  | Binding Agreement; Successors and Assigns |  |  | 5 |
+ |  | Section 5.6 |  | Severability |  |  | 5 |
+ |  | Section 5.7 |  | Notices to Secured Party, Servicer, Transferor and Intermediary |  |  | 5 |
+ |  | Section 5.8 |  | Headings |  |  | 6 |
+ |  | Section 5.9 |  | Counterparts and Electronic Signature |  |  | 6 |
+ |  | Section 5.10 |  | Concerning the Secured Party |  |  | 6 |
+ |  | Section 5.11 |  | Indemnification |  |  | 6 |
+ |  | Section 5.12 |  | No Proceedings |  |  | 6 |
+ |  | Section 5.13 |  | Limited Recourse |  |  | 6 |
+ |  | Section 5.14 |  | Limitations on Liability of Intermediary |  |  | 7 |
+ |  | Section 5.15 |  | Limitation of Liability of Owner Trustee |  |  | 9 |
+ |  | Section 5.16 |  | Effect of Account Control Agreement on the Transaction Documents |  |  | 9 |
+[/TABLE]
+
+-i-
+
+SECURITIES ACCOUNT CONTROL AGREEMENT (this “ Agreement ”), dated as of
+July 1, 2022, among DISCOVER CARD EXECUTION NOTE TRUST as Transferor (the “ Transferor ”), DISCOVER BANK , as Master Servicer and Servicer (the “Servicer”), U.S. BANK NATIONAL ASSOCIATION , as Intermediary
+(the “ Intermediary ”) and U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION , in its capacity as master trust trustee (the “ Secured Party ”).
+
+PREAMBLE
+
+Pursuant to the
+Third Amended and Restated Pooling and Servicing Agreement dated as of December 22, 2015 among Discover Bank as Master Servicer and Servicer, Discover Funding LLC as Transferor and U.S. Bank Trust Company, National Association as successor to
+U.S. Bank National Association, as master trust trustee (the “Master Trust Trustee”), as supplemented by the Amended and Restated Series 2007-CC Supplement, dated as of December 22, 2015, among
+Discover Bank, Discover Funding and the Master Trust Trustee (“PSA”), the Transferor has granted to the Secured Party, for the benefit of the Noteholders, a first priority security interest in the Accounts (as defined below) and all funds,
+Collateral or other property on deposit from time to time in or credited to the Accounts, including all investments and proceeds thereof and all income thereon (collectively, the “ Account Property ”). The accounts listed on Schedule
+1 (collectively, the “ Accounts ”),which may be updated from time to time by the Transferor in accordance herewith, are currently existing under the PSA and are maintained and held at the Intermediary by the Transferor, subject to the
+first priority security interest of the Secured Party for the benefit of the Certificateholders in the Accounts granted by the Transferor to the Secured Party to secure payment of the Certificates.
+
+The parties hereto are entering into this Agreement to perfect the Secured Party’s security interest in the Accounts by
+“control,” within the meaning of Articles 8 and 9 of the Uniform Commercial Code as in effect in the State of New York (the “ UCC ”).
+
+ARTICLE I
+
+DEFINITIONS
+
+Section 1.1 Defined Terms . Except as otherwise specified herein or if the context may otherwise
+require, capitalized terms used but not otherwise defined herein have the meanings ascribed thereto in the PSA.
+
+ARTICLE II
+
+ACCOUNTS
+
+Section 2.1 Accounts .
+
+(a) The Intermediary represents and warrants to each of the Secured Party, the Servicer and the Transferor that the
+Intermediary does not know of any claim to or interest in the Accounts, except the first priority security interest of the Secured Party in the Accounts for the benefit of the Noteholders and the other claims and interests of the parties
+referred to in this Agreement. The Intermediary does not have and shall not have in the future, any security interest, lien or right of setoff on or against the Accounts.
+
+ |  |  |  | DCMT
+ Securities Account Control Agreement
+
+(b) The Intermediary, the Transferor, the Servicer and the Secured Party
+agree that the Intermediary is the securities intermediary and the Transferor is the entitlement holder as to each Account subject to the first priority security interest of the Secured Party.
+
+(c) The Intermediary, the Transferor, the Servicer and the Secured Party agree that all property credited to the Accounts shall
+be treated as “financial assets” under Article 8 of the UCC.
+
+(d) The Intermediary shall not accept any
+“entitlement order,” within the meaning of Section 8-102(a)(8) of the UCC, or other instruction regarding the Accounts except from the Secured Party and, subject to Section 3.1(b) , the Transferor and the Servicer.
+
+(e) The Intermediary, the Transferor, the
+Servicer and the Secured Party agree that, with respect to the Accounts, the jurisdiction of the Intermediary for purposes of Articles 8 and 9 of the UCC shall be the State of New York.
+
+(f) The Intermediary shall at all times be a “participant” (as such term is defined in the Federal Book-Entry
+Regulations) in the Federal Reserve System.
+
+(g) The Intermediary hereby agrees to maintain the Accounts in accordance with
+and subject to the express terms the PSA and any amendment or supplement thereof.
+
+(h) The Intermediary agrees that all
+Permitted Investments, securities and other property underlying any financial asset from time to time credited to the Accounts shall be registered in the name of Intermediary or indorsed to Intermediary or in blank, and in no case shall any
+financial asset credited to the Accounts be registered in the name of Transferor, payable to the order of Transferor or specially indorsed to Transferor, except to the extent that the foregoing have been specially indorsed to the Intermediary or in
+blank.
+
+ARTICLE III
+
+RIGHTS OF THE SECURED PARTY
+
+Section 3.1 Control of Accounts by Secured Party .
+
+(a) Subject to Section 3.1(b) , the Intermediary shall comply with any entitlement order originated by
+the Secured Party, the Servicer or the Transferor. The Intermediary, the Transferor and the Secured Party agree that the Intermediary shall comply with any entitlement order originated by the Secured Party without further consent of the Transferor
+or the Servicer. The Servicer is hereby authorized to (i) direct the withdrawal of funds from the Accounts to make distributions in accordance with the PSA and any amendment or supplement thereof, and (ii) direct the transfer or redemption
+of any financial asset relating to the Accounts, in each case until and unless such authorization is revoked in writing by the Secured Party. The Transferor is hereby authorized to update Schedule 1 (with written notice to each of the parties
+hereto) in order to add additional accounts as such accounts are created and opened pursuant to the PSA.
+
+ |  | -2- |  | DCMT
+ Securities Account Control Agreement
+
+(b) If the Secured Party notifies the Intermediary that the Secured Party
+will exercise exclusive control over the Accounts (a “ notice of exclusive control ”), then the Intermediary shall not comply with any contrary or otherwise inconsistent instructions or other directions concerning the Accounts
+originated by the Transferor or the Servicer unless and until such notice of exclusive control is withdrawn by the Secured Party. The Secured Party shall only give such notice of exclusive control upon the occurrence and during the continuance of an
+Amortization Event and the acceleration of the payment of principal and interest on the Certificates in accordance with the PSA and any amendment or supplement thereof (without the related declaration of acceleration and its consequences having been
+rescinded or annulled), after expiration of the related period specified in the PSA and any amendment or supplement thereof limiting actions in respect of such Amortization Event.
+
+Section 3.2 No Control by Transferor or Third Parties Concerning Accounts . The Intermediary shall not comply
+with any instructions of the Transferor or the Servicer (except to the extent permitted under Section 3.1(b) ) concerning the Accounts (including any order that is originated by the Transferor or the Servicer and that would
+require the Intermediary to make a free delivery of Accounts to the Transferor or any other person). Additionally, the Intermediary shall not agree with any third party (other than the Secured Party) that the Intermediary will comply with orders
+originated by such third party concerning the Accounts.
+
+Section 3.3 Perfection of Security Interests in
+Accounts . It is intended that the first priority security interest of the Secured Party in the Accounts be perfected by control of the Accounts under Sections 8-106(d)(2), 9-106(a) and 9-314(a) of the UCC. In addition, it is intended for purposes of Articles 8 and 9 of the UCC that (i) the Transferor be deemed to be the related
+“entitlement holder”, (ii) the Intermediary be deemed to be the related “securities intermediary”, (iii) all such property held by the Intermediary in the Accounts and all rights of the Transferor against the Intermediary arising
+out of such property, including any free credit balances, be deemed to be “financial assets”, and (iv) the Secured Party be deemed to have “control” of such Accounts under Section 8-106(d)(2) of the UCC with respect to the first priority security interest therein granted to the Secured Party pursuant to the PSA. With respect to any proceeds of the Account Property that
+constitute a deposit account, it is intended for purposes of Article 9 of the UCC that (i) the Intermediary is the bank with which the deposit account is maintained and the Transferor is the bank’s customer with respect to the deposit
+account, and (ii) the Transferor, the Secured Party, the Servicer and the Intermediary agree that the Intermediary will comply with instructions originated by the Secured Party directing disposition of funds in the deposit accounts without
+further consent of the Transferor or the Servicer.
+
+Section 3.4 Notices of Adverse Claims . The
+Intermediary shall promptly notify the Secured Party, the Servicer and the Transferor if any other person claims that it has a property interest in the Accounts or that it is a violation of such person’s rights for anyone else to hold,
+transfer or deal with the Accounts.
+
+ |  | -3- |  | DCMT
+ Securities Account Control Agreement
+
+ARTICLE IV
+
+RIGHTS AND RESPONSIBILITIES OF INTERMEDIARY
+
+Section 4.1 Limited Obligations . This Agreement does not create any obligation of the Intermediary except for
+those expressly set forth in this Agreement. The Intermediary may conclusively rely and shall be fully protected in acting or refraining from acting upon notices and communications it believes to be genuine and given by the appropriate party. Except
+for permitting a withdrawal, delivery or payment in violation of Article III, the Intermediary shall not be liable to the Secured Party, the Servicer or the Transferor for any error of judgment made in good faith and in accordance with this
+Agreement, nor shall it otherwise be liable under this Agreement except as a result of its own willful misconduct, bad faith or negligence.
+
+ARTICLE V
+
+MISCELLANEOUS
+
+Section 5.1 Amendment and Other Modifications . This Agreement may be amended, supplemented or
+otherwise modified from time to time, and the observance of any term of this Agreement may be waived, by the parties hereto. Any such modification or waiver of this Agreement shall be in writing and shall be signed by all the parties hereto.
+
+Section 5.2 Termination; Survival . This Agreement shall terminate with respect to the accounts under the PSA
+upon the termination of the PSA. However, any provision of the PSA that expressly survive by its terms shall survive termination of this Agreement.
+
+Section 5.3 Governing Law . THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF
+NEW YORK, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS (OTHER THAN SECTION 5-1401 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK), AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF
+THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS . The Transferor, the Servicer and the Intermediary agree that, to the extent any agreement covering the Accounts is not currently governed by the law of the State of New
+York, such agreement is hereby amended so that the law of the State of New York governs the Accounts, including, without limitation, all issues specified in Article 2(1) of the Hague Convention on the Law Applicable to Certain Rights in Respect of
+Securities held with an Intermediary (the “Hague Securities Convention”). The Transferor, the Servicer and the Intermediary agree that no such governing law provision may be amended or modified without the written consent of the Secured
+Party. To the extent that the Accounts, or any agreements between the Intermediary, the Servicer and the Transferor with respect to the Accounts, are at any time governed by laws other than the laws of the State of New York, the parties hereto do
+not consent to the new governing law for the purposes of Article 7 of the Hague Securities Convention.
+
+Section 5.4 Submission to Jurisdiction; Waiver of Jury Trial . Each of the parties hereto hereby, irrevocably
+and unconditionally:
+
+(a) submits for itself and its property in any legal action or proceeding relating to this Agreement
+or any documents executed and delivered in connection herewith, or for recognition and enforcement of any judgment in respect thereof, to the nonexclusive general jurisdiction of the courts of the State of New York, the courts of the United States
+of America for the Southern District of New York and appellate courts from any thereof;
+
+ |  | -4- |  | DCMT
+ Securities Account Control Agreement
+
+(b) consents that any such action or proceeding may be brought and
+maintained in such courts and waives any objection that it may now or hereafter have to the venue of such action or proceeding in any such court or that such action or proceeding was brought in an inconvenient court and agrees not to plead or claim
+the same;
+
+(c) agrees that service of process in any such action or proceeding may be effected by mailing a copy thereof by
+registered or certified mail (or any substantially similar form of mail), postage prepaid, to such Person at its address as set forth in Section 5.7 ;
+
+(d) agrees that nothing herein shall affect the right to effect service of process in any other manner permitted by law or
+shall limit the right to sue in any other jurisdiction; and
+
+(e) to the extent permitted by applicable law, waives all
+right of trial by jury in any action, proceeding or counterclaim based on, or arising out of, under or in connection with this Agreement, any Transaction Document, or any matter arising hereunder or thereunder .
+
+Section 5.5 Binding Agreement; Successors and Assigns . All covenants and agreements in this Agreement by the
+Transferor shall bind its successors and assigns, whether so expressed or not. All agreements of the Secured Party, the Servicer or the Intermediary in this Agreement shall bind their respective successors, co-trustees and agents.
+
+Section 5.6 Severability . Any provision
+of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such
+prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+Section 5.7 Notices to Secured Party, Servicer, Transferor and Intermediary . All demands, notices,
+communications and instructions upon or to the Transferor, the Servicer, the Secured Party or the Intermediary under this Agreement shall be in writing, personally delivered, mailed by certified mail, return receipt requested, or delivered
+electronically by email (if an email address is provided), and shall be deemed to have been duly given upon receipt (a) in the case of the Transferor, to Discover Card Execution Note Trust, 800 Prides Crossing, Suite 100, Newark, DE 19713,
+Attention: Discover Securitization (phone no. (302)-323-7315) (email discoversecuritization@discover.com); (b) in the case of the Servicer, to Discover Bank, 800 Prides
+Crossing, Suite 100, Newark, DE 19713 (phone no. (302)-323-7315) (email: discoversecuritization@discover.com), Attention: Discover Securitization; (c) in the case
+of the Secured Party, to U.S. Bank Trust Company, National Association, 190 S. LaSalle St., Chicago, Illinois 60603 (phone no. (800) 934-6802), Attention: Structured Finance/DCENT; and (c) in the case of
+the Intermediary, to U.S. Bank National Association, 190 S. LaSalle St., Chicago, Illinois 60603 (phone no. (800) 934-6802), Attention: Structured Finance/DCENT; or, as to each of the foregoing, at such other
+address as shall be designated by written notice to the other parties.
+
+ |  | -5- |  | DCMT
+ Securities Account Control Agreement
+
+Section 5.8 Headings . The headings of the various Articles
+and Sections herein are for convenience of reference only and shall not define or limit any of the terms or provisions hereof.
+
+Section 5.9 Counterparts and Electronic Signature . This Agreement may be executed by the parties hereto in
+separate counterparts, each of which when so executed and delivered shall be an original, but all such counterparts shall together constitute but one and the same instrument. Each party agrees that this Agreement and any other documents to be
+delivered in connection herewith may be digitally or electronically signed, and that any digital or electronic signatures (including pdf or electronically imaged signatures provided by a digital signature provider as specified in writing to the
+Secured Party) appearing on this Agreement or such other documents shall have the same effect as manual signatures for the purpose of validity, enforceability and admissibility. Other than with respect to instances in which manual signatures are
+expressly required by this paragraph, each party hereto shall be entitled to conclusively rely upon, and shall have no liability with respect to, any digital or electronic signature appearing on this Agreement or any other documents to be delivered
+in connection herewith and shall have no duty to investigate, confirm or otherwise verify the validity or authenticity thereof.
+
+Section 5.10 Concerning the Secured Party . To the extent that the rights, protections and immunities of the
+Secured Party are not explicitly stated herein, the Secured Party shall enjoy the same rights, protections and immunities afforded to it in the PSA.
+
+Section 5.11 Indemnification . The indemnification furnished to the Secured Party under Sections 7.04 and
+11.06 of the PSA shall extend to and cover the exercise of its respective rights and the performance of its respective obligations under this Agreement. To the extent U.S. Bank National Association is acting as Intermediary, such indemnification
+furnished to the Secured Party under Sections 7.04 and 11.06 of the PSA, shall also extend to and cover the exercise of the Intermediary’s rights and the performance of its obligations under this Agreement. This Section 5.11 shall survive the resignation or removal of the parties and the termination of this Agreement.
+
+Section 5.12 No Proceedings . Each of the Intermediary and the Secured Party hereby agree that, until the date
+one (1) year plus one (1) day following the date on which all amounts due with respect to the Certificates have been paid in full in cash, it will not directly, or indirectly, institute or cause to be instituted against the Transferor any
+proceedings of the type referred to in the definition of “Insolvency Event”; provided, that the foregoing shall not in any way limit the Intermediary’s or the Secured Party’s right to pursue any claims against the Transferor in
+any proceeding voluntarily commenced by the Transferor or in any proceeding commenced by a Person other than the Secured Party or other creditor rights or remedies that the Intermediary or the Secured Party may have for claims against the Transferor
+under Applicable Law.
+
+Section 5.13 Limited Recourse . Notwithstanding any other provision of this
+Agreement, the Certificates or the PSA, the obligations of the Transferor hereunder and thereunder are limited-recourse obligations of the Transferor. Such obligations are non-recourse to the Transferor, its
+assets and its property other than the Collateral, and are payable solely from the Collateral, subject to any prior security interests therein, and following realization of the Collateral, any claims of any
+
+ |  | -6- |  | DCMT
+ Securities Account Control Agreement
+
+party hereto under this Agreement, the Certificates or the PSA (other than the Transferor) shall be extinguished and shall not thereafter be reinstated. No recourse shall be had against any
+principal, director, officer, employee, beneficiary, shareholder, partner, member, trustee, agent or affiliate of the Transferor or any person owning, directly or indirectly, any legal or beneficial interest in the Transferor, or any successors or
+assigns of any of the foregoing (the “ Exculpated Parties ”) for the payment of any amounts payable hereunder or thereunder. No party hereto (other than the Transferor) shall enforce the liability and obligation of
+the Transferor to perform and observe the obligations contained in this Agreement, the Certificate and the Transaction Documents to which the Transferor is a party by any action or proceeding wherein a money judgment establishing any personal
+liability shall be sought against the Transferor, subject to the following sentence, or the Exculpated Parties. It is understood that the foregoing provisions of this Section 5.13 shall not (i) prevent
+recourse to the Collateral for the sums due or to become due under any security, instrument or agreement which is part of the Collateral, (ii) constitute a waiver, release or discharge of any indebtedness or obligation of the Transferor under
+the Certificates, or secured by the PSA, as applicable, until the Collateral has been realized, whereupon any such outstanding indebtedness or obligation shall be extinguished, (iii) limit the right of any Person to name the
+Transferor as a party defendant in any action or suit or in the exercise of any other remedy under this Agreement and the Transaction Documents, so long as no judgment in the nature of a deficiency judgment or seeking personal liability shall be
+asked for or (if obtained) enforced against the Transferor, (iv) impair the right of any party hereto (other than the Transferor) to obtain the appointment of a receiver or (v) constitute a waiver of any right which any party hereto
+(other than the Transferor) may have under any applicable insolvency laws to file a claim for the full amount of the indebtedness or obligations secured by the PSA, as applicable, or to require that the Collateral shall continue
+to secure all of the indebtedness or obligations owing to the Noteholders in accordance with the Certificates and the Transaction Documents to which the Transferor is a party.
+
+Section 5.14 Limitations on Liability of Intermediary .
+
+(a) This Agreement shall not subject the Intermediary to any duty, obligation or liability except as is expressly set forth
+herein. In particular (without implied limitation), the Intermediary need not investigate whether the Secured Party is entitled under the Transaction Documents, or otherwise, to give any entitlement order or any other directions, instructions or
+other orders in any instance.
+
+(b) The Intermediary shall be protected in acting or refraining from acting upon any written
+notice, certificate, instruction, request or other paper or document, as to the due execution thereof and the validity and effectiveness of the provisions thereof and as to the truth of any information therein contained, which the Intermediary in
+good faith believes to be genuine.
+
+(c) The Intermediary may consult with and obtain advice from counsel, accountants or
+other experts of its own choice in the event of any dispute or question as to the construction of any provision hereof or otherwise in connection with its duties hereunder, and any action taken or omitted by the Intermediary in reasonable reliance
+upon such advice shall be full justification and protection to it. The Intermediary shall not be liable for any error of judgment or for any act done or step taken or omitted except in the case of its willful misconduct, bad faith or negligence.
+
+ |  | -7- |  | DCMT
+ Securities Account Control Agreement
+
+(d) The Intermediary shall have no duties hereunder except those which are
+expressly set forth herein and in any modification or amendment hereof. For the avoidance of doubt, nothing herein shall impose or imply on the part of the Intermediary any duties of a fiduciary nature.
+
+(e) The Intermediary may engage or be interested in any financial or other transactions with any party hereto and may act on,
+or as depositary, trustee or agent for, any committee or body of holders of obligations of such Persons as freely as if it were not the Intermediary hereunder.
+
+(f) The Intermediary shall not be obligated to take any action which in its reasonable judgment would cause it to incur any
+expense or liability not otherwise contemplated hereunder unless it has been furnished with an indemnity with respect thereto which is reasonably satisfactory to the Intermediary.
+
+(g) The Intermediary may rely upon the contents of any notice, consent, instruction or other communication or document from the
+Master Trust Trustee, for the benefit of the Secured Parties, the Transferor or the Servicer that the Intermediary believes in good faith to be genuine and from the proper Person, without any further duty of inquiry or independent investigation on
+its part.
+
+(h) The Intermediary shall not be deemed to have notice or knowledge of any Event of Default, Early Amortization
+Event or any other default under any Transaction Document unless an Authorized Officer of the Intermediary has actual knowledge or Intermediary shall have received written notice thereof. In the absence of such actual knowledge or receipt of such
+notice, the Intermediary may conclusively assume that none of such events have occurred and the Intermediary shall not have any obligation or duty to determine whether any Event of Default, Early Amortization Event or any other default under
+any Transaction Document has occurred or is continuing.
+
+(i) No provision of this Agreement or any Transaction Document
+shall be construed to require the Intermediary to perform, supervise, monitor or accept any responsibility for the performance of, the obligations of the Transferor or the Servicer hereunder or under any other Transaction Document or any Person
+other than itself under any Transaction Document.
+
+(j) The Intermediary shall not be liable for any delays in performance
+for causes beyond its reasonable control, including acts of declared or undeclared war (including acts of terrorism), public disorder, rebellion, sabotage, fire, flood, epidemic, pandemic, landslide, lightning, fire, hurricane, earthquake, flood,
+strike, restriction by civil or military authority in their sovereign or contractual capacities, transportation failure, loss or malfunctions of communications or computer (software and hardware) services, power line or other utility failures or
+interruptions, or inability to obtain labor.
+
+(k) In no event shall the Intermediary be liable for any special, indirect,
+punitive or consequential damages (including lost profits).
+
+ |  | -8- |  | DCMT
+ Securities Account Control Agreement
+
+Section 5.15 Limitation of Liability of Owner Trustee .
+Notwithstanding anything contained herein to the contrary, this Agreement has been executed by Wilmington Trust, National Association, not in its individual capacity, but solely in its capacity as Owner Trustee of the Transferor. In no event shall
+Wilmington Trust, National Association have any liability for the representations, warranties, covenants, agreements or other obligations of the Transferor hereunder or in any of the certificates, notices or agreements delivered by the Seller or the
+Servicer, or prepared by the Seller or the Servicer for delivery by the Owner Trustee on behalf of the Transferor, pursuant hereto, as to all of which recourse shall be had solely to the assets of the Transferor. For all purposes of this Agreement,
+in the performance of its duties or obligations hereunder or in the performance of any duties or obligations of the Transferor hereunder, the Owner Trustee shall be subject to, and entitled to the benefits of, the terms and provisions of Articles
+VI, VII and VIII of the Trust Agreement.
+
+Section 5.16 Effect of Account Control Agreement on the Transaction
+Documents . In the event of any conflict between the provisions of this Agreement and the provisions of the PSA and any amendment or supplement thereof, as applicable, the provisions of this Agreement shall prevail.
+
+[R EMAINDER OF P AGE I NTENTIONALLY L EFT B LANK ]
+
+ |  | -9- |  | DCMT
+ Securities Account Control Agreement
+
+IN WITNESS WHEREOF , the parties hereto have caused this Agreement to be duly executed
+by their respective officers thereunto duly authorized, all as of the day and year first above written.
+
+[TABLE]
+D ISCOVER F UNDING LLC,
+ as Transferor
+By: |  | /s/ Patricia S. Hall
+Name: |  | Patricia S. Hall
+Title: |  | Vice President, Chief Financial Officer and Treasurer
+D ISCOVER B ANK ,
+as Master Servicer and Servicer
+By: |  | /s/ Patricia S. Hall
+Name: |  | Patricia S. Hall
+Title: |  | Vice President, Chief Financial Officer and Treasurer
+U.S. B ANK T RUST C OMPANY , N ATIONAL A SSOCIATION ,
+not in its individual capacity but solely as Master Trust Trustee, as Secured Party
+By: |  | /s/ Christopher J. Nuxoll
+Name: |  | Christopher J. Nuxoll
+Title: |  | Vice President
+U. S . B ANK N ATIONAL A SSOCIATION ,
+ as Intermediary
+By: |  | /s/ Christopher J. Nuxoll
+Name: |  | Christopher J. Nuxoll
+Title: |  | Vice President
+[/TABLE]
+
+ |  |  |  | DCMT
+ Securities Account Control Agreement
+
+SCHEDULE 1
+
+LIST OF ACCOUNTS
+
+[TABLE]
+Account Name |  | Account Number |
+DCMT-I 2007-CC
+Main Account |  |  | 117416000 |
+DCMT-I 2007-CC
+Collection Account |  |  | 117416001 |
+DCMT-I 2007-CC
+Distribution Account |  |  | 117416002 |
+DISCOVER CARD MASTER TRUST I FOR ALL ISSUES IN SERIES UNDER THIS MASTER TRUST |  |  | 77066740 |
+DISCOVER CARD MASTER TRUST I COLLATERAL ACCOUNT |  |  | 77066745 |
+DISCOVER CARD MASTER TRUST I GROUP ONE
+ COLLECTION ACCOUNT |  |  | 77066742 |
+DISCOVER CARD MASTER TRUST I GROUP ONE FINANCE CHARGE COLLECTIONS REALLOCATION
+ ACCOUNT |  |  | 77066743 |
+DISCOVER CARD MASTER TRUST I GROUP ONE PRIN
+ COLLECTION REALLOCATION ACCOUNT |  |  | 77066744 |
+DISCOVER CARD MASTER TRUST I MASTER
+ COLLECTION ACCOUNT |  |  | 77066741 |
+DISCOVER COLLECTION SUBACCOUNT JPM PRIME FUND |  |  | 77066746 |
+DISCOVER COLLECTION SUBACCOUNT FEDERATED PRIME OBLIGATIONS |  |  | 77066747 |
+DISCOVER COLLECTION SUBACCOUNT FEDERATED GOVERNMENT FUND #5 |  |  | 77066748 |
+DISCOVER COLLECTION SUBACCOUNT FAM GOVERNMENT CLASS X FUND |  |  | 77066749 |
+DISCOVER COLLECTION SUBACCOUNT GOLDMAN GOVERNMENT FUND |  |  | 77066750 |
+DISCOVER COLLECTION SUBACCOUNT JPM GOVT MMKT CAPITAL |  |  | 77066751 |
+DISCVOER COLLECTION SUBACCOUNT BLACKROCK GOVERNMENT OBLIGATIONS |  |  | 77066752 |
+DISCOVER COLLECTION SUBACCOUNT DREYFUS FUND #289 |  |  | 77066753 |
+DISCOVER COLLECTION SUBACCOUNT JPM US GOVERNMENT FUND |  |  | 77066754 |
+[/TABLE]
+
+ |  |  |  | DCMT
+ Securities Account Control Agreement
+
+
+=== EXHIBIT d566327dex992.htm ===
+
+EX-99.2 3 d566327dex992.htm EX-99.2 EX-99.2
+
+Exhibit 99.2
+
+AMENDMENT NO. 1 TO
+
+COLLATERAL ACCOUNT CONTROL AGREEMENT
+
+This AMENDMENT NO. 1 TO COLLATERAL ACCOUNT CONTROL AGREEMENT (this “ Amendment ”), dated as of July 1, 2022, is entered
+into by and among Discover Card Execution Trust, a statutory trust created under the laws of the State of Delaware, as grantor (the “ Grantor ”), U.S. Bank Trust Company, National Association, a national banking association, as
+successor to U.S. Bank National Association, as indenture trustee (the “ New Secured Party ”), and U.S. Bank National Association, a national banking association, as securities intermediary (the “ Securities
+Intermediary ”). The Grantor, the Secured Party, and the Securities Intermediary are hereinafter each sometimes referred to individually as a “ Party ” and collectively as the “ Parties .”
+
+BACKGROUND
+
+A. The
+Collateral Account Control Agreement, dated as of July 26, 2007 (the “ Original Agreement ”), among the Grantor, U.S. Bank National Association, as indenture trustee (the “ Original Secured Party ”) and the
+Securities Intermediary was entered into in connection with that certain Amended and Restated Indenture, dated as of December 22, 2015 (as further amended by Amendment No. 1 to Master Indenture and Amendment No. 1 to Second Amended
+and Restated Indenture Supplement, dated as of August 27, 2019), as supplemented by the Second Amended and Restated Indenture Supplement, dated as of December 22, 2015, (as further amended by Amendment No. 1 to Master Indenture and
+Amendment No. 1 to Second Amended and Restated Indenture Supplement, dated as of August 27, 2019), in each case between the Grantor and the Original Secured Party (together, the “ Indenture ”).
+
+B. The New Secured Party has succeeded the Original Secured Party as indenture trustee under the Indenture in accordance with Section 812
+thereof.
+
+C. The Parties desire to amend the Original Agreement to reflect the succession by the New Secured Party.
+
+NOW, THEREFORE, in consideration of the foregoing and the agreements contained herein, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound, hereby agree as follows:
+
+1. Amendment to Original Agreement . (a) The Original Agreement is hereby amended so that any reference to the Original Secured Party shall be deemed to be a reference to the New Secured Party, as successor indenture trustee under the
+Indenture.
+
+(b) The list of Pledged Accounts in Schedule 1 of the Original Agreement is hereby amended by deleting Schedule 1 in the
+Original Agreement in its entirety and replacing it with Schedule 1 attached hereto.
+
+2. No Other Amendments . Except as amended
+hereby, the Original Agreement remains unmodified and in full force and effect.
+
+3. Miscellaneous .
+
+(b) Assignment . This Amendment shall be binding upon, and shall inure to the benefit of, the parties hereto and their respective
+corporate successors and assigns, except that neither the Grantor nor the Securities Intermediary may delegate their obligations hereunder without the prior written consent of the Secured Party. The Secured Party agrees to send written notice to the
+Securities Intermediary and Standard & Poor’s of any such delegation.
+
+(c) Amendments . No amendment or modification of this Amendment or waiver of any right
+hereunder shall be binding on any party hereto unless it is in writing and is signed by each of the Grantor, the New Secured Party and the Securities Intermediary.
+
+(d) Governing Law . This Amendment shall be governed by the laws of the State of New York. Regardless of any provision in any other
+agreement, for purposes of the UCC, with respect to each Pledged Account, New York shall be deemed to be the securities intermediary’s “jurisdiction” (within the meaning of Sections 8-110 and 9-304 of the UCC). The Pledged Accounts shall be governed by the laws of the State of New York.
+
+(e) Counterparts . This Amendment may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Amendment by signing and delivering one or more counterparts. Each
+party agrees that this Amendment and any other documents to be delivered in connection herewith may be digitally or electronically signed, and that any digital or electronic signatures (including pdf or electronically imaged signatures provided by a
+digital signature provider as specified in writing to the Secured Party) appearing on this Amendment or such other documents shall have the same effect as manual signatures for the purpose of validity, enforceability and admissibility. Other than
+with respect to instances in which manual signatures are expressly required by this paragraph, each party hereto shall be entitled to conclusively rely upon, and shall have no liability with respect to, any digital or electronic signature appearing
+on this Amendment or any other documents to be delivered in connection herewith and shall have no duty to investigate, confirm or otherwise verify the validity or authenticity thereof.
+
+(f) Entire Agreement . This Amendment, together with the Original Agreement, constitutes the entire agreement among the Parties, and
+there are no understandings or agreements, conditions or qualifications relative to this Amendment which are not fully expressed in this Amendment.
+
+(g) Rights of Indenture Trustee . In acting hereunder, the New Secured Party, as indenture trustee under the Indenture, shall be
+entitled to same rights, privileges and protections of the Indenture Trustee thereunder.
+
+[Signature Page Follows]
+
+2
+
+IN WITNESS WHEREOF, the Parties have caused this Amendment to be executed and
+delivered by their respective officers or other representatives thereunto duly authorized as of the date first above written.
+
+[TABLE]
+DISCOVER CARD EXECUTION TRUST, as
+Grantor
+By: |  | Discover Funding LLC, in its capacity as
+Beneficiary of the Grantor
+By: |  | /s/ Patricia S. Hall
+Name: |  | Patricia S. Hall
+Title: |  | Vice President, Chief Financial Officer and Treasurer
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION,
+ as New Secured Party
+By: |  | /s/ Christopher J. Nuxoll
+Name: |  | Christopher J. Nuxoll
+Title: |  | Vice President
+U.S. BANK NATIONAL ASSOCIATION, as
+Original Secured Party and as Securities Intermediary
+By: |  | /s/ Christopher J. Nuxoll
+Name: |  | Christopher J. Nuxoll
+Title: |  | Vice President
+[/TABLE]
+
+[Signature Page to
+Amendment No. 1 to Collateral Account Control Agreement]
+
+SCHEDULE 1
+
+Pledged Accounts
+
+[TABLE]
+RELATED ISSUANCES UNDER THE INDENTURE |  | ACCOUNT NUMBERS
+DISCOVER CARD EXECUTION NOTE TRUST COLLECTIONS ACCOUNT |  | 117493000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES COLLECTIONS ACCOUNT |  | 117427000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES INTEREST FUNDING ACCOUNT |  | 117428000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES PRINCIPAL FUNDING ACCOUNT |  | 117429000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES ACCUMULATION RESERVE ACCOUNT |  | 117430000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES CLASS C RESERVE ACCOUNT |  | 117431000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVERSERIES CLASS D RESERVE ACCOUNT |  | 117432000
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2022-2 |  | 117428134, 117429134 and 117430108
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2022-1 |  | 117428133, 117429133 and 117430107
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2021-2 |  | 117428132, 117429132 and 117430106
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2021-1 |  | 117428131, 117429131 and 117430105
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2019-3 |  | 117428120, 117429120 and 117430100
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2019-A |  | 117428117 and 117429117
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2018-6 |  | 117428115, 117429115 and 117430096
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2018-2 |  | 117428108, 117429108 and 117430089
+[/TABLE]
+
+[TABLE]
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2018-1 |  | 117428107, 117429107 and 117430088
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2017-7 |  | 117428104, 117429104 and 117430085
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2017-5 |  | 117428102, 117429102 and 117430083
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2017-4 |  | 117428099, 117429099 and 117430080
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2015-A |  | 117428085 and 117429085
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2011-A |  | 117428038 and 117429038
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2010-D |  | 117428036 and 117429036
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS A 2008-C |  | 117428018, 117429018 and 117430018
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS B 2020-4 |  | 117428127 and 117429127
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS B 2020-3 |  | 117428126 and 117429126
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS B 2020-2 |  | 117428125 and 117429125
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS C 2020-5 |  | 117428130 and 117429130
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS C 2020-4 |  | 117428129 and 117429129
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS C 2020-3 |  | 117428128 and 117429128
+DISCOVER CARD EXECUTION NOTE TRUST DISCOVER SERIES CLASS D 2009-1 |  | 117429022
+[/TABLE]
+
+
+=== EXHIBIT d566327dex993.htm ===
+
+EX-99.3 4 d566327dex993.htm EX-99.3 EX-99.3
+
+Exhibit 99.3
+
+Series 2007-CC Investor Certificate
+
+SERIES 2007-CC COLLATERAL CERTIFICATE
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER THIS SERIES 2007-CC COLLATERAL
+CERTIFICATE NOR ANY INTEREST HEREIN MAY BE TRANSFERRED, ASSIGNED, EXCHANGED OR OTHERWISE PLEDGED OR CONVEYED, EXCEPT IN ACCORDANCE WITH THE POOLING AND SERVICING AGREEMENT REFERRED TO HEREIN AND THE AMENDED AND RESTATED INDENTURE, DATED AS OF
+DECEMBER 22, 2015, BY AND BETWEEN U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS INDENTURE TRUSTEE, AND DISCOVER CARD EXECUTION NOTE TRUST, AS ISSUER THEREUNDER.
+
+NO. 4
+
+DISCOVER CARD MASTER TRUST I,
+SERIES 2007-CC
+
+CREDIT CARD PASS-THROUGH COLLATERAL CERTIFICATE
+
+DISCOVER BANK
+
+MASTER
+SERVICER, SERVICER AND SELLER
+
+(NOT AN INTEREST IN OR OBLIGATION OF DISCOVER BANK AND NOT INSURED OR GUARANTEED BY THE FEDERAL DEPOSIT INSURANCE
+CORPORATION OR ANY OTHER GOVERNMENTAL AGENCY.)
+
+This certifies that U.S. Bank Trust Company, National Association, as Indenture
+Trustee (the “Investor Certificateholder”) is the registered owner of a Fractional Undivided Interest in the Discover Card Master Trust I (the “Trust”), the corpus of which consists of a portfolio of receivables (the
+“Receivables”) existing as of the Cut-Off Date (or, with respect to Receivables in Additional Accounts, as of the applicable Additional Account Cut-Off Date)
+or thereafter created under certain open end credit card accounts for specified Persons (the “Accounts”) originated by Discover Bank, a Delaware banking corporation (“Discover Bank”), or an affiliate of Discover Bank, and
+transferred to the Trust by Discover Bank or one or more Additional Sellers, all monies due or to become due with respect thereto, all proceeds (as defined in Section 9-102(a)(64) of the Uniform
+Commercial Code as in effect in the Applicable State or any successor provision thereto) of such Receivables and interchange pursuant to the Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015 (as amended
+from time to time, the “Pooling and Servicing Agreement”) among Discover Bank as Master Servicer and Servicer, Discover Funding LLC as Transferor (“Discover Funding”) and U.S. Bank Trust Company, National Association as successor
+to U.S. Bank National Association, as master trust trustee (the “Trustee”), a summary of certain of the pertinent provisions of which is set forth herein below, and benefits under any Credit Enhancement with respect to any Series of
+investor certificates issued from time to time pursuant to the Pooling and Servicing Agreement, to the extent applicable. Reference is hereby made to the further provisions of this Series 2007-CC Collateral
+Certificate set forth on the reverse hereof, and such further provisions shall for all purposes have the same effect as if set forth at this place.
+
+This Series 2007-CC Collateral Certificate shall not
+be entitled to any benefit under the Pooling and Servicing Agreement or any amendment thereto, or the Amended and Restated Series 2007-CC Supplement, dated as of December 22, 2015 (the “Series
+Supplement”), among Discover Bank, Discover Funding and the Trustee or any amendment thereto, or become vested or obligatory for any purpose until the certificate of authentication hereon shall have been signed by or on behalf of the Trustee
+under the Pooling and Servicing Agreement.
+
+IN WITNESS WHEREOF, Discover Bank has caused this Series 2007-CC Collateral Certificate to be duly executed and authenticated.
+
+[TABLE]
+DISCOVER BANK
+By: |  | /s/ Patricia S. Hall
+ |  | Name: Patricia S. Hall
+ |  | Title: Vice President, Chief Financial Officer and
+ Treasurer
+[/TABLE]
+
+TRUSTEE’S CERTIFICATE OF AUTHENTICATION
+
+This is the Series 2007-CC Collateral Certificate referred to in the within-mentioned Pooling and
+Servicing Agreement and Series Supplement.
+
+[TABLE]
+U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, as Trustee
+By: |  | /s/ Christopher J. Nuxoll
+ |  | Name: Christopher J. Nuxoll
+ |  | Title: Vice President
+[/TABLE]
+
+REVERSE OF SERIES 2007-CC CERTIFICATE
+
+To the extent not defined herein, the capitalized terms used herein have the meanings assigned in the Pooling and Servicing Agreement or the
+Series Supplement. This Series 2007-CC Collateral Certificate is issued under and is subject to the terms, provisions and conditions of the Pooling and Servicing Agreement and the Series Supplement, to
+which Pooling and Servicing Agreement and Series Supplement, as each may be amended from time to time, the Investor Certificateholder by virtue of the acceptance hereof assents and by which the Investor Certificateholder is bound.
+
+This Series 2007-CC Collateral Certificate represents a Fractional Undivided Interest in the Trust
+including the right to receive the Collections and other amounts at the times and in the amounts specified in the Pooling and Servicing Agreement and the Series Supplement to be deposited in the Investor Accounts with respect to Discover Card Master
+Trust I, Series 2007-CC or paid to the Investor Certificateholder.
+
+The aggregate interest
+represented by the Series 2007-CC Collateral Certificate at any time in the assets of the Trust shall equal the Series Investor Interest at such time. The Series Investor Interest of the Series 2007-CC Collateral Certificate was initially $400,000,000 and will increase or decrease pursuant to the terms of the Series Supplement and certain documents referenced therein. The amount of the Series Investor
+Interest, including all increases and decreases thereto, shall be maintained on the records of the Trustee; provided, however , that the failure of the Trustee to make any such recordation, or any error thereon, shall not affect the
+obligations of Discover Bank hereunder or under the Series Supplement. In addition to the Series 2007-CC Collateral Certificate, a Seller Certificate has been issued pursuant to the Pooling and Servicing
+Agreement which represents, at any time, the undivided interest in the Trust not represented by the Series 2007-CC Collateral Certificate or the investor certificates of any other Series of investor
+certificates then outstanding, if any. Subject to the terms and conditions of the Pooling and Servicing Agreement, the Sellers may from time to time direct the Trustee, on behalf of the Trust, to issue one or more new Series of investor
+certificates, which will represent Fractional Undivided Interests in the Trust.
+
+Series Principal Collections, Series Finance Charge
+Collections, Series Interchange and other amounts allocable to the Series 2007-CC Collateral Certificate will be distributed to, or for the account of, the Investor Certificateholder of the Series 2007-CC Collateral Certificate on each Distribution Date through and including the Series Termination Date in the manner and to the extent set forth in the Series Supplement.
+
+This Series 2007-CC Collateral Certificate does not represent an obligation of, or an interest in, the
+Master Servicer. This Series 2007-CC Collateral Certificate is limited in right of payment to certain Collections respecting the Receivables and certain other assets of the Trust, all as more specifically set
+forth hereinabove and in the Pooling and Servicing Agreement and the Series Supplement.
+
+The Pooling and Servicing Agreement permits, with
+certain exceptions, the amendment and modification of the rights and obligations of the Master Servicer, and the rights of Investor Certificateholders under the Pooling and Servicing Agreement and Series Supplement, at any
+
+time by the Master Servicer, the Sellers and the Trustee in certain cases (some of which require confirmation from the Rating Agencies that such amendment will not result in the downgrading or
+withdrawal of their respective ratings assigned to the Investor Certificates) without the consent of the Investor Certificateholders, and in all other cases with the consent of the Investor Certificateholders owning Fractional Undivided Interests
+aggregating not less than 66-2/3% of the Class Invested Amount of each such affected Class (and with confirmation from the Rating Agencies that such amendment will not result in the downgrading or
+withdrawal of their respective ratings assigned to the Investor Certificates); provided , however , that no such amendment shall (a) have . a material adverse effect on any
+Class of Investor Certificateholders by reducing in any manner the amount of, or delaying the timing of, distributions which are required to be made on any Investor Certificate without the consent of the affected Investor Certificateholders or
+(b) reduce the aforesaid percentage required to consent to any such amendment, without the consent of each Investor Certificateholder of each affected Class then of record; provided , further , that the permitted activities of
+the Trust may be significantly changed only with the consent of the Holders of Investor Certificates evidencing Fractional Undivided Interests aggregating not less than 51% of the Aggregate Invested Amount. Any such amendment and any such consent by
+the Investor Certificateholder for the Series 2007-CC Collateral Certificate, including the deemed consent described in the following sentence, shall be conclusive and binding on such Investor
+Certificateholder and upon all future Holders of this Series 2007-CC Collateral Certificate and of any Series 2007-CC Collateral Certificate issued in exchange therefor
+or in lieu hereof whether or not notation thereof is made upon this Series 2007-CC Collateral Certificate. Subject to compliance with the terms of Section 17 of the Series Supplement, the Investor
+Certificateholder of the Series 2007-CC Collateral Certificate, by acceptance of this Series 2007-CC Collateral Certificate, will be deemed to have consented for all
+purposes to any amendment that any Seller determines is necessary or desirable for such Seller to maintain or establish sale accounting treatment under then-applicable financial accounting standards.
+
+The transfer of this Series 2007-CC Collateral Certificate shall be registered in the Certificate
+Register upon surrender of this Series 2007-CC Collateral Certificate for registration of transfer at any office or agency maintained by the Transfer Agent and Registrar accompanied by a written instrument of
+transfer in a form satisfactory to the Trustee and the Transfer Agent and Registrar duly executed by the investor Certificateholder for the Series 2007-CC Collateral Certificate or such Investor
+Certificateholder’s attorney duly authorized in writing, and thereupon one or more new Series 2007-CC Collateral Certificates of authorized denominations and for the same aggregate Fractional Undivided
+interest will be issued to the designated transferee or transferees.
+
+As provided in the Pooling and Servicing Agreement and subject to
+certain limitations therein set forth, the Series 2007-CC Collateral Certificate is exchangeable for a new Series 2007-CC Collateral Certificate evidencing a like
+aggregate Fractional Undivided Interests, as requested by the Investor Certificateholder for the Series 2007-CC Collateral Certificate. No service charge may be imposed for any such exchange but the Master
+Servicer or Transfer Agent and Registrar may require payment of a sum sufficient to cover any tax or other governmental charge that may be imposed in connection therewith.
+
+The Master Servicer, the Trustee, the Paying Agent and the Transfer Agent, and any agent of
+any of them, may treat the person in whose name this Series 2007-CC Collateral Certificate is registered as the owner hereof for all purposes, and neither the Master Servicer, the Trust nor the Trustee, the
+Paying Agent, the Transfer Agent, nor any agent of any of them or any such agent shall be affected by notice to the contrary except in certain circumstances described in the Pooling and Servicing Agreement.
+
+Subject to certain conditions in the Pooling and Servicing Agreement and the Series Supplement, if the principal of the Series 2007-CC Collateral Certificate has not been paid in full prior to the Series Termination Date, the obligations created by the Pooling and Servicing Agreement and the Series Supplement with respect to the Series 2007-CC Collateral Certificate shall terminate on the Series Termination Date.

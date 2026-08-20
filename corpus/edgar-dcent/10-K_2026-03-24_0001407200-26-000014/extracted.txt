@@ -1,0 +1,364 @@
+10-K 1 dcent10-k2025.htm 10-K Document created using Wdesk Copyright 2026 Workiva Document
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 10-K
+
+____________________________________
+
+[TABLE]
+ý ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+or
+¨ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+[/TABLE]
+
+[TABLE]
+Commission File Number of Issuing Entity: 333-141703-02
+Central Index Key Number of Issuing Entity: 0001407200
+[/TABLE]
+____________________________________
+[TABLE]
+DISCOVER CARD EXECUTION NOTE TRUST
+(Exact Name of Issuing Entity as Specified in Its Charter)
+(Issuer of the Notes)
+[/TABLE]
+____________________________________
+
+Commission File Number of Depositor: 333-205455
+
+Central Index Key Number of Depositor: 0001645731
+
+____________________________________
+
+DISCOVER FUNDING LLC
+
+(Exact Name of Depositor as Specified in Its Charter)
+
+____________________________________
+
+Central Index Key Number of Sponsor: 0000047288
+
+____________________________________
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+(as successor by merger to Discover Bank)
+
+(Exact Name of Sponsor as Specified in Its Charter)
+
+____________________________________
+[TABLE]
+Delaware
+(State or Other Jurisdiction of Incorporation or Organization of the Issuing Entity)
+c/o Discover Funding LLC 800 Prides Crossing, Suite 100 Newark, Delaware 19713
+(Address of Principal Executive Offices of Issuing Entity)
+(302) 323-7315
+(Registrant ’ s telephone number, including area code)
+Not Applicable
+(I.R.S. Employer Identification No.)
+[/TABLE]
+
+____________________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+N/A | N/A | N/A
+[/TABLE]
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+____________________________________
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ¨ No ý
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ¨ No ý
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ý No ¨
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ý No ¨ [Rule 405 of Regulation S-T is not applicable.]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company. or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+
+[TABLE]
+Large accelerated filer |  | ¨ | Accelerated filer |  | ¨
+Non-accelerated filer |  | ý | Smaller reporting company |  | ¨
+ |  |  | Emerging growth company |  | ¨
+[/TABLE]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ¨ [Not Applicable]
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ¨
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ¨
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act) Yes ¨ No ý
+
+Registrant has no voting or non-voting common equity outstanding held by non-affiliates.
+
+Documents Incorporated by Reference. See Item 15(b).
+
+________________________________
+
+EXPLANATORY NOTE
+
+As previously reported, on February 19, 2024, Capital One Financial Corporation (the “Corporation”), entered into an agreement and plan of merger with Discover Financial Services (“Discover”). On May 18, 2025, the Corporation closed the acquisition of Discover, pursuant to which (a) a wholly-owned subsidiary of the Corporation merged with and into Discover, with Discover as the surviving entity (the “Merger”), (b) immediately following the Merger, Discover, as the surviving entity, merged with and into the Corporation, with the Corporation as the surviving entity in the second-step merger (the “Second Step Merger”), and (c) immediately following the Second-Step Merger, Discover Bank, a Delaware-chartered and wholly owned subsidiary of Discover, merged with and into Capital One, National Association (the "Bank”), with the Bank as the surviving entity.
+
+Upon the merger of Discover Bank with and into the Bank, the Bank assumed all rights, duties and obligations of Discover Bank in any capacity relating to Discover Card Master Trust I (the “Master Trust”) and Discover Card Execution Note Trust (the “Note Issuance Trust”), including responsibility for originating credit card accounts and servicing the credit card receivables held by the Master Trust.
+
+As previously reported, on December 18, 2025 (the “Defeasance Date”), Discover Funding LLC (“Discover Funding”), as Beneficiary on behalf of the Note Issuance Trust, defeased the outstanding DiscoverSeries Class A(2021-2) Notes, Class A(2023-1) Notes, and Class A(2023-2) Notes (collectively, the “Class A Notes”) issued by the Note Issuance Trust pursuant to Section 1310 of the Second Amended and Restated Indenture, as amended, and a Defeasance Agreement, dated as of December 18, 2025. There were no other Class A DiscoverSeries Notes outstanding as of the Defeasance Date.
+
+In connection with the defeasance, the original collateral securing the Note Issuance Trust’s obligations with respect to the defeased Class A Notes, including the Series 2007-CC collateral certificate that represented a beneficial interest in the portfolio of credit card receivables held by the Master Trust, was released from the lien of the Indenture and was replaced by defeasance collateral consisting of U.S. Treasury bonds, cash, or a combination of both. The portfolio of credit card receivables held by the Master Trust was then reassigned to Discover Funding, and by Discover Funding to the Bank, and the Master Trust was terminated in accordance with the terms of the Fourth Amended and Restated Pooling and Servicing Agreement, as amended. Upon completion of the defeasance, the defeasance collateral became the sole source for the scheduled payments of principal of, and interest on, the defeased Class A Notes.
+
+PART I
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 1. | Business.
+Item 1A. | Risk Factors.
+Item 1C. | Cybersecurity.
+Item 2. | Properties.
+Item 3. | Legal Proceedings.
+[/TABLE]
+
+Item 1B. Unresolved Staff Comments.
+
+Not applicable.
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Substitute information provided in accordance with General Instruction J to Form 10–K:
+
+Item 1112(b) of Regulation AB. Significant Obligors of Pool Assets (Financial Information).
+
+Prior to the Defeasance Date, the primary asset of the Note Issuance Trust was the Discover Card Master Trust I, Series 2007-CC collateral certificate, which represented an undivided interest in the Master Trust, whose assets included Discover Card receivables existing as of specified dates in designated accounts, which receivables were transferred to the Master Trust by Discover Bank or the Bank, as successor to Discover Bank, and Discover Funding LLC, as applicable. The investor interest in receivables for the Series 2007-CC collateral certificate reflected the aggregate nominal liquidation amount of notes issued by the Note Issuance Trust. The Master Trust, therefore, may have been considered a significant obligor in relation to the Note
+
+Issuance Trust from January 1, 2025 to the Defeasance Date. Pursuant to Instruction 3.b. to Item 1112(b) of Regulation AB, the information required by Instruction J to Form 10-K in respect of the Master Trust has been disclosed in this report on Form 10-K in lieu of the information otherwise contemplated by Item 1112(b).
+
+From January 1, 2025 to the Defeasance Date, the pool assets held by the Master Trust did not include any significant obligors.
+
+From the Defeasance Date to December 31, 2025, the primary assets of the Note Issuance Trust were and remain the defeasance collateral consisting of U.S. Treasury bonds, cash, or a combination of both. For more information concerning the defeasance, see “Explanatory Note” above.
+
+Item 1114(b)(2) of Regulation AB: Credit Enhancement and Other Support, Except for Certain Derivatives Instruments (Financial Information).
+
+Based on the standards set forth in Item 1114(b)(2) of Regulation AB, no information is required in response to this Item.
+
+Item 1115(b) of Regulation AB: Certain Derivatives Instruments (Financial Information).
+
+Based on the standards set forth in Item 1115(b) of Regulation AB, no information is required in response to this Item.
+
+Item 1117 of Regulation AB: Legal Proceedings.
+
+Litigation claims and proceedings of all types are subject to many uncertain factors that generally cannot be predicted with assurance. Below we provide a description of certain legal proceedings and claims.
+
+Capital One, National Association
+
+The Corporation and the Bank are commonly subject to various pending and threatened legal actions relating to the conduct of their normal business activities. In the opinion of management, the ultimate aggregate liability, if any, arising out of all such pending or threatened legal actions is not expected to be material to security holders.
+
+U.S. Bank Trust Company, National Association (Successor to U.S. Bank National Association)
+
+U.S. Bank National Association (“U.S. Bank”) and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential mortgage backed securities ("RMBS") trusts. The complaints, primarily filed by investors or investor groups against U.S. Bank and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers to comply with the governing agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the trustees’ purported failures to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and abide by a heightened standard of care following alleged events of default.
+
+U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors, that it has meritorious defenses, and it has contested and intends to continue contesting the plaintiffs’ claims vigorously. However, U.S. Bank cannot assure you as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts.
+
+On March 9, 2018, a law firm purporting to represent fifteen Delaware statutory trusts (the “DSTs”) that issued securities backed by student loans (the “Student Loans”) filed a lawsuit in the Delaware Court of Chancery against U.S. Bank National Association (“U.S. Bank”) in its capacities as indenture trustee and successor special servicer, and three other institutions in their respective transaction capacities, with respect to the DSTs and the Student Loans. This lawsuit is captioned The National Collegiate Student Loan Master Trust I, et al. v. U.S. Bank National Association, et al., C.A. No. 2018-0167-JRS (Del. Ch.) (the “NCMSLT Action”). The complaint, as amended on June 15, 2018, alleged that the DSTs have been harmed as a result of purported misconduct or omissions by the defendants concerning administration of the trusts and special servicing of the Student Loans. Since the filing of the NCMSLT Action, certain Student Loan borrowers have made assertions against U.S. Bank concerning special servicing that appear to be based on certain allegations made on behalf of the DSTs in the NCMSLT Action.
+
+U.S. Bank has filed a motion seeking dismissal of the operative complaint in its entirety with prejudice pursuant to Chancery Court Rules 12(b)(1) and 12(b)(6) or, in the alternative, a stay of the case while other prior filed disputes involving the DSTs and the Student Loans are litigated. On November 7, 2018, the Court ruled that the case should be stayed in its entirety pending resolution of the first-filed cases. On January 21, 2020, the Court entered an order consolidating for pretrial purposes the
+
+NCMSLT Action and three other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the Student Loans, which remains pending.
+
+U.S. Bank denies liability in the NCMSLT Action and believes it has performed its obligations as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue contesting the plaintiffs’ claims vigorously.
+
+U.S. Bank Trust Company, National Association has provided us with the information under the caption “U.S. Bank Trust Company, National Association (Successor to U.S. Bank National Association)” immediately above in response to the requirements of Regulation AB. Neither Capital One, National Association nor its affiliates is a party to such litigation. Other than the information regarding U.S. Bank Trust Company, National Association litigation immediately above and the information concerning U.S. Bank Trust Company, National Association specified in this Form 10-K under the caption “Item 1122 of Regulation AB: Compliance with Applicable Servicing Criteria” and in Exhibits 33.2 and 34.2 to this Form 10-K, U.S. Bank Trust Company, National Association has not participated in the preparation of, and is not responsible for, any other information contained in this Form 10-K.
+
+Owner Trustee Litigation
+
+As of the date of the Form 10-K, to the best of Wilmington Trust Company’s (“WTC”) knowledge, there were no legal proceedings pending against WTC or of which any property of WTC was the subject, which would be material to security holders, nor were any such material proceedings known to be contemplated by any governmental authorities.
+
+On February 3, 2026, certain investors served Wilmington Trust, National Association (“WTNA”), an affiliate of WTC, with a civil complaint, filed in the Supreme Court of the State of New York, County of New York, for an unspecified amount of damages arising from alleged breaches of contract and duties related to WTNA’s roles as custodian and indenture trustee for certain Tricolor Holdings, LLC asset-backed securitization transactions. The plaintiffs generally assert causes of action related to WTNA’s purported failure to comply with certain provisions related to waterfall payments, servicing transition costs and post-event of default duties and related to WTNA’s purported failure to perform certain actions as custodian with respect to the related receivables. WTNA intends to vigorously defend itself against this legal action. WTNA does not believe that the ultimate resolution of this proceeding will have a materially adverse effect on the corporate trust services it provides.
+
+WTC has provided us with the information under the caption “Owner Trustee Litigation” immediately above in response to the requirements of Regulation AB. Neither Capital One, National Association nor its affiliates is a party to such litigation. Other than the information regarding owner trustee litigation immediately above, WTC has not participated in the preparation of, and is not responsible for, any other information contained in this Form 10-K.
+
+PART II
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 5. | Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Item 6. | [Reserved.]
+Item 7. | Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Item 7A. | Quantitative and Qualitative Disclosures about Market Risk.
+Item 8. | Financial Statements and Supplementary Data.
+Item 9. | Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.
+Item 9A. | Controls and Procedures.
+Item 9B: | Other Information.
+None.
+Item 9C: | Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+Not applicable.
+[/TABLE]
+
+PART III
+
+The following Items have been omitted in accordance with General Instruction J to Form 10–K:
+
+[TABLE]
+Item 10. | Directors, Executive Officers and Corporate Governance.
+Item 11. | Executive Compensation.
+Item 12. | Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+Item 13. | Certain Relationships and Related Transactions, and Director Independence.
+Item 14. | Principal Accountant Fees and Services.
+[/TABLE]
+
+Substitute information provided in accordance with General Instruction J to Form 10–K:
+
+Item 1119 of Regulation AB: Affiliations and Certain Relationships and Related Transactions .
+
+The Bank (as successor by merger to Discover Bank), which acts as the sponsor of its securitizations, is a wholly-owned subsidiary of the Corporation. Discover Funding LLC, which is a wholly owned subsidiary of the Bank, acts as depositor and beneficiary for the Note Issuance Trust and, prior to the Defeasance Date, as holder of the residual transferor interest of the Master Trust. Prior to the Defeasance Date, the Bank originated the credit card receivables generated under certain designated Discover card accounts and transferred such credit card receivables to Discover Funding LLC for further transfer to the Master Trust. Discover Bank and the owner trustee formed the Note Issuance Trust on July 2, 2007. Discover Bank transferred an undivided interest in the receivables and other assets of the Master Trust, represented by the Series 2007-CC collateral certificate, to the Note Issuance Trust to support the issuance of notes on July 26, 2007.
+
+Prior to the Defeasance Date, the Bank (as successor by merger to Discover Bank) acted as master servicer for the Master Trust and was the only servicer under the Fourth Amended and Restated Pooling and Servicing Agreement with respect to the receivables. During the portion of the reporting period prior to the Defeasance Date, the Bank outsourced certain servicing functions to its affiliate, Discover Products Inc. (“DPI”). While DPI contracted with third-party service providers for certain services, the Bank is ultimately responsible for the overall servicing function.
+
+For more information concerning (i) the merger of Discover Bank with and into the Bank, the Bank’s succession to the rights, duties and obligations of Discover Bank in any capacity relating to Master Trust and the Note Issuance Trust, and (ii) the subsequent defeasance of the DiscoverSeries Class A Notes that remained outstanding as of the Defeasance Date, see “Explanatory Note” above.
+
+Item 1122 of Regulation AB: Compliance with Applicable Servicing Criteria.
+
+Each of (i) the Bank, as successor to Discover Bank, for itself, and on behalf of its affiliate DPI, and (ii) U.S. Bank Trust Company, National Association (each, a “Servicing Participant”) has been identified by the registrant as a party participating in the servicing function with respect to the pool assets held by each of the Master Trust and the Note Issuance Trust. Each Servicing Participant has completed a report on an assessment of compliance with the servicing criteria applicable to such Servicing Participant (each, a “Report on Assessment”) as of, and for the twelve-month period ended, December 31, 2025, which Reports on Assessment are included as exhibits to this Form 10-K. In addition, each Servicing Participant has provided an attestation report (each, an “Attestation Report”) by a registered independent public accounting firm regarding its related Report on Assessment. Each Attestation Report is attached as an exhibit to this Form 10-K.
+
+Vendors
+
+A Servicing Participant may engage one or more vendors to perform specific and limited, or scripted activities that address all or a portion of one or more servicing criteria applicable to such Servicing Participant. Generally in these cases, the Servicing Participant has instituted policies and procedures to monitor whether such vendors’ activities comply in all material respects with such servicing criteria, and may elect to take responsibility for assessing compliance with the servicing criteria applicable to such vendors’ activities in such Servicing Participant’s Report on Assessment. Where the Servicing Participant has not instituted such policies and procedures, or where the Servicing Participant does not otherwise elect to take responsibility for assessing its vendors’ activities, the vendor is itself treated as a Servicing Participant and is required to provide its own Report on Assessment and related Attestation Report.
+
+No Report on Assessment or related Attestation Report has identified (i) any material instance of noncompliance with the servicing criteria identified in such Report on Assessment as applicable to the related Servicing Participant or (ii) any material deficiency in such Servicing Participant’s policies and procedures to monitor vendor compliance.
+
+Platform-Level Reports
+
+Regulations of the Securities and Exchange Commission (“SEC”) require that each Servicing Participant complete a Report on Assessment at a “platform” level, meaning that the transactions covered by the Report on Assessment should include all asset-backed securities transactions involving such Servicing Participant that are backed by the same asset type. Further guidance from the SEC staff identifies additional parameters that a Servicing Participant may apply to define and further limit its platform. For example, a Servicing Participant may define its platform to include only transactions that were completed on or after January 1, 2006 and that were registered with the SEC pursuant to the Securities Act of 1933. Each Servicing Participant is responsible for defining its own platform, and each platform will naturally differ based on various factors, including the Servicing Participant’s business model, the transactions in which it is involved and the range of activities performed in those transactions.
+
+Based on our understanding of their platforms and the guidance that is available at this time, we believe that the parameters by which the Servicing Participants have defined their platforms should be permissible. However, because the guidance available at this time is subject to clarification or change, we cannot assure you that the SEC and its staff will necessarily agree.
+
+Item 1123 of Regulation AB: Servicer Compliance Statement.
+
+Each of the Bank, as successor to Discover Bank and for itself, and DPI has been identified by the registrant as a servicer meeting the criteria of Item 1108(a)(2)(i), (ii) or (iii) of Regulation AB with respect to the pool assets held by each of the Master Trust and the Note Issuance Trust. Each of these servicers has provided a statement of compliance (a “Compliance Statement”), which has been signed by an authorized officer of such related servicer. Each Compliance Statement is attached as an exhibit to this Form 10-K.
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+(a)(1) Not Applicable.
+
+(a)(2) Not Applicable.
+
+(a)(3) The exhibits required by Item 601 of regulation S-K are listed in the Exhibit Index.
+
+(b) Exhibits.
+
+Exhibit Index
+
+[TABLE]
+Exhibit Number | Description |
+3.1 | Amended and Restated Limited Liability Company Agreement of Discover Funding LLC, dated as of May 18, 2025, between Capital One, National Association and the Special Member of Discover Funding LLC (incorporated by reference to Exhibit 3.1.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.1 | Omnibus Securitization Agreements Assignment and Assumption Agreement, dated as of May 18, 2025, among Discover Bank, Discover Funding LLC and Capital One, National Association (incorporated by reference to Exhibit 4.1.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.2 | Amended and Restated Receivables Sale and Contribution Agreement, dated as of May 18, 2025, between Capital One, National Association and Discover Funding LLC (incorporated by reference to Exhibit 4.1.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). * |
+4.3 | Fourth Amended and Restated Pooling and Servicing Agreement, dated as of May 18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1.3 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025) .* |
+4.4 | Second Amended and Restated Series 2007-CC Supplement, dated as of May 18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1.4 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). * |
+4.5 | Amendment No. 1 to Fourth Amended and Restated Pooling and Servicing Agreement and Amendment No. 1 to Second Amended and Restated Series Supplement, dated as of December 18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.3 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). * |
+4.6 | Collateral Certificate Transfer Agreement, between Discover Bank, as Depositor, and Discover Card Execution Note Trust, dated as of July 26, 2007 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 27, 2007). |
+4.7 | Series Termination Date Extension Agreement, between Discover Bank, as Master Servicer and as Servicer, Discover Funding LLC, as Transferor, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Trustee, dated as of January 31, 2023 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 1, 2023). |
+4.8 | Second Amended and Restated Indenture, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1.5 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.9 | Amendment No. 1 to Second Amended and Restated Indenture, dated as of December 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+4.10 | Third Amended and Restated Indenture Supplement, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1.6 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.11 | Second Amended and Restated Trust Agreement, dated as of May 18, 2025, between Discover Funding LLC and Wilmington Trust Company (incorporated by reference to Exhibit 4.1.9 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.12 | Amendment No. 1 to Second Amended and Restated Trust Agreement, dated as of December 18, 2025, between Discover Funding LLC and Wilmington Trust Company (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+4.13 | Class A(2008-C) Terms Document between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 28, 2008 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on August 29, 2008). |
+4.14 | Omnibus Amendment to Indenture Supplement and Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 6, 2009). |
+4.15 | Class D(2009-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of July 2, 2009 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 6, 2009). * |
+4.16 | Omnibus Amendment to Terms Documents, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of January 13, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on January 13, 2010). |
+4.17 | Class A(2010-D) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of November 23, 2010 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on November 23, 2010). |
+4.18 | Class A(2011-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of January 28, 2011 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 1, 2011). |
+[/TABLE]
+
+[TABLE]
+4.19 | Third Amendment to Class A(2008-C) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of August 30, 2013 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on August 30, 2013). |
+4.20 | Class A(2015-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 19, 2015 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on June 22, 2015). |
+4.21 | Class A(2019-A) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of June 25, 2019 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on June 28, 2019). |
+4.22 | Class A(2021-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on September 28, 2021). |
+4.23 | Class A(2022-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 22, 2022). |
+4.24 | Class A(2022-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 26, 2022). |
+4.25 | Class A(2022-3) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of August 9, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on August 10, 2022). |
+4.26 | Class A(2022-4) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of November 28, 2022 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on November 29, 2022). |
+4.27 | Omnibus Amendment to Specified Terms Documents, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.1.7 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.28 | Class B(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 1, 2023). * |
+4.29 | Class C(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of January 31, 2023 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 1, 2023) .* |
+4.30 | Class A(2023-1) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of April 11, 2023 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on April 12, 2023). |
+4.31 | Class A(2023-2) Terms Document, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank Trust Company, National Association (as successor to U.S. Bank National Association), as Indenture Trustee, dated as of June 28, 2023 (incorporated by reference to Exhibit 4.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on June 29, 2023). * |
+4.32 | Omnibus Amendment to Specified Risk Retention Agreements, dated as of May 18, 2025, between Discover Card Execution Note Trust and Capital One, National Association (incorporated by reference to Exhibit 4.1.8 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+4.33 | Class A(2021-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of September 27, 2021 (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust’s Current Report on Form 8-K filed on September 28, 2021). * |
+4.34 | Class A(2022-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of February 22, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 22, 2022). |
+4.35 | Class A(2022-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of May 26, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 26, 2022). |
+4.36 | Class A(2022-3) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of August 9, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on August 10, 2022). |
+4.37 | Class A(2022-4) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of November 28, 2022 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on November 29, 2022). |
+4.38 | Class A(2023-1) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of April 11, 2023 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on April 12, 2023). * |
+4.39 | Class A(2023-2) Risk Retention Agreement, among Discover Card Execution Note Trust, as Issuer, Discover Bank and Discover Funding LLC, dated as of June 28, 2023 (incorporated by reference to Exhibit 4.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on June 29, 2023). * |
+4.40 | Defeasance Agreement, dated as of December 18, 2025, by and among Discover Card Execution Note Trust, U.S. Bank Trust Company, National Association and U.S. Bank National Association (incorporated by reference to Exhibit 4.4 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+[/TABLE]
+
+[TABLE]
+4.41 | Reassignment and Release, dated as of December 18, 2025, among Discover Funding LLC, among Discover Funding LLC, Capital One, National Association and U.S. Bank Trust Company, National Association (incorporated by reference to Exhibit 4.5 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+4.42 | Reconveyance of Receivables, dated as of December 18, 2025, between Discover Funding LLC and Capital One, National Association (incorporated by reference to Exhibit 4.6 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+4.43 | Omnibus Termination Acknowledgement, dated as of December 18, 2025, among Discover Card Execution Note Trust, Discover Funding LLC and Capital One, National Association (incorporated by reference to Exhibit 4.8 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+10.1 | Fourth Amended and Restated Master Services Agreement, between Discover Financial Services, Discover Bank and other affiliated entities party thereto, dated as of May 9, 2024 (incorporated by reference to Exhibit 99.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on February 19, 2025). |
+10.2 | Fifth Amended and Restated Services Addendum, between Discover Products Inc. and Discover Bank, dated as of April 3, 2023 (incorporated by reference to Exhibit 10.2 to the Note Issuance Trust’s Annual Report on Form 10-K filed on March 21, 2025). |
+10.3 | Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank National Association, as Secured Party, and U.S. Bank National Association, as Securities Intermediary, dated as of July 26, 2007 (incorporated by reference to Exhibit 10.1 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 27, 2007). * |
+10.4 | Amendment No. 1 to Collateral Account Control Agreement, between Discover Card Execution Note Trust, as Grantor, U.S. Bank Trust Company, National Association (as successor U.S. Bank National Association), as Secured Party, and U.S. Bank National Association, as Securities Intermediary, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.2 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 1, 2022). * |
+10.5 | Amended and Restated Asset Representations Review Agreement, dated as of May 18, 2025, among Discover Card Execution Note Trust, Capital One, National Association and FTI Consulting, Inc. (incorporated by reference to Exhibit 4.1.10 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025). |
+10.6 | Termination and Consent Agreement relating to the Asset Representations Review Agreement, dated as of December 18, 2025, among Discover Card Execution Note Trust, Capital One, National Association, and FTI Consulting, Inc. (incorporated by reference to Exhibit 4.7 to the Note Issuance Trust’s Current Report on Form 8-K filed on December 19, 2025). |
+10.7 | Amended and Restated Securities Account Control Agreement, dated as of May 18, 2025, among Discover Funding LLC, Capital One, National Association, U.S. Bank Trust Company, National Association, and U.S. Bank National Association (incorporated by reference to Exhibit 4.1.11 to the Note Issuance Trust’s Current Report on Form 8-K filed on May 20, 2025) .* |
+10.8 | Series 2007-CC Investor Certificate, by Discover Bank and authenticated by U.S. Bank Trust Company, National Association, as Trustee, dated as of July 1, 2022 (incorporated by reference to Exhibit 99.3 to the Note Issuance Trust’s Current Report on Form 8-K filed on July 1, 2022). * |
+31.1 | Certification of Discover Funding LLC pursuant to Rule 13a-14(d)/15d-14(d) under the Securities Exchange Act of 1934. |
+33.1 | Report on Assessment of Compliance with Servicing Criteria for Capital One, National Association, as successor to Discover Bank , for itself , and on behalf of its affiliate Discover Products Inc. |
+33.2 | Report on Assessment of Compliance with Servicing Criteria for U.S. Bank Trust Company, National Association. |
+34.1 | Attestation Report of Ernst & Young LLP on Assessment of Compliance with Servicing Criteria relating to Capital One, National Association , as successor to Discover Bank, for itself, and on behalf of its affiliate Discover Products Inc. |
+34.2 | Attestation Report of Ernst & Young on Assessment of Compliance with Servicing Criteria relating to U.S. Bank Trust Company, National Association. |
+35.1 | Servicer Compliance Statement of Capital One, National Association, as successor to Discover Bank and for itself. |
+35.2 | Servicer Compliance Statement of Discover Products Inc. |
+[/TABLE]
+
+__________________
+
+• Each exhibit marked with an asterisk denotes an agreement or other document that has been terminated or cancelled in connection with the defeasance that occurred on December 18, 2025.
+
+(c) Not Applicable.
+
+Item 16. Form 10-K Summary.
+
+Not Applicable.
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+[TABLE]
+Discover Funding LLC, as Depositor to Discover Card Execution Note Trust
+By: | /s/ Franco E. Harris
+Name: | *Franco E. Harris
+Title: | President
+Date: | March 24, 2026
+ | * Franco E. Harris is the senior officer in charge of securitization of Discover Funding LLC
+[/TABLE]

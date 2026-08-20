@@ -1,0 +1,23 @@
+doc_id: edgar-cof/xbrl_companyfacts
+source: edgar-cof
+source_tier: A
+doc_type: xbrl-companyfacts
+title: XBRL companyfacts COF
+url: https://data.sec.gov/api/xbrl/companyfacts/CIK0000927628.json
+retrieved_at: '2026-08-20T02:37:52Z'
+entity_ids:
+- cof
+fetcher: edgar_xbrl v1
+files:
+- name: companyfacts.json
+  role: raw
+  sha256: 9e34d42e7e77f81bbdedb81f160423c57d42556fe95a0b2e6081b14a57bc7673
+  size: 6549466
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: dd12637e1233805b5cb02ad5b7fb9bbb8046db4ae94147cf7ade5d30222d9ae2
+  size: 166
+  stored: corpus
+meta:
+  concept_count: 1050

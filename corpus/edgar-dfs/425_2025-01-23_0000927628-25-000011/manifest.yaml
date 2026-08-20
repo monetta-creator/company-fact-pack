@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/425_2025-01-23_0000927628-25-000011
+source: edgar-dfs
+source_tier: A
+doc_type: '425'
+title: 425 filed 2025-01-23
+url: https://www.sec.gov/Archives/edgar/data/1393612/000092762825000011/a425-01222025q4cofearnings.htm
+retrieved_at: '2026-08-20T02:33:32Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a425-01222025q4cofearnings.htm
+  role: raw
+  sha256: d9031a1014a091fb0723fe6600bda8e47c3ceb19bf44501576e1a2078f63d876
+  size: 69747
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9d728d4afb9571c2f90f806c406d12639b448c4e92554070f6785c20b9055a97
+  size: 32040
+  stored: corpus
+filed_date: '2025-01-23'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0000927628-25-000011
+  form: '425'
+  items: ''

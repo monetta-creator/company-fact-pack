@@ -1,0 +1,43 @@
+doc_id: edgar-cof/8-KA_2025-05-22_0001193125-25-125037
+source: edgar-cof
+source_tier: A
+doc_type: 8-K/A
+title: 8-K/A filed 2025-05-22 (period 2025-05-18)
+url: https://www.sec.gov/Archives/edgar/data/927628/000119312525125037/d942157d8ka.htm
+retrieved_at: '2026-08-20T02:45:52Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: d942157d8ka.htm
+  role: raw
+  sha256: 0ce78f56b334bd17e0cab17d9faff9b19c7fc7a25a8566ab28b64780adfbb2d4
+  size: 42303
+  stored: corpus
+- name: d942157dex991.htm
+  role: exhibit
+  sha256: 0e50ac2b7a45bbe90fdb6802c80502f7d8354067de58d883aed958d33eadf695
+  size: 1460569
+  stored: corpus
+- name: d942157dex992.htm
+  role: exhibit
+  sha256: 8c10afd46a5f1cd5745e50b986e32ca78685820baabe3f3b6f8c33e38f0ef936
+  size: 914684
+  stored: corpus
+- name: d942157dex993.htm
+  role: exhibit
+  sha256: a8905e568e44a35b260a1ca463ff7efe6f92712c686651d53e2203cc0bc318a7
+  size: 554232
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 67289148eba9f8da64b98c96533f14a2eae3ce0f62b69ddd34fe04836361ca69
+  size: 479022
+  stored: corpus
+filed_date: '2025-05-22'
+period_end: '2025-05-18'
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-125037
+  form: 8-K/A
+  items: '9.01'

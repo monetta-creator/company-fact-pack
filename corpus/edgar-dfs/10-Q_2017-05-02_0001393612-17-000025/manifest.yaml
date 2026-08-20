@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2017-05-02_0001393612-17-000025
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2017-05-02 (period 2017-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361217000025/dfs331201710q.htm
+retrieved_at: '2026-08-20T02:34:38Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs331201710q.htm
+  role: raw
+  sha256: b1b2ba5b5f41a90a71720c52dd9a98b020695b1f5f1178990a71b3047714aa0e
+  size: 2579277
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 5c97ed162d1f318e64c142bac1a0c8ccd0ca110789c550453ba4e3a96f64fa49
+  size: 276305
+  stored: corpus
+filed_date: '2017-05-02'
+period_end: '2017-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001393612-17-000025
+  form: 10-Q
+  items: ''

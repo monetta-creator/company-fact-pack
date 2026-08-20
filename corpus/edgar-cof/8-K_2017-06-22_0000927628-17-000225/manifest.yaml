@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-06-22_0000927628-17-000225
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-06-22 (period 2017-06-22)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000225/a8-kjune222017.htm
+retrieved_at: '2026-08-20T02:54:59Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kjune222017.htm
+  role: raw
+  sha256: 3803a053d632fd0c788c205dbcd5cf641b4a872b35667df0349d9335b53632e8
+  size: 30778
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 49b81f5052e0fd91c973171f7eb7a7737d8651d8126fe8b5b2774d98664c1a3f
+  size: 4239
+  stored: corpus
+filed_date: '2017-06-22'
+period_end: '2017-06-22'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000225
+  form: 8-K
+  items: '7.01'

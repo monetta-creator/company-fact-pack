@@ -1,0 +1,1 @@
+FDIC sod for discover-bank (cert 5649): 70 rows. Machine data; see metrics layer.

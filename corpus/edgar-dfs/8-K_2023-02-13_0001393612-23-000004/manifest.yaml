@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2023-02-13_0001393612-23-000004
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2023-02-13 (period 2023-02-13)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361223000004/dfs-20230213.htm
+retrieved_at: '2026-08-20T02:55:27Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20230213.htm
+  role: raw
+  sha256: 940d2f85e7f741a9cd458ac2bb3bdeb80aef762cdb0dd84281b4789dfe55b072
+  size: 39523
+  stored: corpus
+- name: exhibit99101-31x23.htm
+  role: exhibit
+  sha256: a2dff456947edcafc95d459218f75fdd336e099872c2d6860d7f457a4cb2c4db
+  size: 59914
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c4f9a9144ee381e16d69faa3d401ec7677b0de85399d9ace0eb09a36fe45fef6
+  size: 7701
+  stored: corpus
+filed_date: '2023-02-13'
+period_end: '2023-02-13'
+extraction_method: lxml
+meta:
+  accession: 0001393612-23-000004
+  form: 8-K
+  items: 7.01,9.01

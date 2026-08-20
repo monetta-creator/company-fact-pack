@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/425_2024-12-17_0000927628-24-000334
+source: edgar-dfs
+source_tier: A
+doc_type: '425'
+title: 425 filed 2024-12-17
+url: https://www.sec.gov/Archives/edgar/data/1393612/000092762824000334/a425-12172024pressrelease.htm
+retrieved_at: '2026-08-20T02:33:34Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a425-12172024pressrelease.htm
+  role: raw
+  sha256: 12f9c8c1d29fa8fc8fe37d95944c6f6d725151d318049187e27dfa37e3631e6c
+  size: 26982
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 122aba69925b0579bfd2e1d7b75bf73df078bc21e546709a3559c92884dcc60f
+  size: 10426
+  stored: corpus
+filed_date: '2024-12-17'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0000927628-24-000334
+  form: '425'
+  items: ''

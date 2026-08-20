@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2020-05-01_0000927628-20-000173
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2020-05-01 (period 2020-03-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762820000173/cof-03312020x10q.htm
+retrieved_at: '2026-08-20T02:32:13Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-03312020x10q.htm
+  role: raw
+  sha256: afac055e8c61d51ebb562c3c2c827f4fb7f18bfea1b8ca2e3559508471b85735
+  size: 7837772
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 999bf6b109c3869de83ef6fba941d0d19a39db1269600b0a9a8d6b89e11372bb
+  size: 557962
+  stored: corpus
+filed_date: '2020-05-01'
+period_end: '2020-03-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-20-000173
+  form: 10-Q
+  items: ''

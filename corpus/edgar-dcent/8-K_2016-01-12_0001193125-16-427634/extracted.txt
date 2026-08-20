@@ -1,0 +1,314 @@
+8-K 1 d108895d8k.htm FORM 8-K Form 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): January 12, 2016
+
+[TABLE]
+Commission File Number:
+ 333-141703-02;
+ 333-167413;
+ 333-191359;
+ 333-205455-01 |  | Commission File Number:
+ 333-141703;
+ 333-167413-02;
+ 333-191359-02;
+ 333-205455-02;
+ 000-23108 |  | Commission File Number:
+ 333-205455 |  | Commission File Number:
+ 333-141703-01;
+ 333-167413-01;
+ 333-191359-01;
+ 033-54804
+DISCOVER CARD
+ EXECUTION NOTE
+ TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING
+ LLC |  | DISCOVER BANK
+(Exact name of issuing
+ entity in respect of the notes
+ as specified in charter) |  | (Exact name of issuing
+ entity in respect of the
+ Series 2007-CC Collateral
+ Certificate) |  | (Exact name of depositor as
+ specified in charter) |  | (Exact name of sponsor as
+ specified in charter)
+Delaware |  | Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or
+ organization of the issuing
+entity) |  | (State or jurisdiction of
+ incorporation or
+ organization of the issuing
+entity) |  | (State or jurisdiction of
+ incorporation or
+ organization of the
+depositor) |  | (State or jurisdiction of
+ incorporation or
+ organization of the
+sponsor)
+c/o Wilmington Trust Company
+ Rodney Square North 1100
+North Market Street Wilmington, Delaware
+ 19890-0001 |  | c/o Discover Bank
+ 12 Read’s Way New
+Castle, Delaware 19720 |  | Discover Funding LLC
+ 12 Read’s Way New
+Castle, Delaware 19720 |  | Discover Bank
+ 12 Read’s Way New
+Castle, Delaware 19720
+(Address of principal
+ executive offices of the
+ issuing entity) |  | (Address of principal
+ executive offices of the
+ issuing entity) |  | (Address of principal
+ executive offices of the
+ depositor) |  | (Address of principal
+ executive offices of the
+ sponsor)
+[/TABLE]
+
+51-0020270
+
+(IRS Employer
+Identification No. of the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Item 6.03 | Change in Credit Enhancement or Other External Support
+
+Pursuant to the Designation of
+Required Subordinated Percentages, as filed as Exhibit 99.1 to this Current Report and incorporated herein by reference (the “ Designation ”), Discover Card Execution Note Trust (“ DCENT ”) has reduced the
+required enhancement percentages for all outstanding DiscoverSeries Class A Notes issued by DCENT as follows:
+
+ | • |  | the Required Subordinated Percentage of Class B notes has been reduced from 7.284768% to 6.96202532%;
+
+ | • |  | the Required Subordinated Percentage of Class C notes has been reduced from 9.271523% to 8.86075950%; and
+
+ | • |  | the Required Subordinated Percentage of Class D notes has been reduced from 15.89404% to 10.75949368%.
+
+Such
+reductions have resulted in the required subordination for the DiscoverSeries Class A notes to be 21%. Similar reductions have been made with respect to the required enhancement percentages for all outstanding DiscoverSeries Class B notes and
+Class C notes as specified in the Designation. The changes described in this paragraph are collectively referred to in this Current Report as, the “Credit Enhancement Reductions.” The Credit Enhancement Reductions are effective as of the
+date hereof.
+
+In connection with the Credit Enhancement Reductions, Discover Bank, as Calculation Agent, has declared an Expected
+Principal Payment Date to occur on January 15, 2016 for the Class D(2009-1) Notes. A principal payment on the Class D(2009-1) Notes in the amount of $827,837,803 is expected to be made on such date. After giving effect to this repayment and
+prior increases and repayments of the Class D(2009-1) Notes, the Outstanding Dollar Principal Amount of the Class D(2009-1) Notes will be $1,769,207,652.
+
+Item 9.01 | Exhibits
+
+Exhibit 99.1 |  | Designation of Required Subordinated Percentages
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: January 12, 2016 |  |  |  |  |  |
+ |  |  |  | Discover Funding LLC (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as
+registrant under Commission File Number 333-205455)
+ |  |  |  | By: |  | /s/ Michael F. Rickert
+ |  |  |  |  |  | Michael F. Rickert
+ |  |  |  |  |  | Vice President, Chief Financial Officer and Treasurer
+ |  |  |  | Discover Bank (as registrant under Commission File Numbers 333-141703-01, 333-167413-01 and 333-191359-01)
+ |  |  |  | By: |  | /s/ Michael F. Rickert
+ |  |  |  |  |  | Michael F. Rickert
+ |  |  |  |  |  | Vice President, Chief Financial Officer and Assistant Treasurer
+[/TABLE]
+
+
+=== EXHIBIT d108895dex991.htm ===
+
+EX-99.1 2 d108895dex991.htm EX-99.1 EX-99.1
+Exhibit 99.1
+
+January 12, 2016
+
+U.S. Bank, N.A.
+
+190 S. LaSalle Street, 7th Floor
+
+Chicago, Illinois 60603
+
+Re: | Discover Card Execution Note Trust, DiscoverSeries Notes
+
+ | Designation of Required Subordinated Percentages
+
+Ladies and Gentlemen:
+
+Reference is hereby made to the Amended and Restated Indenture, dated December 22, 2015 (the “ Master Indenture ”),
+between Discover Card Execution Note Trust, as Note Issuance Trust (“ DCENT ”), and U.S. Bank National Association, as indenture trustee (the “ Indenture Trustee ”), as supplemented by the Second Amended and Restated
+Indenture Supplement for the DiscoverSeries Notes, dated December 22, 2015 (the “ Indenture Supplement ” and, together with the Master Indenture, the “ Indenture ”), between DCENT and the Indenture Trustee. This
+designation is delivered by DCENT pursuant to (i) each Terms Document listed on Schedule I hereto with respect to Class A Notes (the “ Class A Terms Documents ”), (ii) each Terms Document listed on Schedule II hereto with respect to Class B Notes (the “ Class B Terms Documents ”) and (iii) each Terms Documents listed on Schedule III hereto with respect to Class C Notes (the “ Class C Terms
+Documents ” and, together with the Class A Terms Documents and the Class B Terms Documents, the “ Specified Terms Documents ”). Capitalized terms used and not defined herein shall have the meanings given to them by the
+Indenture.
+
+Pursuant to Section 2.02 of each Class A Terms Document, as of the date hereof, the undersigned hereby designates
+(i) the “Required Subordinated Percentage of Class B Notes” to be 6.96202532%, (ii) the “Required Subordinated Percentage of Class C Notes” to be 8.86075950% and (iii) the “Required Subordinated Percentage of
+Class D Notes” to be 10.75949368%.
+
+Pursuant to Section 2.02 of each Class B Terms Document, as of the date hereof, the
+undersigned hereby designates (i) the “Required Subordinated Percentage of Class C Notes (Encumbered)” to be 127.27272728%, (ii) the “Required Subordinated Percentage of Class C Notes (Unencumbered)” to be 8.28402367%,
+(iii) the “Required Subordinated Percentage of Class D Notes (Encumbered)” to be 154.54545455% and (iv) the “Required Subordinated Percentage of Class D Notes (Unencumbered)” to be 10.05917160%.
+
+Pursuant to Section 2.02 of each Class C Terms Document, as of the date hereof, the undersigned hereby designates the “Required
+Subordinated Percentage of Class D Notes (Unencumbered)” to be 9.28961749%.
+
+All conditions precedent provided for in each Specified Terms Document relating to such
+reductions have been met as of the date hereof, including receipt of written confirmation from each applicable Note Rating Agency that such reductions will not result in a Ratings Effect for any Tranche of Outstanding DiscoverSeries Notes.
+
+It is expressly understood and agreed that (i) this Designation of Required Subordinated Percentages is executed and delivered by the
+Owner Trustee not individually or personally but solely as Owner Trustee under the Trust Agreement, in the exercise of the powers and authority conferred and vested in it, (ii) each of the statements herein made on the part of the Issuer is
+made and intended not as a personal statement by the Owner Trustee but is made and intended for the purpose of binding only the Issuer, (iii) nothing herein contained will be construed as creating any liability on the Owner Trustee individually
+or personally, all such liability, if any, being expressly waived, (iv) the Owner Trustee has made no investigation as to the completeness or accuracy of any of the statements contained herein and (v) under no circumstances will the Owner
+Trustee be personally liable for the payment of any indebtedness or expenses of the Issuer or be liable for the breach or failure of any statement made by the Issuer under this Designation of Required Subordinated Percentages.
+
+[TABLE]
+Very truly yours,
+DISCOVER CARD EXECUTION NOTE TRUST
+By: WILMINGTON TRUST COMPANY, not individually but solely as Owner Trustee
+By: |  | /s/ Jennifer A. Luce
+Name: |  | Jennifer A. Luce
+Title: |  | Vice President
+[/TABLE]
+
+cc:
+
+Fitch
+Ratings, Inc.
+
+33 Whitehall Street
+
+New York, NY 10004
+
+Moody’s Investors Service, Inc.
+
+7 World Trade Center
+
+250 Greenwich Street
+
+New York, New York 10007
+
+Standard and Poor’s Ratings Services
+
+55 Water Street
+
+New York, New York 10041
+
+Schedule I
+
+Class A Terms Documents
+
+1. | Class A(2007-1) Terms Document, dated as of October 4, 2007, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+2. | Class A(2008-C) Terms Document, dated as of August 28, 2008, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+3. | Class A(2010-B) Terms Document, dated as of May 20, 2010, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+4. | Class A(2010-C) Terms Document, dated as of May 27, 2010, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+5. | Class A(2010-D) Terms Document, dated as of November 23, 2010, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+6. | Class A(2010-E) Terms Document, dated as of December 21, 2010, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+7. | Class A(2011-A) Terms Document, dated as of January 28, 2011, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+8. | Class A(2011-B) Terms Document, dated as of February 11, 2011, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+9. | Class A(2011-4) Terms Document, dated as of November 22, 2011, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+10. | Class A(2012-A) Terms Document, dated as of March 29, 2012, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+11. | Class A(2012-4) Terms Document, dated as of June 13, 2012, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+12. | Class A(2012-6) Terms Document, dated as of August 7, 2012, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+13. | Class A(2013-1) Terms Document, dated as of February 13, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+14. | Class A(2013-2) Terms Document, dated as of February 13, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+15. | Class A(2013-3) Terms Document, dated as of May 7, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+16. | Class A(2013-4) Terms Document, dated as of July 23, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+17. | Class A(2013-5) Terms Document, dated as of October 29, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+18. | Class A(2013-6) Terms Document, dated as of October 29, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+19. | Class A(2014-1) Terms Document, dated as of January 27, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+20. | Class A(2014-2) Terms Document, dated as of March 11, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+21. | Class A(2014-3) Terms Document, dated as of May 5, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+22. | Class A(2014-4) Terms Document, dated as of August 5, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+23. | Class A(2014-5) Terms Document, dated as of October 16, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+24. | Class A(2015-1) Terms Document, dated as of February 26, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+25. | Class A(2015-2) Terms Document, dated April 29, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+26. | Class A(2015-A) Terms Document, dated as of June 19, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+27. | Class A(2015-3) Terms Document, dated as of October 7, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+28. | Class A(2015-4) Terms Document, dated as of November 5, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+Schedule II
+
+Class B Terms Documents
+
+1. | Class B(2014-2) Terms Document, dated as of April 30, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+2. | Class B(2014-3) Terms Document, dated as of December 9, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+3. | Class B(2015-1) Terms Document, dated as of August 14, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+4. | Class B(2015-2) Terms Document, dated as of October 15, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+Schedule III
+
+Class C Terms Documents
+
+1. | Class C(2013-1) Terms Document, dated as of September 27, 2013, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+2. | Class C(2014-2) Terms Document, dated as of April 30, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+3. | Class C(2014-3) Terms Document, dated as of December 9, 2014, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented
+
+4. | Class C(2015-1) Terms Document, dated as of October 15, 2015, between Discover Card Execution Note Trust and U.S. Bank National Association, as indenture trustee, as may be amended, restated or supplemented

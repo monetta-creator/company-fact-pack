@@ -1,0 +1,2061 @@
+[
+ {
+  "assignedTo": "Anthony J. Trenga",
+  "assigned_to_id": null,
+  "attorney": [
+   "John A. Yanchunis",
+   "Karen Hanson Riebel",
+   "Robert Armistead Angle",
+   "Norman E. Siegel",
+   "David L. Balser",
+   "Mary Catherine Zinsner"
+  ],
+  "attorney_id": [
+   6465763,
+   6465764,
+   6465765,
+   6465766,
+   6465767,
+   6465768
+  ],
+  "caseName": "IN RE: Capital One Consumer Data Security Breach Litigation",
+  "case_name_full": "",
+  "cause": "",
+  "chapter": null,
+  "court": "United States Judicial Panel on Multidistrict Litigation",
+  "court_citation_string": "J.P.M.L.",
+  "court_id": "jpml",
+  "dateArgued": null,
+  "dateFiled": "2019-07-31",
+  "dateTerminated": "2023-06-05",
+  "docketNumber": "MDL No. 2915",
+  "docket_absolute_url": "/docket/152748/in-re-capital-one-consumer-data-security-breach-litigation/",
+  "docket_id": 152748,
+  "firm": [
+   "Stueve Siegel Hanson LLP",
+   "Morgan & Morgan Complex Litigation Group",
+   "King & Spalding LLP",
+   "Troutman Sanders LLP",
+   "Lockridge Grindal Nauen PLLP",
+   "Troutman Sanders, LLP-DC"
+  ],
+  "firm_id": [
+   14818,
+   15716,
+   461604,
+   53353,
+   1008,
+   2971,
+   3166
+  ],
+  "jurisdictionType": "",
+  "juryDemand": "",
+  "meta": {
+   "timestamp": "2025-05-15T19:53:13.705584Z",
+   "date_created": "2014-10-30T07:04:12.642237Z",
+   "score": {
+    "bm25": 386.6481
+   },
+   "more_docs": true
+  },
+  "pacer_case_id": "1132384",
+  "party": [
+   "Plaintiffs Lead Counsel",
+   "Liaison Counsel for Plaintiffs",
+   "Local Facilitating Counsel",
+   "Defendants' Lead Counsel",
+   "Liaison Counsel for Defendants"
+  ],
+  "party_id": [
+   9811249,
+   9811250,
+   9811251,
+   9811252,
+   9811253
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/152748/195/in-re-capital-one-consumer-data-security-breach-litigation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "CONSENT ORDER re: pldg(s). 1, 8 Consenting to transfer of litigation to Judge Anthony J. Trenga in the Virginia Eastern District Court for coordinated or consolidated pretrial proceedings. Signed by Chief Judge, USDC Mark S. Davis on 09/30/19. (TLL) (Entered: 10/02/2019)",
+    "docket_entry_id": 104380761,
+    "document_number": 195,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-02",
+    "entry_number": 195,
+    "filepath_local": "recap/gov.uscourts.jpml.1132384/gov.uscourts.jpml.1132384.195.0.pdf",
+    "id": 108658656,
+    "is_available": true,
+    "meta": {
+     "timestamp": "2025-05-15T19:53:13.847280Z",
+     "date_created": "2019-10-02T15:47:17.746280Z"
+    },
+    "pacer_doc_id": "85001080258",
+    "page_count": 1,
+    "short_description": "",
+    "snippet": "Case MDL No. 2915 Document 195 Filed 10/02/19 Page 1of1\n\nIN THE UNITED STATES DISTRICT COURT\nFOR THE\nEASTERN DISTRICT OF VIRGINIA\n\nMDL No. 2915 - IN RE: CAPITAL ONE CONSUMER DATA SECURITY BREACH\nLITIGATION\n\nCONSENT OF TRANSFEREE COURT\nThe United States District Court for the Eastern District of Virginia hereby consents to\nthe assignment of the actions involved in the above-described litigation to the Honorable Anthony\nJ. Trenga for coordinated or consolidated pretrial proceedings pursuant to 28 "
+   },
+   {
+    "absolute_url": "/docket/152748/136/in-re-capital-one-consumer-data-security-breach-litigation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "FIRST AMENDMENT TO THE HEARING SESSION ORDER - AND ATTACHED SCHEDULE FILED re: pldg. (6 in CAC/5:19-cv-01431, 6 in CAN/3:19-cv-04475, 6 in CAN/3:19-cv-04485, 9 in CAS/3:19-cv-01421, 11 in DC/1:19-cv-02265, 7 in DC/1:19-cv-02292, 8 in DC/1:19-cv-02298, 8 in DC/1:19-cv-02307, 7 in DC/1:19-cv-02328, 6 in FLM/8:19-cv-01898, 6 in ILN/1:19-cv-05234, 7 in KS/2:19-cv-02441, 30 in MDL No. 2915, 7 in NYE/1:19-cv-04436, 7 in NYS/1:19-cv-07161, 6 in PAE/2:19-cv-03461, 7 in VAE/1:19-cv-00995, 11 in VAE/3:19-cv-00585, 11 in VAE/3:19-cv-00595, 6 in VAE/3:19-cv-00608, 9 in WAW/2:19-cv-01189, 10 in WAW/2:19-cv-01203), (3 in CAS/3:19-cv-01421, 3 in DC/1:19-cv-02265, 8 in MDL No. 2915, 5 in VAE/3:19-cv-00585, 5 in VAE/3:19-cv-00595, 3 in WAW/2:19-cv-01189), ( 1 in MDL No. 2915) To re-designate the civil action docket number. - SECTION A (DESIGNATED FOR ORAL ARGUMENT) PANEL HEARING set for 9/26/2019 in Los Angeles, California.Signed by Clerk of the Panel John W. Nichols on 9/5/2019. Associated Cases: MDL No. 2915, CAC/5:19-cv-01431, CAN/3:19-cv-04475, CAN/3:19-cv-04485, CAS/3:19-cv-01421, DC/1:19-cv-02265, DC/1:19-cv-02292, DC/1:19-cv-02298, DC/1:19-cv-02307, DC/1:19-cv-02328, FLM/8:19-cv-01898, ILN/1:19-cv-05234, KS/2:19-cv-02441, NYE/1:19-cv-04436, NYS/1:19-cv-07161, PAE/2:19-cv-03461, VAE/1:19-cv-00995, VAE/3:19-cv-00585, VAE/3:19-cv-00595, VAE/3:19-cv-00608, WAW/2:19-cv-01189, WAW/2:19-cv-01203 (SM) Modified on 9/5/2019 (SM). EDITED DOCKET TEXT (Entered: 09/05/2019)",
+    "docket_entry_id": 101354210,
+    "document_number": 136,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-09-05",
+    "entry_number": 136,
+    "filepath_local": "recap/gov.uscourts.jpml.1132384/gov.uscourts.jpml.1132384.136.0.pdf",
+    "id": 105608362,
+    "is_available": true,
+    "meta": {
+     "timestamp": "2025-05-15T19:53:13.847280Z",
+     "date_created": "2019-09-06T19:41:33.394898Z"
+    },
+    "pacer_doc_id": "85001072495",
+    "page_count": 1,
+    "short_description": "Hearing Order (Amendment)",
+    "snippet": "           Case MDL No. 2915 Document 136 Filed 09/05/19 Page 1 of 1\n\n\n\n                            UNITED STATES JUDICIAL PANEL\n                                         on\n                             MULTIDISTRICT LITIGATION\n\n\n             FIRST AMENDMENT TO THE HEARING SESSION ORDER\n               AND ATTACHED SCHEDULE FILED AUGUST 15, 2019\n\n\n       IT IS ORDERED that the Hearing Session Order and attached Schedule for the hearing\nsession on September 26, 2019, in Los Angeles, California, fil"
+   },
+   {
+    "absolute_url": "/docket/152748/4/in-re-capital-one-consumer-data-security-breach-litigation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE OF APPEARANCE re: pldg.( 1 in MDL No. 2915) Filed by William Lewis Garrison, Jr on behalf of Plaintiff Rachel McDonough (Attachments: # 1 Proof of Service) Associated Cases: MDL No. 2915, VAE/1:19-cv-00984 (Garrison, William) Modified on 8/2/2019 (TLL).(DELETED DUPLICATE ATTACHMENTS) (Entered: 08/01/2019)",
+    "docket_entry_id": 98146124,
+    "document_number": 4,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-01",
+    "entry_number": 4,
+    "filepath_local": "recap/gov.uscourts.jpml.1132384/gov.uscourts.jpml.1132384.4.0_2.pdf",
+    "id": 102376354,
+    "is_available": true,
+    "meta": {
+     "timestamp": "2025-05-15T19:53:13.847280Z",
+     "date_created": "2019-08-09T23:13:09.530999Z"
+    },
+    "pacer_doc_id": "85001062064",
+    "page_count": 1,
+    "short_description": "Notice of Appearance",
+    "snippet": "                         Case MDL No. 2915 Document 4 Filed 08/01/19 Page 1 of 1\n UNITED STATES JUDICIAL PANEL ON MULTIDISTRICT LITIGATION\n\n\n                  2915                                          Capital One Consumer Data Security Breach Litigation\n MDL No. _____________                        & T ITLE - IN RE: __________________________________\n\n\n                                                     NOTICE OF APPEARANCE\n                          Appearances should only be entered in com"
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "David N. Hurd",
+  "assigned_to_id": 1574,
+  "attorney": [
+   "Chad A. Jerome",
+   "Peter J. Isajiw"
+  ],
+  "attorney_id": [
+   5791826,
+   5819510
+  ],
+  "caseName": "Potts v. Capital One, N.A.",
+  "case_name_full": "",
+  "cause": "15:1681 Fair Credit Reporting Act",
+  "chapter": null,
+  "court": "District Court, N.D. New York",
+  "court_citation_string": "N.D.N.Y.",
+  "court_id": "nynd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-13",
+  "dateTerminated": "2019-10-16",
+  "docketNumber": "3:19-cv-01001",
+  "docket_absolute_url": "/docket/16055701/potts-v-capital-one-na/",
+  "docket_id": 16055701,
+  "firm": [
+   "O'Connell & Aronowitz, P.C. - Albany Office",
+   "King, Spalding Law Firm NY Office"
+  ],
+  "firm_id": [
+   227280,
+   155953
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:40:13.475357Z",
+   "date_created": "2019-08-14T15:23:06.614357Z",
+   "score": {
+    "bm25": 134.23837
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "120615",
+  "party": [
+   "Capital One, N.A.",
+   "Capital One Bank (USA), N.A.",
+   "Stephanie Potts",
+   "Capital One Financial Corporation"
+  ],
+  "party_id": [
+   8590539,
+   8590540,
+   8590541,
+   8590542
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "",
+    "attachment_number": null,
+    "cites": [],
+    "description": "Case transferred electronically to Eastern District of Virginia for inclusion into MDL-2915 Capital One Consumer Data Security Breach Litigation. (plp)",
+    "docket_entry_id": 448535220,
+    "document_number": null,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-16",
+    "entry_number": null,
+    "filepath_local": null,
+    "id": 463311138,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-12-29T12:18:27.134046Z",
+     "date_created": "2025-12-29T12:18:07.956249Z"
+    },
+    "pacer_doc_id": "",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   },
+   {
+    "absolute_url": "/docket/16055701/9/potts-v-capital-one-na/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "JPMDL Conditional Transfer Order #1. Opposition period has expired with no objections filed. ORDER TRANSFERRING CASE to Eastern District of Virginia for inclusion into MDL-2915 Capital One Consumer Data Security Breach Litigation. Case to be assigned to the Hon. Anthony J. Trenga, U.S. District Judge. (plp) (Entered: 10/16/2019)",
+    "docket_entry_id": 105997510,
+    "document_number": 9,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-16",
+    "entry_number": 9,
+    "filepath_local": null,
+    "id": 110290204,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-12-29T12:18:27.130878Z",
+     "date_created": "2019-10-16T17:23:19.070533Z"
+    },
+    "pacer_doc_id": "12505291468",
+    "page_count": null,
+    "short_description": "Order Transferring Case",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "Miroslav Lovric",
+  "referred_to_id": 9434,
+  "suitNature": "480 Consumer Credit",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "John C. Coughenour",
+  "assigned_to_id": 735,
+  "attorney": [],
+  "attorney_id": [],
+  "caseName": "Curtis v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Fraud",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-29",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01366",
+  "docket_absolute_url": "/docket/16129209/curtis-v-capital-one-financial-corporation/",
+  "docket_id": 16129209,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2026-02-11T06:06:26.861242Z",
+   "date_created": "2019-08-29T16:17:47.903976Z",
+   "score": {
+    "bm25": 127.751884
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "277265",
+  "party": [
+   "Curtis",
+   "Capital One Financial Corporation"
+  ],
+  "party_id": [],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16129209/12/curtis-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO -1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106139627,
+    "document_number": 12,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 12,
+    "filepath_local": null,
+    "id": 110433329,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2026-02-11T06:06:27.143311Z",
+     "date_created": "2019-10-17T16:22:32.994501Z"
+    },
+    "pacer_doc_id": "19708796412",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "Brian A. Tsuchida",
+  "referred_to_id": 9638,
+  "suitNature": "Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Sarah Evans Barker",
+  "assigned_to_id": 170,
+  "attorney": [
+   "Jeffrey D. Pilgrim",
+   "Lynn A. Toops",
+   "Richard E. Shevitz",
+   "James J. Morrissey",
+   "Lisa Marie La Fornara"
+  ],
+  "attorney_id": [
+   11102166,
+   11102167,
+   11102168,
+   11102169,
+   11102170
+  ],
+  "caseName": "JACOBS v. CAPITAL ONE FINANCIAL CORPORATION",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, S.D. Indiana",
+  "court_citation_string": "S.D. Ind.",
+  "court_id": "insd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-01",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "1:19-cv-03217",
+  "docket_absolute_url": "/docket/16001574/jacobs-v-capital-one-financial-corporation/",
+  "docket_id": 16001574,
+  "firm": [
+   "Cohen & Malad LLP",
+   "Pilgrim Christakis LLP",
+   "Cohen & Malad"
+  ],
+  "firm_id": [
+   650569,
+   20377,
+   777969,
+   92534
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-12-30T02:54:34.782702Z",
+   "date_created": "2019-08-01T15:25:02.401962Z",
+   "score": {
+    "bm25": 125.24042
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "98102",
+  "party": [
+   "CAPITAL ONE FINANCIAL CORPORATION",
+   "CAPITAL ONE, N.A.",
+   "CAPITAL ONE BANK (USA), N.A.",
+   "JEFFREY JACOBS"
+  ],
+  "party_id": [
+   17033489,
+   17033490,
+   17033492,
+   17033493
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16001574/12/jacobs-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "CLOSED TRANSFER to the Eastern District of Virginia IN RE: CAPITAL ONE CONSUMER DATA SECURITY BREACH LITIGATION MDL No. 2915, per Certified Transfer Order (CTO-1). (MAC) (Entered: 10/17/2019)",
+    "docket_entry_id": 106146378,
+    "document_number": 12,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 12,
+    "filepath_local": null,
+    "id": 110440098,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-12-30T02:54:34.864223Z",
+     "date_created": "2019-10-17T16:46:06.651942Z"
+    },
+    "pacer_doc_id": "07307563330",
+    "page_count": null,
+    "short_description": "Closed Transfer to",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "Debra Mcvicker Lynch",
+  "referred_to_id": 9250,
+  "suitNature": "380 Other personal property damage",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Barbara Jacobs Rothstein",
+  "assigned_to_id": 2796,
+  "attorney": [
+   "Charles Hausberg",
+   "Michael A Maurer"
+  ],
+  "attorney_id": [
+   5818989,
+   5818990
+  ],
+  "caseName": "Lundgren v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Contract Dispute",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-28",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01361",
+  "docket_absolute_url": "/docket/16126367/lundgren-v-capital-one-financial-corporation/",
+  "docket_id": 16126367,
+  "firm": [
+   "Lukins & Annis, PS"
+  ],
+  "firm_id": [
+   213122
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T20:19:31.443956Z",
+   "date_created": "2019-08-28T22:24:13.642386Z",
+   "score": {
+    "bm25": 124.43946
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "277248",
+  "party": [
+   "Capital One Financial Corporation",
+   "Gary Stalls",
+   "Timothy St Cyr",
+   "Capital One NA",
+   "Capital One Bank (USA) NA",
+   "Amazon Web Services Inc",
+   "John Lundgren",
+   "Belinda Aylward"
+  ],
+  "party_id": [
+   8627310,
+   8627311,
+   8627312,
+   8627313,
+   8627314,
+   8627315,
+   8627316,
+   8627317
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16126367/25/lundgren-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO -1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106139648,
+    "document_number": 25,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 25,
+    "filepath_local": null,
+    "id": 110433350,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-12-30T04:30:28.863765Z",
+     "date_created": "2019-10-17T16:22:33.238487Z"
+    },
+    "pacer_doc_id": "19708796399",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Ricardo S. Martinez",
+  "assigned_to_id": 2067,
+  "attorney": [
+   "Marc Howard Edelson",
+   "Daniel J. Oates",
+   "Roger Mulford Townsend",
+   "Kellen Andrew Hade",
+   "Joshua H Grabar",
+   "Jeffrey A. Ware",
+   "Steven A Miller"
+  ],
+  "attorney_id": [
+   5801126,
+   5801127,
+   11246829,
+   9918933,
+   9918934,
+   9918935,
+   9918936
+  ],
+  "caseName": "Hoskinson-Short v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-05",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01218",
+  "docket_absolute_url": "/docket/16017302/hoskinson-short-v-capital-one-financial-corporation/",
+  "docket_id": 16017302,
+  "firm": [
+   "Edelson Lechtzin LLP",
+   "Breskin Johnson and Townsend PLLC",
+   "Grabar Law Office",
+   "Fenwick & West (Wa)",
+   "Edelson & Associates, LLC",
+   "Townsend Legal Pllc"
+  ],
+  "firm_id": [
+   256714,
+   740875,
+   263478,
+   13273,
+   214171,
+   1067549
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:19:54.039517Z",
+   "date_created": "2019-08-05T22:23:04.891892Z",
+   "score": {
+    "bm25": 124.38844
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276351",
+  "party": [
+   "Necrotizing Fasciitis Foundation",
+   "Juan Hernandez",
+   "Capital One Financial Corporation",
+   "Dorothy E Hauser",
+   "Julio Vera",
+   "Amazon Web Services Inc",
+   "Brendy Wolfram",
+   "Lindsay Welch",
+   "Michal J Hauser",
+   "Patrick Soto",
+   "Michael Hoskinson-Short",
+   "Capital One Bank (USA) NA",
+   "Timothy M Hayden",
+   "Capital One NA",
+   "Ernesto De La Fe",
+   "Kassandra McKown",
+   "Amazon.com Inc"
+  ],
+  "party_id": [
+   8601138,
+   8554253,
+   8554254,
+   8554255,
+   8554257,
+   8554258,
+   8554259,
+   8554260,
+   8554261,
+   8554262,
+   8554263,
+   8554264,
+   8554265,
+   8554266,
+   8554267,
+   8554268,
+   8554269
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16017302/15/hoskinson-short-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106125818,
+    "document_number": 15,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 15,
+    "filepath_local": null,
+    "id": 110419445,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-11-01T07:09:55.311066Z",
+     "date_created": "2019-10-17T15:21:41.037463Z"
+    },
+    "pacer_doc_id": "19708796364",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Michelle L. Peterson",
+  "assigned_to_id": 9635,
+  "attorney": [
+   "Marc A Wites",
+   "Amanda M Steiner",
+   "Daniel J. Oates",
+   "Matthew George",
+   "Kellen Andrew Hade",
+   "Jeffrey A. Ware",
+   "Steven A Miller",
+   "Jennifer Rust Murray",
+   "Mario M Choi",
+   "Beth E Terrell",
+   "Laurence D King"
+  ],
+  "attorney_id": [
+   5776352,
+   5776353,
+   5801122,
+   5801123,
+   5801124,
+   5801125,
+   6489206,
+   6489207,
+   6489208,
+   6489209,
+   5776351
+  ],
+  "caseName": "Desoer v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "15:1681 Fair Credit Reporting Act",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-05",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01223",
+  "docket_absolute_url": "/docket/16018083/desoer-v-capital-one-financial-corporation/",
+  "docket_id": 16018083,
+  "firm": [
+   "Miller Nash Graham & Dunn (Sea)",
+   "Wites Law Firm",
+   "Kaplan Fox and Kilsheimer LLP",
+   "Fenwick & West (Wa)",
+   "Terrell Marshall Law Group PLLC"
+  ],
+  "firm_id": [
+   293410,
+   224012,
+   99028,
+   214171,
+   14047
+  ],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:20:20.277614Z",
+   "date_created": "2019-08-06T01:25:12.226890Z",
+   "score": {
+    "bm25": 123.80153
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276368",
+  "party": [
+   "Capital One Financial Corporation",
+   "Michele Desoer",
+   "Amazon Web Services Inc"
+  ],
+  "party_id": [
+   8554240,
+   8554241,
+   8554242
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16018083/23/desoer-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106125782,
+    "document_number": 23,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 23,
+    "filepath_local": null,
+    "id": 110419409,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-07T03:34:40.491707Z",
+     "date_created": "2019-10-17T15:21:40.811079Z"
+    },
+    "pacer_doc_id": "19708796378",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Marsha J. Pechman",
+  "assigned_to_id": 2525,
+  "attorney": [
+   "Jeffrey A. Ware",
+   "Duncan Calvert Turner",
+   "Stephen R Basser",
+   "John G Emerson",
+   "Kellen Andrew Hade"
+  ],
+  "attorney_id": [
+   5840779,
+   5840780,
+   5822107,
+   5822108,
+   5822109
+  ],
+  "caseName": "Ababseh v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-30",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01397",
+  "docket_absolute_url": "/docket/16142507/ababseh-v-capital-one-financial-corporation/",
+  "docket_id": 16142507,
+  "firm": [
+   "Barrack Rodos & Bacine",
+   "Miller Nash Graham & Dunn (Sea)",
+   "Fenwick & West (Wa)",
+   "Emerson Scott LLP",
+   "Badgley Mullins Turner Pllc"
+  ],
+  "firm_id": [
+   574212,
+   305769,
+   99028,
+   303128,
+   214361,
+   214171
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T20:29:54.036005Z",
+   "date_created": "2019-08-31T00:22:18.585413Z",
+   "score": {
+    "bm25": 123.70123
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "277340",
+  "party": [
+   "Amazon.com Inc",
+   "Capital One Financial Corporation",
+   "Capital One Bank (USA) NA",
+   "Capital One NA",
+   "GitHub Inc",
+   "Amazon Web Services Inc",
+   "Amjed Ali Ababseh"
+  ],
+  "party_id": [
+   8631397,
+   8631398,
+   8631402,
+   8675512,
+   8675513,
+   8675514,
+   8675515
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16142507/13/ababseh-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106139609,
+    "document_number": 13,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 13,
+    "filepath_local": null,
+    "id": 110433311,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-12-27T16:27:58.946076Z",
+     "date_created": "2019-10-17T16:22:32.818721Z"
+    },
+    "pacer_doc_id": "19708796423",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Richard A. Jones",
+  "assigned_to_id": 1666,
+  "attorney": [
+   "Matthew M Guiney",
+   "Daniel J. Oates",
+   "Jeffrey A. Ware",
+   "Steven A Miller",
+   "Carl V Malmstrom",
+   "Henry Avery",
+   "Dan Drachler",
+   "Fred Taylor Isquith",
+   "Kellen Andrew Hade"
+  ],
+  "attorney_id": [
+   5797222,
+   5801128,
+   5801129,
+   5801130,
+   8775731,
+   8775732,
+   8775733,
+   8775734,
+   8775735
+  ],
+  "caseName": "Summer v. Amazon Web Services Inc",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-19",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01304",
+  "docket_absolute_url": "/docket/16078224/summer-v-amazon-web-services-inc/",
+  "docket_id": 16078224,
+  "firm": [
+   "Zwerling Schachter & Zwerling",
+   "Wolf Haldenstein Adler Freeman & Herz -NY",
+   "Lieff, Cabraser, Heimann & Bernstein, LLP (Wa)",
+   "Zwerling Schachter and Zwerling",
+   "Fenwick & West (Wa)",
+   "Miller Nash Graham & Dunn (Sea)",
+   "Wolf Haldenstein Adler Freeman & Herz LLC"
+  ],
+  "firm_id": [
+   366939,
+   99028,
+   884564,
+   13816,
+   214171,
+   277340,
+   282173,
+   276446
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:54:21.575196Z",
+   "date_created": "2019-08-19T22:19:07.081876Z",
+   "score": {
+    "bm25": 123.52057
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276847",
+  "party": [
+   "Capital One Financial Corporation",
+   "Steven Summer",
+   "Katelyn Vita",
+   "Amazon Web Services Inc"
+  ],
+  "party_id": [
+   8597266,
+   8597267,
+   8597268,
+   8597269
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16078224/20/summer-v-amazon-web-services-inc/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO -1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106139658,
+    "document_number": 20,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 20,
+    "filepath_local": null,
+    "id": 110433360,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-07T03:36:22.143235Z",
+     "date_created": "2019-10-17T16:22:33.349388Z"
+    },
+    "pacer_doc_id": "19708796391",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Barbara Jacobs Rothstein",
+  "assigned_to_id": 2796,
+  "attorney": [
+   "Kellen Andrew Hade",
+   "T David Copley",
+   "Steven A Miller",
+   "Lynn Lincoln Sarko",
+   "Cari Campen Laufenberg",
+   "Daniel J. Oates"
+  ],
+  "attorney_id": [
+   5859072,
+   5859073,
+   5859074,
+   5800238,
+   5800239,
+   5800240
+  ],
+  "caseName": "Most Wanted Motorsports LLC v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-19",
+  "dateTerminated": "2019-10-17",
+  "docketNumber": "2:19-cv-01303",
+  "docket_absolute_url": "/docket/16077727/most-wanted-motorsports-llc-v-capital-one-financial-corporation/",
+  "docket_id": 16077727,
+  "firm": [
+   "Keller Rohrback LLP (Wa)",
+   "Miller Nash Graham & Dunn (Sea)"
+  ],
+  "firm_id": [
+   357115,
+   99028
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:54:05.230108Z",
+   "date_created": "2019-08-19T21:18:24.889488Z",
+   "score": {
+    "bm25": 122.52926
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276841",
+  "party": [
+   "Does 1-10",
+   "Most Wanted Motorsports LLC",
+   "Amazon Web Services Inc",
+   "Capital One Financial Corporation",
+   "Paige A Thompson"
+  ],
+  "party_id": [
+   8599929,
+   8599930,
+   8599931,
+   8599932,
+   8599933
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16077727/14/most-wanted-motorsports-llc-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) (Entered: 10/17/2019)",
+    "docket_entry_id": 106139664,
+    "document_number": 14,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 14,
+    "filepath_local": null,
+    "id": 110433366,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2026-02-02T06:04:14.834896Z",
+     "date_created": "2019-10-17T16:22:33.416180Z"
+    },
+    "pacer_doc_id": "19708796386",
+    "page_count": null,
+    "short_description": "MDL Transfer Order",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Duncan Calvert Turner",
+   "John Givens Emerson , Jr.",
+   "Jeffrey A. Ware",
+   "Steven A. Miller",
+   "Daniel J. Oates",
+   "Kellen Andrew Hade",
+   "Stephen R. Basser"
+  ],
+  "attorney_id": [
+   7387371,
+   7387372,
+   7387373,
+   7387374,
+   7387375,
+   7387376,
+   7387377
+  ],
+  "caseName": "Ababseh v. Capital One Financial Corporation DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": null,
+  "docketNumber": "1:19-cv-02940",
+  "docket_absolute_url": "/docket/18372194/ababseh-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+  "docket_id": 18372194,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T13:04:44.512811Z",
+   "date_created": "2020-09-03T06:11:55.342581Z",
+   "score": {
+    "bm25": 119.85584
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456476",
+  "party": [
+   "Amjed Ali Ababseh",
+   "Capital One Bank (U.S.A.), N.A.,",
+   "Amazon.com Inc.",
+   "GitHub Inc",
+   "Amazon Web Services, Inc.",
+   "Capital One N.A.",
+   "Capital One Financial Corporation"
+  ],
+  "party_id": [
+   11263847,
+   11263848,
+   11263849,
+   11263850,
+   11263851,
+   11263852,
+   11263853
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372194/13/ababseh-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 183604909,
+    "document_number": 13,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 13,
+    "filepath_local": null,
+    "id": 189080582,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2025-03-08T23:10:17.678884Z",
+     "date_created": "2021-12-29T10:13:14.835220Z"
+    },
+    "pacer_doc_id": "189010019237",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Matthew George",
+   "Beth Ellen Terrell",
+   "Mario M. Choi",
+   "Amanda M. Steiner",
+   "Jennifer Rust Murray",
+   "Marc A. Wites",
+   "Kellen Andrew Hade",
+   "Laurence D. King",
+   "Jeffrey A. Ware",
+   "Daniel J. Oates",
+   "Steven A. Miller"
+  ],
+  "attorney_id": [
+   6489216,
+   6489217,
+   6489218,
+   6489219,
+   6489220,
+   6489210,
+   6489211,
+   6489212,
+   6489213,
+   6489214,
+   6489215
+  ],
+  "caseName": "Desoer v. Capital One Financial Corporation DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "15:1681 Fair Credit Reporting Act",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": "2020-06-24",
+  "docketNumber": "1:19-cv-02935",
+  "docket_absolute_url": "/docket/17459540/desoer-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+  "docket_id": 17459540,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Federal Question",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T08:24:15.259338Z",
+   "date_created": "2020-08-19T19:24:12.676878Z",
+   "score": {
+    "bm25": 118.3918
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456459",
+  "party": [
+   "Capital One Financial Corporation",
+   "Amazon Web Services, Inc.",
+   "Michele Desoer"
+  ],
+  "party_id": [
+   9840476,
+   9840477,
+   9840478
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/17459540/23/desoer-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 138255821,
+    "document_number": 23,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 23,
+    "filepath_local": null,
+    "id": 142870937,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-11T17:29:36.010682Z",
+     "date_created": "2020-08-19T19:24:13.540074Z"
+    },
+    "pacer_doc_id": "189010018077",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Roger M. Townsend",
+   "Jeffrey A. Ware",
+   "Daniel J. Oates",
+   "Joshua Heath Grabar",
+   "Steven A. Miller",
+   "Marc Howard Edelson",
+   "Kellen Andrew Hade"
+  ],
+  "attorney_id": [
+   7387364,
+   7387365,
+   7387366,
+   7387367,
+   7387368,
+   7387369,
+   7387370
+  ],
+  "caseName": "Hoskinson-Short v. Capital One Financial Corporation DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Breach of Contract",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": "2020-07-09",
+  "docketNumber": "1:19-cv-02934",
+  "docket_absolute_url": "/docket/18372410/hoskinson-short-v-capital-one-financial-corporation-do-not-file-in-this/",
+  "docket_id": 18372410,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T13:04:51.271898Z",
+   "date_created": "2020-09-03T06:11:55.745008Z",
+   "score": {
+    "bm25": 117.626854
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456458",
+  "party": [
+   "Dorothy E Hauser",
+   "Necrotizing Fasciitis Foundation",
+   "Capital One N.A.",
+   "Juan Hernandez",
+   "Kassandra McKown",
+   "Julio Vera",
+   "Amazon Web Services, Inc.",
+   "Capital One Financial Corporation",
+   "Michal J Hauser",
+   "Capital One Bank (U.S.A.), N.A.,",
+   "Timothy M Hayden",
+   "Amazon.com Inc.",
+   "Michael Hoskinson-Short",
+   "Lindsay Welch",
+   "Patrick Soto",
+   "Ernesto De La Fe",
+   "Brendy Wolfram"
+  ],
+  "party_id": [
+   11263840,
+   11263841,
+   11263842,
+   11263843,
+   11263844,
+   11263845,
+   11263846,
+   11263830,
+   11263831,
+   11263832,
+   11263833,
+   11263834,
+   11263835,
+   11263836,
+   11263837,
+   11263838,
+   11263839
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372410/15/hoskinson-short-v-capital-one-financial-corporation-do-not-file-in-this/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 183604686,
+    "document_number": 15,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 15,
+    "filepath_local": null,
+    "id": 189080359,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-18T14:42:15.109984Z",
+     "date_created": "2021-12-29T10:12:04.024435Z"
+    },
+    "pacer_doc_id": "189010017973",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Cari Campen Laufenberg",
+   "Steven A. Miller",
+   "Daniel J. Oates",
+   "T. David Copley",
+   "Lynn Lincoln Sarko",
+   "Kellen Andrew Hade"
+  ],
+  "attorney_id": [
+   7387381,
+   7387382,
+   7387383,
+   7387384,
+   7387385,
+   7387386
+  ],
+  "caseName": "Most Wanted Motorsports LLC v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": null,
+  "docketNumber": "1:19-cv-02936",
+  "docket_absolute_url": "/docket/18372327/most-wanted-motorsports-llc-v-capital-one-financial-corporation/",
+  "docket_id": 18372327,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T13:04:48.748798Z",
+   "date_created": "2020-09-03T06:11:55.615049Z",
+   "score": {
+    "bm25": 117.08799
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456460",
+  "party": [
+   "Most Wanted Motorsports LLC",
+   "Paige A Thompson",
+   "Amazon Web Services, Inc.",
+   "Capital One Financial Corporation",
+   "Does 1-10"
+  ],
+  "party_id": [
+   11263861,
+   11263862,
+   11263863,
+   11263864,
+   11263865
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372327/14/most-wanted-motorsports-llc-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO-1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 183605144,
+    "document_number": 14,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 14,
+    "filepath_local": null,
+    "id": 189080817,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-18T14:42:28.161609Z",
+     "date_created": "2021-12-29T10:14:26.593208Z"
+    },
+    "pacer_doc_id": "189010018149",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Jeffrey D. Pilgrim",
+   "Richard E. Shevitz",
+   "Lisa Marie La Fornara",
+   "Lynn Toops",
+   "James J. Morrissey"
+  ],
+  "attorney_id": [
+   13797699,
+   13797700,
+   13797701,
+   13797703,
+   13797704
+  ],
+  "caseName": "JACOBS v. CAPITAL ONE FINANCIAL CORPORATION DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": "2022-09-13",
+  "docketNumber": "1:19-cv-02942",
+  "docket_absolute_url": "/docket/18372125/jacobs-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+  "docket_id": 18372125,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2026-07-03T11:33:38.605667Z",
+   "date_created": "2020-09-03T06:11:55.068110Z",
+   "score": {
+    "bm25": 116.61823
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456480",
+  "party": [
+   "Capital One Financial Corporation",
+   "Capital One N.A.",
+   "Capital One Bank (U.S.A.), N.A.,",
+   "Jeffrey Jacobs"
+  ],
+  "party_id": [
+   20134968,
+   20134969,
+   20134971,
+   20134966
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372125/12/jacobs-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "CLOSED TRANSFER to the Eastern District of Virginia IN RE: CAPITAL ONE CONSUMER DATA SECURITY BREACH LITIGATION MDL No. 2915, per Certified Transfer Order (CTO-1). (MAC) [Transferred from Indiana Southern on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 469685192,
+    "document_number": 12,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 12,
+    "filepath_local": null,
+    "id": 485032322,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2026-07-03T11:33:44.999765Z",
+     "date_created": "2026-07-03T11:33:44.936613Z"
+    },
+    "pacer_doc_id": "189010019742",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "380 Other personal property damage",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Matthew M. Guiney",
+   "Fred Taylor Isquith",
+   "Jeffrey A. Ware",
+   "Henry Jacob Avery",
+   "Carl V. Malmstrom",
+   "Daniel J. Oates",
+   "Steven A. Miller",
+   "Kellen Andrew Hade",
+   "Dan Drachler"
+  ],
+  "attorney_id": [
+   7387392,
+   7387393,
+   7387394,
+   7387395,
+   7387387,
+   7387388,
+   7387389,
+   7387390,
+   7387391
+  ],
+  "caseName": "Summer v. Amazon Web Services Inc DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1331 Federal Question",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": "2020-07-13",
+  "docketNumber": "1:19-cv-02937",
+  "docket_absolute_url": "/docket/18372307/summer-v-amazon-web-services-inc-do-not-file-in-this-case-e-file-in/",
+  "docket_id": 18372307,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T13:04:48.034666Z",
+   "date_created": "2020-09-03T06:11:55.569967Z",
+   "score": {
+    "bm25": 116.537476
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456470",
+  "party": [
+   "Katelyn Vita",
+   "Capital One Financial Corporation",
+   "Steven Summer",
+   "Amazon Web Services, Inc."
+  ],
+  "party_id": [
+   11263866,
+   11263867,
+   11263868,
+   11263869
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372307/20/summer-v-amazon-web-services-inc-do-not-file-in-this-case-e-file-in/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CT -1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 183605204,
+    "document_number": 20,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 20,
+    "filepath_local": null,
+    "id": 189080878,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-18T14:42:29.502848Z",
+     "date_created": "2021-12-29T10:14:27.520659Z"
+    },
+    "pacer_doc_id": "189010018844",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Steven A. Miller",
+   "Daniel J. Oates",
+   "Shelby R. Smith",
+   "Jeffrey A. Ware",
+   "Kellen Andrew Hade",
+   "Thomas E. Loeser"
+  ],
+  "attorney_id": [
+   5921231,
+   5921232,
+   5921233,
+   5921234,
+   5921235,
+   5921236
+  ],
+  "caseName": "Curtis v. Capital One Financial Corporation DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Fraud",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-18",
+  "dateTerminated": "2020-07-15",
+  "docketNumber": "1:19-cv-02939",
+  "docket_absolute_url": "/docket/16366344/curtis-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+  "docket_id": 16366344,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T22:36:30.554612Z",
+   "date_created": "2019-10-22T21:34:24.546058Z",
+   "score": {
+    "bm25": 115.949394
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456475",
+  "party": [
+   "Capital One Financial Corporation",
+   "Jarod Thrush",
+   "Dustin Curtis",
+   "Amazon Web Services, Inc.",
+   "Ursula N Riley",
+   "Howard Chen"
+  ],
+  "party_id": [
+   8861201,
+   8861202,
+   8861203,
+   8861204,
+   8861205,
+   8861206
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16366344/12/curtis-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "MDL 2915 CONDITIONAL TRANSFER ORDER (CTO -1); In re Capital One Consumer Data Security Breach Litigation; Eastern District of Virginia; assigned to Judge Anthony J. Trenga. (PM) [Transferred from Washington Western on 10/18/2019.] (Entered: 10/17/2019)",
+    "docket_entry_id": 106756496,
+    "document_number": 12,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-10-17",
+    "entry_number": 12,
+    "filepath_local": null,
+    "id": 111054832,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-07T04:55:42.503060Z",
+     "date_created": "2019-10-22T21:34:24.760266Z"
+    },
+    "pacer_doc_id": "189010019148",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Barbara Jacobs Rothstein",
+  "assigned_to_id": 2796,
+  "attorney": [
+   "Lynn Lincoln Sarko",
+   "Daniel J. Oates",
+   "Kellen Andrew Hade",
+   "Steven A Miller",
+   "T David Copley",
+   "Cari Campen Laufenberg"
+  ],
+  "attorney_id": [
+   5834836,
+   5834837,
+   5808377,
+   5808378,
+   5808379,
+   5808380
+  ],
+  "caseName": "Fadullon v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-07-30",
+  "dateTerminated": "2019-10-15",
+  "docketNumber": "2:19-cv-01189",
+  "docket_absolute_url": "/docket/15991274/fadullon-v-capital-one-financial-corporation/",
+  "docket_id": 15991274,
+  "firm": [
+   "Keller Rohrback LLP (Wa)",
+   "Miller Nash Graham & Dunn (Sea)"
+  ],
+  "firm_id": [
+   357115,
+   99028,
+   973399
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:05:56.530343Z",
+   "date_created": "2019-07-31T06:18:09.242249Z",
+   "score": {
+    "bm25": 112.076546
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276240",
+  "party": [
+   "Paige A Thompson",
+   "Does 1-10",
+   "Amazon Web Services Inc",
+   "Capital One Financial Corporation",
+   "Michael Fadullon"
+  ],
+  "party_id": [
+   8609782,
+   8609783,
+   8609784,
+   8609785,
+   8609786
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/15991274/4/fadullon-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE of Motion for Transfer of Actions to the Western District of Washington for Consolidation filed by attorney Cari Campen Laufenberg, in re: Capital One Consumer Data Security Breach Litigation, MDL Case Pending No. 50 (TH) (Entered: 08/02/2019)",
+    "docket_entry_id": 97233087,
+    "document_number": 4,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-01",
+    "entry_number": 4,
+    "filepath_local": null,
+    "id": 101456463,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-05T15:17:09.544305Z",
+     "date_created": "2019-08-02T17:23:46.379473Z"
+    },
+    "pacer_doc_id": "19708682625",
+    "page_count": null,
+    "short_description": "Notice-Other",
+    "snippet": ""
+   },
+   {
+    "absolute_url": "/docket/15991274/5/fadullon-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE of Motion of District of Columbia Plaintiffs for Transfer to and Consolidation or Coordination of Related Actions in the District of the District of Columbia filed by attorney Linda P. Nussbaum, in re: Capital One Consumer Data Security Breach Litigation, MDL No. 2915 (TH) (Entered: 08/07/2019)",
+    "docket_entry_id": 97821567,
+    "document_number": 5,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-06",
+    "entry_number": 5,
+    "filepath_local": null,
+    "id": 102049978,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-05T17:47:51.020053Z",
+     "date_created": "2019-08-07T23:22:46.105275Z"
+    },
+    "pacer_doc_id": "19708689926",
+    "page_count": null,
+    "short_description": "Notice-Other",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Anthony John Trenga",
+  "assigned_to_id": 3260,
+  "attorney": [
+   "Lynn Lincoln Sarko",
+   "Daniel J. Oates",
+   "Kellen Andrew Hade",
+   "Cari Campen Laufenberg",
+   "Steven A. Miller",
+   "T. David Copley"
+  ],
+  "attorney_id": [
+   7412683,
+   7412684,
+   7412685,
+   7412686,
+   7412687,
+   7412688
+  ],
+  "caseName": "Fadullon v. Capital One Financial Corporation DO NOT FILE IN THIS CASE, E-FILE in 1:19md2915.",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, E.D. Virginia",
+  "court_citation_string": "E.D. Va.",
+  "court_id": "vaed",
+  "dateArgued": null,
+  "dateFiled": "2019-10-15",
+  "dateTerminated": "2020-04-01",
+  "docketNumber": "1:19-cv-02926",
+  "docket_absolute_url": "/docket/18372666/fadullon-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+  "docket_id": 18372666,
+  "firm": [],
+  "firm_id": [],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-08T13:04:59.862054Z",
+   "date_created": "2020-09-03T06:11:56.187998Z",
+   "score": {
+    "bm25": 111.21572
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "456354",
+  "party": [
+   "Amazon Web Services, Inc.",
+   "Paige A Thompson",
+   "Does 1-10",
+   "Capital One Financial Corporation",
+   "Michael Fadullon"
+  ],
+  "party_id": [
+   11288672,
+   11288673,
+   11288674,
+   11288675,
+   11288676
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/18372666/4/fadullon-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE of Motion for Transfer of Actions to the Western District of Washington for Consolidation filed by attorney Cari Campen Laufenberg, in re: Capital One Consumer Data Security Breach Litigation, MDL Case Pending No. 50 (TH) [Transferred from Washington Western on 10/15/2019.] (Entered: 08/02/2019)",
+    "docket_entry_id": 184796192,
+    "document_number": 4,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-01",
+    "entry_number": 4,
+    "filepath_local": null,
+    "id": 190287975,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-18T18:25:15.113568Z",
+     "date_created": "2022-01-13T07:49:25.812068Z"
+    },
+    "pacer_doc_id": "189010009362",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   },
+   {
+    "absolute_url": "/docket/18372666/5/fadullon-v-capital-one-financial-corporation-do-not-file-in-this-case/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE of Motion of District of Columbia Plaintiffs for Transfer to and Consolidation or Coordination of Related Actions in the District of the District of Columbia filed by attorney Linda P. Nussbaum, in re: Capital One Consumer Data Security Breach Litigation, MDL No. 2915 (TH) [Transferred from Washington Western on 10/15/2019.] (Entered: 08/07/2019)",
+    "docket_entry_id": 184796193,
+    "document_number": 5,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-06",
+    "entry_number": 5,
+    "filepath_local": null,
+    "id": 190287976,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-18T18:25:15.201529Z",
+     "date_created": "2022-01-13T07:49:25.842843Z"
+    },
+    "pacer_doc_id": "189010009365",
+    "page_count": null,
+    "short_description": "",
+    "snippet": ""
+   }
+  ],
+  "referredTo": "John F. Anderson",
+  "referred_to_id": 9613,
+  "suitNature": "190 Contract: Other",
+  "trustee_str": null
+ },
+ {
+  "assignedTo": "Mary Alice Theiler",
+  "assigned_to_id": 9637,
+  "attorney": [
+   "Daniel J. Oates",
+   "Kaleigh N.B. Powell",
+   "E. Michelle Drake",
+   "Adam J Levitt",
+   "Theodore F DiSalvo",
+   "James J Pizzirusso",
+   "Melissa S Weiner",
+   "Andrew N. Friedman",
+   "Joseph C Bourne",
+   "Kim D Stephens",
+   "Amy Elisabeth Keller",
+   "Kellen Andrew Hade",
+   "Jason T Dennett",
+   "Steven A Miller",
+   "Swathi Bojedla",
+   "Daniel L Warshaw",
+   "Matthew A Pearson"
+  ],
+  "attorney_id": [
+   5817216,
+   5817217,
+   5813545,
+   5813546,
+   5813547,
+   5813548,
+   5813549,
+   5813550,
+   5813551,
+   5813552,
+   5813553,
+   5813554,
+   5813555,
+   5813556,
+   5813557,
+   5813558,
+   5813559
+  ],
+  "caseName": "Ouellette v. Capital One Financial Corporation",
+  "case_name_full": "",
+  "cause": "28:1332 Diversity-Other Contract",
+  "chapter": null,
+  "court": "District Court, W.D. Washington",
+  "court_citation_string": "W.D. Wash.",
+  "court_id": "wawd",
+  "dateArgued": null,
+  "dateFiled": "2019-08-01",
+  "dateTerminated": "2019-10-11",
+  "docketNumber": "2:19-cv-01203",
+  "docket_absolute_url": "/docket/16005213/ouellette-v-capital-one-financial-corporation/",
+  "docket_id": 16005213,
+  "firm": [
+   "Berger & Montague, P.C.",
+   "Hausfeld LLP DC",
+   "Miller Nash Graham & Dunn (Sea)",
+   "Cohen Milstein Sellers & Toll PLLC",
+   "Pearson Simon Warshaw LLP",
+   "Dicello Levitt & Casey LLC",
+   "Pearson Simon & Warshaw LLP"
+  ],
+  "firm_id": [
+   102372,
+   42535,
+   20904,
+   573482,
+   99028,
+   21622,
+   339353,
+   436922
+  ],
+  "jurisdictionType": "Diversity",
+  "juryDemand": "Plaintiff",
+  "meta": {
+   "timestamp": "2025-03-07T19:13:22.058675Z",
+   "date_created": "2019-08-01T22:24:41.980351Z",
+   "score": {
+    "bm25": 108.70825
+   },
+   "more_docs": false
+  },
+  "pacer_case_id": "276311",
+  "party": [
+   "Capital One Financial Corporation",
+   "Gregg Stappas",
+   "Capital One Bank (USA) NA",
+   "Jesi An E Rodriguez",
+   "CB Home Inc",
+   "Nathan Ouellette",
+   "Amazon.com Inc",
+   "Amazon Web Services Inc",
+   "Capital One NA"
+  ],
+  "party_id": [
+   8617154,
+   8617155,
+   8617156,
+   8617157,
+   8617158,
+   8617159,
+   8617160,
+   8617161,
+   8617162
+  ],
+  "recap_documents": [
+   {
+    "absolute_url": "/docket/16005213/26/ouellette-v-capital-one-financial-corporation/",
+    "attachment_number": null,
+    "cites": [],
+    "description": "NOTICE of Motion of District of Columbia Plaintiffs for Transfer to and Consolidation or Coordination of Related Actions in the District of the District of Columbia filed by attorney Linda P. Nussbaum, in re: Capital One Consumer Data Security Breach Litigation, MDL No. 2915 (TH) (Entered: 08/07/2019)",
+    "docket_entry_id": 97821561,
+    "document_number": 26,
+    "document_type": "PACER Document",
+    "entry_date_filed": "2019-08-06",
+    "entry_number": 26,
+    "filepath_local": null,
+    "id": 102049972,
+    "is_available": false,
+    "meta": {
+     "timestamp": "2024-05-05T17:47:50.795811Z",
+     "date_created": "2019-08-07T23:22:45.986191Z"
+    },
+    "pacer_doc_id": "19708689936",
+    "page_count": null,
+    "short_description": "Notice-Other",
+    "snippet": ""
+   }
+  ],
+  "referredTo": null,
+  "referred_to_id": null,
+  "suitNature": "Contract: Other",
+  "trustee_str": null
+ }
+]

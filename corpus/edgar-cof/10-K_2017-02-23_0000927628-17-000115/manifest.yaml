@@ -1,0 +1,33 @@
+doc_id: edgar-cof/10-K_2017-02-23_0000927628-17-000115
+source: edgar-cof
+source_tier: A
+doc_type: 10-K
+title: 10-K filed 2017-02-23 (period 2016-12-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000115/cof-12312016x10k.htm
+retrieved_at: '2026-08-20T02:47:32Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-12312016x10k.htm
+  role: raw
+  sha256: 96e4f5363f939364862c86f8beffcc04a0cc441cf24d211a504fa94f92864195
+  size: 11031819
+  stored: corpus
+- name: cof-12312016x10kxex21.htm
+  role: exhibit
+  sha256: f43baaac1082b76f41bd5a1ccbdbc8ecfff09c83b47efc4b34e1fd8d0098dd07
+  size: 5872
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: a42564e63cb0e0a40c6ac691cef53c89e4d97e5944d5dc000fcb6eb874163fa7
+  size: 927961
+  stored: corpus
+filed_date: '2017-02-23'
+period_end: '2016-12-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000115
+  form: 10-K
+  items: ''

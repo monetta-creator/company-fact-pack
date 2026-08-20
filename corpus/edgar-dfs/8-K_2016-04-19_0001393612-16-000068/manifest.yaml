@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/8-K_2016-04-19_0001393612-16-000068
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-04-19 (period 2016-04-19)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361216000068/a1q168k.htm
+retrieved_at: '2026-08-20T02:56:07Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a1q168k.htm
+  role: raw
+  sha256: d5face8bd881c475a4fceeacc3ec6a7f41bd989d32d6bc2feb0ebc54917f3646
+  size: 36210
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 675e83a0e4bef57fcc9ce202975d62c56a5839bf5633d1b2f4e7cc953ef0e105
+  size: 3482
+  stored: corpus
+filed_date: '2016-04-19'
+period_end: '2016-04-19'
+extraction_method: lxml
+meta:
+  accession: 0001393612-16-000068
+  form: 8-K
+  items: 2.02,9.01

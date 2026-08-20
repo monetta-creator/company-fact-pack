@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2025-11-03_0000927628-25-000276
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2025-11-03 (period 2025-09-30)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762825000276/cof-20250930.htm
+retrieved_at: '2026-08-20T02:31:03Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20250930.htm
+  role: raw
+  sha256: 74c00a2cd655ecc4a691980483f423f14c4d23a3923e5c4011791e8066dcbb72
+  size: 8534284
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e372af1948cb42dc62a494eeb74545fc8760cf564f146081a4f8572e64f1d57b
+  size: 722770
+  stored: corpus
+filed_date: '2025-11-03'
+period_end: '2025-09-30'
+extraction_method: lxml
+meta:
+  accession: 0000927628-25-000276
+  form: 10-Q
+  items: ''

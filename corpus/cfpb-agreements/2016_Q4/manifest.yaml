@@ -1,0 +1,160 @@
+doc_id: cfpb-agreements/2016_Q4
+source: cfpb-agreements
+source_tier: A
+doc_type: card-agreements
+title: CFPB card agreements 2016_Q4 (COF + Discover)
+url: https://files.consumerfinance.gov/a/assets/bulk_agreements/2016_Q4.zip
+retrieved_at: '2026-08-20T02:44:35Z'
+entity_ids:
+- cof
+- dfs
+fetcher: cfpb_agreements v1
+files:
+- name: Capital_One_Bank__Capital_One_Bank_-_Credit_Card_Agreement_for_Consumer_Cards.pdf
+  role: raw
+  sha256: 49a1768976339297142ca4883637ff6291b9129368f7670517aa2d9eff71fb9c
+  size: 160836
+  stored: corpus
+- name: Capital_One_Bank__Capital_One_Bank_-_Credit_Card_Agreement_for_Consumer_Secured_Cards.pdf
+  role: raw
+  sha256: 57002047e2fc12baf6df21942aec1ee9414479d015998f8a044a303278acacf4
+  size: 191221
+  stored: corpus
+- name: Capital_One_Bank__Capital_One_Bank_-_Credit_Card_Agreement_for_VISA_Signature_and_World_MasterCard_Cards.pdf
+  role: raw
+  sha256: 82b6840d9fba7c49148f45bf00fa9f7e9ab6abf338e92ac111ed98efcc8a3f6e
+  size: 156318
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Bombardier_Cards.pdf
+  role: raw
+  sha256: c36ba03f1a2abf972a3ff87a0084119e6deabe25fbc31fccd635fb63f67ba795
+  size: 176899
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Consumer_Cards.pdf
+  role: raw
+  sha256: 95b00a9741dc5b88fae289e4557ab01a8c08571d2d127961c78f0f5c2ea77ad4
+  size: 184872
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Costco_Cards.pdf
+  role: raw
+  sha256: 9edfb63c188eef3a0135c8a81a7424287270cfc1ce137654898a07c5ba107343
+  size: 221030
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Darvin_Furniture_Cards.pdf
+  role: raw
+  sha256: 0a9bc6af2ddf8cb159ff3f6abb04a79ca2aa8ccc715456f61addfbefaf5329e9
+  size: 174067
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Furniture_Row_Cards.pdf
+  role: raw
+  sha256: e75fecbfb1ef4ae8f33809f7f60502c296019f5c1d5834bb55c9cf1e8e59820c
+  size: 217518
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_GM_Cards.pdf
+  role: raw
+  sha256: 07f897259e032e18b406047b3b79fbbf2334744c58e00bd5e825814f767fef43
+  size: 187779
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_GM_Extended_Family_Card.pdf
+  role: raw
+  sha256: 929672ec11f4abc01b6c419f4729c0218c08b2139b37342f0675b37bce469fcb
+  size: 189074
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Helzberg_Diamonds_Cards.pdf
+  role: raw
+  sha256: 1551fb198e8027ca0679e66dcd3c5d2cb3d541c65ae451aa378d13ec9ffb4cc8
+  size: 174799
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Jordan_s_Furniture_Cards.pdf
+  role: raw
+  sha256: 5cd254441529f4dd2cdb5df7b3ae66c4d1977bfdcc110afd30174f8c6dc623eb
+  size: 171555
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Justice_Cards.pdf
+  role: raw
+  sha256: 7d8eadfa972cd4bcad67c718dcb7e58540b76e8a2174ad9ed59d1cf7d67eec01
+  size: 150992
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Kawasaki_Good_Times_Cards.pdf
+  role: raw
+  sha256: 5f65012e6b272f254fc4351b54bb013e8f1b67514261c9d25b409fabe64400d7
+  size: 177673
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Kohl_s.pdf
+  role: raw
+  sha256: d8a2a7365f01f853e156480d4fb92213ef3d2539792eaeadeb01ca71fca886b6
+  size: 653389
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Lord_Taylor_Cards.pdf
+  role: raw
+  sha256: 2aea84646afc674c3cd658e0058b9ab5423e09e59324b210eb960bbd488c23a7
+  size: 151532
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Menards_Cards.pdf
+  role: raw
+  sha256: 86d4810fba7e1918e11919df9fa1cb8afc52371d907085bfe6002a465548cf14
+  size: 174804
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Neiman_Marcus-Bergdorf_Goodman.pdf
+  role: raw
+  sha256: 1f4654628d82c315a1506c3b6834ce9cee5a2c3b0ba0ad9aefd84c8c339ccd5a
+  size: 174820
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Saks_Retail_Cards.pdf
+  role: raw
+  sha256: d214207595b5589b444f9f675549ddf08efd68e2f75a20f572e2b1089d7284d4
+  size: 181911
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Saks_World_Cards.pdf
+  role: raw
+  sha256: 641575862dd655f37b40307f7d242d2dcd355565c56eb41ff4bd50da5adc66d5
+  size: 192576
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Teamsters_Cards.pdf
+  role: raw
+  sha256: c2b1cabe6894fb11db094dfa65dc403e60c863fb435cc88bc3c31e0f55d5173a
+  size: 190025
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Union_Privilege_Cards.pdf
+  role: raw
+  sha256: ec033c2db9d224d865b3c8c90fcb282d5d17e4a8597fb2e89452c975183633c2
+  size: 187135
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_VISA_Signature_and_World_MasterCard.pdf
+  role: raw
+  sha256: c2948fecf112ee2dd052d1ecff99c0df6e292f762a8ec38db032b7d603d4295e
+  size: 185216
+  stored: corpus
+- name: Capital_One__Capital_One_-_Credit_Card_Agreement_for_Walter_E._Smithe_Furniture_Cards.pdf
+  role: raw
+  sha256: 955de6ee312100ae2e24bce11f232fbaea54b239f13ae2957e3e16846d885ce6
+  size: 174565
+  stored: corpus
+- name: Discover_Bank__Discover_Bank_-_Near_Prime_Combined_Pricing_Schedule_and_Cardmember_Agreement_SC_.pdf
+  role: raw
+  sha256: 06561ae6ed6d556c5155971ac743a7d2f854ced240c7c772723025dec967d79a
+  size: 357140
+  stored: corpus
+- name: Discover_Bank__Discover_Bank_-_Near_Prime_Combined_Pricing_Schedule_and_Cardmember_Agreement.pdf
+  role: raw
+  sha256: c29686cbeba10c2028e73676c9420a2e697f29a1df0ef14b15a7de9de194dec7
+  size: 2042768
+  stored: corpus
+- name: Discover_Bank__Discover_Bank_-_Prime_Combined_Pricing_Schedule_and_Cardmember_Agreement.pdf
+  role: raw
+  sha256: 6342a98aa2899adb5b7b04f4429777241b4f0fa3fa8a4e549ad95f6783340379
+  size: 2036323
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: f2fe98ccc7087e6626236c477a6c7335e72cdfafcaa625ee34228c0043243b35
+  size: 878150
+  stored: corpus
+period_end: '2016-12-28'
+meta:
+  quarter: 2016_Q4
+  issuers:
+  - Capital One
+  - Capital One Bank
+  - Discover Bank
+  pdfs: 27

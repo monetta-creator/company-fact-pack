@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/DEFM14A_2025-01-06_0001193125-25-002190
+source: edgar-dfs
+source_tier: A
+doc_type: DEFM14A
+title: DEFM14A filed 2025-01-06
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312525002190/d896014ddefm14a.htm
+retrieved_at: '2026-08-20T02:33:32Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d896014ddefm14a.htm
+  role: raw
+  sha256: 5a5083402acc4e6ea0ec8e3fc5d0839c5b617309993c65747dcfc9309b544ac7
+  size: 2752281
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 8a018e133da2d59e3d86148850aa441920d820d699a287d8896cf12245aee403
+  size: 1266984
+  stored: corpus
+filed_date: '2025-01-06'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-002190
+  form: DEFM14A
+  items: ''

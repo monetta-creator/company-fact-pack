@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2018-05-15_0001163321-18-000014
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2018-05-15 (period 2018-04-30)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332118000014/form10-dapr2018.htm
+retrieved_at: '2026-08-20T02:57:25Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dapr2018.htm
+  role: raw
+  sha256: 6422eb47a190892830359de9bc6d09ba428430c85fc865058937c675f218b765
+  size: 41423
+  stored: corpus
+- name: exhibit9912002-ccapr2018.htm
+  role: exhibit
+  sha256: cef21b54847b7f8872f924ce63f7fb354384eca996ee244b55c85fd6d407343b
+  size: 205452
+  stored: corpus
+- name: exhibit992nhsapr2018.htm
+  role: exhibit
+  sha256: 7d65149df5ce9d4fbd58712fdc08fc98e001cae64210879b8ba6f6fadf2e9d04
+  size: 569293
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1e903500f5ca9ad38e0ee3cba7512952edf8cb8490f350ed5e9c4ebc7348c593
+  size: 44323
+  stored: corpus
+filed_date: '2018-05-15'
+period_end: '2018-04-30'
+extraction_method: lxml
+meta:
+  accession: 0001163321-18-000014
+  form: 10-D
+  items: ''

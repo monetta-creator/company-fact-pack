@@ -1,0 +1,114 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2019-09-10 2019-09-10 0000927628 us-gaap:CommonStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesBPreferredStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesCPreferredStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesDPreferredStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesFPreferredStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesGPreferredStockMember 2019-09-10 2019-09-10 0000927628 us-gaap:SeriesHPreferredStockMember 2019-09-10 2019-09-10 0000927628 cof:M0.800SeniorNotesDue2024Member 2019-09-10 2019-09-10 0000927628 cof:M1.650SeniorNotesDue2029Member 2019-09-10 2019-09-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+September 10, 2019
+
+Date of report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | Commission File Number |  | (I.R.S. Employer Identification No.)
+1680 Capital One Drive , McLean , Virginia |  |  |  | 22102
+(Address of principal executive offices) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares of Series B Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRP |  | New York Stock Exchange
+Depositary Shares of Series C Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRC |  | New York Stock Exchange
+Depositary Shares of Series D Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRD |  | New York Stock Exchange
+Depositary Shares of Series F Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRF |  | New York Stock Exchange
+Depositary Shares of Series G Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRG |  | New York Stock Exchange
+Depositary Shares of Series H Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) |  | COF PRH |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+(1) Each depositary share represents a 1/40th interest in a share of the respective series of preferred stock.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.03 | Material Modification to Rights of Security Holders.
+
+On September 11, 2019, Capital One Financial Corporation (the “Company”) issued and sold 60,000,000 depositary shares (“Depositary Shares”), each representing a 1/40 th ownership interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I, $0.01 par value (the “Series I Preferred Stock”), with a liquidation preference of $25 per Depositary Share (equivalent to $1,000 per share of Series I Preferred Stock). The Company filed a Certificate of Designations (the “Certificate of Designations”) with the Secretary of State of the State of Delaware, establishing the voting rights, powers, preferences and privileges, and the relative, participating, optional or other rights, and the qualifications, limitations or restrictions thereof, of the Series I Preferred Stock on September 10, 2019. Holders of the Depositary Shares will be entitled to all proportional rights and preferences of the Series I Preferred Stock (including dividend, voting, redemption and liquidation rights).
+
+Under the terms of the Series I Preferred Stock, the ability of the Company to pay dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the Series I Preferred Stock, is subject to restrictions in the event that the Company does not declare and either pay or set aside a sum sufficient for payment of dividends on the Series I Preferred Stock for the immediately preceding dividend period.
+
+The description of the terms of the Series I Preferred Stock is qualified in its entirety by reference to the Certificate of Designations, which is included as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+Item 5.03 | Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+The Certificate of Designations became effective upon filing with the Secretary of State of the State of Delaware and it amends the Company’s Restated Certificate of Incorporation. The terms of the Series I Preferred Stock are more fully described in Item 3.03 of this Current Report on Form 8-K and the Certificate of Designations which is included as Exhibit 3.1 to this Current Report on Form 8-K, both of which are incorporated by reference herein.
+
+Item 8.01 | Other Events.
+
+On September 4, 2019, the Company entered into an Underwriting Agreement (the “Underwriting Agreement”) with BofA Securities, Inc., J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, UBS Securities LLC and Wells Fargo Securities, LLC, as the representatives of the several underwriters named therein (collectively, the “Underwriters”), pursuant to which the Company agreed to sell to the Underwriters 60,000,000 Depositary Shares, each representing a 1/40 th ownership interest in a share of the Series I Preferred Stock.
+
+The Underwriting Agreement contains customary representations, warranties and agreements of the Company, conditions to closing, indemnification rights and obligations of the parties, and termination provisions. Under the terms of the Underwriting Agreement, the Company agreed to indemnify the Underwriters against certain specified types of liabilities, including liabilities under the Securities Act of 1933, as amended, and to contribute to payments the Underwriters may be required to make in respect of these liabilities.
+
+The net proceeds of the offering of the 60,000,000 Depositary Shares were approximately $1.462 billion, after deducting underwriting commissions and estimated offering expenses. The offering was made pursuant to the prospectus supplement dated September 4, 2019 and the accompanying prospectus dated March 12, 2018, filed with the Securities and Exchange Commission pursuant to the Company’s effective registration statement on Form S-3 (File No. 333-223608) (the “Registration Statement”). The following documents are being filed with this Current Report on Form 8-K and are incorporated by reference into the Registration Statement: (a) the Underwriting Agreement, (b) the Certificate of Designations, (c) the Deposit Agreement dated September 11, 2019, between the Company, Computershare Trust Company, N.A., as Depositary, Computershare Inc. and the holders from time to time of the depositary receipts described therein, to which the Deposit Agreement and Form of Depositary Receipt is attached as Exhibit A and (d) a validity opinion with respect to the Depositary Shares and the Series I Preferred Stock.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  |  | Description of Exhibit
+ | 1.1 |  |  | Underwriting Agreement, dated September 4, 2019
+ | 3.1 |  |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I, dated September 10, 2019
+ | 4.1 |  |  | Deposit Agreement, dated September 11, 2019
+ | 5.1 |  |  | Opinion of Gibson, Dunn & Crutcher LLP
+ | 23.1 |  |  | Consent of Gibson, Dunn & Crutcher LLP (included in Exhibit 5.1)
+ | 104 |  |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Dated: September 11, 2019 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  | Name: |  | Matthew W. Cooper
+ |  |  |  | Title: |  | General Counsel
+[/TABLE]

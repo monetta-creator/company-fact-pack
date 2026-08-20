@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2019-02-15_0001163321-19-000008
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2019-02-15 (period 2019-01-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332119000008/form10-djan2019.htm
+retrieved_at: '2026-08-20T02:57:18Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-djan2019.htm
+  role: raw
+  sha256: 159635c56d35821ef9f715c0a9fd026e38f61938aaeeeb68c30038c4cbf197b0
+  size: 41486
+  stored: corpus
+- name: exhibit9912002-ccjan2019.htm
+  role: exhibit
+  sha256: cacad358728ea2e695d3a6bdd87a527dd3ec5d5ba3b42fb414889650dfe79a99
+  size: 205158
+  stored: corpus
+- name: exhibit992nhsjan2019.htm
+  role: exhibit
+  sha256: 19ce1ceee816441dcd844f1fe472cf1e1512ad6c950f9edba1e16e40da7d82e0
+  size: 567657
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: dd12ca68f7d8e79bdc2763fedb71b92c8169b545159765b86a522ae7ab980aba
+  size: 44470
+  stored: corpus
+filed_date: '2019-02-15'
+period_end: '2019-01-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-19-000008
+  form: 10-D
+  items: ''

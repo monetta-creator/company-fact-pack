@@ -1,0 +1,286 @@
+false 0001393612 0001393612 2024-11-19 2024-11-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 25, 2024 ( November 19, 2024 )
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☒ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+On November 19, 2024, Discover Financial Services (the “Company”) received a notice (the “NYSE Notice”) from the New York Stock Exchange (the “NYSE”) stating that the Company is not in compliance with Section 802.01E of the NYSE Listed Company Manual as a result of its failure to timely file its Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 with the U.S. Securities and Exchange Commission (the “SEC”) prior to November 18, 2024, the end of the extension period provided by Rule 12b-25 under the Securities Exchange Act of 1934, as amended. The NYSE Notice has no immediate effect on the listing of the Company’s common stock on the NYSE. The disclosure set forth in Item 4.02 below is incorporated herein by reference.
+
+On November 25, 2024, the Company issued a press release regarding receipt of the NYSE Notice and the matters discussed below in Item 4.02 of this Current Report on Form 8-K. The press release is attached hereto as Exhibit 99.1.
+
+Item 4.02. Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review.
+
+On July 19, 2023, the Company disclosed that beginning around mid-2007, the Company incorrectly classified certain credit card accounts into its highest merchant and merchant acquirer pricing tier (the “card product misclassification”). Based on information available as of June 30, 2023, the Company recognized a liability of $365 million that was accounted for as the correction of an error. The Company determined that the revenue impact was not material to the consolidated financial statements of the Company for any of the impacted periods. While it was therefore determined that it was not necessary for the Company to restate any previously issued interim or annual financial statements, the cumulative misstatement was deemed material to the three and six months ended June 30, 2023 condensed consolidated financial statements, and therefore the Company determined that adjustment of the full $365 million only through 2023 earnings was not appropriate. Therefore, the $365 million liability (the “Initial Liability”) was recorded as of June 30, 2023 with offsetting adjustments to merchant discount and interchange revenue and retained earnings, along with consequential impacts to deferred tax accruals. Comparable corrections were made for all prior periods presented in the Company’s Quarterly Reports on Form 10-Q for the fiscal quarters ended June 30, 2023 and September 30, 2023 and subsequently in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+On February 19, 2024, Discover and Capital One Financial Corporation (“Capital One”) jointly announced that they entered into an agreement and plan of merger pursuant to which the companies will combine in an all-stock transaction (the “Merger”).
+
+In the Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2024, the Company disclosed that it had determined to increase its liability to $1.2 billion (the “Liability Increase”) through a charge to other expense for the three months ended March 31, 2024, to reflect the total amount the Company then expected was probable to be disbursed in relation to the card product misclassification. The Company determined the Liability Increase was appropriate based on its experience through that date with remediation efforts, discussions through the first quarter of 2024 with its regulators, Board of Directors and other stakeholders, the pending Merger, which was approved by the Company’s Board of Directors during the quarter, and a desire to advance resolution of the matter more quickly to mitigate further risk.
+
+As part of the review of the Company’s historical financial statements by the Staff of the SEC (the “Staff”) undertaken in connection with the Staff’s review of the Registration Statement on Form S-4 filed by Capital One in connection with the Merger (and the preliminary joint proxy statement/prospectus contained therein) (the “Registration Statement”), the Staff provided comments to the Company relating to the Company’s accounting approach for the card product misclassification. The Company has responded to these comments and has engaged in several verbal discussions with the Staff. The Staff has indicated that it disagrees with the Company’s application of revenue recognition guidance issued by the Financial Accounting Standards Board in connection with the Company’s recording of the Initial Liability.
+
+The Staff has, however, indicated that it would not object to an approach whereby the Company determined the cumulative revenue error related to the card product misclassification to be the maximum amount agreed to be paid by the Company in restitution in respect of the card product misclassification (excluding interest and legal expenses) (the “Alternative Approach”). This amount is approximately $1,047 million.
+
+On November 25, 2024, the Audit Committee of the Board of Directors of the Company (the “Audit Committee”), acting on the recommendation of management, and after discussion with Deloitte & Touche LLP (“Deloitte”), the Company’s independent registered public accounting firm, concluded that (i) the Company’s audited financial statements as of December 31, 2023 and 2022 and for each of the three years in the period ended December 31, 2023 included in the Company’s Annual Report on Form 10-K filed with the SEC for the fiscal year ended December 31, 2023 and (ii) the Company’s unaudited condensed consolidated financial statements included in the Company’s Quarterly Reports on Form 10-Q previously filed with the SEC for the fiscal quarters ended March 31, 2023, June 30, 2023, September 30, 2023, March 31, 2024 and June 30, 2024 (collectively, the “Prior Periods”), should no longer be relied upon and should be restated to reflect the Alternative Approach. In addition, the Audit Committee concluded that management’s report on the effectiveness of internal control over financial reporting as of December 31, 2023 and Deloitte’s report on the consolidated financial statements as of December 31, 2023 and 2022 and for each of the three years in the period ended December 31, 2023 as well as Deloitte’s report on the effectiveness of internal control over financial reporting as of December 31, 2023, should no longer be relied upon.
+
+In order to implement the Alternative Approach in the Restated Financial Statements (as defined below), approximately $600 million of the Liability Increase will be reallocated from being recorded as other expense in the fiscal quarter ended March 31, 2024 to a revenue error correction in prior periods. In addition, $124 million of the Liability Increase representing interest that the Company committed to pay as part of its counterparty restitution plan will also be reallocated from the fiscal quarter ended March 31, 2024 to the third and fourth quarters of 2023. Cumulative historical earnings, capital and the aggregate amount of the counterparty restitution liability will not be affected by application of the Alternative Approach. However, separate work being done to validate the remediation methodology with a third-party consultant has resulted in the identification of approximately $60 million of incremental overcharges, which will be reflected in the Restated Financial Statements.
+
+As a result, the Company expects the Restated Financial Statements to reflect the following approximate impacts: as of December 31, 2023, (i) an increase in assets of $190 million, (ii) an increase in accrued expenses and other liabilities of $783 million, and (iii) a decrease in retained earnings of $593 million. For the years ended December 31, 2023 and 2022, pre-tax income would be reduced by approximately $190 million to $3,636 million and $77 million to $5,641 million, respectively. For the third quarter of 2024, pre-tax income would decrease by approximately $6 million to $1,282 million while pre-tax income for the nine months ended September 30, 2024 would increase by approximately $700 million to $4,462 million (as compared to the pre-tax income reported in the financial information with respect to the quarter ended September 30, 2024 in the exhibits furnished with the Company’s Current Report on Form 8-K filed with the SEC on October 16, 2024).
+
+Amendments to the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the “Form 10-K/A”), and the Company’s Quarterly Reports on Form 10-Q for the fiscal quarters ended March 31, 2024 and June 30, 2024 (the “Form 10-Q/As” and together with the Form 10-K/A, the “Restated Financial Statements”), are expected to be filed prior to or concurrently with the filing of the Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 in order to reflect the Alternative Approach and the other modifications described above to the Prior Periods.
+
+The Company is working expeditiously to file the Restated Financial Statements as soon as reasonably practicable. The Company currently expects to complete the filings prior to year-end, however there can be no assurance of the actual timing.
+
+The Company expects that Capital One will file a pre-effective amendment to the Registration Statement promptly following the Company’s filing of the Restated Financial Statements, and that as soon as practicable following the effectiveness of the Registration Statement and the mailing of the definitive joint proxy statement/prospectus contained therein to each company’s stockholders, each company will hold its respective special meeting of stockholders for purposes of obtaining the requisite stockholder approvals of the Merger.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, November 25, 2024.
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+Cautionary Note Regarding Forward Looking Statements:
+
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements, which speak to our expected business and financial performance, among other matters, contain words such as “believe,” “expect,” “anticipate,” “intend,” “plan,” “aim,” “will,” “may,” “should,” “could,” “would,” “likely,” “forecast,” and similar expressions. Other forward-looking statements may include, without limitation, statements with respect to the restatement of the Company’s financial statements. Such statements are based on the current beliefs and expectations of the Company’s management and are subject to significant risks and uncertainties. Actual results may differ materially from those set forth in the forward-looking statements. These forward-looking statements speak only as of the date of this Current Report on Form 8-K and there is no undertaking to update or revise them as more information becomes available. Actual future events could also differ materially due to numerous factors that involve substantial known and unknown risks and uncertainties including, among other things, risks relating to the final impact of the restatements on the Company’s financial statements; the impact of the restatements on the Company’s evaluation of the effectiveness of its internal control over financial reporting and disclosure controls and procedures; delays in the preparation of the consolidated financial statements and/or the declaration of effectiveness of the Registration Statement; the risk that additional information will come to light that alters the scope or magnitude of the restatement; the risks and uncertainties set forth under “Risk Factors” and elsewhere in the Company’s reports on Form 10-K and Form 10-Q; and the other risks and uncertainties discussed in any subsequent reports that the Company files with the SEC from time to time. Although the Company has attempted to identify those material factors that could cause actual results or events to differ from those described in such forward-looking statements, there may be other factors that could cause actual results or events to differ from those anticipated, estimated or intended. Given these uncertainties, investors are cautioned not to place undue reliance on forward-looking statements.
+
+Important Information About the Merger and Where to Find It
+
+Capital One has filed the Registration Statement with the SEC to register the shares of Capital One’s common stock that will be issued to the Company’s stockholders in connection with the Merger. The Registration Statement includes a preliminary joint proxy statement of Capital One and the Company that also constitutes a preliminary prospectus of Capital One. The definitive joint proxy statement/prospectus will be sent to the stockholders of each of the Company and Capital One in connection with the Merger. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS WHEN THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH THE MERGER OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION REGARDING THE MERGER AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by the Company or Capital One through the website maintained by the SEC at http://www.sec.gov or by contacting the investor relations department of the Company or Capital One at:
+
+[TABLE]
+Discover Financial Services |  | Capital One Financial Corporation
+2500 Lake Cook Road |  | 1680 Capital One Drive
+Riverwoods, IL 60015 |  | McLean, VA 22102
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@discover.com |  | investorrelations@capitalone.com
+(224) 405-4555 |  | (703) 720-1000
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of the Company and Capital One are urged to read carefully the entire Registration Statement and joint proxy statement/prospectus, including any amendments thereto, because they contain important information about the Merger. Free copies of these documents may be obtained as described above.
+
+Participants in Solicitation
+
+The Company, Capital One and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of each of the Company and Capital One in connection with the Merger. Information regarding the directors and executive officers of the Company and Capital One and other persons who may be deemed participants in the solicitation of the stockholders of the Company or of Capital One in connection with the Merger will be included in the joint proxy statement/prospectus related to the Merger, which will be filed by Capital One with the SEC. Information about the directors and executive officers of the Company and their ownership of the Company common stock can also be found in the Company’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 15, 2024, as supplemented by the Company’s proxy statement supplement, as filed with the SEC on April 2, 2024, and other documents subsequently filed by the Company with the SEC. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 20, 2024, and other documents subsequently filed by Capital One with the SEC. Additional information regarding the interests of such participants will be included in the joint proxy statement/prospectus and other relevant documents regarding the Merger filed with the SEC when they become available.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: November 25, 2024 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Corporate Secretary
+[/TABLE]
+
+
+=== EXHIBIT d875437dex991.htm ===
+
+EX-99.1 2 d875437dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER FINANCIAL SERVICES RECEIVES NYSE NOTICE REGARDING
+
+FILING OF FORM 10-Q FOR THE FISCAL QUARTER ENDED SEPTEMBER 30, 2024
+
+AND ANNOUNCES DECISION TO RESTATE CERTAIN PRIOR PERIOD
+
+FINANCIAL STATEMENTS
+
+RIVERWOODS, IL,
+Nov. 25, 2024 – Discover Financial Services (NYSE: DFS) (the “Company”) today announced, as required under the New York Stock Exchange (the “NYSE”) Listed Company Manual, that it received a notice (the “NYSE
+Notice”) from the NYSE on November 19, 2024 that the Company is not in compliance with Section 802.01E of the NYSE Listed Company Manual as a result of its failure to timely file its Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 with the U.S. Securities and Exchange Commission (the “SEC”) prior to November 18, 2024, the end of the extension period provided by Rule 12b-25 under the Securities Exchange Act of 1934, as amended. The NYSE Notice has no immediate effect on the listing of the Company’s common stock on the NYSE.
+
+On July 19, 2023, the Company disclosed that beginning around mid-2007, the Company incorrectly classified
+certain credit card accounts into its highest merchant and merchant acquirer pricing tier (the “card product misclassification”). Based on information available as of June 30, 2023, the Company recognized a liability of
+$365 million that was accounted for as the correction of an error. The Company determined that the revenue impact was not material to the consolidated financial statements of the Company for any of the impacted periods. While it was therefore
+determined that it was not necessary for the Company to restate any previously issued interim or annual financial statements, the cumulative misstatement was deemed material to the three and six months ended June 30, 2023 condensed consolidated
+financial statements, and therefore the Company determined that adjustment of the full $365 million only through 2023 earnings was not appropriate. Therefore, the $365 million liability (the “Initial Liability”) was recorded as
+of June 30, 2023 with offsetting adjustments to merchant discount and interchange revenue and retained earnings, along with consequential impacts to deferred tax accruals. Comparable corrections were made for all prior periods presented in the
+Company’s Quarterly Reports on Form 10-Q for the fiscal quarters ended June 30, 2023 and September 30, 2023 and subsequently in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+
+On February 19, 2024, Discover and Capital One Financial
+Corporation (“Capital One”) jointly announced that they entered into an agreement and plan of merger pursuant to which the companies will combine in an all-stock transaction (the “Merger”).
+
+In the Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2024, the Company
+disclosed that it had determined to increase its liability to $1.2 billion (the “Liability Increase”) through a charge to other expense for the three months ended March 31, 2024, to reflect the total amount the Company then
+expected was probable to be disbursed in relation to the card product misclassification. The Company determined the Liability Increase was appropriate based on its experience through that date with remediation efforts, discussions through the first
+quarter of 2024 with its regulators, Board of Directors and other stakeholders, the pending Merger, which was approved by the Company’s Board of Directors during the quarter, and a desire to advance resolution of the matter more quickly to
+mitigate further risk.
+
+As part of the review of the Company’s historical financial statements by the Staff of the SEC (the
+“Staff”) undertaken in connection with the Staff’s review of the Registration Statement on Form S-4 filed by Capital One in connection with the Merger (and the preliminary joint proxy
+statement/prospectus contained therein) (the “Registration Statement”), the Staff provided comments to the Company relating to the Company’s accounting approach for the card product misclassification. The Company has responded to
+these comments and has engaged in several verbal discussions with the Staff. The Staff has indicated that it disagrees with the Company’s application of revenue recognition guidance issued by the Financial Accounting Standards Board in
+connection with the Company’s recording of the Initial Liability.
+
+The Staff has, however, indicated that it would not object to an approach whereby
+the Company determined the cumulative revenue error related to the card product misclassification to be the maximum amount agreed to be paid by the Company in restitution in respect of the card product misclassification (excluding interest and legal
+expenses) (the “Alternative Approach”). This amount is approximately $1,047 million.
+
+On November 25, 2024, the Audit Committee of the
+Board of Directors of the Company (the “Audit Committee”), acting on the recommendation of management, and after discussion with Deloitte & Touche LLP (“Deloitte”), the Company’s independent registered public
+accounting firm, concluded that (i) the Company’s audited financial statements as of December 31, 2023 and 2022 and for each of the three years in the period ended December 31, 2023 included in the Company’s Annual Report on
+Form 10-K filed with the SEC for the fiscal year ended December 31, 2023 and (ii) the Company’s unaudited condensed consolidated financial statements included in the Company’s Quarterly
+Reports on Form 10-Q previously filed with the SEC for the fiscal quarters ended March 31, 2023, June 30, 2023, September 30, 2023, March 31, 2024 and June 30, 2024 (collectively, the
+“Prior Periods”), should no longer be relied upon and should be restated to reflect the Alternative Approach. In addition, the Audit Committee concluded that management’s report on the effectiveness of internal control over financial
+reporting as of December 31, 2023 and Deloitte’s report on the consolidated financial statements as of December 31, 2023 and 2022 and for each of the three years in the period ended December 31, 2023 as well as Deloitte’s
+report on the effectiveness of internal control over financial reporting as of December 31, 2023, should no longer be relied upon.
+
+In order to
+implement the Alternative Approach in the Restated Financial Statements (as defined below), approximately $600 million of the Liability Increase will be reallocated from being recorded as other expense in the fiscal quarter ended March 31,
+2024 to a revenue error correction in prior periods. In addition, $124 million of the Liability Increase representing interest that the Company committed to pay as part of its counterparty restitution plan will also be reallocated from the
+fiscal quarter ended March 31, 2024 to the third and fourth quarters of 2023. Cumulative historical earnings, capital and the aggregate amount of the counterparty restitution liability will not be affected by application of the Alternative
+Approach. However, separate work being done to validate the remediation methodology with a third-party consultant has resulted in the identification of approximately $60 million of incremental overcharges, which will be reflected in the
+Restated Financial Statements.
+
+As a result, the Company expects the Restated Financial Statements to reflect the following approximate
+impacts: as of December 31, 2023, (i) an increase in assets of $190 million, (ii) an increase in accrued expenses and other liabilities of $783 million, and (iii) a decrease in retained earnings of $593 million. For the
+years ended December 31, 2023 and 2022, pre-tax income would be reduced by approximately $190 million to $3,636 million and $77 million to $5,641 million, respectively. For the third
+quarter of 2024, pre-tax income would decrease by approximately $6 million to $1,282 million while pre-tax income for the nine months ended September 30,
+2024 would increase by approximately $700 million to $4,462 million (as compared to the pre-tax income reported in the financial information with respect to the quarter ended September 30, 2024
+in the exhibits furnished with the Company’s Current Report on Form 8-K filed with the SEC on October 16, 2024).
+
+Amendments to the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (the
+“Form 10-K/A”), and the Company’s Quarterly Reports on Form 10-Q for the fiscal quarters ended March 31, 2024 and June 30, 2024 (the “Form 10-Q/As” and together with the Form 10-K/A, the “Restated Financial Statements”), are expected to be filed prior to or concurrently with the filing of the
+Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 in order to reflect the Alternative Approach and the other modifications described above to the Prior Periods.
+
+The Company is working expeditiously to file the Restated Financial Statements as soon as reasonably practicable. The Company currently expects to
+complete the filings prior to year-end, however there can be no assurance of the actual timing.
+
+The Company
+expects that Capital One will file a pre-effective amendment to the Registration Statement promptly following the Company’s filing of the Restated Financial Statements, and that as soon as
+practicable following the effectiveness of the Registration Statement and the mailing of the definitive joint proxy statement/prospectus contained therein to each company’s stockholders, each company will hold its respective special meeting of
+stockholders for purposes of obtaining the requisite stockholder approvals of the Merger.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services.
+Since its inception in 1986, the company has become one of the largest card issuers in the United States. The Company issues the Discover ® card, America’s cash rewards pioneer, and offers
+personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network ® comprised of Discover Network, with
+millions of merchants and cash access locations; PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club
+International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company.
+
+Cautionary Note Regarding Forward Looking Statements:
+
+This communication contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements, which speak
+to our expected business and financial performance, among other matters, contain words such as “believe,” “expect,” “anticipate,” “intend,” “plan,” “aim,” “will,” “may,”
+“should,” “could,” “would,” “likely,” “forecast,” and similar expressions. Other forward-looking statements may include, without limitation, statements with respect to the restatement of the
+Company’s financial statements. Such statements are based on the current beliefs and expectations of the Company’s management and are subject to significant risks and uncertainties. Actual results may differ materially from those set forth
+in the forward-looking statements. These forward-looking statements speak only as of the date of this communication and there is no undertaking to update or revise them as more information becomes available. Actual future events could also differ
+materially due to numerous factors that involve substantial known and unknown risks and uncertainties including, among other things, risks relating to the final impact of the restatements on the Company’s financial statements; the impact of the
+restatements on the Company’s evaluation of the effectiveness of its internal control over financial reporting and disclosure controls and procedures; delays in the preparation of the consolidated financial statements and/or the declaration of
+effectiveness of the Registration Statement; the risk that additional information will come to light that alters the scope or magnitude of the restatement; the risks and uncertainties set forth under “Risk Factors” and elsewhere in the
+Company’s reports on Form 10-K and Form 10-Q; and the other risks and uncertainties discussed in any subsequent reports that the Company files with the SEC from
+time to time. Although the Company has attempted to identify those material factors that could cause actual results or events to differ from those described in such forward-looking statements, there may be other factors that could cause actual
+results or events to differ from those anticipated, estimated or intended. Given these uncertainties, investors are cautioned not to place undue reliance on forward-looking statements.
+
+Important Information About the Merger and Where to Find It
+
+Capital One has filed the Registration Statement with the SEC to register the shares of Capital One’s common stock that will be issued to the
+Company’s stockholders in connection with the Merger. The Registration Statement includes a preliminary joint proxy statement of Capital One and the Company that also constitutes a preliminary prospectus of Capital One. The definitive joint
+proxy statement/prospectus will be sent to the stockholders of each of the Company and Capital One in connection with the Merger. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS
+WHEN THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH THE MERGER OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS WILL CONTAIN IMPORTANT INFORMATION REGARDING THE
+MERGER AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by the Company or Capital One through the website maintained by the SEC at http://www.sec.gov or by
+contacting the investor relations department of the Company or Capital One at:
+
+[TABLE]
+Discover Financial Services |  | Capital One Financial Corporation
+2500 Lake Cook Road |  | 1680 Capital One Drive
+Riverwoods, IL 60015 |  | McLean, VA 22102
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@discover.com |  | investorrelations@capitalone.com
+(224) 405-4555 |  | (703) 720-1000
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of the Company and Capital One are urged to
+read carefully the entire Registration Statement and joint proxy statement/prospectus, including any amendments thereto, because they contain important information about the Merger. Free copies of these documents may be obtained as described above.
+
+Participants in Solicitation
+
+The Company,
+Capital One and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of each of the Company and Capital One in connection with the Merger. Information regarding the
+directors and executive officers of the Company and Capital One and other persons who may be deemed participants in the solicitation of the stockholders of the Company or of Capital One in connection with the Merger will be included in the joint
+proxy statement/prospectus related to the Merger, which will be filed by Capital One with the SEC. Information about the directors and executive officers of the Company and their ownership of the Company common stock can also be found in the
+Company’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 15, 2024, as supplemented by the Company’s proxy statement supplement, as filed with the SEC on
+April 2, 2024, and other documents subsequently filed by the Company with the SEC. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s
+definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 20, 2024, and other documents subsequently filed by Capital One with the SEC. Additional information regarding the interests
+of such participants will be included in the joint proxy statement/prospectus and other relevant documents regarding the Merger filed with the SEC when they become available.
+
+Contact:
+
+Investor Contact:
+
+Erin Stieber, 224-405-4555
+
+investorrelations@discover.com
+
+Media Contact:
+
+Matthew Towson, 224-405-5649
+
+matthewtowson@discover.com

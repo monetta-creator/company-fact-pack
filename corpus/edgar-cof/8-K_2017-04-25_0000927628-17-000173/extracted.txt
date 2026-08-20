@@ -1,0 +1,1073 @@
+8-K 1 q12017earningsrelease8-k.htm 8-K Document created using Wdesk 1 Copyright 2017 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+___________________
+
+FORM 8-K
+
+___________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+April 25, 2017
+
+Date of Report (Date of earliest event reported)
+
+_____________________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+___________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+(Not applicable)
+
+___________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+o | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+o | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+o | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+o | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company o
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Item 2.02. Results of Operations and Financial Condition.
+
+On April 25, 2017 , Capital One Financial Corporation (the “Company”) issued a press release announcing its financial results for the first quarter ended March 31, 2017 . Copies of the Company’s press release and financial supplement are attached and furnished herewith as Exhibits 99.1 and 99.2 to this Form 8-K and are incorporated herein by reference.
+
+Note: Information in this report (including Exhibits 99.1 and 99.2) furnished pursuant to Item 2.02 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated April 25, 2017 – First Quarter 2017
+99.2 |  | Financial Supplement – First Quarter 2017
+[/TABLE]
+
+Earnings Conference Call Webcast Information.
+
+The Company will hold an earnings conference call on April 25, 2017 at 5:00 PM Eastern Time. The conference call will be accessible through live webcast. Interested investors and other individuals can access the webcast via the Company’s home page (www.capitalone.com). Choose “About Us,” then choose “Investors” to access the Investor Center and view and/or download the earnings press release, the financial supplement, including a reconciliation of non-GAAP financial measures, and the earnings release presentation. A replay of the webcast will be archived on the Company’s website through May 9, 2017 at 5:00 PM Eastern Time.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: April 25, 2017 | By: | /s/ R. SCOTT BLACKLEY
+ |  | R. Scott Blackley
+ |  | Chief Financial Officer
+[/TABLE]
+
+
+=== EXHIBIT q12017earningsrelease-ex991.htm ===
+
+EX-99.1 2 q12017earningsrelease-ex991.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2017 Workiva Exhibit
+
+Exhibit 99.1
+
+News Release
+
+[TABLE]
+Contacts: |  |  |
+Investor Relations | Media Relations
+Jeff Norris | Danielle Dietz | Sie Soheili | Tatiana Stead
+703.720.2455 | 703.720.2455 | 703.720.3929 | 703.720.2352
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: April 25, 2017
+
+Capital One Reports First Quarter 2017 Net Income of $810 million ,
+
+or $1.54 per share
+
+Excluding adjusting items, First Quarter 2017 Net Income of $910 million or $1.75 per share (1)
+
+McLean, Va. ( April 25, 2017 ) – Capital One Financial Corporation (NYSE: COF) today announced net income for the first quarter of 2017 of $810 million , or $ 1.54 per diluted common share, compared to the fourth quarter of 2016 with net income of $791 million , or $1.45 per diluted common share, and the first quarter of 2016 with net income of $1.0 billion , or $1.84 per diluted common share. We recorded a build in the U.K. Payment Protection Insurance customer refund reserve (“U.K. PPI Reserve”) of $99 million in the first quarter of 2017. Excluding this adjusting item, net income for the first quarter of 2017 was $910 million or $1.75 per diluted common share (1) .
+
+“In the first quarter, we continued to deliver resilient growth,” said Richard D. Fairbank, Founder, Chairman and Chief Executive Officer. “As banking is being revolutionized by digital, we are investing to lead the transformation and drive growth opportunities. We are improving efficiency. And we are building an enduring customer franchise. We remain well positioned to deliver attractive growth and returns, as well as significant capital distribution, subject to regulatory approval.”
+
+All comparisons below are for the first quarter of 2017 compared with the fourth quarter of 2016 unless otherwise noted.
+
+First Quarter 2017 Income Statement Summary:
+
+• | Total net revenue remained flat at $6.5 billion .
+
+• | Total non-interest expense decreased 7 percent to $3.4 billion :
+
+• | 31 percent decrease in marketing.
+
+• | 1 percent decrease in operating expenses.
+
+• | Pre-provision earnings increased 7 percent to $3.1 billion (2) .
+
+• | Provision for credit losses increased 14 percent to $2.0 billion :
+
+• | Net charge-offs of $1.5 billion .
+
+(1) | Amounts excluding adjusting items are non-GAAP measures that we believe help investors and users of our financial information understand the effect of adjusting items on our selected reported results and provide alternate measurements of our performance. See Table 15 in Exhibit 99.2 for a reconciliation of our selected reported results to these non-GAAP measures.
+
+(2) | Pre-provision earnings is calculated based on the sum of net interest income and non-interest income, less non-interest expense for the period.
+
+Capital One First Quarter 2017 Earnings
+
+Page 2
+
+• | $482 million reserve build.
+
+• | Net interest margin of 6.88 percent, up 3 basis points.
+
+• | Efficiency ratio of 52.55 percent:
+
+▪ | Efficiency ratio excluding the U.K. PPI Reserve build of $99 million was 51.55 percent (1) .
+
+First Quarter 2017 Balance Sheet Summary:
+
+• | Common equity Tier 1 capital ratio under Basel III Standardized Approach of 10.4 percent at March 31, 2017 .
+
+• | Period-end loans held for investment in the quarter decreased $5.0 billion , or 2 percent, to $240.6 billion .
+
+• | Domestic Card period-end loans decreased $6.0 billion , or 6 percent, to $91.1 billion .
+
+• | Consumer Banking period-end loans increased $928 million , or 1 percent, to $74.0 billion :
+
+• | Auto period-end loans increased $1.9 billion , or 4 percent, to $49.8 billion .
+
+• | Home loans period-end loans decreased $846 million , or 4 percent, to $20.7 billion , driven by run-off of acquired portfolios.
+
+• | Commercial Banking period-end loans increased $404 million , or 1 percent, to $67.3 billion .
+
+• | Average loans held for investment in the quarter increased $1.5 billion , or less than 1 percent, to $241.5 billion .
+
+• | Domestic Card average loans increased $411 million , or less than 1 percent, to $93.0 billion .
+
+• | Consumer Banking average loans increased $672 million , or 1 percent, to $73.3 billion :
+
+• | Auto average loans increased $1.5 billion , or 3 percent, to $48.7 billion .
+
+• | Home loans average loans decreased $835 million , or 4 percent, to $21.1 billion , driven by run-off of acquired portfolios.
+
+• | Commercial Banking average loans increased $423 million , or 1 percent, to $66.9 billion .
+
+• | Period-end total deposits increased $4.4 billion , or 2 percent, to $241.2 billion , while average deposits increased $6.3 billion , or 3 percent, to $238.6 billion .
+
+• | Interest-bearing deposits rate paid increased 2 basis points to 0.66 percent.
+
+Capital One First Quarter 2017 Earnings
+
+Page 3
+
+Earnings Conference Call Webcast Information
+
+The company will hold an earnings conference call on April 25, 2017 at 5:00 PM Eastern Time. The conference call will be accessible through live webcast. Interested investors and other individuals can access the webcast via the company’s home page (www.capitalone.com). Choose “About Us,” then choose “Investors” to access the Investor Center and view and/or download the earnings press release, the financial supplement, including a reconciliation of non-GAAP financial measures, and the earnings release presentation. The replay of the webcast will be archived on the company’s website through May 9, 2017 at 5:00 PM Eastern Time.
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2016.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $241.2 billion in deposits and $348.5 billion in total assets as of March 31, 2017 . Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+###
+
+
+=== EXHIBIT q12017earningsrelease-ex992.htm ===
+
+EX-99.2 3 q12017earningsrelease-ex992.htm EXHIBIT 99.2 Document created using Wdesk 1 Copyright 2017 Workiva Exhibit
+
+Exhibit 99.2
+
+Capital One Financial Corporation
+
+Financial Supplement (1)(2)
+
+First Quarter 2017
+
+Table of Contents
+
+[TABLE]
+Capital One Financial Corporation Consolidated Results | Page
+ | Table 1: | Financial Summary—Consolidated | 1
+ | Table 2: | Selected Metrics—Consolidated | 3
+ | Table 3: | Consolidated Statements of Income | 4
+ | Table 4: | Consolidated Balance Sheets | 6
+ | Table 5: | Notes to Financial Summary, Selected Metrics and Consolidated Financial Statements (Tables 1—4) | 8
+ | Table 6: | Average Balances, Net Interest Income and Net Interest Margin | 10
+ | Table 7: | Loan Information and Performance Statistics | 11
+ | Table 8: | Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments Activity | 13
+Business Segment Results |
+ | Table 9: | Financial Summary—Business Segment Results | 14
+ | Table 10: | Financial & Statistical Summary—Credit Card Business | 15
+ | Table 11: | Financial & Statistical Summary—Consumer Banking Business | 17
+ | Table 12: | Financial & Statistical Summary—Commercial Banking Business | 18
+ | Table 13: | Financial & Statistical Summary—Other and Total | 19
+ | Table 14: | Notes to Loan, Allowance and Business Segment Disclosures (Tables 7—13) | 20
+Other |
+ | Table 15: | Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures | 21
+[/TABLE]
+
+__________
+
+(1) | The information contained in this Financial Supplement is preliminary and based on data available at the time of the earnings presentation. Investors should refer to our Quarterly Report on Form 10-Q for the period ended March 31, 2017 once it is filed with the Securities and Exchange Commission.
+
+(2) | This Financial Supplement includes non-GAAP measures. We believe these non-GAAP measures are useful to investors and users of our financial information as they provide an alternate measurement of our performance and assist in assessing our capital adequacy and the level of return generated. These non-GAAP measures should not be viewed as a substitute for reported results determined in accordance with generally accepted accounting principles in the U.S. (“GAAP”), nor are they necessarily comparable to non-GAAP measures that may be presented by other companies.
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 1: Financial Summary—Consolidated
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+(Dollars in millions, except per share data and as noted) |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 5,474 |  |  | $ | 5,447 |  |  | $ | 5,277 |  |  | $ | 5,093 |  |  | $ | 5,056 |  |  | — |  |  | 8% |
+Non-interest income |  | 1,061 |  |  | 1,119 |  |  | 1,184 |  |  | 1,161 |  |  | 1,164 |  |  | (5 | )% |  | (9 | )
+Total net revenue (1) |  | 6,535 |  |  | 6,566 |  |  | 6,461 |  |  | 6,254 |  |  | 6,220 |  |  | — |  |  | 5 |
+Provision for credit losses |  | 1,992 |  |  | 1,752 |  |  | 1,588 |  |  | 1,592 |  |  | 1,527 |  |  | 14 |  |  | 30 |
+Non-interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Marketing |  | 396 |  |  | 575 |  |  | 393 |  |  | 415 |  |  | 428 |  |  | (31 | ) |  | (7 | )
+Amortization of intangibles |  | 62 |  |  | 101 |  |  | 89 |  |  | 95 |  |  | 101 |  |  | (39 | ) |  | (39 | )
+Operating expenses |  | 2,976 |  |  | 3,003 |  |  | 2,879 |  |  | 2,785 |  |  | 2,694 |  |  | (1 | ) |  | 10 |
+Total non-interest expense |  | 3,434 |  |  | 3,679 |  |  | 3,361 |  |  | 3,295 |  |  | 3,223 |  |  | (7 | ) |  | 7 |
+Income from continuing operations before income taxes |  | 1,109 |  |  | 1,135 |  |  | 1,512 |  |  | 1,367 |  |  | 1,470 |  |  | (2 | ) |  | (25 | )
+Income tax provision |  | 314 |  |  | 342 |  |  | 496 |  |  | 424 |  |  | 452 |  |  | (8 | ) |  | (31 | )
+Income from continuing operations, net of tax |  | 795 |  |  | 793 |  |  | 1,016 |  |  | 943 |  |  | 1,018 |  |  | — |  |  | (22 | )
+Income (loss) from discontinued operations, net of tax (2) |  | 15 |  |  | (2 | ) |  | (11 | ) |  | (1 | ) |  | (5 | ) |  | ** |  |  | ** |
+Net income |  | 810 |  |  | 791 |  |  | 1,005 |  |  | 942 |  |  | 1,013 |  |  | 2 |  |  | (20 | )
+Dividends and undistributed earnings allocated to participating securities (3) |  | (5 | ) |  | (6 | ) |  | (6 | ) |  | (6 | ) |  | (6 | ) |  | (17 | ) |  | (17 | )
+Preferred stock dividends |  | (53 | ) |  | (75 | ) |  | (37 | ) |  | (65 | ) |  | (37 | ) |  | (29 | ) |  | 43 |
+Net income available to common stockholders |  | $ | 752 |  |  | $ | 710 |  |  | $ | 962 |  |  | $ | 871 |  |  | $ | 970 |  |  | 6 |  |  | (22 | )
+Common Share Statistics |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Basic earnings per common share: (3) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 1.53 |  |  | $ | 1.47 |  |  | $ | 1.94 |  |  | $ | 1.70 |  |  | $ | 1.86 |  |  | 4% |  |  | (18)% |
+Income (loss) from discontinued operations |  | 0.03 |  |  | — |  |  | (0.02 | ) |  | — |  |  | (0.01 | ) |  | ** |  |  | ** |
+Net income per basic common share |  | $ | 1.56 |  |  | $ | 1.47 |  |  | $ | 1.92 |  |  | $ | 1.70 |  |  | $ | 1.85 |  |  | 6 |  |  | (16 | )
+Diluted earnings per common share: (3) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 1.51 |  |  | $ | 1.45 |  |  | $ | 1.92 |  |  | $ | 1.69 |  |  | $ | 1.85 |  |  | 4 |  |  | (18 | )
+Income (loss) from discontinued operations |  | 0.03 |  |  | — |  |  | (0.02 | ) |  | — |  |  | (0.01 | ) |  | ** |  |  | ** |
+Net income per diluted common share |  | $ | 1.54 |  |  | $ | 1.45 |  |  | $ | 1.90 |  |  | $ | 1.69 |  |  | $ | 1.84 |  |  | 6 |  |  | (16 | )
+Weighted-average common shares outstanding (in millions): |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Basic |  | 482.3 |  |  | 483.5 |  |  | 501.1 |  |  | 511.7 |  |  | 523.5 |  |  | — |  |  | (8 | )
+Diluted |  | 487.9 |  |  | 489.2 |  |  | 505.9 |  |  | 516.5 |  |  | 528.0 |  |  | — |  |  | (8 | )
+Common shares outstanding (period-end, in millions) |  | 482.8 |  |  | 480.2 |  |  | 489.2 |  |  | 505.9 |  |  | 514.5 |  |  | 1 |  |  | (6 | )
+Dividends paid per common share |  | $ | 0.40 |  |  | $ | 0.40 |  |  | $ | 0.40 |  |  | $ | 0.40 |  |  | $ | 0.40 |  |  | — |  |  | — |
+Tangible book value per common share (period-end) (4) |  | 58.66 |  |  | 57.76 |  |  | 59.00 |  |  | 57.84 |  |  | 55.94 |  |  | 2 |  |  | 5 |
+[/TABLE]
+
+1
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+(Dollars in millions) |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Balance Sheet (Period-End) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans held for investment (5) |  | $ | 240,588 |  |  | $ | 245,586 |  |  | $ | 238,019 |  |  | $ | 234,603 |  |  | $ | 227,613 |  |  | (2)% |  |  | 6% |
+Interest-earning assets |  | 316,712 |  |  | 321,807 |  |  | 313,431 |  |  | 307,163 |  |  | 298,348 |  |  | (2 | ) |  | 6 |
+Total assets |  | 348,549 |  |  | 357,033 |  |  | 345,061 |  |  | 339,117 |  |  | 330,346 |  |  | (2 | ) |  | 6 |
+Interest-bearing deposits |  | 214,818 |  |  | 211,266 |  |  | 200,416 |  |  | 195,635 |  |  | 196,597 |  |  | 2 |  |  | 9 |
+Total deposits |  | 241,182 |  |  | 236,768 |  |  | 225,981 |  |  | 221,059 |  |  | 221,779 |  |  | 2 |  |  | 9 |
+Borrowings |  | 48,439 |  |  | 60,460 |  |  | 59,820 |  |  | 59,181 |  |  | 50,497 |  |  | (20 | ) |  | (4 | )
+Common equity |  | 43,680 |  |  | 43,154 |  |  | 44,336 |  |  | 44,813 |  |  | 44,411 |  |  | 1 |  |  | (2 | )
+Total stockholders’ equity |  | 48,040 |  |  | 47,514 |  |  | 48,213 |  |  | 48,108 |  |  | 47,707 |  |  | 1 |  |  | 1 |
+Balance Sheet (Average Balances) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans held for investment (5) |  | $ | 241,505 |  |  | $ | 240,027 |  |  | $ | 235,843 |  |  | $ | 230,379 |  |  | $ | 226,736 |  |  | 1% |  |  | 7% |
+Interest-earning assets |  | 318,358 |  |  | 317,853 |  |  | 310,987 |  |  | 302,764 |  |  | 299,456 |  |  | — |  |  | 6 |
+Total assets |  | 351,641 |  |  | 350,225 |  |  | 343,153 |  |  | 334,479 |  |  | 331,919 |  |  | — |  |  | 6 |
+Interest-bearing deposits |  | 212,973 |  |  | 206,464 |  |  | 196,913 |  |  | 195,641 |  |  | 194,125 |  |  | 3 |  |  | 10 |
+Total deposits |  | 238,550 |  |  | 232,204 |  |  | 222,251 |  |  | 221,146 |  |  | 219,180 |  |  | 3 |  |  | 9 |
+Borrowings |  | 53,357 |  |  | 58,624 |  |  | 60,708 |  |  | 54,359 |  |  | 53,761 |  |  | (9 | ) |  | (1 | )
+Common equity |  | 43,833 |  |  | 43,921 |  |  | 45,314 |  |  | 45,640 |  |  | 45,782 |  |  | — |  |  | (4 | )
+Total stockholders’ equity |  | 48,193 |  |  | 47,972 |  |  | 49,033 |  |  | 48,934 |  |  | 49,078 |  |  | — |  |  | (2 | )
+[/TABLE]
+
+2
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 2: Selected Metrics—Consolidated
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+(Dollars in millions, except as noted) |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Performance Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income growth (period over period) |  | — |  |  | 3% |  |  | 4% |  |  | 1% |  |  | 2% |  |  | ** |  |  | ** |
+Non-interest income growth (period over period) |  | (5)% |  |  | (5 | ) |  | 2 |  |  | — |  |  | (6 | ) |  | ** |  |  | ** |
+Total net revenue growth (period over period) |  | — |  |  | 2 |  |  | 3 |  |  | 1 |  |  | — |  |  | ** |  |  | ** |
+Total net revenue margin (6) |  | 8.21 |  |  | 8.26 |  |  | 8.31 |  |  | 8.26 |  |  | 8.31 |  |  | (5 | )bps |  | (10 | )bps
+Net interest margin (7) |  | 6.88 |  |  | 6.85 |  |  | 6.79 |  |  | 6.73 |  |  | 6.75 |  |  | 3 |  |  | 13 |
+Return on average assets |  | 0.90 |  |  | 0.91 |  |  | 1.18 |  |  | 1.13 |  |  | 1.23 |  |  | (1 | ) |  | (33 | )
+Return on average tangible assets (8) |  | 0.95 |  |  | 0.95 |  |  | 1.24 |  |  | 1.18 |  |  | 1.29 |  |  | — |  |  | (34 | )
+Return on average common equity (9) |  | 6.73 |  |  | 6.48 |  |  | 8.59 |  |  | 7.64 |  |  | 8.52 |  |  | 25 |  |  | (179 | )
+Return on average tangible common equity (10) |  | 10.37 |  |  | 10.00 |  |  | 13.06 |  |  | 11.61 |  |  | 12.94 |  |  | 37 |  |  | (257 | )
+Non-interest expense as a percentage of average loans held for investment |  | 5.69 |  |  | 6.13 |  |  | 5.70 |  |  | 5.72 |  |  | 5.69 |  |  | (44 | ) |  | — |
+Efficiency ratio (11) |  | 52.55 |  |  | 56.03 |  |  | 52.02 |  |  | 52.69 |  |  | 51.82 |  |  | (348 | ) |  | 73 |
+Effective income tax rate for continuing operations |  | 28.3 |  |  | 30.1 |  |  | 32.8 |  |  | 31.0 |  |  | 30.7 |  |  | (180 | ) |  | (240 | )
+Employees (in thousands), period-end |  | 48.4 |  |  | 47.3 |  |  | 46.5 |  |  | 46.1 |  |  | 45.8 |  |  | 2% |  |  | 6% |
+Credit Quality Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Allowance for loan and lease losses |  | $ | 6,984 |  |  | $ | 6,503 |  |  | $ | 6,258 |  |  | $ | 5,881 |  |  | $ | 5,416 |  |  | 7% |  |  | 29% |
+Allowance as a percentage of loans held for investment |  | 2.90% |  |  | 2.65% |  |  | 2.63% |  |  | 2.51% |  |  | 2.38% |  |  | 25 | bps |  | 52 | bps
+Net charge-offs |  | $ | 1,510 |  |  | $ | 1,489 |  |  | $ | 1,240 |  |  | $ | 1,155 |  |  | $ | 1,178 |  |  | 1% |  |  | 28% |
+Net charge-off rate (12) |  | 2.50% |  |  | 2.48% |  |  | 2.10% |  |  | 2.01% |  |  | 2.08% |  |  | 2 | bps |  | 42 | bps
+30+ day performing delinquency rate |  | 2.61 |  |  | 2.93 |  |  | 2.71 |  |  | 2.47 |  |  | 2.33 |  |  | (32 | ) |  | 28 |
+30+ day delinquency rate |  | 2.92 |  |  | 3.27 |  |  | 3.04 |  |  | 2.79 |  |  | 2.64 |  |  | (35 | ) |  | 28 |
+Capital Ratios (13) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Common equity Tier 1 capital |  | 10.4% |  |  | 10.1% |  |  | 10.6% |  |  | 10.9% |  |  | 11.1% |  |  | 30 | bps |  | (70 | )bps
+Tier 1 capital |  | 12.0 |  |  | 11.6 |  |  | 12.0 |  |  | 12.2 |  |  | 12.4 |  |  | 40 |  |  | (40 | )
+Total capital |  | 14.7 |  |  | 14.3 |  |  | 14.7 |  |  | 14.4 |  |  | 14.6 |  |  | 40 |  |  | 10 |
+Tier 1 leverage |  | 9.9 |  |  | 9.9 |  |  | 10.1 |  |  | 10.2 |  |  | 10.2 |  |  | — |  |  | (30 | )
+Tangible common equity (“TCE”) (14) |  | 8.5 |  |  | 8.1 |  |  | 8.8 |  |  | 9.0 |  |  | 9.1 |  |  | 40 |  |  | (60 | )
+[/TABLE]
+
+3
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 3: Consolidated Statements of Income
+
+[TABLE]
+ |  | Three Months Ended |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  | Q1 |  | Q4 |  | Q1
+Interest income: |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 5,626 |  |  | $ | 5,587 |  |  | $ | 5,085 |  |  | 1% |  |  | 11% |
+Investment securities |  | 416 |  |  | 393 |  |  | 415 |  |  | 6 |  |  | — |
+Other |  | 28 |  |  | 29 |  |  | 17 |  |  | (3 | ) |  | 65 |
+Total interest income |  | 6,070 |  |  | 6,009 |  |  | 5,517 |  |  | 1 |  |  | 10 |
+Interest expense: |  |  |  |  |  |  |  |  |  |
+Deposits |  | 353 |  |  | 332 |  |  | 283 |  |  | 6 |  |  | 25 |
+Securitized debt obligations |  | 69 |  |  | 65 |  |  | 48 |  |  | 6 |  |  | 44 |
+Senior and subordinated notes |  | 149 |  |  | 138 |  |  | 106 |  |  | 8 |  |  | 41 |
+Other borrowings |  | 25 |  |  | 27 |  |  | 24 |  |  | (7 | ) |  | 4 |
+Total interest expense |  | 596 |  |  | 562 |  |  | 461 |  |  | 6 |  |  | 29 |
+Net interest income |  | 5,474 |  |  | 5,447 |  |  | 5,056 |  |  | — |  |  | 8 |
+Provision for credit losses |  | 1,992 |  |  | 1,752 |  |  | 1,527 |  |  | 14 |  |  | 30 |
+Net interest income after provision for credit losses |  | 3,482 |  |  | 3,695 |  |  | 3,529 |  |  | (6 | ) |  | (1 | )
+Non-interest income: (15)(16) |  |  |  |  |  |  |  |  |  |
+Service charges and other customer-related fees |  | 371 |  |  | 412 |  |  | 423 |  |  | (10 | ) |  | (12 | )
+Interchange fees, net |  | 570 |  |  | 624 |  |  | 604 |  |  | (9 | ) |  | (6 | )
+Net securities gains (losses) |  | — |  |  | (4 | ) |  | (8 | ) |  | ** |  |  | ** |
+Other |  | 120 |  |  | 87 |  |  | 145 |  |  | 38 |  |  | (17 | )
+Total non-interest income |  | 1,061 |  |  | 1,119 |  |  | 1,164 |  |  | (5 | ) |  | (9 | )
+Non-interest expense: (15)(16) |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  | 1,471 |  |  | 1,336 |  |  | 1,270 |  |  | 10 |  |  | 16 |
+Occupancy and equipment |  | 471 |  |  | 522 |  |  | 458 |  |  | (10 | ) |  | 3 |
+Marketing |  | 396 |  |  | 575 |  |  | 428 |  |  | (31 | ) |  | (7 | )
+Professional services |  | 247 |  |  | 312 |  |  | 241 |  |  | (21 | ) |  | 2 |
+Communications and data processing |  | 288 |  |  | 297 |  |  | 280 |  |  | (3 | ) |  | 3 |
+Amortization of intangibles |  | 62 |  |  | 101 |  |  | 101 |  |  | (39 | ) |  | (39 | )
+Other |  | 499 |  |  | 536 |  |  | 445 |  |  | (7 | ) |  | 12 |
+Total non-interest expense |  | 3,434 |  |  | 3,679 |  |  | 3,223 |  |  | (7 | ) |  | 7 |
+Income from continuing operations before income taxes |  | 1,109 |  |  | 1,135 |  |  | 1,470 |  |  | (2 | ) |  | (25 | )
+Income tax provision |  | 314 |  |  | 342 |  |  | 452 |  |  | (8 | ) |  | (31 | )
+Income from continuing operations, net of tax |  | 795 |  |  | 793 |  |  | 1,018 |  |  | — |  |  | (22 | )
+Income (loss) from discontinued operations, net of tax (2) |  | 15 |  |  | (2 | ) |  | (5 | ) |  | ** |  |  | ** |
+Net income |  | 810 |  |  | 791 |  |  | 1,013 |  |  | 2 |  |  | (20 | )
+Dividends and undistributed earnings allocated to participating securities (3) |  | (5 | ) |  | (6 | ) |  | (6 | ) |  | (17 | ) |  | (17 | )
+Preferred stock dividends |  | (53 | ) |  | (75 | ) |  | (37 | ) |  | (29 | ) |  | 43 |
+Net income available to common stockholders |  | $ | 752 |  |  | $ | 710 |  |  | $ | 970 |  |  | 6 |  |  | (22 | )
+[/TABLE]
+
+4
+
+[TABLE]
+ |  | Three Months Ended |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  | Q1 |  | Q4 |  | Q1
+Basic earnings per common share: (3) |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 1.53 |  |  | $ | 1.47 |  |  | $ | 1.86 |  |  | 4% |  |  | (18)% |
+Income (loss) from discontinued operations |  | 0.03 |  |  | — |  |  | (0.01 | ) |  | ** |  |  | ** |
+Net income per basic common share |  | $ | 1.56 |  |  | $ | 1.47 |  |  | $ | 1.85 |  |  | 6 |  |  | (16 | )
+Diluted earnings per common share: (3) |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 1.51 |  |  | $ | 1.45 |  |  | $ | 1.85 |  |  | 4 |  |  | (18 | )
+Income (loss) from discontinued operations |  | 0.03 |  |  | — |  |  | (0.01 | ) |  | ** |  |  | ** |
+Net income per diluted common share |  | $ | 1.54 |  |  | $ | 1.45 |  |  | $ | 1.84 |  |  | 6 |  |  | (16 | )
+Weighted-average common shares outstanding (in millions): |  |  |  |  |  |  |  |  |  |
+Basic common shares |  | 482.3 |  |  | 483.5 |  |  | 523.5 |  |  | — |  |  | (8 | )
+Diluted common shares |  | 487.9 |  |  | 489.2 |  |  | 528.0 |  |  | — |  |  | (8 | )
+Dividends paid per common share |  | $ | 0.40 |  |  | $ | 0.40 |  |  | $ | 0.40 |  |  | — |  |  | — |
+[/TABLE]
+
+5
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 4: Consolidated Balance Sheets
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and due from banks |  | $ | 3,489 |  |  | $ | 4,185 |  |  | $ | 3,350 |  |  | $ | 3,253 |  |  | $ | 3,241 |  |  | (17)% |  |  | 8% |
+Interest-bearing deposits and other short-term investments |  | 5,826 |  |  | 5,791 |  |  | 5,744 |  |  | 3,896 |  |  | 1,994 |  |  | 1 |  |  | 192 |
+Total cash and cash equivalents |  | 9,315 |  |  | 9,976 |  |  | 9,094 |  |  | 7,149 |  |  | 5,235 |  |  | (7 | ) |  | 78 |
+Restricted cash for securitization investors |  | 486 |  |  | 2,517 |  |  | 287 |  |  | 265 |  |  | 960 |  |  | (81 | ) |  | (49 | )
+Securities available for sale, at fair value |  | 41,260 |  |  | 40,737 |  |  | 41,511 |  |  | 39,960 |  |  | 40,092 |  |  | 1 |  |  | 3 |
+Securities held to maturity, at carrying value |  | 26,170 |  |  | 25,712 |  |  | 25,019 |  |  | 25,120 |  |  | 25,080 |  |  | 2 |  |  | 4 |
+Loans held for investment: (5) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Unsecuritized loans held for investment |  | 211,038 |  |  | 213,824 |  |  | 206,763 |  |  | 202,778 |  |  | 195,705 |  |  | (1 | ) |  | 8 |
+Loans held in consolidated trusts |  | 29,550 |  |  | 31,762 |  |  | 31,256 |  |  | 31,825 |  |  | 31,908 |  |  | (7 | ) |  | (7 | )
+Total loans held for investment |  | 240,588 |  |  | 245,586 |  |  | 238,019 |  |  | 234,603 |  |  | 227,613 |  |  | (2 | ) |  | 6 |
+Allowance for loan and lease losses |  | (6,984 | ) |  | (6,503 | ) |  | (6,258 | ) |  | (5,881 | ) |  | (5,416 | ) |  | 7 |  |  | 29 |
+Net loans held for investment |  | 233,604 |  |  | 239,083 |  |  | 231,761 |  |  | 228,722 |  |  | 222,197 |  |  | (2 | ) |  | 5 |
+Loans held for sale, at lower of cost or fair value |  | 735 |  |  | 1,043 |  |  | 994 |  |  | 1,220 |  |  | 1,251 |  |  | (30 | ) |  | (41 | )
+Premises and equipment, net |  | 3,727 |  |  | 3,675 |  |  | 3,561 |  |  | 3,556 |  |  | 3,542 |  |  | 1 |  |  | 5 |
+Interest receivable |  | 1,368 |  |  | 1,351 |  |  | 1,251 |  |  | 1,236 |  |  | 1,221 |  |  | 1 |  |  | 12 |
+Goodwill |  | 14,521 |  |  | 14,519 |  |  | 14,493 |  |  | 14,495 |  |  | 14,492 |  |  | — |  |  | — |
+Other assets |  | 17,363 |  |  | 18,420 |  |  | 17,090 |  |  | 17,394 |  |  | 16,276 |  |  | (6 | ) |  | 7 |
+Total assets |  | $ | 348,549 |  |  | $ | 357,033 |  |  | $ | 345,061 |  |  | $ | 339,117 |  |  | $ | 330,346 |  |  | (2 | ) |  | 6 |
+[/TABLE]
+
+6
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest payable |  | $ | 260 |  |  | $ | 327 |  |  | $ | 237 |  |  | $ | 301 |  |  | $ | 217 |  |  | (20)% |  |  | 20% |
+Deposits: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Non-interest-bearing deposits |  | 26,364 |  |  | 25,502 |  |  | 25,565 |  |  | 25,424 |  |  | 25,182 |  |  | 3 |  |  | 5 |
+Interest-bearing deposits |  | 214,818 |  |  | 211,266 |  |  | 200,416 |  |  | 195,635 |  |  | 196,597 |  |  | 2 |  |  | 9 |
+Total deposits |  | 241,182 |  |  | 236,768 |  |  | 225,981 |  |  | 221,059 |  |  | 221,779 |  |  | 2 |  |  | 9 |
+Securitized debt obligations |  | 18,528 |  |  | 18,826 |  |  | 18,411 |  |  | 16,130 |  |  | 14,913 |  |  | (2 | ) |  | 24 |
+Other debt: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Federal funds purchased and securities loaned or sold under agreements to repurchase |  | 1,046 |  |  | 992 |  |  | 1,079 |  |  | 999 |  |  | 917 |  |  | 5 |  |  | 14 |
+Senior and subordinated notes |  | 26,405 |  |  | 23,431 |  |  | 24,001 |  |  | 21,872 |  |  | 21,736 |  |  | 13 |  |  | 21 |
+Other borrowings |  | 2,460 |  |  | 17,211 |  |  | 16,329 |  |  | 20,180 |  |  | 12,931 |  |  | (86 | ) |  | (81 | )
+Total other debt |  | 29,911 |  |  | 41,634 |  |  | 41,409 |  |  | 43,051 |  |  | 35,584 |  |  | (28 | ) |  | (16 | )
+Other liabilities |  | 10,628 |  |  | 11,964 |  |  | 10,810 |  |  | 10,468 |  |  | 10,146 |  |  | (11 | ) |  | 5 |
+Total liabilities |  | 300,509 |  |  | 309,519 |  |  | 296,848 |  |  | 291,009 |  |  | 282,639 |  |  | (3 | ) |  | 6 |
+Stockholders ’ equity: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Preferred stock |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |  | — |  |  | — |
+Common stock |  | 7 |  |  | 7 |  |  | 7 |  |  | 7 |  |  | 7 |  |  | — |  |  | — |
+Additional paid-in capital, net |  | 31,326 |  |  | 31,157 |  |  | 30,439 |  |  | 29,786 |  |  | 29,709 |  |  | 1 |  |  | 5 |
+Retained earnings |  | 30,326 |  |  | 29,766 |  |  | 29,245 |  |  | 28,479 |  |  | 27,808 |  |  | 2 |  |  | 9 |
+Accumulated other comprehensive income (loss) |  | (934 | ) |  | (949 | ) |  | 121 |  |  | 241 |  |  | (41 | ) |  | (2 | ) |  | ** |
+Treasury stock, at cost |  | (12,685 | ) |  | (12,467 | ) |  | (11,599 | ) |  | (10,405 | ) |  | (9,776 | ) |  | 2 |  |  | 30 |
+Total stockholders ’ equity |  | 48,040 |  |  | 47,514 |  |  | 48,213 |  |  | 48,108 |  |  | 47,707 |  |  | 1 |  |  | 1 |
+Total liabilities and stockholders ’ equity |  | $ | 348,549 |  |  | $ | 357,033 |  |  | $ | 345,061 |  |  | $ | 339,117 |  |  | $ | 330,346 |  |  | (2 | ) |  | 6 |
+[/TABLE]
+
+7
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 5: Notes to Financial Summary, Selected Metrics and Consolidated Financial Statements (Tables 1—4)
+
+(1) | Total net revenue was reduced by $321 million in both Q1 2017 and Q4 2016, $289 million in Q3 2016, $244 million in Q2 2016 and $228 million in Q1 2016 for the estimated uncollectible amount of billed finance charges and fees and related losses.
+
+(2) | The provision (benefit) for mortgage representation and warranty losses included the following activity:
+
+[TABLE]
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1
+Provision (benefit) for mortgage representation and warranty losses before income taxes: |  |  |  |  |  |  |  |  |  |
+Recorded in continuing operations |  | $ | (25 | ) |  | $ | — |  |  | $ | — |  |  | $ | (1 | ) |  | $ | (1 | )
+Recorded in discontinued operations |  | (67 | ) |  | (2 | ) |  | 18 |  |  | 2 |  |  | 3 |
+Total provision (benefit) for mortgage representation and warranty losses before income taxes |  | $ | (92 | ) |  | $ | (2 | ) |  | $ | 18 |  |  | $ | 1 |  |  | $ | 2 |
+[/TABLE]
+
+The mortgage representation and warranty reserve was $516 million as of March 31, 2017 , $630 million as of December 31, 2016 , $632 million as of September 30, 2016, $614 millio n as of June 30, 2016 and $613 million as of March 31, 2016.
+
+(3) | Dividends and undistributed earnings allocated to participating securities and earnings per share are computed independently for each period. Accordingly, the sum of each quarterly amount may not agree to the year-to-date total. We also provide adjusted diluted earnings per share, which is a non-GAAP measure. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on our non-GAAP measures.
+
+(4) | Tangible book value per common share is a non-GAAP measure calculated based on tangible common equity divided by common shares outstanding. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on non-GAAP measures.
+
+(5) | Included in loans held for investment are purchased credit-impaired loans (“PCI loans”) recorded at fair value at acquisition and subsequently accounted for based on estimated cash flows expected to be collected over the life of the loans (under the accounting standard formerly known as “SOP 03-3,” or Accounting Standards Codification 310-30). These include certain of our consumer and commercial loans that were acquired through business combinations. The table below presents amounts related to PCI loans:
+
+[TABLE]
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1
+PCI loans: |  |  |  |  |  |  |  |  |  |
+Period-end unpaid principal balance |  | $ | 14,838 |  |  | $ | 15,896 |  |  | $ | 17,011 |  |  | $ | 18,256 |  |  | $ | 19,492 |
+Period-end loans held for investment |  | 14,102 |  |  | 15,071 |  |  | 16,149 |  |  | 17,358 |  |  | 18,568 |
+Average loans held for investment |  | 14,433 |  |  | 15,443 |  |  | 16,529 |  |  | 17,783 |  |  | 18,894 |
+[/TABLE]
+
+(6) | Total net revenue margin is calculated based on annualized total net revenue for the period divided by average interest-earning assets for the period.
+
+(7) | Net interest margin is calculated based on annualized net interest income for the period divided by average interest-earning assets for the period.
+
+(8) | Return on average tangible assets is a non-GAAP measure calculated based on annualized income from continuing operations, net of tax, for the period divided by average tangible assets for the period. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on non-GAAP measures.
+
+(9) | Return on average common equity is calculated based on annualized (i) income from continuing operations, net of tax; (ii) less dividends and undistributed earnings allocated to participating securities; (iii) less preferred stock dividends, for the period, divided by average common equity for the period. Our calculation of return on average common equity may not be comparable to similarly-titled measures reported by other companies.
+
+(10) | Return on average tangible common equity (“ROTCE”) is a non-GAAP measure calculated based on annualized (i) income from continuing operations, net of tax; (ii) less dividends and undistributed earnings allocated to participating securities; (iii) less preferred stock dividends, for the period, divided by average tangible common equity for the period. Our calculation of ROTCE may not be comparable to similarly-titled measures reported by other companies. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on non-GAAP measures.
+
+(11) | Efficiency ratio is calculated based on total non-interest expense for the period divided by total net revenue for the period. We also provide an adjusted efficiency ratio, which is a non-GAAP measure. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on our non-GAAP measures.
+
+(12) | Net charge-off rate is calculated based on annualized net charge-offs for the period divided by average loans held for investment for the period.
+
+(13) | Capital ratios as of the end of Q1 2017 are preliminary and therefore subject to change. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for information on the calculation of each of these ratios.
+
+8
+
+(14) | TCE ratio is a non-GAAP measure calculated based on TCE divided by tangible assets. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures ” for additional information on non-GAAP measures.
+
+(15) | We made certain Non-interest income and Non-interest expense reclassifications in Q4 2016. The changes were primarily related to a reclassification of certain consumer and commercial banking income from Other to Service charges and other customer-related fees within Non-interest income, and a reclassification of certain system processing costs from Professional services to Communications and data processing within Non-interest expense. We have also consolidated the Non-interest income presentation of Other-than-temporary impairment (“OTTI”) with net realized gains or losses from investment securities into a new Net securities gains (losses) line. These reclassifications were made to better reflect the nature of income earned and expenses incurred. All prior period amounts presented have been reclassified to conform to the current period presentation.
+
+(16) | The primary net effects of the reclassifications discussed in footnote 15 above for Q1 2016 compared to previously reported results were (i) an increase to Service charges and other customer-related fees of $19 million; (ii) a decrease to Other non-interest income of $27 million; and (iii) an increase to Communications and data processing expense of $37 million, with a corresponding decrease to Professional services.
+
+** | Not meaningful.
+
+9
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 6: Average Balances, Net Interest Income and Net Interest Margin
+
+[TABLE]
+ |  | 2017 Q1 |  | 2016 Q4 |  | 2016 Q1
+ |  | Average Balance |  | Interest Income/Expense (1) |  | Yield/Rate (1) |  | Average Balance |  | Interest Income/Expense (1) |  | Yield/Rate (1) |  | Average Balance |  | Interest Income/Expense (1) |  | Yield/Rate (1)
+(Dollars in millions except as noted) |  |  |  |  |  |  |  |  |
+Interest-earning assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 242,249 |  |  | $ | 5,626 |  |  | 9.29% |  | $ | 241,110 |  |  | $ | 5,587 |  |  | 9.27% |  | $ | 227,573 |  |  | $ | 5,085 |  |  | 8.94%
+Investment securities |  | 68,418 |  |  | 416 |  |  | 2.43 |  | 67,827 |  |  | 393 |  |  | 2.32 |  | 65,156 |  |  | 415 |  |  | 2.55
+Cash equivalents and other |  | 7,691 |  |  | 28 |  |  | 1.46 |  | 8,916 |  |  | 29 |  |  | 1.30 |  | 6,727 |  |  | 17 |  |  | 1.01
+Total interest-earning assets |  | $ | 318,358 |  |  | $ | 6,070 |  |  | 7.63 |  | $ | 317,853 |  |  | $ | 6,009 |  |  | 7.56 |  | $ | 299,456 |  |  | $ | 5,517 |  |  | 7.37
+Interest-bearing liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest-bearing deposits |  | $ | 212,973 |  |  | $ | 353 |  |  | 0.66 |  | $ | 206,464 |  |  | $ | 332 |  |  | 0.64 |  | $ | 194,125 |  |  | $ | 283 |  |  | 0.58
+Securitized debt obligations |  | 17,176 |  |  | 69 |  |  | 1.61 |  | 18,300 |  |  | 65 |  |  | 1.42 |  | 15,361 |  |  | 48 |  |  | 1.25
+Senior and subordinated notes |  | 24,804 |  |  | 149 |  |  | 2.40 |  | 23,605 |  |  | 138 |  |  | 2.34 |  | 21,993 |  |  | 106 |  |  | 1.93
+Other borrowings and liabilities |  | 12,356 |  |  | 25 |  |  | 0.81 |  | 17,654 |  |  | 27 |  |  | 0.61 |  | 17,176 |  |  | 24 |  |  | 0.56
+Total interest-bearing liabilities |  | $ | 267,309 |  |  | $ | 596 |  |  | 0.89 |  | $ | 266,023 |  |  | $ | 562 |  |  | 0.85 |  | $ | 248,655 |  |  | $ | 461 |  |  | 0.74
+Net interest income/spread |  |  |  | $ | 5,474 |  |  | 6.74 |  |  |  | $ | 5,447 |  |  | 6.71 |  |  |  | $ | 5,056 |  |  | 6.63
+Impact of non-interest-bearing funding |  |  |  |  |  | 0.14 |  |  |  |  |  | 0.14 |  |  |  |  |  | 0.12
+Net interest margin |  |  |  |  |  | 6.88% |  |  |  |  |  | 6.85% |  |  |  |  |  | 6.75%
+[/TABLE]
+
+__________
+
+(1) | Interest income and interest expense and the calculation of average yields on interest-earning assets and average rates on interest-bearing liabilities include the impact of hedge accounting.
+
+10
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 7: Loan Information and Performance Statistics
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+(Dollars in millions except as noted) |  | 2017 Q1 |  | 2016 Q4 |  | 2016 Q3 |  | 2016 Q2 |  | 2016 Q1 |  | 2016 Q4 |  | 2016 Q1
+Loans Held For Investment (Period-End) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | $ | 91,092 |  |  | $ | 97,120 |  |  | $ | 90,955 |  |  | $ | 88,581 |  |  | $ | 84,561 |  |  | (6)% |  |  | 8% |
+International card businesses |  | 8,121 |  |  | 8,432 |  |  | 8,246 |  |  | 8,323 |  |  | 8,138 |  |  | (4 | ) |  | — |
+Total credit card |  | 99,213 |  |  | 105,552 |  |  | 99,201 |  |  | 96,904 |  |  | 92,699 |  |  | (6 | ) |  | 7 |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 49,771 |  |  | 47,916 |  |  | 46,311 |  |  | 44,502 |  |  | 42,714 |  |  | 4 |  |  | 17 |
+Home loan |  | 20,738 |  |  | 21,584 |  |  | 22,448 |  |  | 23,358 |  |  | 24,343 |  |  | (4 | ) |  | (15 | )
+Retail banking |  | 3,473 |  |  | 3,554 |  |  | 3,526 |  |  | 3,555 |  |  | 3,534 |  |  | (2 | ) |  | (2 | )
+Total consumer banking |  | 73,982 |  |  | 73,054 |  |  | 72,285 |  |  | 71,415 |  |  | 70,591 |  |  | 1 |  |  | 5 |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 27,218 |  |  | 26,609 |  |  | 26,507 |  |  | 26,341 |  |  | 25,559 |  |  | 2 |  |  | 6 |
+Commercial and industrial |  | 39,638 |  |  | 39,824 |  |  | 39,432 |  |  | 39,313 |  |  | 38,102 |  |  | — |  |  | 4 |
+Total commercial lending |  | 66,856 |  |  | 66,433 |  |  | 65,939 |  |  | 65,654 |  |  | 63,661 |  |  | 1 |  |  | 5 |
+Small-ticket commercial real estate |  | 464 |  |  | 483 |  |  | 518 |  |  | 548 |  |  | 580 |  |  | (4 | ) |  | (20 | )
+Total commercial banking |  | 67,320 |  |  | 66,916 |  |  | 66,457 |  |  | 66,202 |  |  | 64,241 |  |  | 1 |  |  | 5 |
+Other loans |  | 73 |  |  | 64 |  |  | 76 |  |  | 82 |  |  | 82 |  |  | 14 |  |  | (11 | )
+Total loans held for investment |  | $ | 240,588 |  |  | $ | 245,586 |  |  | $ | 238,019 |  |  | $ | 234,603 |  |  | $ | 227,613 |  |  | (2 | ) |  | 6 |
+Loans Held For Investment (Average) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | $ | 93,034 |  |  | $ | 92,623 |  |  | $ | 89,763 |  |  | $ | 85,981 |  |  | $ | 85,148 |  |  | — |  |  | 9% |
+International card businesses |  | 8,135 |  |  | 8,168 |  |  | 8,253 |  |  | 8,401 |  |  | 7,839 |  |  | — |  |  | 4 |
+Total credit card |  | 101,169 |  |  | 100,791 |  |  | 98,016 |  |  | 94,382 |  |  | 92,987 |  |  | — |  |  | 9 |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 48,673 |  |  | 47,126 |  |  | 45,355 |  |  | 43,605 |  |  | 41,962 |  |  | 3% |  |  | 16 |
+Home loan |  | 21,149 |  |  | 21,984 |  |  | 22,852 |  |  | 23,835 |  |  | 24,781 |  |  | (4 | ) |  | (15 | )
+Retail banking |  | 3,509 |  |  | 3,549 |  |  | 3,520 |  |  | 3,548 |  |  | 3,553 |  |  | (1 | ) |  | (1 | )
+Total consumer banking |  | 73,331 |  |  | 72,659 |  |  | 71,727 |  |  | 70,988 |  |  | 70,296 |  |  | 1 |  |  | 4 |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 26,587 |  |  | 26,445 |  |  | 26,154 |  |  | 25,661 |  |  | 25,015 |  |  | 1 |  |  | 6 |
+Commercial and industrial |  | 39,877 |  |  | 39,573 |  |  | 39,346 |  |  | 38,713 |  |  | 37,762 |  |  | 1 |  |  | 6 |
+Total commercial lending |  | 66,464 |  |  | 66,018 |  |  | 65,500 |  |  | 64,374 |  |  | 62,777 |  |  | 1 |  |  | 6 |
+Small-ticket commercial real estate |  | 474 |  |  | 497 |  |  | 534 |  |  | 564 |  |  | 598 |  |  | (5 | ) |  | (21 | )
+Total commercial banking |  | 66,938 |  |  | 66,515 |  |  | 66,034 |  |  | 64,938 |  |  | 63,375 |  |  | 1 |  |  | 6 |
+Other loans |  | 67 |  |  | 62 |  |  | 66 |  |  | 71 |  |  | 78 |  |  | 8 |  |  | (14 | )
+Total average loans held for investment |  | $ | 241,505 |  |  | $ | 240,027 |  |  | $ | 235,843 |  |  | $ | 230,379 |  |  | $ | 226,736 |  |  | 1 |  |  | 7 |
+[/TABLE]
+
+11
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 Q1 |  | 2016 Q4 |  | 2016 Q3 |  | 2016 Q2 |  | 2016 Q1 |  | 2016 Q4 |  | 2016 Q1
+Net Charge-Off (Recovery) Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | 5.14% |  |  | 4.66% |  |  | 3.74% |  |  | 4.07% |  |  | 4.16% |  |  | 48 | bps |  | 98 | bps
+International card businesses |  | 3.69 |  |  | 3.35 |  |  | 3.18 |  |  | 3.54 |  |  | 3.24 |  |  | 34 |  |  | 45 |
+Total credit card |  | 5.02 |  |  | 4.56 |  |  | 3.70 |  |  | 4.02 |  |  | 4.09 |  |  | 46 |  |  | 93 |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 1.64 |  |  | 2.07 |  |  | 1.85 |  |  | 1.20 |  |  | 1.60 |  |  | (43 | ) |  | 4 |
+Home loan |  | 0.03 |  |  | 0.08 |  |  | 0.03 |  |  | 0.09 |  |  | 0.05 |  |  | (5 | ) |  | (2 | )
+Retail banking |  | 1.92 |  |  | 1.73 |  |  | 1.75 |  |  | 1.26 |  |  | 1.36 |  |  | 19 |  |  | 56 |
+Total consumer banking |  | 1.19 |  |  | 1.45 |  |  | 1.26 |  |  | 0.83 |  |  | 1.04 |  |  | (26 | ) |  | 15 |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | — |  |  | (0.02 | ) |  | 0.01 |  |  | (0.02 | ) |  | (0.01 | ) |  | ** |  |  | ** |
+Commercial and industrial |  | 0.22 |  |  | 0.80 |  |  | 1.09 |  |  | 0.62 |  |  | 0.49 |  |  | (58 | ) |  | (27 | )
+Total commercial lending |  | 0.13 |  |  | 0.47 |  |  | 0.66 |  |  | 0.37 |  |  | 0.29 |  |  | (34 | ) |  | (16 | )
+Small-ticket commercial real estate |  | 1.05 |  |  | (0.02 | ) |  | 0.74 |  |  | 0.33 |  |  | 0.13 |  |  | ** |  |  | 92 |
+Total commercial banking |  | 0.14 |  |  | 0.47 |  |  | 0.66 |  |  | 0.37 |  |  | 0.29 |  |  | (33 | ) |  | (15 | )
+Total net charge-offs |  | 2.50 |  |  | 2.48 |  |  | 2.10 |  |  | 2.01 |  |  | 2.08 |  |  | 2 |  |  | 42 |
+30+ Day Performing Delinquency Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | 3.71% |  |  | 3.95% |  |  | 3.68% |  |  | 3.14% |  |  | 3.09% |  |  | (24 | )bps |  | 62 | bps
+International card businesses |  | 3.39 |  |  | 3.36 |  |  | 3.33 |  |  | 3.24 |  |  | 3.32 |  |  | 3 |  |  | 7 |
+Total credit card |  | 3.68 |  |  | 3.91 |  |  | 3.65 |  |  | 3.15 |  |  | 3.11 |  |  | (23 | ) |  | 57 |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 5.03 |  |  | 6.12 |  |  | 5.67 |  |  | 5.59 |  |  | 5.14 |  |  | (109 | ) |  | (11 | )
+Home loan |  | 0.15 |  |  | 0.20 |  |  | 0.19 |  |  | 0.14 |  |  | 0.14 |  |  | (5 | ) |  | 1 |
+Retail banking |  | 0.59 |  |  | 0.70 |  |  | 0.59 |  |  | 0.62 |  |  | 0.61 |  |  | (11 | ) |  | (2 | )
+Total consumer banking |  | 3.45 |  |  | 4.10 |  |  | 3.72 |  |  | 3.56 |  |  | 3.19 |  |  | (65 | ) |  | 26 |
+Nonperforming Loans and Nonperforming Assets Rates (1)(2) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+International card businesses |  | 0.47% |  |  | 0.50% |  |  | 0.53% |  |  | 0.53% |  |  | 0.59% |  |  | (3 | )bps |  | (12 | )bps
+Total credit card |  | 0.04 |  |  | 0.04 |  |  | 0.04 |  |  | 0.05 |  |  | 0.05 |  |  | — |  |  | (1 | )
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 0.36 |  |  | 0.47 |  |  | 0.43 |  |  | 0.38 |  |  | 0.31 |  |  | (11 | ) |  | 5 |
+Home loan |  | 1.27 |  |  | 1.26 |  |  | 1.23 |  |  | 1.24 |  |  | 1.26 |  |  | 1 |  |  | 1 |
+Retail banking |  | 0.82 |  |  | 0.86 |  |  | 1.05 |  |  | 0.89 |  |  | 0.83 |  |  | (4 | ) |  | (1 | )
+Total consumer banking |  | 0.64 |  |  | 0.72 |  |  | 0.71 |  |  | 0.69 |  |  | 0.66 |  |  | (8 | ) |  | (2 | )
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 0.13 |  |  | 0.11 |  |  | 0.08 |  |  | 0.10 |  |  | 0.12 |  |  | 2 |  |  | 1 |
+Commercial and industrial |  | 2.02 |  |  | 2.48 |  |  | 2.44 |  |  | 2.58 |  |  | 2.66 |  |  | (46 | ) |  | (64 | )
+Total commercial lending |  | 1.25 |  |  | 1.53 |  |  | 1.49 |  |  | 1.59 |  |  | 1.64 |  |  | (28 | ) |  | (39 | )
+Small-ticket commercial real estate |  | 1.65 |  |  | 0.85 |  |  | 2.13 |  |  | 1.59 |  |  | 1.11 |  |  | 80 |  |  | 54 |
+Total commercial banking |  | 1.25 |  |  | 1.53 |  |  | 1.50 |  |  | 1.59 |  |  | 1.63 |  |  | (28 | ) |  | (38 | )
+Total nonperforming loans |  | 0.57 |  |  | 0.65 |  |  | 0.66 |  |  | 0.68 |  |  | 0.69 |  |  | (8 | ) |  | (12 | )
+Total nonperforming assets |  | 0.66 |  |  | 0.76 |  |  | 0.77 |  |  | 0.80 |  |  | 0.83 |  |  | (10 | ) |  | (17 | )
+[/TABLE]
+
+12
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 8: Allowance for Loan and Lease Losses and Reserve for Unfunded Lending Commitments Activity
+
+[TABLE]
+ |  | Three Months Ended March 31, 2017
+ |  | Credit Card |  | Consumer Banking |  |  |  |  |  |
+(Dollars in millions) |  | Domestic Card |  | International Card Businesses |  | Total Credit Card |  | Auto |  | Home Loan |  | Retail Banking |  | Total Consumer Banking |  | Commercial Banking |  | Other (3) |  | Total
+Allowance for loan and lease losses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Balance as of December 31, 2016 |  | $ | 4,229 |  |  | $ | 377 |  |  | $ | 4,606 |  |  | $ | 957 |  |  | $ | 65 |  |  | $ | 80 |  |  | $ | 1,102 |  |  | $ | 793 |  |  | $ | 2 |  |  | $ | 6,503 |
+Charge-offs |  | (1,484 | ) |  | (117 | ) |  | (1,601 | ) |  | (339 | ) |  | (4 | ) |  | (21 | ) |  | (364 | ) |  | (26 | ) |  | — |  |  | (1,991 | )
+Recoveries |  | 288 |  |  | 42 |  |  | 330 |  |  | 140 |  |  | 2 |  |  | 4 |  |  | 146 |  |  | 3 |  |  | 2 |  |  | 481 |
+Net charge-offs |  | (1,196 | ) |  | (75 | ) |  | (1,271 | ) |  | (199 | ) |  | (2 | ) |  | (17 | ) |  | (218 | ) |  | (23 | ) |  | 2 |  |  | (1,510 | )
+Provision (benefit) for loan and lease losses |  | 1,637 |  |  | 80 |  |  | 1,717 |  |  | 270 |  |  | (3 | ) |  | 12 |  |  | 279 |  |  | (6 | ) |  | (2 | ) |  | 1,988 |
+Allowance build (release) for loan and lease losses |  | 441 |  |  | 5 |  |  | 446 |  |  | 71 |  |  | (5 | ) |  | (5 | ) |  | 61 |  |  | (29 | ) |  | — |  |  | 478 |
+Other changes (4) |  | — |  |  | 6 |  |  | 6 |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (3 | ) |  | — |  |  | 3 |
+Balance as of March 31, 2017 |  | 4,670 |  |  | 388 |  |  | 5,058 |  |  | 1,028 |  |  | 60 |  |  | 75 |  |  | 1,163 |  |  | 761 |  |  | 2 |  |  | 6,984 |
+Reserve for unfunded lending commitments: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Balance as of December 31, 2016 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 7 |  |  | 7 |  |  | 129 |  |  | — |  |  | 136 |
+Provision for losses on unfunded lending commitments |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 4 |  |  | — |  |  | 4 |
+Balance as of March 31, 2017 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 7 |  |  | 7 |  |  | 133 |  |  | — |  |  | 140 |
+Combined allowance and reserve as of March 31, 2017 |  | $ | 4,670 |  |  | $ | 388 |  |  | $ | 5,058 |  |  | $ | 1,028 |  |  | $ | 60 |  |  | $ | 82 |  |  | $ | 1,170 |  |  | $ | 894 |  |  | $ | 2 |  |  | $ | 7,124 |
+[/TABLE]
+
+13
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 9: Financial Summary—Business Segment Results
+
+[TABLE]
+ |  | Three Months Ended March 31, 2017 |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking |  | Other |  | Total |
+Net interest income |  | $ | 3,346 |  |  | $ | 1,517 |  |  | $ | 566 |  |  | $ | 45 |  |  | $ | 5,474 |  |
+Non-interest income |  | 738 |  |  | 195 |  |  | 158 |  |  | (30 | ) |  | 1,061 |  |
+Total net revenue (5) |  | 4,084 |  |  | 1,712 |  |  | 724 |  |  | 15 |  |  | 6,535 |  |
+Provision (benefit) for credit losses |  | 1,717 |  |  | 279 |  |  | (2 | ) |  | (2 | ) |  | 1,992 |  |
+Non-interest expense |  | 1,929 |  |  | 1,042 |  |  | 391 |  |  | 72 |  |  | 3,434 |  |
+Income (loss) from continuing operations before income taxes |  | 438 |  |  | 391 |  |  | 335 |  |  | (55 | ) |  | 1,109 |  |
+Income tax provision (benefit) |  | 167 |  |  | 143 |  |  | 122 |  |  | (118 | ) |  | 314 |  |
+Income from continuing operations, net of tax |  | $ | 271 |  |  | $ | 248 |  |  | $ | 213 |  |  | $ | 63 |  |  | $ | 795 |  |
+ |  | Three Months Ended December 31, 2016 |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking |  | Other |  | Total |
+Net interest income |  | $ | 3,353 |  |  | $ | 1,498 |  |  | $ | 565 |  |  | $ | 31 |  |  | $ | 5,447 |  |
+Non-interest income |  | 849 |  |  | 166 |  |  | 175 |  |  | (71 | ) |  | 1,119 |  |
+Total net revenue (5) |  | 4,202 |  |  | 1,664 |  |  | 740 |  |  | (40 | ) |  | 6,566 |  |
+Provision (benefit) for credit losses |  | 1,322 |  |  | 365 |  |  | 66 |  |  | (1 | ) |  | 1,752 |  |
+Non-interest expense |  | 2,073 |  |  | 1,109 |  |  | 393 |  |  | 104 |  |  | 3,679 |  |
+Income (loss) from continuing operations before income taxes |  | 807 |  |  | 190 |  |  | 281 |  |  | (143 | ) |  | 1,135 |  |
+Income tax provision (benefit) |  | 295 |  |  | 70 |  |  | 102 |  |  | (125 | ) |  | 342 |  |
+Income (loss) from continuing operations, net of tax |  | $ | 512 |  |  | $ | 120 |  |  | $ | 179 |  |  | $ | (18 | ) |  | $ | 793 |  |
+ |  | Three Months Ended March 31, 2016 |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking |  | Other |  | Total |
+Net interest income |  | $ | 3,033 |  |  | $ | 1,420 |  |  | $ | 537 |  |  | $ | 66 |  |  | $ | 5,056 |  |
+Non-interest income |  | 847 |  |  | 191 |  |  | 118 |  |  | 8 |  |  | 1,164 |  |
+Total net revenue (5) |  | 3,880 |  |  | 1,611 |  |  | 655 |  |  | 74 |  |  | 6,220 |  |
+Provision (benefit) for credit losses |  | 1,071 |  |  | 230 |  |  | 228 |  |  | (2 | ) |  | 1,527 |  |
+Non-interest expense |  | 1,863 |  |  | 990 |  |  | 322 |  |  | 48 |  |  | 3,223 |  |
+Income from continuing operations before income taxes |  | 946 |  |  | 391 |  |  | 105 |  |  | 28 |  |  | 1,470 |  |
+Income tax provision (benefit) |  | 337 |  |  | 142 |  |  | 38 |  |  | (65 | ) |  | 452 |  |
+Income from continuing operations, net of tax |  | $ | 609 |  |  | $ | 249 |  |  | $ | 67 |  |  | $ | 93 |  |  | $ | 1,018 |  |
+[/TABLE]
+
+14
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 10: Financial & Statistical Summary—Credit Card Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Credit Card |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 3,346 |  |  | $ | 3,353 |  |  | $ | 3,204 |  |  | $ | 3,045 |  |  | $ | 3,033 |  |  | — |  |  | 10% |
+Non-interest income |  | 738 |  |  | 849 |  |  | 825 |  |  | 859 |  |  | 847 |  |  | (13)% |  |  | (13 | )
+Total net revenue |  | 4,084 |  |  | 4,202 |  |  | 4,029 |  |  | 3,904 |  |  | 3,880 |  |  | (3 | ) |  | 5 |
+Provision for credit losses |  | 1,717 |  |  | 1,322 |  |  | 1,272 |  |  | 1,261 |  |  | 1,071 |  |  | 30 |  |  | 60 |
+Non-interest expense |  | 1,929 |  |  | 2,073 |  |  | 1,884 |  |  | 1,883 |  |  | 1,863 |  |  | (7 | ) |  | 4 |
+Income from continuing operations before income taxes |  | 438 |  |  | 807 |  |  | 873 |  |  | 760 |  |  | 946 |  |  | (46 | ) |  | (54 | )
+Income tax provision |  | 167 |  |  | 295 |  |  | 318 |  |  | 276 |  |  | 337 |  |  | (43 | ) |  | (50 | )
+Income from continuing operations, net of tax |  | $ | 271 |  |  | $ | 512 |  |  | $ | 555 |  |  | $ | 484 |  |  | $ | 609 |  |  | (47 | ) |  | (56 | )
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 99,213 |  |  | $ | 105,552 |  |  | $ | 99,201 |  |  | $ | 96,904 |  |  | $ | 92,699 |  |  | (6 | ) |  | 7 |
+Average loans held for investment |  | 101,169 |  |  | 100,791 |  |  | 98,016 |  |  | 94,382 |  |  | 92,987 |  |  | — |  |  | 9 |
+Average yield on loans held for investment (6) |  | 14.99% |  |  | 14.93% |  |  | 14.68% |  |  | 14.49% |  |  | 14.60% |  |  | 6 | bps |  | 39 | bps
+Total net revenue margin (7) |  | 16.14 |  |  | 16.68 |  |  | 16.44 |  |  | 16.55 |  |  | 16.69 |  |  | (54 | ) |  | (55 | )
+Net charge-off rate |  | 5.02 |  |  | 4.56 |  |  | 3.70 |  |  | 4.02 |  |  | 4.09 |  |  | 46 |  |  | 93 |
+30+ day performing delinquency rate |  | 3.68 |  |  | 3.91 |  |  | 3.65 |  |  | 3.15 |  |  | 3.11 |  |  | (23 | ) |  | 57 |
+30+ day delinquency rate |  | 3.71 |  |  | 3.94 |  |  | 3.69 |  |  | 3.18 |  |  | 3.15 |  |  | (23 | ) |  | 56 |
+Nonperforming loan rate (1) |  | 0.04 |  |  | 0.04 |  |  | 0.04 |  |  | 0.05 |  |  | 0.05 |  |  | — |  |  | (1 | )
+PCCR intangible amortization |  | $ | 44 |  |  | $ | 58 |  |  | $ | 62 |  |  | $ | 67 |  |  | $ | 70 |  |  | (24)% |  |  | (37)% |
+Purchase volume (8) |  | 73,197 |  |  | 82,824 |  |  | 78,106 |  |  | 78,019 |  |  | 68,189 |  |  | (12 | ) |  | 7 |
+[/TABLE]
+
+15
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Domestic Card |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 3,093 |  |  | $ | 3,090 |  |  | $ | 2,956 |  |  | $ | 2,769 |  |  | $ | 2,756 |  |  | — |  |  | 12% |
+Non-interest income |  | 699 |  |  | 791 |  |  | 759 |  |  | 792 |  |  | 774 |  |  | (12)% |  |  | (10 | )
+Total net revenue |  | 3,792 |  |  | 3,881 |  |  | 3,715 |  |  | 3,561 |  |  | 3,530 |  |  | (2 | ) |  | 7 |
+Provision for credit losses |  | 1,637 |  |  | 1,229 |  |  | 1,190 |  |  | 1,164 |  |  | 972 |  |  | 33 |  |  | 68 |
+Non-interest expense |  | 1,717 |  |  | 1,859 |  |  | 1,696 |  |  | 1,669 |  |  | 1,671 |  |  | (8 | ) |  | 3 |
+Income from continuing operations before income taxes |  | 438 |  |  | 793 |  |  | 829 |  |  | 728 |  |  | 887 |  |  | (45 | ) |  | (51 | )
+Income tax provision |  | 160 |  |  | 288 |  |  | 302 |  |  | 265 |  |  | 323 |  |  | (44 | ) |  | (50 | )
+Income from continuing operations, net of tax |  | $ | 278 |  |  | $ | 505 |  |  | $ | 527 |  |  | $ | 463 |  |  | $ | 564 |  |  | (45 | ) |  | (51 | )
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 91,092 |  |  | $ | 97,120 |  |  | $ | 90,955 |  |  | $ | 88,581 |  |  | $ | 84,561 |  |  | (6 | ) |  | 8 |
+Average loans held for investment |  | 93,034 |  |  | 92,623 |  |  | 89,763 |  |  | 85,981 |  |  | 85,148 |  |  | — |  |  | 9 |
+Average yield on loans held for investment (6) |  | 15.01% |  |  | 14.91% |  |  | 14.71% |  |  | 14.40% |  |  | 14.43% |  |  | 10 | bps |  | 58 | bps
+Total net revenue margin (7) |  | 16.30 |  |  | 16.76 |  |  | 16.55 |  |  | 16.57 |  |  | 16.58 |  |  | (46 | ) |  | (28 | )
+Net charge-off rate |  | 5.14 |  |  | 4.66 |  |  | 3.74 |  |  | 4.07 |  |  | 4.16 |  |  | 48 |  |  | 98 |
+30+ day delinquency rate |  | 3.71 |  |  | 3.95 |  |  | 3.68 |  |  | 3.14 |  |  | 3.09 |  |  | (24 | ) |  | 62 |
+Purchase volume (8) |  | $ | 66,950 |  |  | $ | 75,639 |  |  | $ | 71,331 |  |  | $ | 71,050 |  |  | $ | 62,617 |  |  | (11)% |  |  | 7% |
+Refreshed FICO scores: (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Greater than 660 |  | 63 | % |  | 64 | % |  | 64 | % |  | 65 | % |  | 65 | % |  | (1 | ) |  | (2 | )
+660 or below |  | 37 |  |  | 36 |  |  | 36 |  |  | 35 |  |  | 35 |  |  | 1 |  |  | 2 |
+Total |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  |  |  |
+[/TABLE]
+
+16
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 11: Financial & Statistical Summary—Consumer Banking Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Consumer Banking |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 1,517 |  |  | $ | 1,498 |  |  | $ | 1,472 |  |  | $ | 1,439 |  |  | $ | 1,420 |  |  | 1% |  |  | 7% |
+Non-interest income |  | 195 |  |  | 166 |  |  | 201 |  |  | 175 |  |  | 191 |  |  | 17 |  |  | 2 |
+Total net revenue |  | 1,712 |  |  | 1,664 |  |  | 1,673 |  |  | 1,614 |  |  | 1,611 |  |  | 3 |  |  | 6 |
+Provision for credit losses |  | 279 |  |  | 365 |  |  | 256 |  |  | 204 |  |  | 230 |  |  | (24 | ) |  | 21 |
+Non-interest expense |  | 1,042 |  |  | 1,109 |  |  | 1,034 |  |  | 1,006 |  |  | 990 |  |  | (6 | ) |  | 5 |
+Income from continuing operations before income taxes |  | 391 |  |  | 190 |  |  | 383 |  |  | 404 |  |  | 391 |  |  | 106 |  |  | — |
+Income tax provision |  | 143 |  |  | 70 |  |  | 139 |  |  | 147 |  |  | 142 |  |  | 104 |  |  | 1 |
+Income from continuing operations, net of tax |  | $ | 248 |  |  | $ | 120 |  |  | $ | 244 |  |  | $ | 257 |  |  | $ | 249 |  |  | 107 |  |  | — |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 73,982 |  |  | $ | 73,054 |  |  | $ | 72,285 |  |  | $ | 71,415 |  |  | $ | 70,591 |  |  | 1 |  |  | 5 |
+Average loans held for investment |  | 73,331 |  |  | 72,659 |  |  | 71,727 |  |  | 70,988 |  |  | 70,296 |  |  | 1 |  |  | 4 |
+Average yield on loans held for investment (6) |  | 6.48% |  |  | 6.50% |  |  | 6.41% |  |  | 6.28% |  |  | 6.18% |  |  | (2 | )bps |  | 30 | bps
+Auto loan originations |  | $ | 7,025 |  |  | $ | 6,542 |  |  | $ | 6,804 |  |  | $ | 6,529 |  |  | $ | 5,844 |  |  | 7% |  |  | 20% |
+Period-end deposits |  | 188,216 |  |  | 181,917 |  |  | 178,793 |  |  | 176,340 |  |  | 177,803 |  |  | 3 |  |  | 6 |
+Average deposits |  | 183,936 |  |  | 180,019 |  |  | 177,402 |  |  | 176,808 |  |  | 174,254 |  |  | 2 |  |  | 6 |
+Average deposits interest rate |  | 0.57% |  |  | 0.57% |  |  | 0.56% |  |  | 0.55% |  |  | 0.54% |  |  | — |  |  | 3 | bps
+Net charge-off rate |  | 1.19 |  |  | 1.45 |  |  | 1.26 |  |  | 0.83 |  |  | 1.04 |  |  | (26 | )bps |  | 15 |
+30+ day performing delinquency rate |  | 3.45 |  |  | 4.10 |  |  | 3.72 |  |  | 3.56 |  |  | 3.19 |  |  | (65 | ) |  | 26 |
+30+ day delinquency rate |  | 3.93 |  |  | 4.67 |  |  | 4.26 |  |  | 4.07 |  |  | 3.67 |  |  | (74 | ) |  | 26 |
+Nonperforming loan rate (1) |  | 0.64 |  |  | 0.72 |  |  | 0.71 |  |  | 0.69 |  |  | 0.66 |  |  | (8 | ) |  | (2 | )
+Nonperforming asset rate (2) |  | 0.92 |  |  | 1.09 |  |  | 0.98 |  |  | 0.96 |  |  | 0.95 |  |  | (17 | ) |  | (3 | )
+Auto—At origination FICO scores: (10) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Greater than 660 |  | 51 | % |  | 52 | % |  | 51 | % |  | 51 | % |  | 51 | % |  | (1)% |  |  | — |
+621 - 660 |  | 18 |  |  | 17 |  |  | 17 |  |  | 17 |  |  | 17 |  |  | 1 |  |  | 1% |
+620 or below |  | 31 |  |  | 31 |  |  | 32 |  |  | 32 |  |  | 32 |  |  | — |  |  | (1 | )
+Total |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  |  |  |
+[/TABLE]
+
+17
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 12: Financial & Statistical Summary—Commercial Banking Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Commercial Banking |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 566 |  |  | $ | 565 |  |  | $ | 555 |  |  | $ | 559 |  |  | $ | 537 |  |  | — |  |  | 5% |
+Non-interest income |  | 158 |  |  | 175 |  |  | 156 |  |  | 129 |  |  | 118 |  |  | (10)% |  |  | 34 |
+Total net revenue (5) |  | 724 |  |  | 740 |  |  | 711 |  |  | 688 |  |  | 655 |  |  | (2 | ) |  | 11 |
+Provision (benefit) for credit losses |  | (2 | ) |  | 66 |  |  | 61 |  |  | 128 |  |  | 228 |  |  | ** |  |  | ** |
+Non-interest expense |  | 391 |  |  | 393 |  |  | 349 |  |  | 343 |  |  | 322 |  |  | (1 | ) |  | 21 |
+Income from continuing operations before income taxes |  | 335 |  |  | 281 |  |  | 301 |  |  | 217 |  |  | 105 |  |  | 19 |  |  | 219 |
+Income tax provision |  | 122 |  |  | 102 |  |  | 110 |  |  | 79 |  |  | 38 |  |  | 20 |  |  | 221 |
+Income from continuing operations, net of tax |  | $ | 213 |  |  | $ | 179 |  |  | $ | 191 |  |  | $ | 138 |  |  | $ | 67 |  |  | 19 |  |  | 218 |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 67,320 |  |  | $ | 66,916 |  |  | $ | 66,457 |  |  | $ | 66,202 |  |  | $ | 64,241 |  |  | 1 |  |  | 5 |
+Average loans held for investment |  | 66,938 |  |  | 66,515 |  |  | 66,034 |  |  | 64,938 |  |  | 63,375 |  |  | 1 |  |  | 6 |
+Average yield on loans held for investment (5)(6) |  | 3.65% |  |  | 3.55% |  |  | 3.50% |  |  | 3.45% |  |  | 3.38% |  |  | 10 | bps |  | 27 | bps
+Period-end deposits |  | $ | 33,735 |  |  | $ | 33,866 |  |  | $ | 33,611 |  |  | $ | 34,281 |  |  | $ | 33,383 |  |  | — |  |  | 1% |
+Average deposits |  | 34,219 |  |  | 34,029 |  |  | 33,498 |  |  | 33,764 |  |  | 34,076 |  |  | 1% |  |  | — |
+Average deposits interest rate |  | 0.31% |  |  | 0.30% |  |  | 0.30% |  |  | 0.27% |  |  | 0.27% |  |  | 1 | bps |  | 4 | bps
+Net charge-off rate |  | 0.14 |  |  | 0.47 |  |  | 0.66 |  |  | 0.37 |  |  | 0.29 |  |  | (33 | ) |  | (15 | )
+Nonperforming loan rate (1) |  | 1.25 |  |  | 1.53 |  |  | 1.50 |  |  | 1.59 |  |  | 1.63 |  |  | (28 | ) |  | (38 | )
+Nonperforming asset rate (2) |  | 1.27 |  |  | 1.54 |  |  | 1.51 |  |  | 1.60 |  |  | 1.64 |  |  | (27 | ) |  | (37 | )
+Risk category: (11) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Noncriticized |  | $ | 63,390 |  |  | $ | 62,828 |  |  | $ | 62,336 |  |  | $ | 61,926 |  |  | $ | 59,663 |  |  | 1% |  |  | 6% |
+Criticized performing |  | 2,492 |  |  | 2,453 |  |  | 2,473 |  |  | 2,456 |  |  | 2,595 |  |  | 2 |  |  | (4 | )
+Criticized nonperforming |  | 844 |  |  | 1,022 |  |  | 994 |  |  | 1,050 |  |  | 1,050 |  |  | (17 | ) |  | (20 | )
+PCI loans |  | 594 |  |  | 613 |  |  | 654 |  |  | 770 |  |  | 933 |  |  | (3 | ) |  | (36 | )
+Total commercial loans |  | $ | 67,320 |  |  | $ | 66,916 |  |  | $ | 66,457 |  |  | $ | 66,202 |  |  | $ | 64,241 |  |  | 1 |  |  | 5 |
+Risk category as a percentage of period-end loans held for investment: (11) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Noncriticized |  | 94.2% |  |  | 93.9% |  |  | 93.8% |  |  | 93.5% |  |  | 92.9% |  |  | 30 | bps |  | 130 | bps
+Criticized performing |  | 3.7 |  |  | 3.7 |  |  | 3.7 |  |  | 3.7 |  |  | 4.0 |  |  | — |  |  | (30 | )
+Criticized nonperforming |  | 1.2 |  |  | 1.5 |  |  | 1.5 |  |  | 1.6 |  |  | 1.6 |  |  | (30 | ) |  | (40 | )
+PCI loans |  | 0.9 |  |  | 0.9 |  |  | 1.0 |  |  | 1.2 |  |  | 1.5 |  |  | — |  |  | (60 | )
+Total commercial loans |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  |  |  |
+[/TABLE]
+
+18
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 13: Financial & Statistical Summary—Other and Total
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2017 Q1 vs.
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Other |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 45 |  |  | $ | 31 |  |  | $ | 46 |  |  | $ | 50 |  |  | $ | 66 |  |  | 45% |  |  | (32)% |
+Non-interest income |  | (30 | ) |  | (71 | ) |  | 2 |  |  | (2 | ) |  | 8 |  |  | (58 | ) |  | ** |
+Total net revenue (loss) (5) |  | 15 |  |  | (40 | ) |  | 48 |  |  | 48 |  |  | 74 |  |  | ** |  |  | (80 | )
+Benefit for credit losses |  | (2 | ) |  | (1 | ) |  | (1 | ) |  | (1 | ) |  | (2 | ) |  | 100 |  |  | — |
+Non-interest expense |  | 72 |  |  | 104 |  |  | 94 |  |  | 63 |  |  | 48 |  |  | (31 | ) |  | 50 |
+Income (loss) from continuing operations before income taxes |  | (55 | ) |  | (143 | ) |  | (45 | ) |  | (14 | ) |  | 28 |  |  | (62 | ) |  | ** |
+Income tax benefit |  | (118 | ) |  | (125 | ) |  | (71 | ) |  | (78 | ) |  | (65 | ) |  | (6 | ) |  | 82 |
+Income (loss) from continuing operations, net of tax |  | $ | 63 |  |  | $ | (18 | ) |  | $ | 26 |  |  | $ | 64 |  |  | $ | 93 |  |  | ** |  |  | (32 | )
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 73 |  |  | $ | 64 |  |  | $ | 76 |  |  | $ | 82 |  |  | $ | 82 |  |  | 14 |  |  | (11 | )
+Average loans held for investment |  | 67 |  |  | 62 |  |  | 66 |  |  | 71 |  |  | 78 |  |  | 8 |  |  | (14 | )
+Period-end deposits |  | 19,231 |  |  | 20,985 |  |  | 13,577 |  |  | 10,438 |  |  | 10,593 |  |  | (8 | ) |  | 82 |
+Average deposits |  | 20,395 |  |  | 18,156 |  |  | 11,351 |  |  | 10,574 |  |  | 10,850 |  |  | 12 |  |  | 88 |
+Total |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 5,474 |  |  | $ | 5,447 |  |  | $ | 5,277 |  |  | $ | 5,093 |  |  | $ | 5,056 |  |  | — |  |  | 8% |
+Non-interest income |  | 1,061 |  |  | 1,119 |  |  | 1,184 |  |  | 1,161 |  |  | 1,164 |  |  | (5)% |  |  | (9 | )
+Total net revenue |  | 6,535 |  |  | 6,566 |  |  | 6,461 |  |  | 6,254 |  |  | 6,220 |  |  | — |  |  | 5 |
+Provision for credit losses |  | 1,992 |  |  | 1,752 |  |  | 1,588 |  |  | 1,592 |  |  | 1,527 |  |  | 14 |  |  | 30 |
+Non-interest expense |  | 3,434 |  |  | 3,679 |  |  | 3,361 |  |  | 3,295 |  |  | 3,223 |  |  | (7 | ) |  | 7 |
+Income from continuing operations before income taxes |  | 1,109 |  |  | 1,135 |  |  | 1,512 |  |  | 1,367 |  |  | 1,470 |  |  | (2 | ) |  | (25 | )
+Income tax provision |  | 314 |  |  | 342 |  |  | 496 |  |  | 424 |  |  | 452 |  |  | (8 | ) |  | (31 | )
+Income from continuing operations, net of tax |  | $ | 795 |  |  | $ | 793 |  |  | $ | 1,016 |  |  | $ | 943 |  |  | $ | 1,018 |  |  | — |  |  | (22 | )
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 240,588 |  |  | $ | 245,586 |  |  | $ | 238,019 |  |  | $ | 234,603 |  |  | $ | 227,613 |  |  | (2 | ) |  | 6 |
+Average loans held for investment |  | 241,505 |  |  | 240,027 |  |  | 235,843 |  |  | 230,379 |  |  | 226,736 |  |  | 1 |  |  | 7 |
+Period-end deposits |  | 241,182 |  |  | 236,768 |  |  | 225,981 |  |  | 221,059 |  |  | 221,779 |  |  | 2 |  |  | 9 |
+Average deposits |  | 238,550 |  |  | 232,204 |  |  | 222,251 |  |  | 221,146 |  |  | 219,180 |  |  | 3 |  |  | 9 |
+[/TABLE]
+
+19
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 14: Notes to Loan, Allowance and Business Segment Disclosures (Tables 7—13)
+
+(1) | Nonperforming loan rates are calculated based on nonperforming loans for each category divided by period-end total loans held for investment for each respective category.
+
+(2) | Nonperforming assets consist of nonperforming loans, real estate owned (“REO”) and other foreclosed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment, REO and other foreclosed assets. Prior to Q4 2016, the nonperforming asset rate for our Consumer Banking business excluded the impact of REOs related to our acquired home loan portfolio which, if included, would increase the nonperforming asset rate by approximately 10 basis points in each of the prior periods presented.
+
+(3) | Primarily consists of the legacy loan portfolio of our discontinued GreenPoint mortgage operations.
+
+(4) | Represents foreign currency translation adjustments and the net impact of loan transfers and sales.
+
+(5) | Some of our tax-related commercial investments generate tax-exempt income or tax credits. Accordingly, we make certain reclassifications within our Commercial Banking business results to present revenues and yields on a taxable-equivalent basis, calculated assuming an effective tax rate approximately equal to our federal statutory tax rate of 35% with offsetting reclassifications to the Other category.
+
+(6) | Average yield on loans held for investment is calculated based on annualized interest income for the period divided by average loans held for investment during the period for the respective loan category. Annualized interest income is computed based on the effective yield of the respective loan category and does not include any allocations, such as funds transfer pricing.
+
+(7) | Total net revenue margin is calculated based on annualized total net revenue for the period divided by average loans held for investment during the period for the respective loan category.
+
+(8) | Includes purchase transactions, net of returns, for the period for loans both classified as held for investment and held for sale. Excludes cash advance and balance transfer transactions.
+
+(9) | Percentages represent period-end loans held for investment in each credit score category. Domestic card credit scores generally represent FICO scores. These scores are obtained from one of the major credit bureaus at origination and are refreshed monthly thereafter. We approximate non-FICO credit scores to comparable FICO scores for consistency purposes. Balances for which no credit score is available or the credit score is invalid are included in the 660 or below category.
+
+(10) | Percentages represent period-end loans held for investment in each credit score category. Auto credit scores generally represent average FICO scores obtained from three credit bureaus at the time of application and are not refreshed thereafter. Balances for which no credit score is available or the credit score is invalid are included in the 620 or below category.
+
+(11) | Criticized exposures correspond to the “Special Mention,” “Substandard” and “Doubtful” asset categories defined by bank regulatory authorities.
+
+** | Not meaningful.
+
+20
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures (1)
+
+[TABLE]
+ |  | Basel III Standardized Approach
+(Dollars in millions, except as noted) |  | March 31, 2017 |  | December 31, 2016 |  | September 30, 2016 |  | June 30, 2016 |  | March 31, 2016
+Regulatory Capital Metrics |  |  |  |  |  |  |  |  |  |
+Common equity excluding AOCI |  | $ | 44,614 |  |  | $ | 44,103 |  |  | $ | 44,214 |  |  | $ | 44,572 |  |  | $ | 44,452 |
+Adjustments: |  |  |  |  |  |  |  |  |  |
+AOCI (2)(3) |  | (807 | ) |  | (674 | ) |  | 199 |  |  | 332 |  |  | 117 |
+Goodwill, net of related deferred tax liabilities |  | (14,302 | ) |  | (14,307 | ) |  | (14,288 | ) |  | (14,296 | ) |  | (14,301 | )
+Intangible assets, net of related deferred tax liabilities (3) |  | (465 | ) |  | (384 | ) |  | (435 | ) |  | (483 | ) |  | (532 | )
+Other |  | 121 |  |  | 65 |  |  | (498 | ) |  | (639 | ) |  | (505 | )
+Common equity Tier 1 capital |  | $ | 29,161 |  |  | $ | 28,803 |  |  | $ | 29,192 |  |  | $ | 29,486 |  |  | $ | 29,231 |
+Tier 1 capital |  | $ | 33,519 |  |  | $ | 33,162 |  |  | $ | 33,069 |  |  | $ | 32,780 |  |  | $ | 32,525 |
+Total capital (4) |  | 40,979 |  |  | 40,817 |  |  | 40,564 |  |  | 38,767 |  |  | 38,399 |
+Risk-weighted assets |  | 279,229 |  |  | 285,756 |  |  | 275,198 |  |  | 269,667 |  |  | 262,368 |
+Adjusted average assets (5) |  | 337,134 |  |  | 335,835 |  |  | 328,627 |  |  | 319,968 |  |  | 317,403 |
+Capital Ratios |  |  |  |  |  |  |  |  |  |
+Common equity Tier 1 capital (6) |  | 10.4 | % |  | 10.1 | % |  | 10.6% |  |  | 10.9% |  |  | 11.1% |
+Tier 1 capital (7) |  | 12.0 |  |  | 11.6 |  |  | 12.0 |  |  | 12.2 |  |  | 12.4 |
+Total capital (8) |  | 14.7 |  |  | 14.3 |  |  | 14.7 |  |  | 14.4 |  |  | 14.6 |
+Tier 1 leverage (5) |  | 9.9 |  |  | 9.9 |  |  | 10.1 |  |  | 10.2 |  |  | 10.2 |
+Tangible common equity (“TCE”) (9) |  | 8.5 |  |  | 8.1 |  |  | 8.8 |  |  | 9.0 |  |  | 9.1 |
+[/TABLE]
+
+21
+
+Reconciliation of Non-GAAP Measures
+
+We report certain non-GAAP measures that management uses in assessing its capital adequacy and the level of return generated. These non-GAAP measures consist of selected adjusted results, tangible common equity (“TCE”), tangible assets and metrics computed using these amounts, which include tangible book value per common share, return on average tangible assets, return on average TCE and TCE ratio. We consider these metrics key financial performance measures. While our non-GAAP measures are widely used by investors, analysts and bank regulatory agencies to assess the capital position of financial services companies, they may not be comparable to similarly-titled measures reported by other companies. The tables below present reconciliations of these non-GAAP measures to the applicable amounts measured in accordance with GAAP. The results for Q1 2016 are not presented below as there were no adjustments to our reported results.
+
+[TABLE]
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | Year Ended December 31,
+ |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | 2016
+(Dollars in millions, except per share data and as noted) |  | Reported Results |  | Adj. (10) |  | Adjusted Results |  | Reported Results |  | Adj. (10) |  | Adjusted Results |  | Reported Results |  | Adj. (10) |  | Adjusted Results |  | Reported Results |  | Adj. (10) |  | Adjusted Results |  | Reported Results |  | Adj. (10) |  | Adjusted Results
+Selected income statement data: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 5,474 |  |  | $ | 33 |  |  | $ | 5,507 |  |  | $ | 5,447 |  |  | $ | 13 |  |  | $ | 5,460 |  |  | $ | 5,277 |  |  | $ | 34 |  |  | $ | 5,311 |  |  | $ | 5,093 |  |  | $ | 7 |  |  | $ | 5,100 |  |  | $ | 20,873 |  |  | $ | 54 |  |  | $ | 20,927 |
+Non-interest income |  | 1,061 |  |  | 37 |  |  | 1,098 |  |  | 1,119 |  |  | 14 |  |  | 1,133 |  |  | 1,184 |  |  | 13 |  |  | 1,197 |  |  | 1,161 |  |  | 8 |  |  | 1,169 |  |  | 4,628 |  |  | 35 |  |  | 4,663 |
+Total net revenue |  | 6,535 |  |  | 70 |  |  | 6,605 |  |  | 6,566 |  |  | 27 |  |  | 6,593 |  |  | 6,461 |  |  | 47 |  |  | 6,508 |  |  | 6,254 |  |  | 15 |  |  | 6,269 |  |  | 25,501 |  |  | 89 |  |  | 25,590 |
+Provision for credit losses |  | 1,992 |  |  | — |  |  | 1,992 |  |  | 1,752 |  |  | — |  |  | 1,752 |  |  | 1,588 |  |  | — |  |  | 1,588 |  |  | 1,592 |  |  | — |  |  | 1,592 |  |  | 6,459 |  |  | — |  |  | 6,459 |
+Non-interest expense |  | 3,434 |  |  | (29 | ) |  | 3,405 |  |  | 3,679 |  |  | (45 | ) |  | 3,634 |  |  | 3,361 |  |  | (16 | ) |  | 3,345 |  |  | 3,295 |  |  | (15 | ) |  | 3,280 |  |  | 13,558 |  |  | (76 | ) |  | 13,482 |
+Income from continuing operations before income taxes |  | 1,109 |  |  | 99 |  |  | 1,208 |  |  | 1,135 |  |  | 72 |  |  | 1,207 |  |  | 1,512 |  |  | 63 |  |  | 1,575 |  |  | 1,367 |  |  | 30 |  |  | 1,397 |  |  | 5,484 |  |  | 165 |  |  | 5,649 |
+Income tax provision (benefit) |  | 314 |  |  | (1 | ) |  | 313 |  |  | 342 |  |  | 10 |  |  | 352 |  |  | 496 |  |  | — |  |  | 496 |  |  | 424 |  |  | (7 | ) |  | 417 |  |  | 1,714 |  |  | 3 |  |  | 1,717 |
+Income from continuing operations, net of tax |  | 795 |  |  | 100 |  |  | 895 |  |  | 793 |  |  | 62 |  |  | 855 |  |  | 1,016 |  |  | 63 |  |  | 1,079 |  |  | 943 |  |  | 37 |  |  | 980 |  |  | 3,770 |  |  | 162 |  |  | 3,932 |
+Income (loss) from discontinued operations, net of tax |  | 15 |  |  | — |  |  | 15 |  |  | (2 | ) |  | — |  |  | (2 | ) |  | (11 | ) |  | — |  |  | (11 | ) |  | (1 | ) |  | — |  |  | (1 | ) |  | (19 | ) |  | — |  |  | (19 | )
+Net income |  | 810 |  |  | 100 |  |  | 910 |  |  | 791 |  |  | 62 |  |  | 853 |  |  | 1,005 |  |  | 63 |  |  | 1,068 |  |  | 942 |  |  | 37 |  |  | 979 |  |  | 3,751 |  |  | 162 |  |  | 3,913 |
+Net income available to common stockholders |  | 752 |  |  | 100 |  |  | 852 |  |  | 710 |  |  | 62 |  |  | 772 |  |  | 962 |  |  | 63 |  |  | 1,025 |  |  | 871 |  |  | 37 |  |  | 908 |  |  | 3,513 |  |  | 162 |  |  | 3,675 |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Diluted EPS (11) |  | $ | 1.54 |  |  | $ | 0.21 |  |  | $ | 1.75 |  |  | $ | 1.45 |  |  | $ | 0.13 |  |  | $ | 1.58 |  |  | $ | 1.90 |  |  | $ | 0.13 |  |  | $ | 2.03 |  |  | $ | 1.69 |  |  | $ | 0.07 |  |  | $ | 1.76 |  |  | $ | 6.89 |  |  | $ | 0.32 |  |  | $ | 7.21 |
+Efficiency ratio |  | 52.55% |  |  | (100 | )bps |  | 51.55% |  |  | 56.03% |  |  | (91 | )bps |  | 55.12% |  |  | 52.02% |  |  | (62 | )bps |  | 51.40% |  |  | 52.69% |  |  | (37 | )bps |  | 52.32% |  |  | 53.17% |  |  | (49 | )bps |  | 52.68% |
+[/TABLE]
+
+22
+
+[TABLE]
+ |  | 2017 |  | 2016 |  | 2016 |  | 2016 |  | 2016
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1
+Tangible Common Equity (Period-End) |  |  |  |  |  |  |  |  |  |
+Stockholders’ equity |  | $ | 48,040 |  |  | $ | 47,514 |  |  | $ | 48,213 |  |  | $ | 48,108 |  |  | $ | 47,707 |
+Goodwill and intangible assets (12) |  | (15,360 | ) |  | (15,420 | ) |  | (15,475 | ) |  | (15,553 | ) |  | (15,629 | )
+Noncumulative perpetual preferred stock |  | (4,360 | ) |  | (4,360 | ) |  | (3,877 | ) |  | (3,294 | ) |  | (3,296 | )
+Tangible common equity |  | $ | 28,320 |  |  | $ | 27,734 |  |  | $ | 28,861 |  |  | $ | 29,261 |  |  | $ | 28,782 |
+Tangible Common Equity (Average) |  |  |  |  |  |  |  |  |  |
+Stockholders’ equity |  | $ | 48,193 |  |  | $ | 47,972 |  |  | $ | 49,033 |  |  | $ | 48,934 |  |  | $ | 49,078 |
+Goodwill and intangible assets (12) |  | (15,395 | ) |  | (15,455 | ) |  | (15,507 | ) |  | (15,585 | ) |  | (15,654 | )
+Noncumulative perpetual preferred stock |  | (4,360 | ) |  | (4,051 | ) |  | (3,719 | ) |  | (3,294 | ) |  | (3,296 | )
+Tangible common equity |  | $ | 28,438 |  |  | $ | 28,466 |  |  | $ | 29,807 |  |  | $ | 30,055 |  |  | $ | 30,128 |
+Tangible Assets (Period-End) |  |  |  |  |  |  |  |  |  |
+Total assets |  | $ | 348,549 |  |  | $ | 357,033 |  |  | $ | 345,061 |  |  | $ | 339,117 |  |  | $ | 330,346 |
+Goodwill and intangible assets (12) |  | (15,360 | ) |  | (15,420 | ) |  | (15,475 | ) |  | (15,553 | ) |  | (15,629 | )
+Tangible assets |  | $ | 333,189 |  |  | $ | 341,613 |  |  | $ | 329,586 |  |  | $ | 323,564 |  |  | $ | 314,717 |
+Tangible Assets (Average) |  |  |  |  |  |  |  |  |  |
+Total assets |  | $ | 351,641 |  |  | $ | 350,225 |  |  | $ | 343,153 |  |  | $ | 334,479 |  |  | $ | 331,919 |
+Goodwill and intangible assets (12) |  | (15,395 | ) |  | (15,455 | ) |  | (15,507 | ) |  | (15,585 | ) |  | (15,654 | )
+Tangible assets |  | $ | 336,246 |  |  | $ | 334,770 |  |  | $ | 327,646 |  |  | $ | 318,894 |  |  | $ | 316,265 |
+[/TABLE]
+
+_________
+
+(1) | Regulatory capital metrics and capital ratios as of March 31, 2017 are preliminary and therefore subject to change.
+
+(2) | Amounts presented are net of tax.
+
+(3) | Amounts based on transition provisions for regulatory capital deductions and adjustments of 60% for 2016 and 80% for 2017.
+
+(4) | Total capital equals the sum of Tier 1 capital and Tier 2 capital.
+
+(5) | Adjusted average assets for the purpose of calculating our Tier 1 leverage ratio represents total average assets adjusted for amounts that deducted from Tier 1 capital, predominately goodwill and intangible assets. Tier 1 leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by adjusted average assets.
+
+(6) | Common equity Tier 1 capital ratio is a regulatory capital measure calculated based on common equity Tier 1 capital divided by risk-weighted assets.
+
+(7) | Tier 1 capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by risk-weighted assets.
+
+(8) | Total capital ratio is a regulatory capital measure calculated based on total capital divided by risk-weighted assets.
+
+(9) | TCE ratio is a non-GAAP measure calculated based on TCE divided by tangible assets.
+
+(10) | In Q1 2017, we recorded a build in the U.K. Payment Protection Insurance customer refund reserve (“U.K. PPI Reserve”) of $99 million. In Q4 2016, we recorded charges totaling $72 million consisting of a build in the U.K. PPI Reserve of $44 million and an impairment associated with certain acquired intangible and software assets of $28 million. In Q3 2016, we recorded a build in the U.K. PPI Reserve of $63 million. In Q2 2016, we recorded charges totaling $30 million associated with a build of $54 million in the U.K. PPI Reserve, partially offset by a gain of $24 million related to the exchange of our ownership interest in Visa Europe with Visa Inc. as a result of Visa Inc.’s acquisition of Visa Europe. There were no adjustments to our reported results for Q1 2016.
+
+(11) | Earnings per share is computed independently for each period. Accordingly, the sum of each quarter amount may not agree to the year-to-date total.
+
+(12) | Includes impact of related deferred taxes.
+
+23

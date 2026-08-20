@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/10-K_2023-03-24_0001193125-23-079192
+source: edgar-dcent
+source_tier: A
+doc_type: 10-K
+title: 10-K filed 2023-03-24 (period 2022-12-31)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312523079192/d400645d10k.htm
+retrieved_at: '2026-08-20T02:57:52Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d400645d10k.htm
+  role: raw
+  sha256: d88e47940b776fb7d0c96bbd0e8e8cbdb3b89989d25eb3e0a5e96ae3e6ee935f
+  size: 102448
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 70bdf71f1c6b61a67349cc0d252f81e2b14c01c75c5d0e0fa835dd36d1c4832e
+  size: 41583
+  stored: corpus
+filed_date: '2023-03-24'
+period_end: '2022-12-31'
+extraction_method: lxml
+meta:
+  accession: 0001193125-23-079192
+  form: 10-K
+  items: ''

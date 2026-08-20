@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2022-11-04_0000927628-22-000306
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2022-11-04 (period 2022-09-30)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762822000306/cof-20220930.htm
+retrieved_at: '2026-08-20T02:31:35Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20220930.htm
+  role: raw
+  sha256: 98ae10a3e1dc545e60fb94c367a37df9ab5b3c5ed3f45890b84499abfc65763d
+  size: 8839890
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e6d40a1dd2a9df254663ca407f5899e901f63a5e8593a6986da5ade43a0f73a5
+  size: 566662
+  stored: corpus
+filed_date: '2022-11-04'
+period_end: '2022-09-30'
+extraction_method: lxml
+meta:
+  accession: 0000927628-22-000306
+  form: 10-Q
+  items: ''

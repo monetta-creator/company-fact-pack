@@ -1,0 +1,212 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2020-06-01 2020-06-01 0000927628 us-gaap:CommonStockMember 2020-06-01 2020-06-01 0000927628 us-gaap:SeriesFPreferredStockMember 2020-06-01 2020-06-01 0000927628 us-gaap:SeriesGPreferredStockMember 2020-06-01 2020-06-01 0000927628 us-gaap:SeriesHPreferredStockMember 2020-06-01 2020-06-01 0000927628 cof:SeriesIPreferredStockMember 2020-06-01 2020-06-01 0000927628 cof:SeriesJPreferredStockMember 2020-06-01 2020-06-01 0000927628 cof:M0.800SeniorNotesDue2024Member 2020-06-01 2020-06-01 0000927628 cof:M1.650SeniorNotesDue2029Member 2020-06-01 2020-06-01
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+June 1, 2020
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , McLean , Virginia |  |  |  | 22102
+(Address of principal executive offices) |  |  |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F |  | COF PRF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G |  | COF PRG |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H |  | COF PRH |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+On June 1, 2020, Capital One Financial Corporation (the “Company”) issued a press release announcing that its subsidiaries Capital One, N.A., and Capital One Bank (USA), N.A. have commenced offers (the “Offers”) to purchase for cash any and all of certain of their securities from each registered holder.
+
+A copy of the Company’s press release announcing the commencement of the offers is attached as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  |  | Description
+ | 99.1 |  |  | Press Release, dated June 1, 2020
+ | 104 |  |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: June 1, 2020 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel
+[/TABLE]
+
+
+=== EXHIBIT d937929dex991.htm ===
+
+EX-99.1 2 d937929dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+ |  | News Release
+
+[TABLE]
+ |  | Contacts: |  |  |  |  |  |
+ |  | Investor Relations |  |  |  | Media Relations |  |
+ |  | Jeff Norris |  | Danielle Dietz |  | Sie Soheili |  | Tatiana Stead
+ |  | 703.720.2455 |  | 703.720.2455 |  | 703.720.3929 |  | 703.720.2352
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: June 1, 2020
+
+Capital One Announces Capital One, National Association and
+
+Capital One Bank (USA), National Association
+
+Any and All Cash Tender Offers for $7.55 Billion of Notes
+
+McLean, Va., June 1, 2020 – Capital One Financial Corporation (NYSE: COF) (“Capital One”) announced today that its subsidiaries
+Capital One, National Association, and Capital One Bank (USA), National Association (each, an “Offeror” and, collectively, the “Offerors”) have commenced offers (the “Offers”) to purchase for cash any and all of their
+applicable securities listed in the table below (the “Securities”) from each registered holder of the Securities (the “Holders”):
+
+[TABLE]
+CUSIP Number |  | Title of Security |  | Par Call Date |  | Aggregate Principal Amount Outstanding |  |  | Reference U.S. Treasury Security |  | Bloomberg Reference Page |  | Fixed Spread (basis points) |  | Fixed Price (1)
+14042E3Y4 |  | 2.950% Senior Notes due 2021 |  | June 23, 2021 |  | $ | 1,250,000,000 |  |  | 0.125% U.S. Treasury Security due May 31, 2022 |  | FIT1 |  | 65 |  | n/a
+14042RBT7 |  | 2.250% Senior Notes due 2021 |  | August 13, 2021 |  | $ | 1,000,000,000 |  |  | 0.125% U.S. Treasury Security due May 31, 2022 |  | FIT1 |  | 65 |  | n/a
+14042TCS4 |  | 2.014%
+ Fixed-to-Floating Rate Senior Notes due 2023† |  | January 27, 2022 |  | $ | 1,250,000,000 |  |  | 0.125% U.S. Treasury Security due May 31, 2022 |  | FIT1 |  | 130 |  | n/a
+14042RFJ5 |  | Floating Rate Senior Notes due 2023 |  | January 30, 2022 |  | $ | 500,000,000 |  |  | n/a |  | n/a |  | n/a |  | $992.50
+14042RHB0 |  | Floating Rate Notes due 2022 |  | July 8, 2022 |  | $ | 300,000,000 |  |  | n/a |  | n/a |  | n/a |  | $996.25
+14042RHC8 |  | 2.650% Senior Notes due 2022 |  | July 8, 2022 |  | $ | 1,000,000,000 |  |  | 0.125% U.S. Treasury Security due May 31, 2022 |  | FIT1 |  | 80 |  | n/a
+14042RNW7 |  | 2.150% Senior Notes due 2022 |  | August 6, 2022 |  | $ | 1,500,000,000 |  |  | 0.125% U.S. Treasury Security due May 31, 2022 |  | FIT1 |  | 90 |  | n/a
+14042TCT2 |  | 2.280%
+ Fixed-to-Floating Rate Senior Notes due 2026† |  | January 28, 2025 |  | $ | 750,000,000 |  |  | 0.250% U.S. Treasury Security due May 31, 2025 |  | FIT1 |  | 185 |  | n/a
+[/TABLE]
+
+† | Issued by Capital One Bank (USA), National Association. All other Securities were issued by Capital One,
+National Association.
+
+(1) | Per $1,000 principal amount of Securities.
+
+The Floating Rate Senior Notes due 2023 and the Floating Rate Notes due 2022 are designated as “Fixed Price Securities.” The applicable U.S. dollar
+amount set forth under the heading “Fixed Price” above will be the Purchase Price for the corresponding Fixed Price Securities per $1,000 principal amount of such Series of Securities validly tendered (and not validly withdrawn) by the
+Holders at any time on or prior to the Expiration Date and accepted for purchase by the Offerors. The applicable Purchase Price payable for each Series of Securities (other than the Fixed Price Securities) will be a price per $1,000 principal amount
+of such Series of Securities validly tendered (and not validly withdrawn) by the Holders at any time on or prior to the Expiration Date and accepted for purchase by the Offerors, which is calculated using the applicable Fixed Spread set forth under
+the heading “Fixed Spread” above, as more fully described in the Offer to Purchase.
+
+The Offers are being made pursuant to an Offer to Purchase
+dated June 1, 2020, which contains detailed information concerning the terms of the Offers. The Offers are scheduled to expire at 5:00 p.m., New York City time, on June 5, 2020 unless extended or earlier terminated (the “Expiration
+Date”). Upon the terms and subject to the conditions of the Offers, the Settlement Date is expected to be June 10, 2020.
+
+The Offerors will pay the applicable purchase price determined as described above (the “Purchase
+Price”), plus accrued and unpaid interest from the most recent interest payment date to, but not including, the Settlement Date (the “Accrued Interest”) for any Securities validly tendered (and not validly withdrawn) by the Holders at
+any time on or prior to the Expiration Date and accepted for purchase by the applicable Offeror in same-day funds on the Settlement Date.
+
+The Purchase Price payable for each Series of Securities (other than the Fixed Price Securities) will be a price per $1,000 principal amount of such Series of
+Securities equal to an amount, calculated in accordance with the Offer to Purchase, that would reflect, as of the Expiration Date, a yield to the applicable par call date of such Series of Securities equal to the sum of (i) the Reference Yield
+(as defined below) for such Series of Securities, determined at 2:00 p.m., New York City time, on the Expiration Date plus (ii) the fixed spread applicable to such series, as set forth above (the “Fixed Spread”), in each case minus
+Accrued Interest on the Securities. The “Reference Yield” means, with respect to each Series of Securities, the yield of the applicable reference security listed above (the “Reference Security”) for such Series of Securities. For
+certain Series of Securities designated above as the Fixed Price Securities, the Purchase Price will be the fixed price per $1,000 principal amount of such Series of Securities set forth on the front cover of the Offer to Purchase under the heading
+“Fixed Price.”
+
+Tenders of Securities pursuant to any of the Offers may be validly withdrawn at any time before the earlier of (i) the
+Expiration Date, and (ii) if such Offer is extended, the 10th business day after commencement of such Offer. Securities subject to any of the Offers may also be validly withdrawn at any time after the 60th business day after commencement of
+such Offer if for any reason such Offer has not been consummated within 60 business days after commencement.
+
+The Offers are conditioned on satisfaction
+of certain customary general conditions described in the Offer to Purchase. None of the Offers is conditioned upon the completion of any of the other Offers, and each Offer is independent of any other Offer. None of the Offers is conditioned on a
+minimum principal amount of any Series of Securities being tendered. Subject to applicable law, each of the Offerors may, at its sole discretion, waive any condition applicable to any of the Offers and may extend any of the Offers. Capitalized terms
+used but not defined in this press release shall have meanings ascribed to them in the Offer to Purchase.
+
+Each of the Offerors expressly reserves the
+right, in its sole discretion, at any time or from time to time, regardless of whether or not the conditions set forth in the Offer to Purchase for any of the Offers has been satisfied, subject to applicable law, to extend the Expiration Date for
+any of the Offers, or to amend in any respect or to terminate any of the Offers, in each case by giving written or oral notice of such extension, amendment or termination to the Tender Agent.
+
+The Offerors have appointed Barclays Capital Inc., Credit Suisse Securities (USA) LLC, J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, and
+Capital One Securities, Inc. to act as dealer managers for the Offers, and have retained D.F. King & Co., Inc. to serve as the information agent and the tender agent. Requests for documents may be directed to D.F. King & Co., Inc.
+by telephone at +1 (212) 269-5550 (banks and brokers) or +1 (800) 591-6313 or email at capitalone@dfking.com. Questions regarding the Offers may be directed to Barclays
+Capital Inc. toll free at (800) 438-3242 or collect at (212) 528-7581, Credit Suisse Securities (USA) LLC toll free at (800) 820-1653 or collect at (212) 325-6340, J.P. Morgan Securities LLC toll free at (866) 834-4666 or collect at (212) 834-8553, Morgan Stanley & Co. LLC toll free at (800) 624-1808 or collect at (212) 761-1057, or Capital One Securities, Inc.
+toll free at (800) 666-9174.
+
+Copies of the Offer to Purchase, and related Notice of Guaranteed Delivery and the
+other relevant notices and documents are available at the Offer Website at http://www.dfking.com/COF.
+
+2
+
+This press release is for informational purposes only and does not constitute an offer to purchase nor the
+solicitation of an offer to sell any Securities. The Offers are being made only pursuant to the Offer to Purchase and related Notice of Guaranteed Delivery. The Offers are not being made to holders of Securities in any jurisdiction in which the
+making or acceptance thereof would not be in compliance with the securities, blue sky or other laws of such jurisdiction. None of the Offerors, the Dealer Managers, the Information Agent, the Tender Agent or any of their respective affiliates makes
+any recommendation in connection with the Offers. Please refer to the Offer to Purchase for a description of terms, conditions, disclaimers and other information applicable to the Offers.
+
+Forward-Looking Statements
+
+Certain statements in this
+release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ
+materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the
+Annual Report on Form 10-K for the year ended December 31, 2019.
+
+About Capital
+One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include
+Capital One, National Association, and Capital One Bank (USA), National Association, had $269.7 billion in deposits and $396.9 billion in total assets as of March 31, 2020. Headquartered in McLean, Virginia, Capital One offers a broad
+spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, National Association has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New
+Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 Index.
+
+# # #
+
+3

@@ -1,0 +1,1 @@
+XBRL companyfacts for CAPITAL ONE FINANCIAL CORP (CIK 927628). 1050 tagged concepts across taxonomies: dei, invest, us-gaap, ffd. Machine data; see metrics layer.

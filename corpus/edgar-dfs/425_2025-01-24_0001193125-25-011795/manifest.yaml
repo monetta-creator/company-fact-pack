@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/425_2025-01-24_0001193125-25-011795
+source: edgar-dfs
+source_tier: A
+doc_type: '425'
+title: 425 filed 2025-01-24
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312525011795/d918322d425.htm
+retrieved_at: '2026-08-20T02:33:31Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d918322d425.htm
+  role: raw
+  sha256: 50ca9346eefd173696f7ef726b808bba42e5898ba7459513c1cc5fd517dc74e0
+  size: 6553230
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: fd269318fbfaed1242921786891a2b2fc8a8d4e7b952c49b193a71e2ae144a85
+  size: 953076
+  stored: corpus
+filed_date: '2025-01-24'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-011795
+  form: '425'
+  items: ''

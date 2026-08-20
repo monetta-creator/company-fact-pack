@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-05-08_0000927628-18-000206
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-05-08 (period 2018-05-03)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000206/a8-kdividendsmay32018.htm
+retrieved_at: '2026-08-20T02:54:51Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsmay32018.htm
+  role: raw
+  sha256: 1280e8528f735a392b77e6da1c2256611bce3c50561a66b2742e67756aa55398
+  size: 32841
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 73649e311f85a0e80e1289861c704beb2ab6d1cfcc5c0e7ae28067ad38d2340b
+  size: 4320
+  stored: corpus
+filed_date: '2018-05-08'
+period_end: '2018-05-03'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000206
+  form: 8-K
+  items: '8.01'

@@ -1,0 +1,23 @@
+doc_id: edgar-dfs/xbrl_companyfacts
+source: edgar-dfs
+source_tier: A
+doc_type: xbrl-companyfacts
+title: XBRL companyfacts DFS
+url: https://data.sec.gov/api/xbrl/companyfacts/CIK0001393612.json
+retrieved_at: '2026-08-20T02:37:53Z'
+entity_ids:
+- dfs
+fetcher: edgar_xbrl v1
+files:
+- name: companyfacts.json
+  role: raw
+  sha256: 29470ecf617eefbaf4c8d3b9a107cf9a52001b27ac4bd037bdf46508719e27f0
+  size: 5115498
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4e59b220c44b615387c27113a5c062129a43d95f5c8bb2d747961c2322f9e428
+  size: 159
+  stored: corpus
+meta:
+  concept_count: 719

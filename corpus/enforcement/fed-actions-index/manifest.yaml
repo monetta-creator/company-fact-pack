@@ -1,0 +1,24 @@
+doc_id: enforcement/fed-actions-index
+source: enforcement
+source_tier: A
+doc_type: enforcement-index
+title: Fed enforcement actions index (COF/Discover rows)
+url: https://www.federalreserve.gov/supervisionreg/files/enforcementactions.csv
+retrieved_at: '2026-08-20T02:38:25Z'
+entity_ids:
+- cof
+- dfs
+fetcher: enforcement v1
+files:
+- name: fed_actions_slice.csv
+  role: raw
+  sha256: 831d9d9ddcbf967b778806dc452b5a7a4b0e1663a170873e6af1e3ea2d8f1023
+  size: 1017
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: bacc04d439232479fc49bab28042b20f9f8272f56a68846eaa5fbe08af7d7884
+  size: 1347
+  stored: corpus
+meta:
+  rows: 5

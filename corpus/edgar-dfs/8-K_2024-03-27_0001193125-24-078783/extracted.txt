@@ -1,0 +1,103 @@
+false 0001393612 0001393612 2024-03-26 2024-03-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 26, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On March 26, 2024, the Board of Directors (the “ Board ”) of Discover Financial Services (the “ Company ”) accepted the resignation of Michael G. Rhodes from his positions as Chief Executive Officer and President of the Company, a member of the Board and a director and officer of Discover Bank (the “ Bank ”), each effective April 1, 2024 (the “ Effective Date ”). Mr. Rhodes, who was not expected to have a long-term role at the combined company after completion of the Company’s merger with Capital One Financial Corporation, informed the Board that he has accepted a job offer at another financial institution.
+
+In connection with his resignation, on March 27, 2024, the Company and Mr. Rhodes entered into a letter agreement (the “ Rhodes Letter Agreement ”). Pursuant to the terms of the Rhodes Letter Agreement, Mr. Rhodes will continue to serve as Chief Executive Officer and President of the Company, a member of the Board and a director and officer of the Bank through April 1, 2024 and will serve as an advisor to the Interim Chief Executive Officer and President of the Company from such date through April 12, 2024. Mr. Rhodes will continue to receive his base salary through the remainder of his employment. Mr. Rhodes will not receive severance in connection with his resignation. Mr. Rhodes’s equity awards that are unvested on the Effective Date will be forfeited, in accordance with their terms, and Mr. Rhodes will pay back certain cash payments previously made by the Company, in accordance with the terms of the letter agreement, dated December 7, 2023, between the Company and Mr. Rhodes.
+
+The foregoing description of the Rhodes Letter Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Rhodes Letter Agreement, which is attached hereto as Exhibit 10.1, and incorporated herein by reference.
+
+On March 26, 2024, the Board appointed J. Michael Shepherd as Interim Chief Executive Officer and President of the Company and as Interim President of the Bank, effective April 1, 2024. Mr. Shepherd will continue to serve as a director of the Company, but is resigning as a member of the Risk Oversight Committee of the Board during his term as Interim Chief Executive Officer and President.
+
+Mr. Shepherd is the former Chairman and CEO of BancWest Corporation and its subsidiary, Bank of the West, the US retail arm of BNP Paribas Group. Bank of the West was acquired by BMO in February of 2023. Mr. Shepherd served as the Chairman of BNP Paribas USA, Inc. from 2016 to 2019 and as a Director from 2016 to February 2023. He joined Bank of the West in 2004 and held a succession of positions, including CEO, General Counsel, Chief Administrative Officer and President. Before joining Bank of the West, Mr. Shepherd was General Counsel of The Bank of New York Company, Inc. and of Shawmut National Corporation. He also served in government as Senior Deputy Comptroller of the Currency, Associate Counsel to the President of the United States and Deputy Assistant Attorney General. Mr. Shepherd is also a director of Pacific Mutual Holdings Inc. and previously was a director of First Hawaiian Inc. He previously served as a Member and President of the Federal Advisory Council of the Federal Reserve Board, as a Member of the FDIC Advisory Committee on Economic Inclusion, and as a Director of The Clearing House.
+
+Mr. Shepherd has no family relationships with any director or executive officer of the Company. There are no arrangements or understandings between Mr. Shepherd and any other person pursuant to which Mr. Shepherd was selected as the Company’s Interim Chief Executive Officer and President, and there are no transactions involving Mr. Shepherd that would be required to be reported under Item 404(a) of Regulation S-K.
+
+In connection with his appointment, on March 27, 2024, the Company and Mr. Shepherd entered into a letter agreement (the “ Shepherd Letter Agreement ”), which provides the terms and conditions pursuant to which Mr. Shepherd will serve as Interim Chief Executive Officer and President of the Company and Interim President of the Bank. Pursuant to the terms of the Shepherd Letter Agreement, Mr. Shepherd will receive a base salary of $1,250,000 and a one-time award of restricted stock units on or as soon as practicable after April 1, 2024. The restricted stock unit award will have a grant date value of $5,750,000 and will vest on the earlier of the completion of the merger with Capital One Financial Corporation pursuant to the Agreement and Plan of Merger dated February 19, 2024 and the one year anniversary of the grant date, in each case provided that Mr. Shepherd has remained employed as Interim Chief Executive Officer and President of the Company up to the applicable date. In the event Mr. Shepherd’s employment is terminated by the Company without cause, by Mr. Shepherd with good reason, or as a result of death or disability, in each case before the restricted stock unit award vests, the award will accelerate immediately, subject to the effectiveness of a release of claims. Mr. Shepherd will not be eligible to participate in the Company’s Severance Plan or Change in Control Severance Policy.
+
+The foregoing description of the Shepherd Letter Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Shepherd Letter agreement, which is attached hereto as Exhibit 10.2, and incorporated herein by reference.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Rhodes Letter Agreement, dated as of March 27, 2024 between Discover Financial Services and Michael G. Rhodes.
+10.2 |  | Shepherd Letter Agreement, dated as of March 27, 2024 between Discover Financial Services and J. Michael Shepherd.
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: March 27, 2024 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]

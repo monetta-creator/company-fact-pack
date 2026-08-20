@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-KA_2018-05-14_0000927628-18-000220
+source: edgar-cof
+source_tier: A
+doc_type: 8-K/A
+title: 8-K/A filed 2018-05-14 (period 2018-05-11)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000220/a8-kaconformedsignaturewar.htm
+retrieved_at: '2026-08-20T02:54:50Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kaconformedsignaturewar.htm
+  role: raw
+  sha256: 5d1c23ce891691d0869d95aacd2955efbbaf4745717c53c7c55f028a3abd4e6b
+  size: 32894
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: af3ed254dae277bb39551f0c299a5902721b455cc4cb0ff9f5e25a576d0a58df
+  size: 3960
+  stored: corpus
+filed_date: '2018-05-14'
+period_end: '2018-05-11'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000220
+  form: 8-K/A
+  items: '8.01'

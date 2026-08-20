@@ -1,0 +1,15 @@
+id: comet
+name: Capital One Multi-asset Execution Trust
+type: trust
+status: active
+aliases:
+- COMET
+identifiers:
+  cik: '0001163321'
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: edgar-comet/10-DA_2019-03-19_0001163321-19-000015
+  locator: null

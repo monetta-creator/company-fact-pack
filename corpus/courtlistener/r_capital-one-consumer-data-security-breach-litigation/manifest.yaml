@@ -1,0 +1,24 @@
+doc_id: courtlistener/r_capital-one-consumer-data-security-breach-litigation
+source: courtlistener
+source_tier: A
+doc_type: litigation-search
+title: 'CourtListener: "Capital One Consumer Data Security Breach Litigation"'
+url: https://www.courtlistener.com/api/rest/v4/search/?q="Capital One Consumer Data
+  Security Breach Litigation"&type=r
+retrieved_at: '2026-08-20T02:38:48Z'
+entity_ids:
+- cof
+fetcher: courtlistener v1
+files:
+- name: results.json
+  role: raw
+  sha256: 37c2fff9737392d1c9443ff10a0d91ebc2a06f900b6bc244d2f769599f54839b
+  size: 59487
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 850d27fc414eed37bd73ea458f78a96b2949f703339141babde44444109e9851
+  size: 3182
+  stored: corpus
+meta:
+  result_count: 20

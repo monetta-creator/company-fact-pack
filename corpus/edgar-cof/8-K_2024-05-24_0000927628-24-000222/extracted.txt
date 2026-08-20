@@ -1,0 +1,149 @@
+false 0000927628 0000927628 2024-05-24 2024-05-24 0000927628 us-gaap:CommonStockMember 2024-05-24 2024-05-24 0000927628 cof:SeriesIPreferredStockMember 2024-05-24 2024-05-24 0000927628 cof:SeriesJPreferredStockMember 2024-05-24 2024-05-24 0000927628 cof:SeriesKPreferredStockMemberMember 2024-05-24 2024-05-24 0000927628 cof:SeriesLPreferredStockMemberMember 2024-05-24 2024-05-24 0000927628 cof:SeriesNPreferredStockMember 2024-05-24 2024-05-24 0000927628 cof:SeniorNotesDue2024Member 2024-05-24 2024-05-24 0000927628 cof:SeniorNotesDue2029Member 2024-05-24 2024-05-24
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 24, 2024
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events.
+
+On May 24, 2024, Capital One Financial Corporation (the “Company”) announced that the credit card partnership agreement (the “CCPA”) under which Capital One had been the exclusive issuer of Walmart’s private label and co-branded credit card program in the U.S. (the “Card Program”) has ended. Pursuant to the terms of the CCPA, Capital One will retain ownership and servicing of the existing credit card portfolio of approximately $8.5 billion of loans. Approximately 40% of the credit card loan balances were originated and underwritten by Capital One. The Company expects to begin converting eligible customers and integrating the accounts into Capital One branded card products.
+
+The CCPA included terms and conditions related to revenue sharing and loss sharing associated with the Card Program. As part of the termination, the revenue sharing and loss sharing arrangements also terminated.
+
+If the loss sharing arrangement had not been in place for the first quarter of 2024, the Domestic Card net charge-off rate would have been approximately 45 basis points higher and our allowance for credit losses would have been approximately $850 million higher. If the revenue sharing arrangement had not been in place for the first quarter of 2024, Domestic Card revenue margin would have been approximately 45 basis points higher.
+
+A copy of the joint press release issued by the Company and Walmart is attached as Exhibit 99.1 to this Form 8-K and is incorporated herein by reference.
+
+Cautionary Statements Regarding Forward Looking Statements
+
+The information provided in this Form 8-K contains forward-looking statements, which involve a number of risks and uncertainties. The Company cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that the Company files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2023. In addition, these statements do not represent the Company’s current expectations regarding future results of operations or financial condition. Forward-looking statements speak only as of the date made. We do not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated May 24, 2024
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: May 24, 2024 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99.1 2 exhibit991-pressreleasedat.htm EX-99.1 PRESS RELEASE Document created using Wdesk Copyright 2024 Workiva Document
+
+Exhibit 99.1
+
+Media Release | Sie Soheili Sie.Soheili@capitalone.com | Investor Relations Danielle Dietz Danielle.Dietz@capitalone.com Media Relations Molly Blakeman Molly.Blakeman@walmart.com
+
+Capital One and Walmart Announce End of Consumer Card Partnership Agreement
+
+Cardholders can continue to use their card and earn and redeem
+
+rewards as they do today
+
+MCLEAN, Va. and BENTONVILLE, Ark., May 24. 2024: Capital One Financial Corporation (NYSE: COF) and Walmart Inc. (NYSE: WMT) announced that they have ended the agreement that made Capital One the exclusive issuer of Walmart Consumer Credit Cards. In 2019, Capital One and Walmart introduced the Capital One Walmart Rewards Credit Card Program.
+
+While Capital One and Walmart have ended their card partnership, nothing changes today for cardholders – cardholders can continue to earn and redeem rewards, and previously accrued rewards will retain their value. Until informed otherwise, cardholders can also continue to use their Capital One Walmart Rewards® Card wherever Mastercard is accepted and the Walmart Rewards® Card for purchases at Walmart.
+
+Capital One will retain ownership and servicing of the credit card accounts. Additional information will be provided in the coming months to Walmart credit card holders.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $351.0 billion in deposits and $481.7 billion in total assets as of March 31, 2024. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Additional information about Capital One can be found at Capital One About, or on LinkedIn at linkedin.com/company/capital-one/.
+
+About Walmart
+
+Walmart Inc. (NYSE: WMT) is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 255 million customers and members visit more than 10,500 stores and numerous eCommerce websites in 19 countries. With fiscal year 2024 revenue of $648 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity. Additional information about Walmart can be found by visiting corporate.walmart.com, on Facebook at facebook.com/walmart, on X (formerly known as Twitter) at twitter.com/walmart, and on LinkedIn at linkedin.com/company/walmart.
+
+###

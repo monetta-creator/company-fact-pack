@@ -1,0 +1,279 @@
+10-K/A 1 dfs1231201510ka.htm 10-K/A Document created using Wdesk 1 Copyright 2016 Workiva 10-K
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K/A
+
+(Amendment No. 1)
+
+[TABLE]
+x | ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ | For the year ended December 31, 2015
+[/TABLE]
+
+[TABLE]
+o | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ | For the transition period from to
+[/TABLE]
+
+Commission File Number 001-33378
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation or organization) |  | (I.R.S. Employer Identification No.)
+2500 Lake Cook Road, Riverwoods, Illinois 60015 |  | (224) 405-0900
+(Address of principal executive offices, including zip code) |  | (Registrant’s telephone number, including area code)
+[/TABLE]
+
+[TABLE]
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | New York Stock Exchange
+Depositary Shares, each representing 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, par value $0.01 per share |  | New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: None
+[/TABLE]
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes x No o
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes o No x
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes x No o
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes x No o
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. x
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+
+[TABLE]
+Large accelerated filer x | Accelerated filer o
+Non-accelerated filer o (Do not check if a smaller reporting company) | Smaller reporting company o
+[/TABLE]
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No x
+
+The aggregate market value of the common equity held by non-affiliates of the registrant on the last business day of the registrant’s most recently
+
+completed second fiscal quarter was approximately $25,025,686,289 .
+
+As of February 19, 2016 , there were 414,201,055 shares of the registrant’s Common Stock, par value $0.01 per share, outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant’s definitive proxy statement for its annual stockholders’ meeting to be held on May 12, 2016 are incorporated by reference in Part III of this Form 10-K.
+
+Explanatory Note
+
+This Amendment No. 1 on Form 10-K/A ("Amendment No. 1") is being filed to amend our Annual Report on Form 10-K for the year ended December 31, 2015 (the "Original Filing"), filed with the U.S. Securities and Exchange Commission on February 24, 2016 (the "Original Filing Date"). The sole purpose of this Amendment No. 1 is to append Exhibits 21 and 23 to the Original Filing, which inadvertently omitted these Exhibits. Except as described above, no changes have been made to the Original Filing and this Amendment No. 1 does not modify, amend or update in any way any of the financial or other information contained in the Original Filing. Part IV of the Original Filing is also amended to add new certifications in accordance with Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended.
+
+Part IV.
+
+Part IV | Item 15. | Exhibits, Financial Statement Schedules
+
+(a) Documents filed as part of this Form 10-K:
+
+1. Consolidated Financial Statements
+
+The consolidated financial statements required to be filed in this annual report on Form 10-K are listed below and appear on pages 84 through 156 of the Original Filing.
+
+[TABLE]
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Reports of Independent Registered Public Accounting Firm* | 84
+Consolidated Statements of Financial Condition as of December 31, 2015 and 2014* | 86
+Consolidated Statements of Income for the years ended December 31, 2015, 2014 and 2013* | 87
+Consolidated Statements of Comprehensive Income for the years ended December 31, 2015, 2014 and 2013* | 88
+Consolidated Statements of Changes in Stockholders' Equity for the years ended December 31, 2015, 2014 and 2013* | 89
+Consolidated Statements of Cash Flows for the calendar years ended December 31, 2015, 2014 and 2013* | 90
+Notes to the Consolidated Financial Statements* | 91
+[/TABLE]
+
+* | Previously filed with the Original Filing.
+
+2. Financial Statement Schedules
+
+Separate financial statement schedules have been omitted either because they are not applicable or because the required information is included in the consolidated financial statements.
+
+3. Exhibits
+
+See the Exhibit Index following the signature page for a list of the exhibits being filed or furnished with or incorporated by reference into this annual report on Form 10-K.
+
+Signature
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused Amendment No. 1 to this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+[TABLE]
+ | Discover Financial Services
+ | By: |  | /s/ R. M ARK G RAF
+ |  |  | R. Mark Graf Executive Vice President and Chief Financial Officer
+[/TABLE]
+
+Date: February 25, 2016
+
+Exhibit Index
+
+[TABLE]
+Exhibit Number |  | Description
+2.1* |  | Separation and Distribution Agreement, dated as of June 29, 2007, between Morgan Stanley and Discover Financial Services (filed as Exhibit 2.1 to Discover Financial Services' Current Report on Form 8-K filed on July 5, 2007 and incorporated herein by reference thereto), as amended by the First Amendment to the Separation and Distribution Agreement dated as of June 29, 2007 between Discover Financial Services and Morgan Stanley, dated February 11, 2010 (filed as Exhibit 10.2 to Discover Financial Services' Current Report on Form 8-K filed on February 12, 2010 and incorporated herein by reference thereto).
+2.2* |  | Agreement for the Sale and Purchase of the Goldfish Credit Card Business, dated February 7, 2008, among Discover Financial Services, Goldfish Bank Limited, Discover Bank, SCFC Receivables Corporation, and Barclays Bank Plc (filed as Exhibit 2.1 to Discover Financial Services' Current Report on Form 8-K filed on February 7, 2008 and incorporated herein by reference thereto), as amended and restated by Amended and Restated Agreement for the Sale and Purchase of the Goldfish Credit Card Business, dated March 31, 2008, among Discover Financial Services, Goldfish Bank Limited, Discover Bank, SCFC Receivables Corporation, Barclays Bank PLC, and Barclays Group US Inc. (filed as Exhibit 2.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 14, 2008 and incorporated herein by reference thereto).
+2.3 |  | Agreement and Plan of Merger by and among Discover Bank, Academy Acquisition Corp. and The Student Loan Corporation dated as of September 17, 2010 (filed as Exhibit 2.3 to Discover Financial Services' Annual Report on Form 10-K for the fiscal year ended November 30, 2010 filed on January 26, 2011 and incorporated by reference thereto).
+3.1 |  | Amended and Restated Certificate of Incorporation of Discover Financial Services (filed as Exhibit 3.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on July 1, 2009 and incorporated herein by reference thereto).
+3.2 |  | Amended and Restated By-Laws of Discover Financial Services (filed as Exhibit 3.1 to Discover Financial Services' Current Report on Form 8-K filed on July 30, 2015 and incorporated herein by reference thereto).
+3.3 |  | Certificate of Elimination of the Fixed Rate Cumulative Perpetual Preferred Stock, Series A, of Discover Financial Services (filed as Exhibit 3.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on June 26, 2012 and incorporated herein by reference thereto).
+3.4 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B (filed as Exhibit 3.1 to Discover Financial Services' Current Report on Form 8-K filed on October 16, 2012 and incorporated herein by reference thereto).
+4.1 |  | Senior Indenture, dated as of June 12, 2007, by and between Discover Financial Services and U.S. Bank National Association, as trustee (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on June 12, 2007 and incorporated herein by reference thereto).
+4.2 |  | Subordinated Indenture, dated as of September 8, 2015, by and between Discover Financial Services and U.S. Bank National Association (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on September 8, 2015 and incorporated herein by reference thereto).
+4.3 |  | Fiscal and Paying Agency Agreement, dated November 16, 2009, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on November 16, 2009 and incorporated herein by reference thereto).
+4.4 |  | Fiscal and Paying Agency Agreement, dated April 15, 2010, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on April 16, 2010 and incorporated herein by reference thereto).
+4.5 |  | Deposit Agreement, dated October 16, 2012 (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on October 16, 2012 and incorporated herein by reference thereto).
+4.6 |  | Form of Certificate Representing the Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B (filed as Exhibit 4.2 to Discover Financial Services' Current Report on Form 8-K filed on October 16, 2012 and incorporated herein by reference thereto).
+[/TABLE]
+
+[TABLE]
+Exhibit Number |  | Description
+4.7 |  | Fiscal and Paying Agency Agreement between Discover Bank and U.S. Bank National Association dated as of February 21, 2013 (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on February 21, 2013 and incorporated herein by reference thereto).
+4.8 |  | Fiscal and Paying Agency Agreement, dated as of August 8, 2013, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on August 8, 2013 and incorporated herein by reference thereto).
+4.9 |  | Fiscal and Paying Agency Agreement, dated as of March 13, 2014, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on March 13, 2014 and incorporated herein by reference thereto).
+4.10 |  | Fiscal and Paying Agency Agreement, dated as of August 7, 2014, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services' Current Report on Form 8-K filed on August 7, 2014 and incorporated herein by reference thereto).
+4.11 |  | Fiscal and Paying Agency Agreement, dated June 4, 2015, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services’ current report on Form 8-K filed on June 4, 2015 and incorporated herein by reference thereto).
+4.12 |  | Fiscal and Paying Agency Agreement, dated August 13, 2015, between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent (filed as Exhibit 4.1 to Discover Financial Services’ current report on Form 8-K filed on August 13, 2015 and incorporated herein by reference thereto).
+ |  | Other instruments defining the rights of holders of long-term debt securities of Discover Financial Services and its subsidiaries are omitted pursuant to Section (b)(4)(iii)(A) of Item 601 of Regulation S-K. Discover Financial Services agrees to furnish copies of these instruments to the SEC upon request .
+10.1 |  | Tax Sharing Agreement, dated as of June 30, 2007, between Morgan Stanley and Discover Financial Services (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on July 5, 2007 and incorporated herein by reference thereto).
+10.2 |  | U.S. Employee Matters Agreement, dated as of June 30, 2007, between Morgan Stanley and Discover Financial Services (filed as Exhibit 10.2 to Discover Financial Services' Current Report on Form 8-K filed on July 5, 2007 and incorporated herein by reference thereto).
+10.3 |  | Transition Services Agreement, dated as of June 30, 2007, between Morgan Stanley and Discover Financial Services (filed as Exhibit 10.3 to Discover Financial Services' Current Report on Form 8-K filed on July 5, 2007 and incorporated herein by reference thereto).
+10.4 |  | Transitional Trade Mark License Agreement, dated as of June 30, 2007, between Morgan Stanley & Co. PLC and Goldfish Bank Limited (filed as Exhibit 10.4 to Discover Financial Services' Current Report on Form 8-K filed on July 5, 2007 and incorporated herein by reference thereto).
+10.5 |  | Amended and Restated Trust Agreement, dated as of December 22, 2015, between Discover Funding LLC, as Beneficiary, and Wilmington Trust Company, as Owner Trustee (filed as Exhibit 4.6 to Discover Bank's Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto)
+10.6 |  | Third Amended and Restated Pooling and Servicing Agreement, dated as of December 22, 2015, between Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Transferor, and U.S. Bank National Association, as Trustee (filed as Exhibit 4.2 to Discover Bank’s Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto).
+10.7 |  | Amended and Restated Series Supplement for Series 2007-CC, dated as of December 22, 2015, among Discover Bank, as Master Servicer and Servicer, Discover Funding LLC, as Transferor, and U.S. Bank National Association, as Trustee (filed as Exhibit 4.3 to Discover Bank’s Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto).
+[/TABLE]
+
+[TABLE]
+Exhibit Number |  | Description
+10.8† |  | Discover Financial Services Omnibus Incentive Plan (filed as an attachment to Discover Financial Services' Proxy Statement on Schedule 14A filed on February 27, 2009 and incorporated herein by reference thereto).
+10.9† |  | Amended Form of Restricted Stock Unit Award Under Discover Financial Services Omnibus Incentive Plan (filed as Exhibit 10.6 to Discover Financial Services' Quarterly Report on Form 10-Q filed on July 12, 2007 and incorporated herein by reference thereto).
+10.10† |  | Directors' Compensation Plan of Discover Financial Services (filed as Exhibit 10.3 to Discover Financial Services' Current Report on Form 8-K filed on June 19, 2007 and incorporated herein by reference thereto), as amended and restated as of January 20, 2011 (filed as Exhibit A to the Discover Financial Services' definitive proxy statement filed on February 18, 2011 and incorporated by reference thereto), as further amended by Amendment No. 2, effective as of December 1, 2011.
+10.11† |  | Amended Form of Restricted Stock Unit Award Under Discover Financial Services Directors' Compensation Plan (filed as Exhibit 10.7 to Discover Financial Services' Quarterly Report on Form 10-Q filed on July 12, 2007 and incorporated herein by reference thereto).
+10.12† |  | Discover Financial Services Employee Stock Purchase Plan (filed as Exhibit 10.2 to Discover Financial Services' Current Report on Form 8-K filed on June 19, 2007 and incorporated herein by reference thereto) as amended by Amendment No. 1 to Discover Financial Services Employee Stock Purchase Plan effective as of May 1, 2008 (filed as Exhibit 10.12 to Discover Financial Services' Annual Report on Form 10-K filed on January 28, 2009 and incorporated herein by reference thereto); Amendment No. 2 to Discover Financial Services Employee Stock Purchase Plan, effective as of December 1, 2009 (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 9, 2010 and incorporated herein by reference thereto); and Amendment No. 3 to Discover Financial Services Employee Stock Purchase Plan (filed as Exhibit 10.3 to Discover Financial Services' Quarterly Report on Form 10-Q filed on September 28, 2011 and incorporated herein by reference thereto).
+10.13† |  | Offer of Employment, dated as of January 8, 1999 (filed as Exhibit 10.2 to Discover Financial Services' Current Report on Form 8-K filed on June 12, 2007 and incorporated herein by reference thereto).
+10.14† |  | Waiver of Change of Control Benefits, dated September 24, 2007 (filed as Exhibit 10.15 to Discover Financial Services' Registration Statement on Form S-4 filed on November 27, 2007 and incorporated herein by reference thereto).
+10.15 |  | Collateral Certificate Transfer Agreement, dated as of July 26, 2007 between Discover Bank, as Depositor and Discover Card Execution Note Trust (filed as Exhibit 4.4 to Discover Bank's Current Report on Form 8-K filed on July 27, 2007 and incorporated herein by reference thereto).
+10.16 |  | Amended and Restated Indenture, dated as of December 22, 2015, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee (filed as Exhibit 4.4 to Discover Bank’s Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto).
+10.17 |  | Second Amended and Restated Indenture Supplement for the DiscoverSeries Notes, dated as of December 22, 2015, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee (filed as Exhibit 4.5 to Discover Bank’s Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto).
+10.18 |  | Omnibus Amendment to Indenture Supplement and Terms Documents, dated as of July 2, 2009, between Discover Card Execution Note Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee (filed as Exhibit 4.1 to Discover Bank's Current Report on Form 8-K filed on July 6, 2009 and incorporated herein by reference thereto).
+10.19† |  | Discover Financial Services Change-in-Control Severance Policy Amended and Restated October 15, 2014 (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on October 16, 2014 and incorporated by reference thereto).
+10.20 |  | Release and Settlement Agreement, executed as of October 27, 2008, by and among Discover Financial Services, DFS Services, LLC, Discover Bank, and their Subsidiaries and Affiliates; MasterCard Incorporated and MasterCard International Incorporated and their Affiliates; and Visa Inc. and its Affiliates and Predecessors including Visa U.S.A. Inc. and Visa International Service Association (filed as Exhibit 99.1 to Discover Financial Services' Current Report on Form 8-K filed on October 28, 2008).
+[/TABLE]
+
+[TABLE]
+Exhibit Number |  | Description
+10.21† |  | 2008 Year End Form of Restricted Stock Unit Award Under Discover Financial Services Omnibus Incentive Plan (filed as Exhibit 10.21 to Discover Financial Services' Annual Report on Form 10-K filed on January 28, 2009 and incorporated herein by reference thereto).
+10.22† |  | 2008 Special Grant Form of Restricted Stock Unit Award Under Discover Financial Services Omnibus Incentive Plan (filed as Exhibit 10.22 to Discover Financial Services' Annual Report on Form 10-K filed on January 28, 2009 and incorporated herein by reference thereto).
+10.23 |  | Form of Waiver, executed by each of Discover Financial Services' senior executive officers and certain other employees (filed as Exhibit 10.3 to Discover Financial Services' Current Report on Form 8-K filed on March 13, 2009 and incorporated herein by reference thereto).
+10.24 |  | Form of Executive Compensation Agreement, dated March 13, 2009, executed by each of Discover Financial Services' senior executive officers and certain other employees (filed as Exhibit 10.4 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 8, 2009 and incorporated herein by reference thereto).
+10.25† |  | Form of Share Award Agreement Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10(a) to Discover Financial Services' Current Report on Form 8-K filed on December 11, 2009 and incorporated herein by reference thereto).
+10.26† |  | Amendment to 2009 Year End Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan, effective December 1, 2009 (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 9, 2010 and incorporated herein by reference thereto).
+10.27 |  | Settlement Agreement and Mutual Release between Discover Financial Services and Morgan Stanley, dated February 11, 2010 (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on February 12, 2010 and incorporated herein by reference thereto).
+10.28 |  | Purchase Price Adjustment Agreement by and among Citibank, N.A., The Student Loan Corporation and Discover Bank, dated September 17, 2010 (filed as Exhibit 10.32 to Discover Financial Services' Annual Report on Form 10-K filed on January 26, 2011 and incorporated by reference thereto).
+10.29 |  | Amendment to Purchase Price Adjustment Agreement by and among Citibank, N.A., The Student Loan Corporation and Discover Bank, dated December 30, 2010 (filed as Exhibit 10.33 to Discover Financial Services' Annual Report on Form 10-K filed on January 26, 2011 and incorporated by reference thereto).
+10.30 |  | Indemnification Agreement by and between Citibank, N.A. and Discover Bank, dated September 17, 2010 (filed as Exhibit 10.34 to Discover Financial Services' Annual Report on Form 10-K filed on January 26, 2011 and incorporated by reference thereto).
+10.31 |  | First Amendment to Indemnification Agreement by and between Citibank, N.A. and Discover Bank, dated December 30, 2010 (filed as Exhibit 10.35 to Discover Financial Services' Annual Report on Form 10-K filed on January 26, 2011 and incorporated by reference thereto).
+10.32 |  | Form Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.4 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 8, 2011 and incorporated by reference thereto).
+10.33 |  | Form Award Certificate for Performance Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.5 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 8, 2011 and incorporated by reference thereto).
+10.34 |  | Asset Purchase Agreement between Discover Bank and Citibank, N.A. dated August 31, 2011 (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on September 28, 2011 and incorporated by reference thereto).
+10.35 |  | Form 2012 Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 3, 2012 and incorporated by reference thereto).
+10.36 |  | Form 2012 Award Certificate for Performance Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 3, 2012 and incorporated by reference thereto).
+[/TABLE]
+
+[TABLE]
+Exhibit Number |  | Description
+10.37 |  | Form 2013 Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 30, 2013 and incorporated herein by reference thereto).
+10.38 |  | Form 2013 Award Certificate for Performance Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 30, 2013 and incorporated herein by reference thereto).
+10.39 |  | Amendment No. 3 to the Directors' Compensation Plan of Discover Financial Services, effective as of July 1, 2013 (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on July 30, 2013 and incorporated herein by reference thereto).
+10.40 |  | Form of 2013 Special Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on December 26, 2013 and incorporated herein by reference thereto).
+10.41 |  | Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as an attachment to Discover Financial Services' Proxy Statement on Schedule 14A filed on March 19, 2014 and incorporated herein by reference thereto).
+10.42 |  | Form 2014 Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 29, 2014 and incorporated herein by reference thereto).
+10.43 |  | Form 2014 Award Certificate for Performance Stock Units Under Discover Financial Services Amended and Restated 2007 Omnibus Incentive Plan (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 29, 2014 and incorporated herein by reference thereto).
+10.44 |  | Amendment No. 4 to the Directors' Compensation Plan of Discover Financial Services, effective as of May 7, 2014 (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on August 1, 2014 and incorporated herein by reference thereto).
+10.45 |  | Form 2015 Award Certificate for Cash-Converted Restricted Stock Units Under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 30, 2015 and incorporated herein by reference thereto).
+10.46 |  | Form 2015 Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as Exhibit 10.2 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 30, 2015 and incorporated herein by reference thereto).
+10.47 |  | Form 2015 Award Certificate for Performance Stock Units Under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as Exhibit 10.3 to Discover Financial Services' Quarterly Report on Form 10-Q filed on April 30, 2015 and incorporated herein by reference thereto).
+10.48 |  | Form of 2015 Special Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on April 30, 2015 and incorporated by reference thereto).
+10.49 |  | Amendment No. 4 to Discover Financial Services Employee Stock Purchase Plan (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on October 29, 2015 and incorporated by reference thereto).
+10.50 |  | Form of 2015 Special Award Certificate for Restricted Stock Units Under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan (filed as Exhibit 10.1 to Discover Financial Services' Current Report on Form 8-K filed on December 21, 2105 and incorporated by reference thereto).
+10.51 |  | Receivables Sale and Contribution Agreement, dated as of December 22, 2015 between Discover Bank and Discover Funding LLC (filed as Exhibit 4.1 to Discover Bank’s Current Report on Form 8-K filed on December 23, 2015 and incorporated herein by reference thereto).
+10.52** |  | Form 2016 Award Certificate for Restricted Stock Units under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan
+[/TABLE]
+
+[TABLE]
+Exhibit Number |  | Description
+10.53** |  | Form 2016 Award Certificate for Performance Stock Units under Discover Financial Services Amended and Restated 2014 Omnibus Incentive Plan
+11 |  | Statement Re: Computation of Per Share Earnings (the calculation of per share earnings is in Part II, Item 8, Note 17: Earnings Per Share to the consolidated financial statements and is omitted in accordance with Section (b)(11) of Item 601 of Regulation S-K).
+12.1** |  | Statement Re: Computation of Ratio of Earnings to Fixed Charges and Computation of Ratio of Earnings to Fixed Charges and Preferred Stock Dividends.
+21 |  | Subsidiaries of the Registrant.
+23 |  | Consent of Independent Registered Public Accounting Firm.
+24** |  | Powers of Attorney.
+31.1** |  | Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.2** |  | Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.3 |  | Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.4 |  | Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+32.1*** |  | Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 1350 of Chapter 63 of Title 18 of the United States Code.
+101.INS** |  | XBRL Instance Document.
+101.SCH** |  | XBRL Taxonomy Extension Schema Document.
+101.CAL** |  | XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF** |  | XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB** |  | XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE** |  | XBRL Taxonomy Extension Presentation Linkbase Document.
+[/TABLE]
+
+* | We agree to furnish supplementally to the Commission a copy of any omitted schedule or exhibit to such agreement upon the request of the Commission in accordance with Item 601(b)(2) of Regulation S-K.
+
+** | Previously filed with the Original Filing.
+
+*** | Previously furnished with the Original Filing.
+
+† | Management contract or compensatory plan or arrangement required to be filed as an exhibit to Form 10-K pursuant to Item 15(b) of this report.
+
+
+=== EXHIBIT dfsex2112312015-10ka.htm ===
+
+EX-21 2 dfsex2112312015-10ka.htm SUBSIDIARIES OF THE REGISTRANT Document created using Wdesk 1 Copyright 2016 Workiva Exhibit
+
+Exhibit 21
+
+DISCOVER FINANCIAL SERVICES
+
+SUBSIDIARIES
+
+[TABLE]
+Subsidiary | Jurisdiction of Incorporation or Formation
+Bank of New Castle | Delaware
+Diners Club International Ltd. | New York
+Diners Club Services Private Limited | India
+Discover Bank | Delaware
+Discover Community Development Corporation | Delaware
+Discover Financial Services (Canada), Inc. | Canada
+Discover Financial Services (Hong Kong) Limited | Hong Kong
+Discover Financial Services (UK) Limited | England/Wales
+Discover Financial Services Insurance Agency, Inc. | Delaware
+Discover Funding LLC | Delaware
+Discover Global Employment Company Private Limited | Singapore
+Discover Home Loans, Inc. | Delaware
+Discover Information Technology (Shanghai) Limited | Shanghai
+Discover Products Inc. | Utah
+Discover Properties LLC | Delaware
+Discover Services Corporation | Delaware
+DFS Corporate Services LLC | Delaware
+DFS Escrow, Inc. | Delaware
+DFS GSD Corp. | Arizona
+DFS International Inc. | Delaware
+DFS Services LLC | Delaware
+GTC Insurance Agency, Inc. | Delaware
+HLC Settlement Services, Inc. | California
+PULSE Network LLC | Delaware
+The Student Loan Corporation | Delaware
+[/TABLE]

@@ -1,0 +1,24 @@
+doc_id: fdic/sod_discover-bank
+source: fdic
+source_tier: A
+doc_type: fdic-sod
+title: FDIC sod discover-bank
+url: https://api.fdic.gov/banks/sod?filters=CERT:5649
+retrieved_at: '2026-08-20T02:37:58Z'
+entity_ids:
+- discover-bank
+fetcher: fdic v1
+files:
+- name: sod.json
+  role: raw
+  sha256: 6482439479f4a0a0f7f075cdbe8400f0ed77c2cc0604ff40d78f8ce3d1355dc5
+  size: 104976
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: f7ba54bb45a11d28042d8b7d477cc587ed85799bf86dd68da2a07d7472acb101
+  size: 82
+  stored: corpus
+meta:
+  cert: '5649'
+  rows: 70

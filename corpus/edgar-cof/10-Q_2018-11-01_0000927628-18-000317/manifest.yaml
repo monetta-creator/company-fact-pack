@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2018-11-01_0000927628-18-000317
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2018-11-01 (period 2018-09-30)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000317/cof-09302018x10q.htm
+retrieved_at: '2026-08-20T02:32:36Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-09302018x10q.htm
+  role: raw
+  sha256: 3a1cc4ce49d82bb14c82e743e0737ccf445ad7ac3a4830d5bdf992db3834910d
+  size: 11829357
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 76763dbe7368c823fb9dac4ae06251933e4dd5ceefd3c45ccdcf626839491cd5
+  size: 664437
+  stored: corpus
+filed_date: '2018-11-01'
+period_end: '2018-09-30'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000317
+  form: 10-Q
+  items: ''

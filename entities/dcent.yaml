@@ -1,0 +1,15 @@
+id: dcent
+name: Discover Card Execution Note Trust
+type: trust
+status: active
+aliases:
+- DCENT
+identifiers:
+  cik: '0001407200'
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: edgar-dcent/10-D_2016-01-15_0001407200-16-000061
+  locator: null

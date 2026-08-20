@@ -1,0 +1,774 @@
+false 0001393612 0001393612 2025-04-16 2025-04-16
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 16, 2025
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. Other Events.
+
+On April 16, 2025, following the consent of the Board of Directors of Discover Bank, the Federal Deposit Insurance Corporation (“FDIC”) issued to Discover Bank an Amended and Restated Consent Order, Order for Restitution, and Order to Pay. The FDIC order amends and restates the consent order issued by the FDIC to Discover Bank on September 25, 2023. On April 18, 2025, the Board of Governors of the Federal Reserve System, following the consent of the Boards of Directors of Discover Financial Services and DFS Services LLC, issued an Order to Cease and Desist and Order of Assessment of a Civil Money Penalty to Discover Financial Services and DFS Services LLC. The orders resolve these agencies’ investigations of Discover Financial Services, Discover Bank, and DFS Services LLC concerning the previously disclosed card product misclassification issue. The orders require changes to policies and procedures to address the card production misclassification issue and restitution to affected parties; that work is already underway. Together, the agencies assessed civil money penalties of $250 million. The full amount of the penalties was accrued as of September 30, 2024.
+
+Copies of the orders are included as Exhibits 99.1 and 99.2 to this report and are incorporated by reference into this Item 8.01.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Consent Order between the Federal Deposit Insurance Corporation and Discover Bank dated April 16, 2025
+99.2 |  | Order between the Board of Governors of the Federal Reserve System and Discover Financial Services and DFS Services LLC dated April 18, 2025
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: April 18, 2025 |  |  |  | By: |  | /s/ Efie Vainikos
+ |  |  |  | Name: |  | Efie Vainikos
+ |  |  |  | Title: |  | Assistant Secretary
+[/TABLE]
+
+
+=== EXHIBIT d941737dex991.htm ===
+
+EX-99.1 2 d941737dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+FEDERAL DEPOSIT INSURANCE CORPORATION
+
+WASHINGTON, D.C.
+
+[TABLE]
+ |  | ) |  |
+In the Matter of |  | ) |  |
+ |  | ) |  | AMENDED AND RESTATED CONSENT
+ |  | ) |  | ORDER, ORDER FOR RESTITUTION,
+DISCOVER BANK |  | ) |  | AND ORDER TO PAY
+GREENWOOD, DELAWARE |  | ) |  |
+ |  | ) |  | FDIC-23-0014b
+(INSURED STATE NONMEMBER BANK) |  | ) |  | FDIC-24-0103b
+ |  | ) |  | FDIC-24-0102k
+ |  | ) |  |
+[/TABLE]
+
+The Federal Deposit Insurance Corporation ( FDIC ) is the appropriate Federal banking agency for Discover
+Bank, Greenwood, Delaware ( Bank ), under section 3(q) of the Federal Deposit Insurance Act ( Act ), 12 U.S.C. § 1813(q).
+
+The FDIC issued a Consent Order against the Bank on September 25, 2023, under Docket Number FDIC-23-0014b ( 2023 Consent Order ). This Amended and Restated Consent Order, Order for Restitution, and Order to Pay (collectively, Order ) amends and restates the 2023 Consent Order, adds
+an Order for Restitution , and an Order to Pay .
+
+The FDIC considered the matter and determined, and the Bank neither admits
+or denies, that, as described in the Consumer Compliance Report of Examination ( 2021 ROE ) which considered the findings of the FDIC’s October 18, 2021 examination along with Consumer Financial Protection Bureau ( CFPB )
+findings during the review period for the 2021 ROE, and the findings of subsequent FDIC visitations, targeted reviews, and monitoring ( Subsequent Review Period ), the Bank (i) recklessly engaged in unsafe or unsound banking practices by,
+among other things, failing to establish and maintain a compliance management system ( CMS ) providing for compliance with all applicable consumer protection laws and implementing regulations, including
+
+1
+
+Section 5 of the Federal Trade Commission Act, 15 U.S.C. § 45(a)(1), ( Section 5 ) (collectively, Consumer Protection Laws and Regulations ), including (a) board of
+directors ( Board ) and Bank management oversight and commitment, change management, comprehension, identification, and management of risk, corrective action and self-identification, and third party risk management; and (b) written
+policies, procedures, standards, and/or processes (collectively, Procedures ), training, monitoring and testing, audit, and consumer complaint response programs designed to prevent, or identify and self-correct violations of Consumer
+Protection Laws and Regulations and associated consumer harm with internal controls and information systems and internal audit systems appropriate to the size of the Bank and the nature, scope and risk of its activities, whether conducted by the
+Bank or on behalf of the Bank through Third-Party Relationships, as defined below, ( Bank Activities ); and (ii) engaged in violations of, among other things, Section 5, including the unfair acts or practices of the Bank related to
+the classification of certain credit card accounts for purposes of assessing fees in connection with accepting or facilitating payments on the Discover Network, a payments network operated by affiliate DFS Services LLC, in exchange for the delivery
+of goods or services made using a credit card issued by the Bank ( Account Classification ) into the highest merchant and merchant acquirer interchange pricing tier ( Unfair Acts or Practices ) which resulted in the overcharging of
+merchants, merchant acquirers, and other intermediaries; Truth-in-Lending Act, 15 U.S.C. § 1601, et seq. , the Servicemembers Civil Relief Act, 50 U.S.C.
+§ 501, et seq ., and the Electronic Records and Signatures in Commerce Act, 5 U.S.C. § 7001, et seq ., and related implementing regulations.
+
+2
+
+The Bank was advised of its right to receive a Notice of Charges and of Hearing and a Notice of Assessment of Civil Money Penalty, Findings of Fact and Conclusions of Law, Order to Pay and Notice Of Hearing (collectively, Notice ) issued by the FDIC detailing the unsafe or unsound banking practices and violations of
+law and/or regulation for which the FDIC may order corrective action, including restitution, and assess a civil money penalty ( CMP ) against the Bank; present defenses to the allegations in the Notice; a hearing on the Notice; the filing of Proposed Findings of Fact and Conclusions of Law ; issuance of a Recommended Decision ; file exceptions and briefs with respect to the Recommended Decision ; and judicial review of the Recommended Decision under section
+8(i)(2) of the Federal Deposit Insurance Act, 12 U.S.C. § 1818(i)(2), and subparts A and B of Part 308 of the FDIC’s Rules of Practice and Procedure, 12 C.F.R. Part 308, subparts A and B. The Bank, by and through its duly elected Board,
+having waived these rights, and any other right to challenge or contest, in any manner, the validity or enforceability of the Order, entered into a Stipulation and Consent to the Issuance of Amended and Restated Consent Order, Order for
+Restitution, and Order to Pay ( Consent Agreement ) with counsel for the FDIC on April 15, 2025, that is accepted by the FDIC. With the Consent Agreement, the Bank, solely for the purposes of this proceeding and without admitting or
+denying any charges of unsafe or unsound banking practices or violations of law or regulation, has consented to the issuance of the Order by the FDIC.
+
+Having determined that the requirements for issuance of orders under sections 8(b)(1), 8(b)(6), and 8(i)(2) of the Act, 12 U.S.C. §
+1818(b)(1), (b)(6), and (i)(2), have been satisfied, the FDIC hereby issues the following:
+
+AMENDED AND RESTATED CONSENT ORDER
+
+IT IS HEREBY ORDERED that the Bank, its institution-affiliated parties ( IAPs ), as that term is defined in section 3(u) of the Act, 12
+U.S.C. § 1813(u), and its successors and assigns, take the following action:
+
+3
+
+1. Board Requirements
+
+A. Supervision, Direction, Oversight, and Monitoring . The Board must ensure its supervision and direction of Bank management, and its
+oversight and monitoring of the Bank’s enterprise risk management framework ( ERM Framework ), corporate governance framework ( CG Framework ), consumer compliance program ( CC Program ), compliance vendor management program
+( CVM Program ), and Procedures for Account Classification ( Account Classification Procedures ) are commensurate with the size of the Bank and the nature, scope and risk of Bank Activities. The Board must, at a minimum:
+
+1. set and clearly communicate expectations regarding ethics and compliance with Consumer Protection Laws and Regulations for the Board, Bank
+management, staff, and any person associated with a business arrangement between the Bank and another entity, by contract or otherwise, including any business arrangements with an entity conducting one or more activities for or on behalf of the Bank
+and any party performing these services, or a component of these services, for or on behalf of such entity (collectively, Third-Party Relationships );
+
+2. ensure that the Bank has a proactive, effective risk-based ERM Framework, CC Program, CVM Program, and Account Classification Procedures;
+
+3. ensure that the Bank maintains one or more compliance officers with appropriate experience and expertise and sufficient authority,
+independence, and suitable resources, both staffing and systems, to enable them to satisfactorily oversee the implementation of the CC Program, the CVM Program, and Account Classification Procedures and assure the Bank’s compliance with
+Consumer Protection Laws and Regulations;
+
+4. ensure adequate information systems and Procedures are in place to provide the Board with
+timely, relevant and accurate information regarding risks related to potential and identified violations of Consumer Protection Laws and Regulations and incidents that may involve consumer harm in a consistent and readily understandable format at
+regular intervals and enable it to act on such reporting;
+
+4
+
+5. engage in robust consumer compliance-related discussions as part of all full Board and
+appropriate Board committee meetings, and comprehensively and accurately document those discussions in meeting minutes, including a satisfactory summary of matters reviewed, discussion of expectations and any challenges or questions, any specific
+actions taken or to be taken as a result of these consumer compliance-related discussions, including any requirements of or directions to Bank management, and the recording of votes taken with respect to such actions;
+
+6. set clear and measurable expectations for Bank management regarding their (a) ethics and commitment to compliance with Consumer
+Protection Laws and Regulations; (b) leadership across business lines and operations; (c) sound and consistent management of the Bank’s ERM Framework, CC Program, CVM Program, and Account Classification Procedures; (d) oversight
+and monitoring of Third-Party Relationships providing products, services, and/or conducting other activities either to, through, or on behalf of the Bank, for compliance with Consumer Protection Laws and Regulations; and (e) managing consumer
+compliance risks to stay within the Board’s risk appetite parameters and established risk limits, and establish and maintain Procedures to monitor and regularly evaluate Bank management’s adherence to these Board expectations;
+
+7. have and maintain Procedures to monitor and regularly evaluate the adherence to and effectiveness of the Bank’s ERM Framework, CC
+Program, CVM Program, and Account Classification Procedures and ensure appropriate revisions are timely made to the ERM Framework, CC Program, CVM Program, and/or Account Classification Procedures to assure on-going compliance with Consumer
+Protection Laws and Regulations;
+
+5
+
+8. ensure the Bank’s internal audit function ( Internal Audit) (a) is
+appropriate to the size of the Bank and the nature and scope of Bank Activities; (b) appropriately considers available risk assessments, studies, reports, including regulatory findings, plans, and/or Procedures related to the Bank’s
+compliance with Consumer Protection Laws and Regulations; and (c) appropriately assesses the Bank’s implementation of and adherence to the Bank’s ERM Framework, CC Program, CVM Program, Account Classification Procedures, and any other
+Procedures adopted by the Board related to compliance with Consumer Protection Laws and Regulations and any revisions to them; and
+
+9.
+have and maintain Procedures to track actions to (a) eliminate or correct any unsafe or unsound banking practices identified and violations of law or regulation cited in reports of examination, visitation reports or supervisory letters;
+(b) appropriately address any instances of consumer harm and/or any deficiencies or weaknesses identified in future reports of examination, visitation reports or supervisory letters; and (c) appropriately address non-compliance with Consumer Protection Laws and Regulations and corrective and preventive action for identified deficiencies and weaknesses in the Bank’s ERM Framework, CC Program, CVM Program, and/or Account
+Classification Procedures to ensure such corrective actions are implemented in a timely manner and thereafter monitor implementation of and adherence to resulting revisions to the ERM Framework, CC Program, CVM Program, and/or Account Classification
+Procedures by the Bank.
+
+B. Corrective Action . The Board must also ensure that the Bank takes all steps necessary, consistent with
+other provisions of this Order and safe and sound banking practices, to:
+
+1. eliminate or correct, and prevent the unsafe or unsound
+banking practices and the violations of law or regulation identified in the 2021 ROE and/or during the Subsequent Review Period;
+
+6
+
+2. appropriately address the instances of consumer harm and the deficiencies and weaknesses
+identified in the 2021 ROE and/or during the Subsequent Review Period in a timely manner; and
+
+3. fully comply with the provisions of this
+Order in a timely manner.
+
+2. Account Classification
+
+The Board must ensure that all Account Classifications conform to applicable agreements, operating regulations, fee manuals and/or other
+disclosure documents incorporated by reference into these agreements (collectively, Interchange Disclosures ). The Board must also ensure that the Bank has Account Classification Procedures with (i) clear lines of authority and
+responsibility for establishing and monitoring adherence to applicable Account Classification Procedures by both the Bank and Third-Party Relationships; (ii) processes for effective risk assessment of Account Classifications;
+(iii) processes for timely and accurate reporting related to Account Classification Procedures, including adherence to applicable Account Classification Procedures by the Bank and any Third-Party Relationships involved with Account
+Classification; and (iv) processes for ensuring proactive and effective compliance with Consumer Protection Laws and Regulations. The Board must also ensure that Account Classifications and Account Classification Procedures are
+(i) independently reviewed and assessed in accordance with subparagraphs A and B below as of the date on which the reviews and assessments are commenced; and (ii) established, or revised and enhanced, in accordance with subparagraph B
+below.
+
+7
+
+A. Account Classification Assessment . Within 30 days from the effective date of this
+Order, the Bank must submit a proposed engagement letter or contract to the Deputy Regional Director of the FDIC’s New York Regional Office ( DRD ) for review, and comment or non-objection in accordance with Paragraph 7 to engage an
+independent third party acceptable to the DRD to (i) assess whether Account Classifications conform to all Interchange Disclosures; and (ii) assess whether Account Classification Procedures are appropriate and satisfactorily provide
+(A) clear lines of authority and responsibility for establishing and monitoring adherence to applicable Account Classification Procedures by the Bank and any Third-Party Relationship involved with Account Classification; (B) processes for
+effective risk assessment; (C) processes for timely and accurate reporting; and (D) processes for ensuring compliance with Consumer Protection Laws and Regulations ( AC Assessment ); (iii) identify any inaccuracies in Account
+Classifications, discrepancies between Account Classifications and any Interchange Disclosures, gaps and/or areas where additional Account Classification Procedures are required or require enhancement; and (iv) prepare a written report
+reflecting the findings of the AC Assessment with a detailed schedule and description of any inaccuracies, discrepancies, gaps, deficiencies, weaknesses, issues and/or concerns identified during the AC Assessment with recommendations to
+appropriately address them at its conclusion ( AC Report ). The AC Report must, at minimum, include a review and assessment of the AC Report components required by subparagraph B below. The engagement letter or contract must, at a minimum:
+
+1. describe the work to be performed under the engagement letter or contract;
+
+2. provide for unrestricted access to the data sets used by, workpapers, and personnel of the third party by the FDIC; and
+
+3. require that the AC Assessment be completed and summarized in the AC Report and delivered to the Bank within 90 days from the DRD’s non-objection to the proposed engagement letter or contract, with a copy delivered simultaneously to the DRD for review, and comment or non-objection in accordance with
+Paragraph 7 of this Order, the Board’s Governance and Control Committee ( GCC ), the maintenance of which is required by Paragraph 6 of this Order, and Internal Audit.
+
+8
+
+B. AC Report . The AC Report, must, at a minimum, include:
+
+1. Account Classification . A review and assessment of (a) the completeness, quality, accuracy, and accessibility of the data,
+documents, records and/or any other information, in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual (collectively, Information ), necessary for accurate and appropriate Account Classification
+and determining compliance with Interchange Disclosures and Consumer Protection Laws and Regulations; (b) whether the source codes, criteria, rules and/or parameters used to assign credit card accounts to interchange pricing tiers
+( Parameters ) and any data compiled by the Bank justifying or supporting the Parameters are accurate and in accord with the Interchange Disclosures; (c) the functionality, timeliness, accuracy, consistency, and completeness of the
+networks, systems, models, devices, software, hardware and/or other resource, tool or mechanism (collectively, Systems ) used by the Bank to collect, process, maintain, use, share, disseminate, or dispose of Information pertaining to the
+Classification Process ( Information Systems ) and whether the Information Systems satisfactorily enable the Bank to access, collect, and analyze the Information necessary to appropriately monitor, in a timely manner, Account Classifications
+for compliance with Interchange Disclosures and Consumer Protection Laws and Regulations;
+
+2. Organizational Chart . An
+organizational chart detailing the current Bank personnel responsible for establishing Account Classification Procedures and overseeing Account Classification risk and compliance with Account Classification Procedures and Consumer Protection Laws
+and Regulations related to Account Classification reflecting lines of authority and reporting;
+
+9
+
+3. Account Classification Procedures . A review and assessment of whether current
+Account Classification Procedures are appropriate and satisfactorily (a) provide clear lines of authority and responsibility for establishing and monitoring adherence to applicable Account Classification Procedures by the Bank and any
+Third-Party Relationship involved with Account Classification; (b) require and include processes for effective risk assessment; (c) require and include processes for timely and accurate reporting; and (d) require and include processes
+for ensuring compliance with Consumer Protection Laws and Regulations; (e) require and include processes for the collection and maintenance of documentation regarding changes made to the Parameters, and the reassignment of credit card accounts
+through the use of any Systems including requests to implement new Parameters, make a modification in existing Parameters, or reassign credit card accounts to another interchange pricing tier using any System; (f) require and include processes
+for the review and analysis of the risks associated with the proposed new or modified Parameters, or reassignment of an interchange pricing tier using any System, the final approval of the new or modified Parameters, or use of any System to reassign
+an interchange pricing tier, appropriate documentation of the approver, and the date upon which new or modified Parameters were implemented or a System was used to reassign an interchange pricing tier; (g) include processes to enable the Bank
+to oversee, monitor and test Bank and Third-Party Relationship compliance with applicable Account Classification Procedures, Interchange Disclosures, and Consumer Protection Laws and Regulations; and
+
+4. Recommendations. A detailed schedule and description of any deficiencies, weaknesses, gaps, issues and/or concerns identified during
+the AC Assessment and recommendations to address them.
+
+10
+
+C. AC Plan . Within 60 days from receipt of the DRD’s non-objection to the AC Report, the Bank must develop a written plan of action ( AC Plan ) appropriately addressing each recommendation contained in the AC Report which includes (i) a time frame for
+completing the recommended action; (ii) a satisfactory justification as to why the recommended action is not necessary or appropriate; or, (iii) if the Bank prefers an alternative proposal to the recommended action, a satisfactory
+justification for such alternative and a time frame for completing it. The AC Plan must be submitted to the DRD for review, and comment or non-objection in accordance with Paragraph 7 of this Order. In the
+event the AC Plan, or any portion thereof, is not implemented or adhered to after its adoption by the Board, the GCC must promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating
+from the AC Plan and the action it will take to address the deviation. The DRD may either provide written non-objection to any such deviation or require compliance with the AC Plan.
+
+3. Corporate Governance
+
+The Board must ensure that (i) the Bank has a CG Framework appropriate to the size of the Bank and the nature, scope and risk of Bank
+Activities and satisfactorily provides an organizational structure with clear lines of authority and responsibility for monitoring adherence to established Procedures, effective risk assessment, timely and accurate reporting and compliance with
+Consumer Protection Laws and Regulations; and (ii) the CG Framework Plan, as defined in the 2023 Consent Order and non-objected to by the DRD, is fully and completely implemented within the time frames non-objected to by the DRD. In the event the CG Framework Plan, or any portion thereof, is not implemented or adhered to after its adoption by the Board, the GCC must promptly, but in no instance more than 30 days
+from such event, advise the DRD in writing of the specific reasons for deviating from the CG Framework Plan and the action it will take to address the deviation. The DRD may either provide written non-objection to any such deviation or require compliance with the CG Framework Plan.
+
+11
+
+4. Consumer Compliance Program
+
+The Board must ensure that the Bank has a CC Program that (i) is commensurate with the size of the Bank, and the nature, scope, and risk
+of Bank Activities and satisfactorily provides an organizational structure with clear lines of authority and responsibility for monitoring adherence to established Procedures, effective risk assessment, timely and accurate reporting, and compliance
+with Consumer Protection Laws and Regulations; and (ii) includes appropriate Procedures for each of the CC Program components required by Paragraph 3(B) of the 2023 Consent Order that proactively and effectively assure all Bank Activities
+comply with Consumer Protection Laws and Regulations. The Board must also ensure that the CC Program Revision Plan, as defined in the 2023 Consent Order and non-objected to by the DRD, is fully and completely
+implemented within the time frames non-objected to by the DRD. In the event the CC Program Revision Plan, or any portion thereof, is not implemented or adhered to after its adoption by the Board, the GCC must
+promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating from the CC Program Revision Plan and the action it will take to address the deviation. The DRD may either provide
+written non-objection to any such deviation or require compliance with the CC Program Revision Plan.
+
+5. Compliance Vendor Management Program
+
+The Board must ensure that (i) the Bank’s CVM Program is commensurate with the size and complexity of the Bank, and the nature,
+scope, and the risk of the Bank Activities conducted through Third-Party Relationships and satisfactorily ensures that Bank Activities conducted through Third-Party Relationships are conducted in a safe and sound manner and in compliance with
+
+12
+
+Consumer Protection Laws and Regulations and the Bank’s Procedures and provides, at a minimum, clear lines of authority and responsibility for monitoring adherence to applicable Procedures,
+effective risk assessment, timely and accurate reporting, and compliance with Consumer Protection Laws and Regulations; and (ii) the CVM Plan, as defined in the 2023 Consent Order and non-objected to by
+the DRD, is fully and completely implemented within the time frames non-objected to by the DRD. In the event the CVM Plan, or any portion thereof, is not implemented or adhered to after its adoption by the
+Board, the GCC must promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating from the CVM Plan and the action it will take to address the deviation. The DRD may either provide
+written non-objection to any such deviation or require compliance with the CVM Plan.
+
+6.
+Governance and Control Committee
+
+A. Governance and Control Committee . The Board must maintain its GCC and ensure it continues
+to be comprised of at least three independent directors (directors who are independent of management and are not, and within the preceding fiscal year have not been, an officer or employee of the institution or any affiliate of the institution)
+acceptable to the DRD. If, after receiving the non-objection of the DRD, there is a proposed change to the composition of the GCC, such proposed change must be submitted to the DRD for review, comment or non-objection in accordance with Paragraph 7. Nothing herein diminishes the responsibility of the entire Board to ensure compliance with the provisions of this Order in a timely manner.
+
+B. Revised GCC Plan . Within 90 days from the effective date of this Order, the GCC must submit a written plan updating the GCC Plan, as
+defined in the 2023 Consent Order and non-objected to by the DRD, to detail how the Board will ensure the requirements of this Order are met in a timely manner ( GCC Plan ) to the DRD for review, and comment or non-objection in accordance with
+Paragraph 7. The GCC Plan must, at a minimum:
+
+1. describe the specific corrective actions to be taken to meet the requirements of each
+provision this Order ( Corrective Actions );
+
+13
+
+2. establish the date by which each Corrective Action will be taken;
+
+3. identify the person(s) responsible for the completion of each Corrective Action; and
+
+4. establish the means by which the GCC will monitor the status of each Corrective Action and ensure timely compliance with this Order.
+
+C. GCC Report . The GCC must submit a written report ( GCC Report ) detailing the status of all actions required in connection with
+this Order to the Board for consideration at each regularly scheduled Board meeting occurring after the effective date of this Order. The GCC Report and any discussion related to it or this Order must be included in the minutes of the corresponding
+Board meeting. The GCC Report must be submitted to the DRD as part of the progress reports required by Paragraph 8 of this Order, noting any action taken by the Board based on them.
+
+7. Non-objection, Implementation and Adherence
+
+A. Review, Comment or Non-objection . When a provision of this Order requires the Bank to submit
+a matter to the DRD for review, comment or non-objection ( Submission ), the Bank will make the Submission to the DRD as a PDF document through the FDIC’s Secure Email portal (securemail.fdic.gov)
+using e-mail address: NYMailRoom@fdic.gov. The DRD may request in writing additional information or analysis in support of or in connection with any Submission from the Bank, and the Bank may request
+clarification of the DRD’s request for additional information or analysis, but must provide such information or analysis or request additional time to provide the information or analysis with a reasonable justification of such request within
+the time frame set in the written request. Within 30 days from receipt of comments from the DRD, the Bank will make such modifications as may be necessary to respond to the DRD’s comments and resubmit the Submission for review, additional
+comments or non-objection.
+
+14
+
+B. Adoption, Implementation and Adherence . The Board will adopt any plan required by
+this Order, at its next regularly scheduled meeting following receipt of the DRD’s written non-objection to such plan. For any Procedure, or matter and/or any revision or addition to a Procedure required
+by this Order but not requiring the written non-objection of the DRD, the Board must adopt any new or revised Procedure or other matter within the timeframe required for such action in this Order. These
+actions must be appropriately reflected in the Board minutes. Thereafter, the Board must ensure that the Bank fully implements and adheres to the plan, Procedure, or other matter as adopted and enforce full and complete compliance with these plans,
+Procedures, or other matters. In the event a plan required by this Order and adopted by the Board, or any portion thereof, is not fully implemented or adhered to, the Board must promptly, in no instance more than 30 days from the event, advise the
+DRD in writing of the specific reasons for the deviation or delay and the action it will take to address the deviation or delay. The DRD may either provide a written non-objection to any such deviation or
+delay or require compliance with the plan as adopted by the Board.
+
+8. Progress Reports
+
+Within 45 days from the end of each calendar quarter, the Bank must, beginning with the second quarter of 2025, furnish written progress
+reports detailing the form, manner, and results of any actions taken to secure compliance with this Order to the DRD, including the Restitution Plan required by Paragraph 9 below. All progress reports must be reviewed and approved by the Board and
+be made a part of the Board minutes.
+
+15
+
+ORDER FOR RESTITUTION
+
+IT IS FURTHER ORDERED that the Bank make full and complete restitution to the merchants, merchant acquirers, and other intermediaries
+adversely affected by the Bank’s Unfair Acts or Practices ( Adversely Affected Parties ) by distributing, at a minimum, $1,225,000,000 the amount of the liability recorded on the books and records of the Bank and/or Discover Financial
+Services as of December 31, 2024, related to their “counterparty restitution plan” or “CRP” to the Adversely Affected Parties. The Bank may not seek or accept indemnification in connection with these restitution requirements
+other than from its parent, Discover Financial Services, or its affiliate, DFS Services LLC.
+
+9. Restitution
+
+A. Restitution Plan Proposal . The Board must ensure that the Bank submits a proposed plan to make full and complete restitution to all
+Adversely Affected Parties ( Restitution Plan Proposal ) to the DRD for review, and comment or non-objection in accordance with Paragraph 7 within 30 days from the effective date of this Order. At a
+minimum, the Restitution Plan Proposal must:
+
+1. Restitution Methodology. Describe the methodology, and all assumptions underlying
+the methodology, to be used to calculate (a) the amount unjustly received in connection with the Bank’s Unfair Acts or Practices and that will be distributed to Adversely Affected Parties ( Aggregate Restitution Amount ); and
+(b) the restitution amount to be provided to an Adversely Affected Party ( AAP Restitution Amount ) (collectively, Restitution Amounts );
+
+2. Restitution Data. Describe the data used to calculate the Restitution Amounts, how it was identified and collected, and how its
+accuracy was verified;
+
+3. Relevant Period. Define and support the rationale for the time period selected to calculate the
+Restitution Amounts ( Relevant Period );
+
+16
+
+4. Identification of and Notice to Adversely Affected Parties. Specify how Adversely
+Affected Parties will be identified and informed of their right to receive restitution ( Notice Process );
+
+5. Restitution
+Process. Describe the process, including any claims or dispute processes, through which AAP Restitution Amounts will be distributed ( Distribution Process ); and
+
+6. Remaining Funds . Describe the process of disposing of any unclaimed, undistributed, or unallocated portion of the Aggregate
+Restitution Amount ( Remaining Funds Process ).
+
+B. Validation of Restitution Plan Proposal . Within 7 days from the effective
+date of this Order, the Bank must submit the proposed engagement letter or contract of the independent third party previously retained by the Bank to perform the assessment required by this paragraph to the DRD for review, and comment or non-objection in accordance with Paragraph 7. This independent third party must assess whether (i) the methodology, and all underlying assumptions, used to calculate the Restitution Amounts ( Restitution
+Methodology ) is reasonable and fair to the Adversely Affected Parties; (ii) the Restitution Methodology appropriately identified, collected and used all available data and the accuracy of the data used in the Restitution Methodology;
+(iii) the Relevant Period is reasonable and fair to the Adversely Affected Parties; (iv) the Notice Process is reasonable and fair to the Adversely Affected Parties; (v) the Distribution Process is reasonable and fair to the Adversely
+Affected Parties; and (vi) the Remaining Funds Process is reasonable and fair to the Adversely Affected Parties ( RP Proposal Assessment ). The proposed engagement letter or contract to engage the independent third party must require the
+preparation of a written report reflecting the findings of the RP Proposal Assessment ( RP Proposal Report ) at its conclusion. The engagement letter or contract must also, at a minimum:
+
+1. describe the work to be performed under the engagement letter or contract;
+
+17
+
+2. provide for unrestricted access to the data sets used by, workpapers, and personnel of
+the third party by the FDIC; and
+
+3. require that the RP Proposal Assessment be completed and summarized in the RP Proposal Report and
+delivered to the Bank within 60 days from the DRD’s non-objection to the proposed engagement letter or contract, with a copy delivered simultaneously to the DRD for review, and comment or non-objection in accordance with Paragraph 7 of this Order, the GCC, and Internal Audit.
+
+C. Restitution Plan . Within 30 days from receipt of the DRD’s non-objection to the RP Proposal Report, the Bank must revise the Restitution Plan Proposal to appropriately address each recommendation
+contained in the RP Proposal Report and submit the plan ( Restitution Plan ) to the DRD for review, and comment or non-objection in accordance with Paragraph 7 of this Order. In the event the Restitution
+Plan, or any portion thereof, is not implemented or adhered to after its adoption by the Board, the GCC must promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating from the
+Restitution Plan and the action it will take to address the deviation. The DRD may either provide written non-objection to any such deviation or require compliance with the Restitution Plan.
+
+ORDER TO PAY
+
+IT IS
+FURTHER ORDERED that, and after taking into account the Consent Agreement, the appropriateness of the penalty with respect to the financial resources and good faith of the Bank, the gravity of the Bank’s conduct, the severity of the risks to or
+losses of Adversely Affected Parties, the history of previous violations by the Bank, and such other matters as justice may require, a CMP of $150,000,000 is assessed against the Bank under section 8(i)(2) of the Act, 12 U.S.C. § 1818(i)(2),
+and is effective on issuance of this Order. The Bank’s payment of $150,000,000 to the Treasury of the United States is acknowledged. The Bank may not seek or accept indemnification for the CMP assessed in this matter.
+
+18
+
+10. Shareholder Disclosure
+
+Within 30 days from the effective date of this Order, the Board must provide its parent holding company with either an accurate and complete
+description of all material aspects of the Order or a copy of this Order.
+
+11. Miscellaneous
+
+The provisions of this Order do not bar, estop, or otherwise prevent the FDIC, any other federal or state agency or department, or the FDIC as
+receiver, from taking any other action against the Bank, any of the Bank’s current or former IAPs, its affiliates, or any of their respective directors, officers, employees and agents; or in any way prevent the FDIC from conducting on-site reviews, visitations, and/or examinations of the Bank, its affiliates, agents, or Third-Party Relationships at any time to monitor compliance with this Order.
+
+The provisions of this Order are binding on the Bank, its IAPs, and any successors and assigns thereof.
+
+19
+
+This Order is effective on the date of issuance, and its provisions will remain effective
+and enforceable unless and until it is modified, terminated, suspended, or set aside in writing by the FDIC.
+
+Issued Under Delegated
+Authority this 16 th day of April, 2025.
+
+[TABLE]
+/s/ G. Chris Finnegan
+G. Chris Finnegan
+Senior Deputy Director
+Division of Depositor and Consumer Protection
+Federal Deposit Insurance Corporation
+[/TABLE]
+
+20
+
+
+=== EXHIBIT d941737dex992.htm ===
+
+EX-99.2 3 d941737dex992.htm EX-99.2 EX-99.2
+
+Exhibit 99.2
+
+UNITED STATES OFAMERICA
+
+BEFORE
+THE
+
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
+
+WASHINGTON, D.C.
+
+[TABLE]
+In the Matter of
+ DISCOVER FINANCIAL SERVICES
+ Riverwoods, Illinois |  | Docket Nos. 25-004-B-HC 25-004-B-DEO 25-004-CMP-HC
+ 25-004-CMP-DEO
+DFS SERVICES LLC |  |
+Riverwoods, Illinois |  |
+ |  | Order to Cease and Desist and
+ Order of Assessment of a Civil
+ Money Penalty Issued Upon
+ Consent Pursuant to the Federal
+ Deposit Insurance Act, as Amended
+[/TABLE]
+
+WHEREAS, Discover Financial Services, Riverwoods, Illinois (“DFS”), is a registered bank holding
+company that owns and controls Discover Bank, Greenwood, Delaware (“Discover Bank”), a state nonmember bank; DFS Services LLC, Riverwoods, Illinois (“Discover Network”), a non-bank subsidiary; and other nonbank subsidiaries (collectively, the “Firm”);
+
+WHEREAS, the Board of Governors of the Federal Reserve
+System (the “Board of Governors”) is the appropriate federal supervisor of DFS and Discover Network and the Federal Deposit Insurance Corporation (the “FDIC”) is the appropriate federal supervisor of Discover Bank;
+
+WHEREAS, in recent supervisory letters dated June 7, 2023 and October 6, 2023, the Federal Reserve Bank of Chicago (the
+“Reserve Bank”) identified significant deficiencies in DFS and Discover Network’s practices related to the classification and assessment of interchange fees for credit cards issued by Discover Bank (the “Discover Card Interchange
+Fee Practices”);
+
+WHEREAS, in addition to the Reserve Bank’s supervisory findings, the Board of Governors
+and the FDIC have also investigated the Discover Card Interchange Fee Practices of DFS, Discover Network, and Discover Bank;
+
+WHEREAS,
+Discover Network contracted with merchant acquirers and individual merchants (collectively, “Merchant Customers”) to accept payment at the point of sale through the Discover payments network, and Merchant Customers were charged interchange
+fees based on Discover card cardholders’ credit card purchases;
+
+WHEREAS, Discover Bank offered “commercial” credit cards
+that were defined in Discover Network’s standard contracts with its merchant customers and operating regulations as cards that were expected to be used primarily for business purposes, and offered “consumer” credit cards that were
+expected to be used primarily for ordinary consumer spending;
+
+WHEREAS, interchange fees for “commercial” credit cards generally
+are higher than interchange fees for “consumer” credit cards;
+
+WHEREAS, from 2007 through at least 2023 (the “Relevant
+Period”), the Firm charged its Merchant Customers the higher interchange fees associated with the “commercial” credit cards for the purpose of increasing the Firm’s revenues for certain credit cards that did not meet the
+definition of “commercial” in Discover Network’s standard contracts and operating regulations and were used for ordinary consumer spending;
+
+WHEREAS, from 2007 through 2023, the Firm did not disclose to its Merchant Customers that it was charging the higher “commercial”
+interchange fees for certain credit cards that were used for ordinary consumer spending;
+
+2
+
+WHEREAS, at the end of 2022, the Firm had classified approximately five million
+“consumer” credit cards as “commercial,” and approximately 98% of those cards were “consumer” cards that were misclassified;
+
+WHEREAS, the Firm’s Merchant Customers suffered monetary harm of approximately one billion dollars as a result of the Discover Card
+Interchange Fee Practices in the Relevant Period;
+
+WHEREAS, Discover Bank received approximately ninety percent of the revenue gained as a
+result of the Firm’s Discover Card Interchange Fee Practices in the Relevant Period;
+
+WHEREAS, during the Relevant Period, senior
+executives of the Firm were aware that numerous Discover consumer credit cards were improperly classified as “commercial” credit cards and were therefore assessed a higher interchange fee;
+
+WHEREAS, despite this awareness, DFS’s senior management failed to take adequate steps to correct the Firm’s Discover Card
+Interchange Fee Practices;
+
+WHEREAS, Discover Network did not have any policies, procedures, or other controls to ensure that credit cards
+were properly classified as “consumer” or “commercial” for interchange fee purposes;
+
+WHEREAS, DFS and Discover
+Network have agreed to provide financial and operational support, as necessary, to enable Discover Bank and the Firm to provide full and complete restitution to Merchant Customers adversely affected by the Firm’s Discover Card Interchange Fee
+Practices;
+
+WHEREAS, the FDIC has issued a restated and amended consent order, restitution order, and civil money penalty order against
+Discover Bank for violations of law related to the Discover Card Interchange Fee Practices (the “FDIC Order”);
+
+3
+
+WHEREAS, as a result of the deficiencies described above, DFS and Discover Network engaged
+in unsafe and unsound banking practices;
+
+WHEREAS, it is the common goal of DFS, Discover Network, the Board of Governors, and the Reserve
+Bank that DFS and Discover Network operate in a safe and sound manner and in compliance with all applicable federal and state laws, rules, and regulations;
+
+WHEREAS, DFS and Discover Network have cooperated with the Board of Governors and the Reserve Bank, paid restitution to certain Merchant
+Customers, and have begun to undertake certain remedial actions to address the foregoing deficiencies, but additional substantive corrective actions are required;
+
+WHEREAS, DFS, Discover Network, and the Board of Governors have agreed to this Cease and Desist Order and Order of Assessment of a Civil Money
+Penalty (the “Order”) pursuant to section 8(b)(1), (b)(3), (b)(6)(A) and (i)(2)(B) of the Federal Deposit Insurance Act, as amended (the “FDI Act”) (12 U.S.C. § 1818(b)(1), (3), (6)(A), and (i)(2)(B)) for the unsafe or
+unsound practices described above; and
+
+WHEREAS, the DFS board of directors at a duly constituted meeting adopted a resolution authorizing
+and directing the undersigned to enter into this Order on behalf of DFS and Discover Network, and consenting to compliance with each and every provision of this Order by DFS and Discover Network, and waiving all rights that DFS and Discover Network
+may have pursuant to section 8 of the FDI Act, including but not limited to: (i) the issuance of a notice of charges on any and all matters set forth in this Order; (ii) a hearing for the purpose of taking evidence on any matters set forth
+in this Order; (iii) judicial review of this Order; and (iv) challenging or contesting, in any manner, the basis, issuance, validity, terms, effectiveness or enforceability of the Order or any provision hereof.
+
+4
+
+NOW, THEREFORE, before the filing of any notices, or taking of any testimony or adjudication
+of or finding on any issues of fact or law herein, and solely for the purpose of settling this matter without a formal proceeding being filed and without the necessity for protracted or extended hearings or testimony, pursuant to section 8(b)(1),
+(b)(3), (b)(6)(A) and (i)(2)(B) of the FDI Act (12 U.S.C. § 1818(b)(1), (b)(3), (b)(6)(A) and (i)(2)(B)), it is hereby ordered that DFS and Discover Network shall cease and desist and take affirmative actions as follows:
+
+Source of Strength
+
+1. The board of
+directors of DFS shall take appropriate steps to fully utilize DFS’s financial and managerial resources, pursuant to section 38A of the FDI Act (12 U.S.C. § 1830 o - 1) and section 225.4(a) of Regulation Y of the Board of Governors
+(12 C.F.R. § 225.4(a)), to serve as a source of strength to Discover Bank, including, but not limited to, taking steps to ensure that Discover Bank complies with the FDIC Order and any other supervisory action taken by Discover Bank’s
+federal or state regulators.
+
+Board Oversight
+
+2. Within 60 days of the effective date of this Order, the DFS board of directors shall submit a written plan to the Reserve Bank to strengthen
+board oversight of the Firm. The plan shall include the following four items:
+
+(a) actions that the board of directors will take to
+maintain effective oversight and supervision of, the Discover Card Interchange Fee Practices;
+
+(b) measures to monitor management’s
+adherence to approved policies and procedures, and applicable laws and regulations, related to the Discover Card Interchange Fee Practices, and to monitor exceptions to those approved policies and procedures;
+
+5
+
+(c) steps to improve the quality, comprehensiveness, and granularity of the information and
+reports that will be regularly provided to and reviewed by the board of directors in its oversight of the operations and management of the Discover Card Interchange Fee Practices and related controls, systems, and procedures; and
+
+(d) actions to enable the board of directors to oversee senior management’s implementation of the remediation required by this Order.
+
+Interchange Fee Risk Management and Internal Controls
+
+3. Within 60 days of the effective date of this Order, DFS shall submit a written plan to strengthen the Firm’s risk management practices
+and internal controls related to the Discover Card Interchange Fee Practices acceptable to the Reserve Bank. The policies and procedures shall include the following five items:
+
+(a) written policies, procedures, and controls to identify, track, classify, and assess the interchange fee for each Merchant Customer
+consistent with all applicable laws, regulations, contracts, and operating regulations;
+
+(b) measures to ensure appropriate risk
+management and oversight of the Discover Card Interchange Fee Practices through routine and periodic monitoring and testing;
+
+(c) measures
+to ensure that the Firm’s internal audit conducts reviews, at least annually, of the Discover Card Interchange Fee Practices and that the Firm’s management timely resolves all audit findings and implements all necessary corrective
+measures;
+
+(d) measures to ensure that individuals or groups charged with the responsibility for assessing interchange fees possess the
+appropriate independence and authority, have clearly defined roles and responsibilities, and maintain a direct line of communication with the Firm’s Executive Management Committee and the board of directors or committee thereof charged with
+oversight of the Firm’s Discover Card Interchange Fee Practices; and
+
+6
+
+(e) policies and procedures that require the reporting and escalation of significant issues,
+including any material risks identified through complaints raised by Merchant Customers, to the board of directors or committee thereof charged with oversight of the Discover Card Interchange Fee Practices.
+
+Accountability for Employees Involved in Misconduct
+
+4. DFS and Discover Network shall not in the future directly or indirectly retain any individual as an officer, employee, agent, consultant, or
+contractor of DFS, Discover Network, or of any affiliate thereof who, based on the investigative record compiled by DFS, has: (i) participated in the misconduct underlying this Order, (ii) been subject to formal disciplinary action as a
+result of DFS’s internal disciplinary review or performance reviews in connection with the conduct described above, or (iii) either separated from the Firm or had his or her employment legally terminated in connection with the conduct
+described above.
+
+5. DFS and Discover Network shall continue to cooperate fully with and provide substantial assistance to the Board of
+Governors, including, but not limited to, the provision of information, testimony, documents, records, and other tangible evidence and perform analyses as directed by the Board of Governors in connection with any investigation of individuals who are
+or were institution-affiliated parties of the Firm and who were involved in the misconduct underlying this Order.
+
+6. For purposes of
+clarity and not limitation, substantial assistance as used in this Order means DFS and Discover Network will use their best efforts, as determined by the Board of Governors, to make available for interviews or testimony, as requested by the Board of
+Governors, present or former officers, directors, employees, agents, and consultants of the Firm. This obligation includes, but is not limited to, sworn testimony pursuant to administrative subpoena as well as interviews with regulatory authorities.
+Cooperation under this paragraph shall also include identification of witnesses who, to the Firm’s knowledge, may have material information regarding the matters under investigation.
+
+7
+
+Assessment of Civil Monetary Penalty
+
+7. The Board of Governors hereby assesses DFS and Discover Network a civil money penalty in the amount of $100,000,000, which shall be paid
+upon the execution of this Order by Fedwire transfer of immediately available funds to the Federal Reserve Bank of Richmond, ABA No. 051053310, beneficiary, Board of Governors of the Federal Reserve System. This penalty is a penalty paid to a
+government agency for a violation of law for purposes of 26 U.S.C. § 162(f) and 26 C.F.R. § 1.162-21. The Federal Reserve Bank of Richmond, on behalf of the Board of Governors, shall distribute this
+sum to the U.S. Department of the Treasury, pursuant to section 8(i) of the FDI Act (12 U.S.C. § 1818(i)).
+
+Primary Contact
+
+8. Within ten (10) days following the effective date of this Order, DFS and Discover Network shall designate an officer to be responsible
+for coordinating and submitting to the Reserve Bank the written plans required under the terms of this Order. Any changes in designated officers must be communicated timely throughout the course of this Order. Such officer shall serve as the primary
+contact for the Reserve Bank for purposes of this Order.
+
+Approval, Implementation, and Progress Reports
+
+9. DFS and Discover Network shall submit the written plans as set forth in paragraphs 2 and 3 of this Order. Each plan shall contain a timeline
+for full implementation with specific deadlines for completion of each component of the plan.
+
+8
+
+(a) Within ten (10) days of approval by the Reserve Bank, DFS and Discover Network
+shall adopt the approved plan. Upon adoption, DFS and Discover Network shall promptly implement the approved plan and thereafter fully comply with it.
+
+(b) During the term of this Order, the approved plans shall not be amended or rescinded without the prior approval of the Reserve Bank.
+
+10. Within 45 days after the end of the first full calendar quarter following the date of this Order and each quarter thereafter, DFS’s
+board of directors, or an authorized committee thereof, shall submit to the Reserve Bank written progress reports detailing the form and manner of all actions taken to comply with the provisions of this Order, a timetable and schedule to implement
+specific remedial actions to be taken, the results thereof, and copies of all written progress reports required under the FDIC Order. The Reserve Bank may, in writing, discontinue the requirement for the progress reports, request modification of
+form or content, or modify the reporting schedule.
+
+Communications
+
+11. All communications regarding this Order shall be sent to:
+
+ | a. | Jason A. Gonzalez
+
+Deputy Associate General Counsel
+
+Board of Governors of the Federal Reserve System
+
+20th and Constitution Avenue Northwest
+
+Washington, District of Columbia 20551
+
+ | b. | David M. Riddle
+
+Assistant Vice President – Large Financial Banking Organizations
+
+Federal Reserve Bank of Chicago
+
+230 South La Salle Street
+
+Chicago, Illinois 60604
+
+ | c. | Melinda Milenkovich
+
+Deputy General Counsel
+
+Discover Financial Services
+
+2500 Lake Cook Road
+
+Riverwoods, Illinois 60015
+
+9
+
+ | d. | Nicolas Bourtin
+
+Partner
+
+Sullivan &
+Cromwell LLP
+
+125 Broad Street New York,
+
+New York 10004-2498
+
+Miscellaneous
+
+12. Notwithstanding any provision of this Order to the contrary, the Reserve Bank may, in its sole discretion, grant written extensions of time
+to DFS and Discover Network to comply with any provision of this Order. DFS and Discover Network shall submit a written request to the Reserve Bank for any such extensions of time.
+
+13. The provisions of this Order shall be binding on DFS and Discover Network and all their institution-affiliated parties, as defined in
+sections 3(u) and 8(b)(4) of the FDI Act (12 U.S.C. §§ 1813(u) and 1818(b)(4)), in their capacities as such, and their successors and assigns.
+
+14. Each provision of this Order shall remain effective and enforceable until stayed, modified, terminated, or suspended in writing by the
+Reserve Bank.
+
+15. Except as otherwise provided in this paragraph, the Board of Governors hereby agrees not to initiate any further
+enforcement actions, including for civil money penalties, against DFS and Discover Network and its affiliates, successors, and assigns, with respect to the conduct described in the WHEREAS clauses of this Order to the extent known by the Board of
+Governors as of the effective date of this Order. This release and discharge shall not preclude or affect: (i) any right of the Board of Governors to determine and ensure compliance with this Order; (ii) any proceedings brought by the
+Board of Governors to enforce the terms of this Order; (iii) any proceedings brought by the Board of Governors against individuals who are or were institution-affiliated parties of the Firm and its affiliates, successors, and assigns; or
+(iv) any right of the Board of Governors to bring any additional sanctions for failure to implement the remediation required by this Order.
+
+10
+
+16. Except as provided in paragraph 15, the provisions of this Order shall not bar, estop,
+or otherwise prevent the Board of Governors, the Reserve Bank, or any other federal or state agency from taking any other action affecting DFS and Discover Network or any of its current or former institution-affiliated parties and their successors
+and assigns.
+
+17. Nothing in this Order, expressed or implied, shall give to any person or entity, other than the parties hereto and their
+successors hereunder, any legal or equitable right, remedy, or claim under this Order.
+
+11
+
+By order of the Board of Governors of the Federal Reserve System effective this 18th day of
+April, 2025.
+
+[TABLE]
+DISCOVER FINANCIAL SERVICES
+ Riverwood, Illinois |  |  |  | BOARD OF GOVERNORS OF THE
+ FEDERAL RESERVE SYSTEM
+By: |  | /s/ J. Michael Shepherd |  |  |  | By: |  | /s/ Ann E. Misback
+ |  | J. Michael Shepherd Interim Chief Executive
+Officer and President |  |  |  |  |  | Ann E. Misback Secretary of the
+Board
+[/TABLE]
+
+[TABLE]
+DFS SERVICES LLC Riverwood,
+Illinois
+By |  | /s/ Jason Hanson
+ |  | Jason Hanson President, Payment
+Services
+[/TABLE]
+
+12

@@ -1,0 +1,194 @@
+false 0001393612 0001393612 2024-07-17 2024-07-17
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): July 17, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01 | Entry into a Material Definitive Agreement.
+
+On November 29, 2023, Discover Financial Services and Discover Bank (collectively, “Discover”) announced that Discover’s Board of Directors (the “Board”) authorized Discover’s management to stop accepting new applications for private student loans from February 1, 2024, explore the sale of Discover’s private student loan portfolio and pursue the transfer of servicing of such private student loans to a third-party provider as Discover pursued strategic alternatives for its private student loan portfolio. On January 18, 2024, Discover announced that it had signed an agreement with Nelnet Servicing, LLC (“Nelnet”) for Nelnet to become the servicer of Discover’s private student loan portfolio. On February 1, 2024, Discover stopped accepting new applications for private student loans.
+
+On July 17, 2024, Discover Bank (“Discover Bank”) entered into a Purchase Agreement (the “Agreement”) with Santiago Holdings, LP, an Ontario limited partnership and an affiliate of each of Carlyle and KKR (“Santiago Holdings”), pursuant to which Discover Bank agreed to sell its private student loan portfolio to Santiago Holdings (the “Transaction”), with Firstmark Services, a division of Nelnet Inc. (“Firstmark”), assuming responsibility for servicing the portfolio upon the sale. As of June 30, 2024, the principal balance of the private student loan portfolio was approximately $10.1 billion (the “Principal Balance”). The purchase price payable to Discover Bank in the Transaction is at a premium to the Principal Balance of the private student loan portfolio and, based on certain assumptions, is expected to be up to approximately $10.8 billion. The Transaction is expected to be completed in multiple closings by the end of 2024, subject to the satisfaction or waiver of customary closing conditions.
+
+On July 17, 2024, Discover Bank, Santiago Holdings and Firstmark entered into a Master Servicing Agreement whereby Firstmark will become, at each closing, the servicer of the private student loans that are transferred to Santiago Holdings at such closing.
+
+At the initial closing and each subsequent closing, the Agreement is subject to satisfaction or waiver of customary closing conditions, including (i) the accuracy of the representations and warranties of the parties set forth in the Agreement (subject to customary materiality qualifiers), (ii) material compliance with the covenants of the parties set forth in the Agreement and (iii) no legal restraints or actions by a governmental entity enjoining, prohibiting, making illegal or preventing such closing.
+
+Prior to the initial closing or any subsequent closing, the Agreement may be terminated, subject to certain exceptions, (i) by the mutual written consent of the parties thereto or (ii) by either party thereto (a) if the initial closing has not occurred by January 17, 2025 or the final closing has not occurred by July 17, 2025, (b) for certain material breaches by the other such party of its representations and warranties or covenants in the Agreement, subject to a cure period, or (c) if a governmental entity enjoins, prohibits, makes illegal or prevents such closing.
+
+The Agreement also contains customary representations and warranties, indemnification and covenants and agreements for a transaction of this type.
+
+The representations, warranties and covenants of each party set forth in the Agreement have been made only for purposes of, and were and are solely for the benefit of the parties to, the Agreement; may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Agreement instead of establishing these matters as facts; and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Accordingly, the representations and warranties may not describe the actual state of affairs at the date they were made or at any other time, and investors should not rely on them as statements of fact. In addition, such representations and warranties were made only as of the date of the Agreement or such other date as is specified in the Agreement. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Agreement, which subsequent information may or may not be fully reflected in Discover’s public disclosures. Accordingly, the Agreement is included with this filing only to provide investors with information regarding the terms of the Agreement, and not to provide investors with any other factual information regarding Discover, its affiliates or its private student loan portfolio. The Agreement should not be read alone, but should instead be read in conjunction with the other information regarding Discover, its affiliates or its private student loan portfolio, as well as in the Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and other filings that Discover makes with the Securities and Exchange Commission.
+
+The foregoing summary description of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference in its entirety.
+
+Item 2.02 | Results of Operations and Financial Condition.
+
+The information set forth in Item 1.01 of this Current Report on Form 8-K with respect to the Principal Balance is incorporated herein by reference.
+
+Item 8.01 | Other Events.
+
+On July 17, 2024, Discover issued a press release announcing the Transaction. A copy of the press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Purchase Agreement, dated July 17, 2024, by and between Discover Bank and Santiago Holdings, LP*
+99.1 |  | Press Release, dated July 17, 2024
+104 |  | Cover Page Interactive Data File (embedded within the Inline XBRL document)
+[/TABLE]
+
+* | Schedules and similar attachments have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted schedule will be furnished supplementally to the SEC upon request; provided, however, that the parties may request confidential treatment pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended, for any document so furnished.
+
+FORWARD-LOOKING STATEMENTS
+
+Forward Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the benefits of the proposed transaction, statements related to the expected timing of the completion of the Transaction, Discover’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the anticipated benefits from the Transaction may not be fully realized or may take longer than anticipated to be realized, if at all, (2) disruption to Discover as a result of the announcement and pendency of the Transaction, (3) the risk that the separation, transfer of servicing or sale of Discover’s private student loan portfolio will be materially delayed or will be more costly or difficult than expected or that Discover will otherwise be unable to successfully separate, transfer servicing of or sell the private student loan portfolio as a result of unexpected factors or events, (4) the risk that a governmental entity may impose conditions that could adversely affect Discover or the expected benefits of the Transaction or prevent the closing of the Transaction, (5) reputational risk and the reaction of Discover’s customers, suppliers, employees or other business partners to the Transaction, (6) the ability to timely complete the Transaction, including due to the failure of a closing condition in the Agreement to be satisfied, or any unexpected delay in closing the Transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the Agreement, (7) the possibility that the Transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events, (8) risks related to management and oversight of the sale and/or transfer of servicing of the private student loan portfolio, (9) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Discover before or after the Transaction, (10) the level and volatility of interest rates, other market fluctuations and other market indices, (11) student loan portfolio amortization and composition and (12) general competitive, economic, political and market conditions and other factors that may affect future results of Discover. Additional factors which could affect future results of Discover can be found under “Risk Factors,” “Business - Competition,” “Business - Supervision and Regulation” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the company’s Annual Report on Form 10-K for the year ended December 31, 2023, which is filed with the SEC and available at the SEC’s internet site (http://www.sec.gov) and subsequent reports on Forms 8-K and 10-Q. Discover disclaims any obligation and does not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: July 17, 2024 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer,
+ |  |  |  |  |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+
+=== EXHIBIT d873146dex991.htm ===
+
+EX-99.1 3 d873146dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER FINANCIAL SERVICES ANNOUNCES AGREEMENT TO SELL PRIVATE STUDENT LOAN PORTFOLIO
+
+Riverwoods, IL, July 17, 2024 – Discover Financial Services (NYSE: DFS) announced today that Discover Bank
+(“Discover”) has entered into an agreement to sell its private student loan portfolio to one or more strategic partnerships comprised of investment vehicles and accounts managed by Carlyle (NASDAQ: CG) and KKR (NYSE: KKR), with Firstmark
+Services, a division of Nelnet (NYSE: NNI), assuming responsibility for servicing the portfolio upon the sale.
+
+As of June 30, 2024, the principal
+balance of the private student loan portfolio was approximately $10.1 billion. The purchase price payable to Discover in the transaction is at a premium to the principal balance of the private student loan portfolio and, based on certain
+assumptions, is expected to be up to approximately $10.8 billion. The transaction is expected to be completed in multiple closings by the end of 2024, subject to the satisfaction or waiver of customary closing conditions.
+
+Wells Fargo served as exclusive financial advisor, and Skadden, Arps, Slate, Meagher & Flom LLP served as legal counsel to Discover Financial
+Services in connection with the transaction.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services.
+Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the Discover ® card, America’s cash rewards pioneer, and offers
+personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network ® comprised of Discover Network, with
+millions of merchants and cash access locations; PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club
+International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company .
+
+Forward Looking Statements
+
+Information in this
+communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the
+benefits of the proposed transaction, statements related to the expected timing of the completion of the transaction, Discover’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking
+statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,”
+“expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of
+Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the anticipated benefits from the transaction may not be fully realized or may take
+longer than anticipated to be realized, if at all, (2) disruption to Discover as a result of the announcement and pendency of the transaction, (3) the risk that the separation, transfer of servicing or sale of Discover’s private
+student loan portfolio will be materially delayed or will be more costly or difficult than expected or that Discover will otherwise be unable to successfully separate, transfer servicing of or sell the private student loan portfolio as a result of
+unexpected factors or events, (4) the risk that a governmental entity may impose conditions that could adversely affect Discover or the expected benefits of the transaction or prevent the closing of the transaction, (5) reputational risk
+and the reaction of Discover’s customers, suppliers, employees or other business partners to the transaction, (6) the ability to timely complete the transaction, including due to the failure of a closing condition in the agreement to be
+satisfied, or any unexpected delay in closing the transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the agreement, (7) the possibility that the transaction may be more expensive
+to complete than anticipated, including as a result of unexpected factors or events, (8) risks related to management and oversight of the sale and/or transfer of servicing of the private student loan portfolio, (9) the outcome of any legal
+or regulatory proceedings that may be currently pending or later instituted against Discover before or after the transaction, (10) the level and volatility of interest rates, other market fluctuations and other market indices, (11) student
+loan portfolio amortization and composition and (12) general competitive, economic, political and market conditions and other factors that may affect future results of Discover. Additional factors which could affect future
+
+results of Discover can be found under “Risk Factors,” “Business—Competition,” “Business—Supervision and Regulation” and “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” in the company’s Annual Report on Form 10-K for the year ended December 31, 2023, which is filed with the SEC and available at the
+SEC’s internet site (http://www.sec.gov) and subsequent reports on Forms 8-K and 10-Q. Discover disclaims any obligation and does not intend to update or revise any
+forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+Investor Contact:
+
+Eric Wasserstrom
+
+Investor Relations
+
+224-405-4555
+
+investorrelations@discover.com
+
+Media Contact:
+
+Matthew Towson
+
+Public Relations
+
+224-405-5649
+
+matthewtowson@discover.com

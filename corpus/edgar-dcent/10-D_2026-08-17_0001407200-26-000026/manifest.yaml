@@ -1,0 +1,33 @@
+doc_id: edgar-dcent/10-D_2026-08-17_0001407200-26-000026
+source: edgar-dcent
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2026-08-17 (period 2026-07-31)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720026000026/dcent10-ddocumentxjuly2026.htm
+retrieved_at: '2026-08-20T02:57:32Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: dcent10-ddocumentxjuly2026.htm
+  role: raw
+  sha256: 7c00071b2291f5ea0adfd4d866acb931bda15d2abd024c173137ca50ec7d405b
+  size: 31650
+  stored: corpus
+- name: exhibit991report-postdefea.htm
+  role: exhibit
+  sha256: a4938c331b8757a700dd2c074ebf86ecdb739c4213fbbbef39f2bc04ccc127ea
+  size: 24887
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cd58ecaf948fffcfe97faabdabf7cae62e03021a3676cdb221bc55d4b0d2d3f0
+  size: 8642
+  stored: corpus
+filed_date: '2026-08-17'
+period_end: '2026-07-31'
+extraction_method: lxml
+meta:
+  accession: 0001407200-26-000026
+  form: 10-D
+  items: ''

@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2026-07-13_0001193125-26-302063
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2026-07-13 (period 2026-07-09)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312526302063/d113070d8k.htm
+retrieved_at: '2026-08-20T02:56:11Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d113070d8k.htm
+  role: raw
+  sha256: 9691043dbd6d81cb055dae73d42561c2bc2ff54e1389e64211b14d6977797460
+  size: 23803
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e3a1607f6dbff6cba282f435f4a6b28401e17f4d4aac115af854e662971e6989
+  size: 4514
+  stored: corpus
+filed_date: '2026-07-13'
+period_end: '2026-07-09'
+extraction_method: lxml
+meta:
+  accession: 0001193125-26-302063
+  form: 8-K
+  items: 8.01,9.01

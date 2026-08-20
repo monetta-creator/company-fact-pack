@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/8-K_2020-04-22_0001393612-20-000018
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-04-22 (period 2020-04-22)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361220000018/a1q20earnings8k.htm
+retrieved_at: '2026-08-20T02:55:41Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a1q20earnings8k.htm
+  role: raw
+  sha256: d513b3cc07ca6c508af5517c97f56268d4de927777536c0b5b2be8343e952cdc
+  size: 59634
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4a6e17bed27e9f4cd36aa93bb51f0ff72eaf34b60923495dc1d396d09383bfe3
+  size: 10872
+  stored: corpus
+filed_date: '2020-04-22'
+period_end: '2020-04-22'
+extraction_method: lxml
+meta:
+  accession: 0001393612-20-000018
+  form: 8-K
+  items: 2.02,8.01,9.01

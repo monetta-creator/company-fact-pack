@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-11-08_0000927628-18-000328
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-11-08 (period 2018-11-08)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000328/a8-kwarrantadjustment11082.htm
+retrieved_at: '2026-08-20T02:54:46Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kwarrantadjustment11082.htm
+  role: raw
+  sha256: 4f940910c0bce3aa15add74263f6f063da6464460cb50881714d94ebc13ae761
+  size: 32154
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 392b4ced981abf30b743febd0757f4f9c44db594c0d36a06eb7ee7adaeb0d7c6
+  size: 3549
+  stored: corpus
+filed_date: '2018-11-08'
+period_end: '2018-11-08'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000328
+  form: 8-K
+  items: '8.01'

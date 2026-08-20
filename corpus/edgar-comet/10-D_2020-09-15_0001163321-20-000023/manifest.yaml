@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2020-09-15_0001163321-20-000023
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2020-09-15 (period 2020-08-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332120000023/form10-daugust2020.htm
+retrieved_at: '2026-08-20T02:57:04Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-daugust2020.htm
+  role: raw
+  sha256: 07e492ff0b19fee0b6441b387f664467d6bce27d4b95d56b13e7cfc1ec0651f4
+  size: 37172
+  stored: corpus
+- name: exhibit9912002-ccaugust2020.htm
+  role: exhibit
+  sha256: 6eb5cb86012bf9b50a75b4a76f91c75c90e1c05d86f33dceeb9adf4fc7a9c9ea
+  size: 226034
+  stored: corpus
+- name: exhibit992nhsaugust2020.htm
+  role: exhibit
+  sha256: 720e089ffa675c5f09942fb5db46a25be7564632899770b07f3781548c658c21
+  size: 734893
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e3b73ca14e351e4ac5239a3a833f9163364cca86f4ebe4a05a6316529c12b06d
+  size: 43631
+  stored: corpus
+filed_date: '2020-09-15'
+period_end: '2020-08-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-20-000023
+  form: 10-D
+  items: ''

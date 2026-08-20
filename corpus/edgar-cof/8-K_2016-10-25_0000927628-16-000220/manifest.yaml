@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2016-10-25_0000927628-16-000220
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-10-25 (period 2016-10-25)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000220/q32016earningsrelease8-k.htm
+retrieved_at: '2026-08-20T02:47:36Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: q32016earningsrelease8-k.htm
+  role: raw
+  sha256: 27f6d5d72ead8b9f61e649a0e09b6aebd31d66b153822914a44db2242858a372
+  size: 29926
+  stored: corpus
+- name: q32016earningsrelease-ex991.htm
+  role: exhibit
+  sha256: b3ceace9a93b9b3844c60494b3c4dba112eb7f6f6454e7b6a39ced893a9dfa86
+  size: 42756
+  stored: corpus
+- name: q32016earningsrelease-ex992.htm
+  role: exhibit
+  sha256: 1b4dec76276b7e41ae1afd2ab91ef797c4867d8578927bb04e245ca85ca34dd2
+  size: 3736628
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 15b0c779f09a7886ca95c8b10f28e64459ed813d73db535aeaf1d7643bb49d5c
+  size: 108001
+  stored: corpus
+filed_date: '2016-10-25'
+period_end: '2016-10-25'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000220
+  form: 8-K
+  items: 2.02,9.01

@@ -1,0 +1,181 @@
+425 1 d893901d425.htm 425 425
+
+Filed by: Discover Financial Services
+
+Pursuant to Rule 425 under the Securities Act of 1933
+
+and deemed filed pursuant to Rule 14a-12
+
+of the Securities Exchange Act of 1934
+
+Subject Company: Discover Financial Services
+
+Commission File No.: 001-33378
+
+UNITED STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 12b-25
+
+NOTIFICATION
+OF LATE FILING
+
+Commission File Number: 001-33378
+
+CUSIP: 254709108
+
+[TABLE]
+(Check One): |  | ☐ Form 10-K 
+ ☐ Form 20-F  ☐ Form 11-K  ☒ Form 10-Q
+ ☐ Form 10-D  ☐ Form N-CEN 
+ ☐ Form N-CSR
+ |  | For Period Ended: September 30, 2024
+ |  | ☐ Transition Report on Form 10-K
+ |  | ☐ Transition Report on Form 20-F
+ |  | ☐ Transition Report on Form 11-K
+ |  | ☐ Transition Report on Form 10-Q
+ |  | For the Transition Period Ended:
+[/TABLE]
+
+If the notification relates to a portion of the filing checked above, identify the Item(s) to which the notification relates:
+
+PART I – REGISTRANT INFORMATION
+
+Discover Financial Services
+
+Full Name of Registrant
+
+N/A
+
+Former Name if Applicable
+
+2500 Lake Cook Road
+
+Address
+of Principal Executive Office (Street and Number)
+
+Riverwoods, Illinois 60015
+
+City, State and Zip Code
+
+PART
+II – RULES 12b-25 (b) and (c)
+
+If the subject report could not be filed without unreasonable effort or
+expense and the registrant seeks relief pursuant to Rule 12b-25(b), the following should be completed. (Check box if appropriate)
+
+[TABLE]
+☐ |  | (a) |  | The reasons described in reasonable detail in Part III of this form could not be eliminated without unreasonable effort or expense;
+ | (b) |  | The subject annual report, semi-annual report, transition report on Form 10-K, Form 20-F, Form 11-K, Form N-CEN or Form N-CSR, or portion thereof, will be filed on or before the fifteenth calendar day following the prescribed due date; or the subject quarterly report or transition
+report on Form 10-Q or subject distribution report on Form 10-D, or portion thereof, will be filed on or before the fifth calendar day following the prescribed due date;
+and
+ | (c) |  | The accountant’s statement or other exhibit required by Rule 12b-25(c) has been attached if applicable.
+[/TABLE]
+
+PART III – NARRATIVE
+
+State below in reasonable detail why Forms 10-K, 20-F, 11-K, 10-Q, 10-D, N-CEN, N-CSR, or the transition
+report portion thereof, could not be filed within the prescribed time period.
+
+Discover Financial Services (the “Company”) has determined
+that it is unable to file, without unreasonable effort or expense, its Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 (the “Form 10-Q”) within the prescribed time period for such report. As previously disclosed, as part of the review of the Company’s historical financial statements by the Staff of the U.S. Securities and
+Exchange Commission (the “Staff”) undertaken in connection with the Staff’s review of the Registration Statement on Form S-4 (the “Registration Statement”) filed by Capital One
+Financial Corporation (“Capital One”) in connection with the Company’s pending merger (the “Merger”) with Capital One (and the preliminary joint proxy statement/prospectus contained therein), the Staff indicated that it
+disagrees with certain aspects of the Company’s accounting approach for the card product misclassification matter. The Company requires additional time to file the Form 10-Q in order to address the
+Staff’s comments, which will likely involve implementation of the Reallocations (as defined in Part IV). The Company does not expect to file the Form 10-Q within the extension period of five calendar days
+permitted under Rule 12b-25 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+
+The Reallocations remain under review by the Company’s accounting staff and its independent registered public accounting firm and, once reported in the
+Form 10-Q, may differ from the description set forth in Part IV. The potential impact of the Reallocations on the Company’s previously filed historical financial statements is still being assessed and the
+Company and its independent registered accounting firm have not made any determinations as of the date of this filing with respect to whether the Reallocations will also involve any potential revisions or restatements of the Company’s
+previously filed historical financial statements. Cumulative historical earnings, capital and the aggregate amount of the counterparty restitution liability are not expected to be affected by the Reallocations.
+
+The Company expects that Capital One will file a pre-effective amendment to the Registration Statement promptly
+following the Company’s filing of the Form 10-Q (and, to the extent applicable, the Company’s filing of any revisions or restatements of the Company’s previously filed historical financial
+statements) reflecting the Reallocations, and that as soon as practicable following the effectiveness of the Registration Statement and the mailing of the definitive joint proxy statement/prospectus contained therein to each company’s
+stockholders, each company will hold its respective special meeting of stockholders for purposes of obtaining the requisite stockholder approval of the Merger.
+
+PART IV
+
+OTHER
+INFORMATION
+
+[TABLE]
+(1) |  |  |  | Name and telephone number of person to contact in regard to this
+notification
+ |  |  |  | John T. Greene |  |  |  | (224) |  |  |  | 405-0900
+ |  |  |  | (Name) |  |  |  | (Area Code) |  |  |  | (Telephone Number)
+(2) |  |  |  | Have all other periodic reports required under Section 13 or 15(d) of the Securities Exchange Act of 1934 or Section 30 of the Investment Company Act of 1940 during the preceding 12 months or for such
+shorter period that the registrant was required to file such report(s) been filed? If the answer is no, identify report(s).  ☒ Yes ☐ No
+(3) |  |  |  | Is it anticipated that any significant change in results of operations from the corresponding period for the last fiscal year will be reflected by the earnings statements to be included in the subject report or
+portion thereof?  ☒ Yes ☐ No
+[/TABLE]
+
+If so, attach an explanation of the anticipated change, both narratively and quantitatively, and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+
+The Company anticipates that, when filed, the Form 10-Q will likely reflect re-allocations (the “Reallocations”) to prior periods of approximately $600 million of the charge to other expense recorded in the
+Company’s Quarterly Report on Form 10-Q for the fiscal quarter ended March 31, 2024 in respect of expected disbursements for counterparty restitution in connection with the card product
+misclassification matter. Because the Reallocations would reverse a charge to other expense recorded for the three months ended March 31, 2024, this would result in an increase in pre-tax income by the same amount in the three months ended
+March 31, 2024 and the nine months ended September 30, 2024.
+
+As noted above, the Reallocations remain under review by the Company’s
+accounting staff and its independent registered public accounting firm and may differ once reported in the Form 10-Q. The potential impact of the Reallocations on the Company’s previously filed historical
+financial statements is still being assessed and the Company and its independent registered accounting firm have not made any determinations as of the date of this filing with respect to whether the Reallocations will also involve any potential
+revisions or restatements of the Company’s previously filed historical financial statements. The Company does not expect any revisions to its previously filed historical financial statements other than to properly reflect the Reallocations.
+
+Cautionary Note Regarding Forward Looking Statements:
+
+This Form 12b-25 contains “forward-looking statements” within the meaning of the Private Securities
+Litigation Reform Act of 1995. These forward-looking statements involve risks and uncertainties, and actual results could vary materially from these forward-looking statements. Factors that may cause future events or results to differ materially
+from management’s current expectations include the risk that the filing of the Form 10-Q and/or revisions or restatements to the Company’s previously filed historical financial statements and/or the
+declaration of effectiveness of the Registration Statement will take longer than expected or that the amount of the Reallocations will differ based on further review by the Company’s accounting staff and its independent registered accounting
+firm. The Company disclaims any obligation to update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise, except as required by law.
+
+Important Information About the Merger and Where to Find It
+
+Capital One has filed the Registration Statement with the SEC to register the shares of Capital One’s common stock that will be issued to the
+Company’s stockholders in connection with the Merger. The Registration Statement includes a preliminary joint proxy statement of Capital One and the Company that also constitutes a preliminary prospectus of Capital One. The definitive joint
+proxy statement/prospectus will be sent to the stockholders of each of the Company and Capital One in connection with the Merger. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT AND JOINT PROXY STATEMENT/PROSPECTUS WHEN
+THEY BECOME AVAILABLE (AND ANY OTHER DOCUMENTS FILED WITH THE U.S. SECURITIES AND EXCHANGE COMMISSION (THE “SEC”) IN CONNECTION WITH THE MERGER OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS
+WILL CONTAIN IMPORTANT INFORMATION REGARDING THE MERGER AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by the Company or Capital One through the website maintained
+by the SEC at http://www.sec.gov or by contacting the investor relations department of the Company or Capital One at:
+
+[TABLE]
+Discover Financial Services |  | Capital One Financial Corporation |  |
+2500 Lake Cook Road |  | 1680 Capital One Drive |  |
+Riverwoods, IL 60015 |  | McLean, VA 22102 |  |
+Attention: Investor Relations |  | Attention: Investor Relations |  |
+investorrelations@discover.com |  | investorrelations@capitalone.com |  |
+(224) 405-4555 |  | (703) 720-1000 |  |
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of the Company and Capital One are urged to
+read carefully the entire Registration Statement and joint proxy statement/prospectus, including any amendments thereto, because they contain important information about the Merger. Free copies of these documents may be obtained as described above.
+
+Participants in Solicitation
+
+The Company,
+Capital One and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of each of the Company and Capital One in connection with the Merger. Information regarding the
+directors and executive officers of the Company and Capital One and other persons who may be deemed participants in the solicitation of the stockholders of the Company or of Capital One in connection with the Merger will be included in the joint
+proxy statement/prospectus related to the Merger, which will be filed by Capital One with the SEC. Information about the directors and executive officers of the Company and their ownership of the Company common stock can also be found in the
+Company’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 15, 2024, as supplemented by the Company’s proxy statement supplement, as filed with the SEC on April 2, 2024,
+and other documents subsequently filed by the Company with the SEC. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s definitive proxy
+statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 20, 2024, and other documents subsequently filed by Capital One with the SEC. Additional information regarding the interests of such participants
+will be included in the joint proxy statement/prospectus and other relevant documents regarding the Merger filed with the SEC when they become available.
+
+Discover Financial Services.
+
+(Name of Registrant as Specified in Charter)
+
+has caused this notification to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: November 13, 2024 |  |  |  | By: |  | /s/ John T. Greene
+ |  |  |  |  |  | Executive Vice President, Chief Financial
+Officer
+[/TABLE]

@@ -1,0 +1,214 @@
+8-K 1 d920729d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 OR 15(d)
+
+of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) May 18, 2025
+
+[TABLE]
+Commission File Number:
+ 333-141703-02 |  | Commission File Number:
+ 000-23108 |  | Commission File Number:
+ 333-205455
+Central Index Key Number:
+ 0001407200 |  | Central Index Key Number:
+ 0000894329 |  | Central Index Key Number:
+ 0001645731
+DISCOVER CARD
+ EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING LLC
+(Exact name of issuing entity in respect
+ of the notes as specified in charter) |  | (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as specified in charter)
+Delaware |  | Delaware |  | Delaware
+(State or jurisdiction
+ of incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction
+ of incorporation or organization
+ of the issuing entity) |  | (State or jurisdiction
+ of incorporation or organization
+ of the depositor)
+c/o Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | c/o Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713
+(Address of principal executive offices of the
+ issuing entity) |  | (Address of principal executive offices of the
+ issuing entity) |  | (Address of principal executive offices of the
+ depositor)
+[/TABLE]
+
+47-4047337
+
+(IRS Employer Identification No. of the depositor)
+
+Central Index Key Number of Sponsor:
+
+0000047288
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+(Exact name of the sponsor as specified in its charter)
+
+[TABLE]
+National banking association |  | 1680 Capital One Drive
+ McLean, Virginia |  | 22102
+(State or jurisdiction of incorporation or organization of the sponsor) |  | (Address of Principal Executive Office) |  | (Zip Code)
+[/TABLE]
+
+(703) 720-3148
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report:
+
+N/A
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17
+CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading
+ Symbol(s) |  | Name of each exchange
+ on which registered
+N/A |  | N/A |  | N/A
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+
+Section 6 – Asset Backed Securities
+
+Item 6.02 – Change of Servicer.
+
+As discussed
+below under “Item 8.01. Other Events,” upon the merger of Discover Bank (“Discover Bank”), a Delaware-chartered banking corporation, with and into Capital One, National Association (“CONA”), a national banking
+association, with CONA as the surviving entity, CONA assumed all rights, duties and obligations of Discover Bank in any capacity relating to the Discover Card Master Trust I (“DCMT”) and the Discover Card Execution Note Trust
+(“DCENT”), including responsibility for originating credit card accounts and servicing the credit card receivables held by DCMT.
+
+CONA is a
+wholly-owned direct subsidiary of Capital One Financial Corporation (the “Corporation”), a bank holding company incorporated in Delaware on July 21, 1994. CONA’s principal executive offices are located at 1680 Capital One Drive,
+McLean, Virginia, 22102. CONA is a member of the Federal Reserve System, and its deposits are insured up to the applicable limits by the Federal Deposit Insurance Corporation.
+
+The Corporation is a financial holding company with assets totaling approximately $491.8 billion as of March 31, 2025. As of March 31, 2025,
+the Corporation’s principal operating subsidiary was CONA. The Corporation and its subsidiaries, including CONA, offer a broad array of financial products and services to consumers, small businesses and commercial clients through digital
+channels, branch locations, cafés and other distribution channels.
+
+CONA has been servicing credit card receivables, including those in its Capital
+One Master Trust credit card portfolio, since before November 22, 1994. In addition, CONA, as successor by merger to Discover Bank, has acquired the servicing systems of, and has onboarded personnel from, Discover Bank and its affiliates and
+has succeeded to Discover Bank and its affiliates’ relationships with third party service providers that have performed certain servicing functions on their behalf. Discover Bank (including its predecessors) had been servicing credit card
+accounts since 1985 and had acted as master servicer for DCMT and had been servicing the credit card receivables in DCMT since 1993.
+
+The duties of the
+master servicer include: aggregating collections from the servicers and distributing those collections to the various DCMT investor accounts; directing the investment of funds on deposit in DCMT investor accounts and DCMT credit enhancement accounts
+in permitted investments; receiving the monthly servicing fee and allocating it among the servicers; preparing reports for investors in DCMT, including reports with respect to the collateral certificate; and making any filings on behalf of DCMT with
+the Securities and Exchange Commission (“SEC”) or other governmental agencies.
+
+Pursuant to a pooling agreement, the servicer is responsible for
+servicing, collecting, enforcing and administering the receivables in accordance with its customary and usual procedures for servicing receivables comparable to the receivables and the lending guidelines.
+
+Servicing activities to be performed by the servicer include: collecting payments, executing and delivering
+any and all instruments of satisfaction or cancellation or of partial or full release or discharge with respect to the receivables; if the accounts become delinquent, utilizing non-judicial collection measures
+and collection lawsuits, if needed; removing charged-off accounts; confirming that accounts added to or removed from DCMT were not selected on the basis of selection criteria believed by the servicer to be
+materially adverse to the interests of the holders of any class of any outstanding series of certificates, including DCENT as holder of the collateral certificate; and in connection with additions or removals of accounts, calculating a reasonable
+estimate of the amount of finance charge receivables billed in the accounts.
+
+The servicer’s rights and obligations with respect to servicing the
+credit card receivables held by DCMT are described in the prospectus filed with the SEC on January 10, 2025, which is included as part of Amendment No. 1 to the Registration Statement on Form SF-3 relating to the notes of DCENT (File Nos. 333-283276, 333-283276-01, and 333-283276-02).
+
+Section 8 – Other Events.
+
+Item | 8.01. Other Events.
+
+Effective May 18, 2025 (the “Closing Date”), the Corporation completed its previously announced acquisition of Discover Financial Services
+(“DFS”), pursuant to an Agreement and Plan of Merger, dated as of February 19, 2024 (the “Merger Agreement”), by and among Capital One, DFS and Vega Merger Sub, Inc., a direct, wholly-owned subsidiary of the Corporation
+(“Merger Sub”).
+
+Pursuant to the Merger Agreement, (i) on the Closing Date, Merger Sub merged with and into DFS, with DFS continuing as the
+surviving corporation (the “Merger”), (ii) immediately following the Merger, DFS merged with and into the Corporation, with the Corporation as the surviving entity in the second-step merger (the “Second Step Merger”) and
+(iii) immediately following the Second Step Merger, Discover Bank, a wholly-owned subsidiary of DFS, merged with and into CONA, a wholly-owned subsidiary of the Corporation, with CONA continuing as the surviving bank (the “Bank
+Merger”).
+
+By virtue of the Bank Merger, all property and rights and all of the liabilities and obligations of Discover Bank as they existed at the
+time of the Bank Merger became the property and rights and liabilities and obligations of CONA, which also became the successor to Discover Bank in each of its capacities in relation to Discover Funding LLC, as transferor, DCMT and DCENT, including
+as sponsor, master servicer, servicer and asset originator.
+
+In connection with the Bank Merger, succession and related events described above, the
+documents listed below under “Item 9.01(d). Exhibits” were executed on May 18, 2025.
+
+Section 9 – Financial Statements and Exhibits.
+
+Item 9.01 (d). Exhibits.
+
+Exhibit Index
+
+Each of the following are filed as an Exhibit to this Report.
+
+[TABLE]
+Exhibit Number |  | Description
+Exhibit 3.1.1 |  | Amended and Restated Limited Liability Company Agreement of Discover Funding LLC, dated as of May
+18, 2025, between Capital One, National Association and the Special Member of Discover Funding LLC (identified therein).
+Exhibit 4.1.1 |  | Omnibus Securitization Agreements Assignment and Assumption Agreement, dated as of May 18, 2025, among Discover Bank, Discover Funding LLC and Capital One, National Association.
+Exhibit 4.1.2 |  | Amended and Restated Receivables Sale and Contribution Agreement, dated as of May 18, 2025, between Capital One, National Association and Discover Funding LLC.
+Exhibit 4.1.3 |  | Fourth Amended and Restated Pooling and Servicing Agreement, dated as of May
+18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association.
+Exhibit 4.1.4 |  | Second Amended and Restated Series 2007-CC Supplement, dated as of May
+18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association.
+Exhibit 4.1.5 |  | Second Amended and Restated Indenture, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association.
+Exhibit 4.1.6 |  | Third Amended and Restated Indenture Supplement, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association.
+Exhibit 4.1.7 |  | Omnibus Amendment to Specified Terms Documents, dated as of May 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association.
+Exhibit 4.1.8 |  | Omnibus Amendment to Specified Risk Retention Agreements, dated as of May 18, 2025, between Discover Card Execution Note Trust and Capital One, National Association.
+Exhibit 4.1.9 |  | Second Amended and Restated Trust Agreement, dated as of May 18, 2025, between Discover Funding LLC and Wilmington Trust Company.
+Exhibit 4.1.10 |  | Amended and Restated Asset Representations Review Agreement, dated as of May 18, 2025, among Discover Card Execution Note Trust, Capital One, National Association and FTI Consulting, Inc.
+Exhibit 4.1.11 |  | Amended and Restated Securities Account Control Agreement, dated as of May
+18, 2025, among Discover Funding LLC, Capital One, National Association, U.S. Bank Trust Company, National Association, and U.S. Bank National Association.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+DISCOVER FUNDING LLC
+Acting solely in its capacity as depositor of Discover Card Master Trust I and Discover Card Execution Note Trust
+By: |  | /s/ Eric Bauder
+ |  | Name: Eric Bauder
+ |  | Title: Assistant Vice President
+[/TABLE]
+
+May 20, 2025

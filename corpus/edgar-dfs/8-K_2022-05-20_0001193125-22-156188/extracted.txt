@@ -1,0 +1,110 @@
+false 0001393612 0001393612 2022-05-19 2022-05-19
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 19, 2022
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07. | Submission of Matter to a Vote of Security Holders.
+
+Discover Financial Services (the “Company”) held its 2022 Annual Meeting of Shareholders (the “Annual Meeting”) on May 19, 2022.
+
+At the Annual Meeting, the Company’s shareholders voted on three proposals, including the election of directors, and cast their votes as described below.
+
+Proposal 1: Election of Directors. Shareholders elected each of the persons named below as a director for a term expiring at the Company’s next annual meeting of shareholders, or until his or her successor has been duly elected and qualified, as follows:
+
+[TABLE]
+Nominees |  | Votes FOR |  |  | Votes AGAINST |  |  | Votes ABSTAIN |  |  | Broker Non- Votes |
+Jeffrey S. Aronin |  |  | 216,187,278 |  |  |  | 12,027,622 |  |  |  | 182,813 |  |  |  | 24,326,417 |
+Mary K. Bush |  |  | 206,873,342 |  |  |  | 21,370,736 |  |  |  | 153,635 |  |  |  | 24,326,417 |
+Gregory C. Case |  |  | 205,093,859 |  |  |  | 23,123,430 |  |  |  | 180,423 |  |  |  | 24,326,417 |
+Candace H. Duncan |  |  | 224,965,320 |  |  |  | 3,279,526 |  |  |  | 152,867 |  |  |  | 24,326,417 |
+Joseph F. Eazor |  |  | 226,440,938 |  |  |  | 1,771,474 |  |  |  | 185,301 |  |  |  | 24,326,417 |
+Cynthia A. Glassman |  |  | 216,959,182 |  |  |  | 11,279,227 |  |  |  | 159,305 |  |  |  | 24,326,417 |
+Roger C. Hochschild |  |  | 223,920,142 |  |  |  | 4,315,935 |  |  |  | 161,637 |  |  |  | 24,326,417 |
+Thomas G. Maheras |  |  | 211,843,397 |  |  |  | 16,371,818 |  |  |  | 182,498 |  |  |  | 24,326,417 |
+Michael H. Moskow |  |  | 221,092,659 |  |  |  | 7,122,103 |  |  |  | 182,952 |  |  |  | 24,326,417 |
+David L. Rawlinson II |  |  | 227,099,970 |  |  |  | 1,118,759 |  |  |  | 178,983 |  |  |  | 24,326,417 |
+Mark A. Thierer |  |  | 224,536,525 |  |  |  | 3,677,982 |  |  |  | 183,206 |  |  |  | 24,326,417 |
+Jennifer L. Wong |  |  | 226,697,390 |  |  |  | 1,470,213 |  |  |  | 230,109 |  |  |  | 24,326,417 |
+[/TABLE]
+
+Proposal 2: Advisory Vote to Approve Named Executive Officer Compensation. The Company’s shareholders cast their votes for this advisory proposal, as follows:
+
+[TABLE]
+Votes FOR |  | Votes AGAINST |  | Votes ABSTAIN |  | Broker Non-Votes
+217,186,608 |  | 10,693,552 |  | 517,553 |  | 24,326,417
+[/TABLE]
+
+Proposal 3: Ratification of Appointment of Deloitte & Touche LLP as Independent Registered Public Accounting Firm. The Company’s shareholders cast their votes for this proposal, as follows:
+
+[TABLE]
+Votes FOR |  | Votes AGAINST |  | Votes ABSTAIN |  | Broker Non-Votes
+248,354,190 |  | 4,128,745 |  | 241,195 |  | 0
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated May 20, 2022 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  | Title: |  | Vice President, Secretary and Deputy General Counsel
+[/TABLE]

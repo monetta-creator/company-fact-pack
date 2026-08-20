@@ -1,0 +1,1 @@
+FDIC sod for cona (cert 4297): 14748 rows. Machine data; see metrics layer.

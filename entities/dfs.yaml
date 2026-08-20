@@ -1,0 +1,17 @@
+id: dfs
+name: Discover Financial Services
+type: holding_co
+status: active
+aliases:
+- Discover
+- DFS
+identifiers:
+  cik: 0001393612
+  ticker: DFS
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: edgar-dfs/xbrl_companyfacts
+  locator: null

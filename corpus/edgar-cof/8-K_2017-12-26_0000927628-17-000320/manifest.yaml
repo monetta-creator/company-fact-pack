@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-12-26_0000927628-17-000320
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-12-26 (period 2017-12-24)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000320/a8-kdateddecember262017.htm
+retrieved_at: '2026-08-20T02:54:55Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdateddecember262017.htm
+  role: raw
+  sha256: 10a9a2401c19501bc2dfc8b7e37703a5d7c5f0c53b829953baabbed4bf2b35f9
+  size: 36435
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 3e45bc596d18b5b0bbbd3392d55d534715a91f708d6dac987a757a41daaca176
+  size: 6173
+  stored: corpus
+filed_date: '2017-12-26'
+period_end: '2017-12-24'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000320
+  form: 8-K
+  items: '8.01'

@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-07-30_0000927628-18-000283
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-07-30 (period 2018-07-26)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000283/a8-kdividendsjuly262018.htm
+retrieved_at: '2026-08-20T02:54:48Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsjuly262018.htm
+  role: raw
+  sha256: 4fbce5a6565249f05ebf71acacc5152ccb4c37d7bd9325d62e4e33376559309d
+  size: 32814
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 291ba1381b65c66233106d54c560261154ae804cf33893290f6827f861ace8d1
+  size: 4214
+  stored: corpus
+filed_date: '2018-07-30'
+period_end: '2018-07-26'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000283
+  form: 8-K
+  items: '8.01'

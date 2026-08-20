@@ -1,0 +1,1383 @@
+[
+ {
+  "absolute_url": "/opinion/9491783/ehrmantrout-v-ehrmantrout/",
+  "attorney": "",
+  "caseName": "Ehrmantrout v. Ehrmantrout",
+  "caseNameFull": "",
+  "citation": [
+   "2024 Ohio 1328"
+  ],
+  "citeCount": 0,
+  "cluster_id": 9491783,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2024-04-05",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "2023 AP 03 0021",
+  "docket_id": 68416877,
+  "judge": "Hoffman",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-07-15T18:06:31.906998Z",
+   "date_created": "2024-04-09T13:06:50.892435Z",
+   "score": {
+    "bm25": 47.973297
+   }
+  },
+  "neutralCite": "2024 Ohio 1328",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 8104,
+    "cites": [
+     2693702,
+     2701909,
+     2705036,
+     2708014,
+     2747380,
+     3707636,
+     3765206,
+     3777015,
+     4201319,
+     4395729,
+     4400277,
+     4660389,
+     4924215,
+     6757504,
+     6758010,
+     6762419,
+     9399061,
+     9882918
+    ],
+    "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/5/2024/2024-Ohio-1328.pdf",
+    "id": 9958396,
+    "joined_by_ids": [],
+    "local_path": "pdf/2024/04/05/ehrmantrout_v._ehrmantrout_1.pdf",
+    "meta": {
+     "timestamp": "2025-12-05T09:18:40.102091Z",
+     "date_created": "2024-04-09T13:06:50.919243Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "37d0ccd5a6892dd19defaa7af671b849d021711b",
+    "snippet": "[Cite as Ehrmantrout v. Ehrmantrout, 2024-Ohio-1328.]\n\n\n                                     COURT OF APPEALS\n                                TUSCARAWAS COUNTY, OHIO\n                                 FIFTH APPELLATE DISTRICT\n\n\n BRIAN EHRMANTROUT                                      JUDGES:\n                                                        Hon. William B. Hoffman, P.J.\n        Plaintiff-Appellee                              Hon. Craig R. Baldwin, J.\n                                          ",
+    "type": "combined-opinion"
+   },
+   {
+    "author_id": 8104,
+    "cites": [
+     2693702,
+     2705036,
+     2708014,
+     2747380,
+     3707636,
+     4201319,
+     4395729,
+     4400277,
+     4660389,
+     4924215,
+     6757504,
+     6758010,
+     6762419,
+     9882918
+    ],
+    "download_url": "https://www.supremecourt.ohio.gov/rod/docs/pdf/5/2024/2024-Ohio-1328.pdf",
+    "id": 9958276,
+    "joined_by_ids": [],
+    "local_path": "pdf/2024/04/05/ehrmantrout_v._ehrmantrout.pdf",
+    "meta": {
+     "timestamp": "2026-05-14T06:19:33.925883Z",
+     "date_created": "2024-04-08T18:07:00.302603Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "2fb08ce338801a57c41f1d4539470cd8d91a6eb0",
+    "snippet": "[Cite as Ehrmantrout v. Ehrmantrout, 2024-Ohio-1328.]\n\n\n                                     COURT OF APPEALS\n                                TUSCARAWAS COUNTY, OHIO\n                                 FIFTH APPELLATE DISTRICT\n\n\n BRIAN EHRMANTROUT                                      JUDGES:\n                                                        Hon. William B. Hoffman, P.J.\n        Plaintiff-Appellee                              Hon. Craig R. Baldwin, J.\n                                          ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9958396,
+   9958276
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": "Allocation of Marital Debt - Assessment of Costs - Finding of Financial Misconduct"
+ },
+ {
+  "absolute_url": "/opinion/4600037/cassaundra-dawn-nichols-v-state/",
+  "attorney": "",
+  "caseName": "Cassaundra Dawn Nichols v. State",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4600037,
+  "court": "Texas Court of Appeals, 1st District (Houston)",
+  "court_citation_string": "Tex. App.-Houston [1st Dist.]",
+  "court_id": "txctapp1",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2019-03-14",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "01-18-00072-CR",
+  "docket_id": 14715969,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2026-02-24T12:13:11.276111Z",
+   "date_created": "2019-03-15T08:35:21.576171Z",
+   "score": {
+    "bm25": 38.623333
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     110138,
+     1404060,
+     1440936,
+     1746084,
+     2274260,
+     2280145,
+     2362840,
+     2369290,
+     2402342
+    ],
+    "download_url": "http://www.search.txcourts.gov/RetrieveDocument.aspx?DocId=38064&Index=%5c%5coca%2dpsql12%2ecourts%2estate%2etx%2eus%5cTamesIndexes%5ccoa01%5cOpinion",
+    "id": 4377290,
+    "joined_by_ids": [],
+    "local_path": "pdf/2019/03/14/cassaundra_dawn_nichols_v._state.pdf",
+    "meta": {
+     "timestamp": "2026-02-24T12:13:11.267135Z",
+     "date_created": "2019-03-15T08:35:21.580851Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "d14aa1e4b3efacabd45ede2c4dc910395db6d067",
+    "snippet": "Opinion issued March 14, 2019\n\n\n\n\n                                      In The\n\n                               Court of Appeals\n                                      For The\n\n                          First District of Texas\n                             \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n                               NO. 01-18-00072-CR\n                            \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n                CASSAUNDRA DAWN NICHOLS, Appellant\n                                         V.\n                       THE STATE OF TEXAS, Appel",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4377290
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/1040183/united-states-v-ricky-mariano/",
+  "attorney": "Daniel L. Gerdts, argued, Golden Valley, MN (Ricky W. Mariano, on the brief), for Appellant., Laura M. Provinzino, AUSA, argued, Minneapolis, MN (United States of America, on the brief), for Appellee.",
+  "caseName": "United States v. Ricky Mariano",
+  "caseNameFull": "UNITED STATES of America, Plaintiff-Appellee, v. Ricky W. MARIANO, Defendant-Appellant",
+  "citation": [
+   "729 F.3d 874",
+   "2013 WL 4779611",
+   "2013 U.S. App. LEXIS 18684"
+  ],
+  "citeCount": 23,
+  "cluster_id": 1040183,
+  "court": "Court of Appeals for the Eighth Circuit",
+  "court_citation_string": "8th Cir.",
+  "court_id": "ca8",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-09-09",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "12-2874",
+  "docket_id": 917923,
+  "judge": "Wollman, Colloton, Holmes",
+  "lexisCite": "2013 U.S. App. LEXIS 18684",
+  "meta": {
+   "timestamp": "2024-06-21T01:25:11.943334Z",
+   "date_created": "2014-10-30T13:07:59.851229Z",
+   "score": {
+    "bm25": 37.15531
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     470,
+     104914,
+     105978,
+     112848,
+     147958,
+     147976,
+     150065,
+     202016,
+     235740,
+     273994,
+     464738,
+     562106,
+     612338,
+     664702,
+     742614,
+     771356,
+     789368,
+     1267973
+    ],
+    "download_url": "http://media.ca8.uscourts.gov/opndir/13/09/122874P.pdf",
+    "id": 1040183,
+    "joined_by_ids": [],
+    "local_path": "pdf/2013/09/09/united_states_v._ricky_mariano.pdf",
+    "meta": {
+     "timestamp": "2025-10-24T00:55:04.566931Z",
+     "date_created": "2013-09-09T15:31:07.853979Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "abbfddda12927700e52ef81ce4d7d58bc3fc8510",
+    "snippet": "\n\n\n \n   *877\n   \n  COLLOTON, Circuit Judge.\n \n\n  A jury found Ricky W. Mariano guilty of two counts of theft of mail matter, in violation of 18 U.S.C. \u00a7 1708, two counts of destruction of letter boxes, in violation of 18 U.S.C. \u00a7 1705, one count of bank fraud conspiracy, in violation of 18 U.S.C. \u00a7\u00a7 1344 and 1349, one count",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   1040183
+  ],
+  "source": "CU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/10612900/cembell-industries-inc-the-gray-insurance-company-v-kevin-smith/",
+  "attorney": "",
+  "caseName": "Cembell Industries, Inc. & the Gray Insurance Company v. Kevin Smith",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 10612900,
+  "court": "Louisiana Court of Appeal",
+  "court_citation_string": "La. Ct. App.",
+  "court_id": "lactapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2025-02-11",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "2024-CA-0348",
+  "docket_id": 70575457,
+  "judge": "Judge Joy Cossich Lobrano; Judge Rosemary Ledet; Judge Sandra Cabrina Jenkins",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-06-18T17:12:30.690279Z",
+   "date_created": "2025-06-18T17:12:10.443587Z",
+   "score": {
+    "bm25": 35.461533
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     1103357,
+     1134861,
+     1565123,
+     1571807,
+     1656374,
+     1667007,
+     1668775,
+     1692095,
+     1752308,
+     1763990,
+     1860122,
+     1895857,
+     1957041,
+     2494701,
+     4802386,
+     4811809,
+     4812916,
+     4822612,
+     4826947,
+     4829837,
+     4862352,
+     4876899,
+     7610081,
+     7747839,
+     7760751,
+     7768977
+    ],
+    "download_url": "https://www.la4th.org/opinion/2024/4935277_1.pdf",
+    "id": 11079488,
+    "joined_by_ids": [],
+    "local_path": "pdf/2025/02/11/cembell_industries_inc.__the_gray_insurance_company_v._kevin_smith.pdf",
+    "meta": {
+     "timestamp": "2025-10-24T04:10:40.418601Z",
+     "date_created": "2025-06-18T17:12:10.446427Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "3efd23bdd1c04c81927953e6f7dca659fcb5b0c6",
+    "snippet": "CEMBELL INDUSTRIES, INC.                *        NO. 2024-CA-0348\n& THE GRAY INSURANCE\nCOMPANY                                 *\n                                                 COURT OF APPEAL\nVERSUS                                  *\n                                                 FOURTH CIRCUIT\nKEVIN SMITH                             *\n                                                 STATE OF LOUISIANA\n                                   *******\n\n\n\n                              APPEAL FROM\n  ",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   11079488
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7477188/state-v-reeger/",
+  "attorney": "Attorney General Roy Cooper, by Assistant Attorney General Hugh A. Harris, for the State., Jarvis John Edgerton, IV, for defendant-appellant.",
+  "caseName": "State v. Reeger",
+  "caseNameFull": "State of North Carolina v. Sara Ann Reeger",
+  "citation": [
+   "795 S.E.2d 434",
+   "2016 N.C. App. LEXIS 1335",
+   "2016 WL 7984222"
+  ],
+  "citeCount": 0,
+  "cluster_id": 7477188,
+  "court": "Court of Appeals of North Carolina",
+  "court_citation_string": "N.C. Ct. App.",
+  "court_id": "ncctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2016-12-30",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No. COA16-342",
+  "docket_id": 64478143,
+  "judge": "Bryant",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T14:19:15.373153Z",
+   "date_created": "2022-07-29T01:36:52.925500Z",
+   "score": {
+    "bm25": 30.509756
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7398919,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T12:05:13.221928Z",
+     "date_created": "2022-07-29T01:36:52.931726Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nBRYANT, Judge.\nWhere the State solicited the expert opinion testimony of its witness without providing defendant with the expert's opinion and basis for it, the State failed to comply with N.C. Gen. Stat. \u00a7 15A-903(a)(2), and the trial court erred in allowing the opinion testimony. But where defendant fails to establish prejudice as a result of the error, we hold there was no prejudicial error. Where defendant further appeals from a",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7398919
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4566356/state-v-conte/",
+  "attorney": "",
+  "caseName": "State v. Conte",
+  "caseNameFull": "",
+  "citation": [
+   "2018 Ohio 4688"
+  ],
+  "citeCount": 4,
+  "cluster_id": 4566356,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2018-11-21",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "28868",
+  "docket_id": 8220924,
+  "judge": "Teodosio",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T01:21:25.042482Z",
+   "date_created": "2018-11-21T15:32:09.275444Z",
+   "score": {
+    "bm25": 30.509624
+   }
+  },
+  "neutralCite": "2018 Ohio 4688",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     108785,
+     110941
+    ],
+    "download_url": "http://www.supremecourt.ohio.gov/rod/docs/pdf/9/2018/2018-Ohio-4688.pdf",
+    "id": 4343609,
+    "joined_by_ids": [],
+    "local_path": "pdf/2018/11/21/state_v._conte.pdf",
+    "meta": {
+     "timestamp": "2025-10-25T16:46:56.979754Z",
+     "date_created": "2018-11-21T15:32:09.294797Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "81f6af20033fd44ad74fc3d06456422b6f3c6239",
+    "snippet": "[Cite as State v. Conte, 2018-Ohio-4688.]\n\n\nSTATE OF OHIO                     )                   IN THE COURT OF APPEALS\n                                  )ss:                NINTH JUDICIAL DISTRICT\nCOUNTY OF SUMMIT                  )\n\nSTATE OF OHIO                                         C.A. No.      28868\n\n        Appellee\n\n        v.                                            APPEAL FROM JUDGMENT\n                                                      ENTERED IN THE\nRONALD D. CONTE           ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4343609
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": "Restitution, failure to pay, willfully, community control violation, prison, Bearden v. Georgia"
+ },
+ {
+  "absolute_url": "/opinion/10588152/state-of-louisiana-v-joshua-daeshun-donson/",
+  "attorney": "",
+  "caseName": "State of Louisiana v. Joshua Daeshun Donson",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 10588152,
+  "court": "Louisiana Court of Appeal",
+  "court_citation_string": "La. Ct. App.",
+  "court_id": "lactapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2025-05-21",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "56,262-KA",
+  "docket_id": 70328291,
+  "judge": "PITMAN; HUNTER; MARCOTTE",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2025-05-21T15:09:38.175353Z",
+   "date_created": "2025-05-21T15:09:37.889463Z",
+   "score": {
+    "bm25": 29.21917
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     134816,
+     343448,
+     1141344,
+     1143228,
+     1600007,
+     1628034,
+     1648086,
+     1652479,
+     1680466,
+     1694070,
+     1715240,
+     1729616,
+     1766312,
+     1797972,
+     1803793,
+     1818825,
+     1825175,
+     1828048,
+     1914487,
+     4798064,
+     4828616,
+     4842580,
+     9253369,
+     9427680
+    ],
+    "download_url": "https://www.la2nd.org/wp-content/uploads/2025/05/56262ka.pdf",
+    "id": 11054740,
+    "joined_by_ids": [],
+    "local_path": "pdf/2025/05/21/state_of_louisiana_v._joshua_daeshun_donson.pdf",
+    "meta": {
+     "timestamp": "2025-10-27T20:30:49.275012Z",
+     "date_created": "2025-05-21T15:09:37.899740Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "52991286f4ca1582563908768715ce5c3df6bb5c",
+    "snippet": "                                       Judgment rendered May 21, 2025.\n                                       Application for rehearing may be filed\n                                       within the delay allowed by Art. 922,\n                                       La. C. Cr. P.\n\n                               No. 56,262-KA\n\n                          COURT OF APPEAL\n                           SECOND CIRCUIT\n                         STATE OF LOUISIANA\n\n                                  *****\n\nSTAT",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   11054740
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/4856590/in-re-synchrony-financial-securities-litigation/",
+  "attorney": "",
+  "caseName": "In Re: Synchrony Financial Securities Litigation",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 4856590,
+  "court": "Court of Appeals for the Second Circuit",
+  "court_citation_string": "2d Cir.",
+  "court_id": "ca2",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2021-02-16",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "20-1352",
+  "docket_id": 59292819,
+  "judge": "",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T02:42:55.805900Z",
+   "date_created": "2021-02-16T16:00:25.093000Z",
+   "score": {
+    "bm25": 26.655739
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     199098,
+     405342,
+     656676,
+     657170,
+     730975,
+     760113,
+     769157,
+     773500,
+     784768,
+     806559,
+     1253901,
+     1357011,
+     2366732,
+     2686613,
+     2771240,
+     4438689,
+     6937581,
+     7001236,
+     8415349,
+     9007158,
+     9431229,
+     9435339
+    ],
+    "download_url": "http://www.ca2.uscourts.gov/decisions/isysquery/688ca169-8064-4656-a2f8-7a90e9185652/2/doc/20-1352_opn.pdf",
+    "id": 4660369,
+    "joined_by_ids": [],
+    "local_path": "pdf/2021/02/16/in_re_synchrony_financial_securities_litigation.pdf",
+    "meta": {
+     "timestamp": "2025-11-27T07:42:44.577878Z",
+     "date_created": "2021-02-16T16:00:25.094849Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "facb894fa1343767ca6a073cc45131e690daecae",
+    "snippet": "     20-1352\n     In re: Synchrony Financial Securities Litigation\n\n 1                       UNITED STATES COURT OF APPEALS\n 2                           FOR THE SECOND CIRCUIT\n 3                             ____________________\n 4\n 5                                   August Term, 2020\n 6\n 7   (Argued: November 12, 2020                           Decided: February 16, 2021)\n 8\n 9                                  Docket No. 20-1352\n10                                 ____________________\n11\n12   IN ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   4660369
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/2196751/stephens-v-morrison-in-re-morrison/",
+  "attorney": "R. Bradley Sigler, Jackson, TN, for Plaintiff., Laura A. Keeton, Hollow Rock, TN, for Defendant/Debtor.",
+  "caseName": "Stephens v. Morrison (In Re Morrison)",
+  "caseNameFull": "In Re Alabama Cheyenne MORRISON & Crystal Dannette Morrison, Debtors. Joseph S. Stephens, Plaintiff, v. Alabama Cheyenne Morrison, Defendant",
+  "citation": [
+   "450 B.R. 734",
+   "2011 WL 2144577"
+  ],
+  "citeCount": 8,
+  "cluster_id": 2196751,
+  "court": "United States Bankruptcy Court, W.D. Tennessee",
+  "court_citation_string": "Bankr. W.D. Tenn.",
+  "court_id": "tnwb",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2011-05-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "19-21386",
+  "docket_id": 1230041,
+  "judge": "G. Harvey Boswell",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-21T09:41:01.730637Z",
+   "date_created": "2015-09-22T21:15:15.466263Z",
+   "score": {
+    "bm25": 24.18873
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     111365,
+     112522,
+     118179,
+     733429,
+     737512,
+     766016,
+     1527904,
+     1528327,
+     1809099,
+     1829962,
+     1830027,
+     1831548,
+     1833683,
+     1850185,
+     1856268,
+     1856937,
+     1863674,
+     1904305,
+     1909355,
+     1915263,
+     1924638,
+     1958714,
+     1967195,
+     2198631,
+     2202501
+    ],
+    "download_url": null,
+    "id": 2196751,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-24T18:08:56.171528Z",
+     "date_created": "2013-10-30T08:34:49.482499Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "86be7689aab59f38705b687fa7f61759be29ac59",
+    "snippet": "\n450 B.R. 734 (2011)\nIn re Alabama Cheyenne MORRISON & Crystal Dannette Morrison, Debtors.\nJoseph S. Stephens, Plaintiff,\nv.\nAlabama Cheyenne Morrison, Defendant.\nBankruptcy No. 09-14982. Adversary No. 10-5041.\nUnited States Bankruptcy Court, W.D. Tennessee, Eastern Division.\nMay 27, 2011.\n*738 R. Bradley Sigler, Jackson, ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   2196751
+  ],
+  "source": "LU",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/9384784/envolve-pharmacy-solutions-inc-v-rite-aid-headquarters-corp/",
+  "attorney": "",
+  "caseName": "Envolve Pharmacy Solutions, Inc. v. Rite Aid Headquarters Corp.",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 9384784,
+  "court": "Superior Court of Delaware",
+  "court_citation_string": "Del. Super. Ct.",
+  "court_id": "delsuperct",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2023-03-17",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "N19C-12-214 PRW CCLD",
+  "docket_id": 67032406,
+  "judge": "Wallace J.",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-23T01:02:37.406531Z",
+   "date_created": "2023-03-17T18:03:12.070265Z",
+   "score": {
+    "bm25": 22.32975
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [
+     1522858,
+     1526526,
+     1906894,
+     1909048,
+     1926852,
+     1941113,
+     1960108,
+     1968945,
+     1977097,
+     1984705,
+     2051834,
+     2089305,
+     2156092,
+     2180498,
+     2273298,
+     2274537,
+     2277625,
+     2299215,
+     2309751,
+     2326575,
+     2328604,
+     2342112,
+     2358213,
+     2368406,
+     2376251,
+     2381928,
+     2383138,
+     2383999,
+     2395434,
+     2717199,
+     2755988,
+     3207682,
+     4033021,
+     4965631,
+     4967889,
+     7228906
+    ],
+    "download_url": "http://courts.delaware.gov/Opinions/Download.aspx?id=345270",
+    "id": 9380260,
+    "joined_by_ids": [],
+    "local_path": "pdf/2023/03/17/envolve_pharmacy_solutions_inc._v._rite_aid_headquarters_corp..pdf",
+    "meta": {
+     "timestamp": "2025-10-27T05:46:02.978874Z",
+     "date_created": "2023-03-17T18:03:12.073316Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "2e497e2ac28dff88f905226881f4512b0a646d79",
+    "snippet": "      IN THE SUPERIOR COURT OF THE STATE OF DELAWARE\n\n\nENVOLVE PHARMACY SOLUTIONS,          )\nINC., ET AL.,                        )\n                                     )\n                         Plaintiffs, )\n                                     )\n          v.                         ) C.A. No. N19C-12-214\n                                     )          PRW CCLD\n                                     )\nRITE AID HEADQUARTERS CORP.,         )\nand RITE AID CORP.,                  )\n                ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   9380260
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/1048232/georgette-marie-bargmann-v-kurt-alan-bargmann/",
+  "attorney": "",
+  "caseName": "Georgette Marie Bargmann v. Kurt Alan Bargmann",
+  "caseNameFull": "",
+  "citation": [],
+  "citeCount": 0,
+  "cluster_id": 1048232,
+  "court": "Court of Appeals of Tennessee",
+  "court_citation_string": "Tenn. Ct. App.",
+  "court_id": "tennctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2011-03-22",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "M2010-00096-COA-R3-CV",
+  "docket_id": 30730,
+  "judge": "Judge Richard H. Dinkins",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-21T01:28:18.704618Z",
+   "date_created": "2014-10-30T06:02:21.001221Z",
+   "score": {
+    "bm25": 21.833227
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 8269,
+    "cites": [
+     108497,
+     1060490,
+     1060984,
+     1070438,
+     1075446,
+     1078827,
+     1080166,
+     1368805,
+     1499544,
+     1587029,
+     1637660,
+     1872819,
+     2334942,
+     2362010,
+     2412709,
+     2416906
+    ],
+    "download_url": "http://www.tsc.state.tn.us/sites/default/files/bargmann_opn_corr.pdf",
+    "id": 1048232,
+    "joined_by_ids": [],
+    "local_path": "pdf/2011/03/22/georgette_marie_bargmann_v._kurt_alan_bargmann.pdf",
+    "meta": {
+     "timestamp": "2025-10-24T01:16:06.081213Z",
+     "date_created": "2013-10-08T02:54:44.842409Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "4afa1fd065c7d9ad44ed25abb2007c199e5b555c",
+    "snippet": "                IN THE COURT OF APPEALS OF TENNESSEE\n                            AT NASHVILLE\n                               November 18, 2010 Session\n\n     GEORGETTE MARIE BARGMANN v. KURT ALAN BARGMANN\n\n                  Appeal from the Circuit Court for Davidson County\n                        No. 08D-283    Carol Soloman, Judge\n\n\n                No. M2010-00096-COA-R3-CV - Filed March 22, 2011\n\n\nIn this divorce action, Mother appeals the trial court\u2019s permanent parenting plan, residential\nsch",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   1048232
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/2697586/seymour-v-hampton/",
+  "attorney": "",
+  "caseName": "Seymour v. Hampton",
+  "caseNameFull": "",
+  "citation": [
+   "2012 Ohio 5053"
+  ],
+  "citeCount": 4,
+  "cluster_id": 2697586,
+  "court": "Ohio Court of Appeals",
+  "court_citation_string": "Ohio Ct. App.",
+  "court_id": "ohioctapp",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2012-10-16",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "11CA821",
+  "docket_id": 1117586,
+  "judge": "McFarland",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-21T13:58:53.690747Z",
+   "date_created": "2014-10-30T14:26:14.971109Z",
+   "score": {
+    "bm25": 21.824545
+   }
+  },
+  "neutralCite": "2012 Ohio 5053",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": 8115,
+    "cites": [
+     3719595,
+     3729559,
+     3775492
+    ],
+    "download_url": "http://www.sconet.state.oh.us/rod/docs/pdf/4/2012/2012-ohio-5053.pdf",
+    "id": 2697586,
+    "joined_by_ids": [],
+    "local_path": "pdf/2012/10/16/seymour_v._hampton.pdf",
+    "meta": {
+     "timestamp": "2025-10-24T22:09:55.851975Z",
+     "date_created": "2014-08-04T17:12:03.279062Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "13b903b46582f4b162264377f2b11e3b734a0466",
+    "snippet": "      [Cite as Seymour v. Hampton, 2012-Ohio-5053.]\n\n\n                       IN THE COURT OF APPEALS OF OHIO\n                          FOURTH APPELLATE DISTRICT\n                                PIKE COUNTY\n\nIN THE MATTER OF:                                 :\n                                                  :\nWILLIAM SEYMOUR,                                  :\n                                                  :\n      Plaintiff-Appellee,                         :   Case No. 11CA821\n               ",
+    "type": "combined-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   2697586
+  ],
+  "source": "C",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8719096/calibuso-v-bank-of-america-corp/",
+  "attorney": "Rachel Geman Kelly M. Dermody, Rachel, Geman, Allison M. Stocking, Heather, and H. Wong of Lieff Cabraser Heimann & Bernstein, LLP, New York City, for Plaintiffs., Katherine H. Parker, Gershom Radin, Smith and Joseph Baumgarten of Proskauer & Rose LLP, New York City, for Defendants.",
+  "caseName": "Calibuso v. Bank of America Corp.",
+  "caseNameFull": "Judy CALIBUSO, Julie Moss, Dianne Goedtel, Jean Evans, and Mary Desalvatore on Behalf of Themselves and All Others Similarly Situated v. BANK OF AMERICA CORPORATION, Merrill Lynch & Co., Inc. and Merrill Lynch, Pierce, Fenner & Smith, Inc.",
+  "citation": [
+   "893 F. Supp. 2d 374",
+   "83 Fed. R. Serv. 3d 797",
+   "2012 WL 4458404",
+   "2012 U.S. Dist. LEXIS 139606",
+   "96 Empl. Prac. Dec. (CCH) 44,650",
+   "116 Fair Empl. Prac. Cas. (BNA) 355"
+  ],
+  "citeCount": 13,
+  "cluster_id": 8719096,
+  "court": "District Court, E.D. New York",
+  "court_citation_string": "E.D.N.Y",
+  "court_id": "nyed",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2012-09-27",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No 10-CV-1413 (JFB)(ETB)",
+  "docket_id": 65985017,
+  "judge": "Bianco",
+  "lexisCite": "2012 U.S. Dist. LEXIS 139606",
+  "meta": {
+   "timestamp": "2024-06-22T21:07:44.907080Z",
+   "date_created": "2022-11-26T05:51:19.112694Z",
+   "score": {
+    "bm25": 19.105246
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8702289,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T18:26:03.782320Z",
+     "date_created": "2022-11-26T05:51:19.137733Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nMEMORANDUM AND ORDER\nJOSEPH F. BIANCO, District Judge:\nPlaintiffs Judy Calibuso (\u201cCalibuso\u201d), Julie Moss (\u201cMoss\u201d), Dianne Goedtel (\u201cGoedtel\u201d), Jean Evans (\u201cEvans\u201d) and Mary DeSalvatore (\u201cDeSalvatore\u201d) (collectively \u201cplaintiffs\u201d) commenced this action on behalf of themselves and all others similarly situated, against Bank of America Corporation (\u201cBofA,\u201d \u201cBOA\u201d or \u201cBank of America\u201d), Merrill Lynch & Co. ",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8702289
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7331664/glenn-v-b-r-plastics-inc/",
+  "attorney": "*1048Matthew R. Comstock, David E. Comstock, Law Offices of Comstock & Bush, Boise, ID, for Plaintiffs., Stephen R. Thomas, Peter Eugene Thomas, Hawley Troxell Ennis & Hawley LLP, Boise, ID, for Defendants.",
+  "caseName": "Glenn v. B & R Plastics, Inc.",
+  "caseNameFull": "Shirley GLENN and William Glenn, wife and husband v. B & R PLASTICS, INC., a Colorado corporation and John Does I-X",
+  "citation": [
+   "326 F. Supp. 3d 1044"
+  ],
+  "citeCount": 0,
+  "cluster_id": 7331664,
+  "court": "District Court, D. Idaho",
+  "court_citation_string": "D. Idaho",
+  "court_id": "idd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2018-07-17",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No. 1:16-CV-00508-MWB",
+  "docket_id": 64320148,
+  "judge": "Bennett",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T13:39:43.587620Z",
+   "date_created": "2022-07-25T05:52:16.521236Z",
+   "score": {
+    "bm25": 17.40138
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7249582,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T11:28:27.405673Z",
+     "date_created": "2022-07-25T05:52:16.539185Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nMARK W. BENNETT, U.S. DISTRICT COURT JUDGE\nTABLE OF CONTENTS\nI. INTRODUCTION...1049\nA. Factual Background...1049\n1. The parties...1049\n2. The accident...1050\n3. The liabilit",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7249582
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/7328837/webb-v-berryhill/",
+  "attorney": "*830Catherine G. Ratliff, Ratliff Law Office, Sioux Falls, SD, for Plaintiff., Cheryl Schrempp Dupris, U.S. Attorney's Office, Sioux Falls, SD, for Defendant.",
+  "caseName": "Webb v. Berryhill",
+  "caseNameFull": "Amber Lei WEBB v. Nancy A. BERRYHILL, Acting Commissioner of Social Security",
+  "citation": [
+   "294 F. Supp. 3d 824"
+  ],
+  "citeCount": 12,
+  "cluster_id": 7328837,
+  "court": "United States District Court",
+  "court_citation_string": "",
+  "court_id": "usdistct",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2018-03-05",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "5:16\u2013CV\u201305085\u2013VLD",
+  "docket_id": 64317321,
+  "judge": "Duffy",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T13:38:54.084613Z",
+   "date_created": "2022-07-25T05:23:44.211651Z",
+   "score": {
+    "bm25": 16.662102
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 7246753,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-07-08T21:43:31.714311Z",
+     "date_created": "2022-07-25T05:23:44.237754Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\nVERONICA L. DUFFY, United States Magistrate Judge\nTABLE OF CONTENTS\nINTRODUCTION...831\nFACTS...831\nA. Procedural History...831\nB. Work History...833\nC. Ms. Webb's Statements and Testimony...833\nD. Medical Evidence-Chronological...841\nE. Medical Literature...867\nF. Opinion Evidence..",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   7246753
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8727659/plymouth-county-retirement-assn-v-primo-water-corp/",
+  "attorney": "Leslie Bruce McDaniel, McDaniel & Anderson, LLP, Raleigh, NC, David J. George, Robert J. Robbins, Coughlin Stoia Geller Rudman & Robbins, LLP, Boca Ra-ton, FL, Evan J. Kaufman, Robbins Geller Rudman & Dowd LLP, Melville, NY, for Plaintiffs., Kiran H. Mehta, Molly Leigh McIntosh, K&L Gates LLP, Charlotte, NC, Douglas W. Greene, Lane Powell PC, Seattle, WA, for Defendants.",
+  "caseName": "Plymouth County Retirement Ass'n v. Primo Water Corp.",
+  "caseNameFull": "PLYMOUTH COUNTY RETIREMENT ASSOCIATION v. PRIMO WATER CORPORATION",
+  "citation": [
+   "966 F. Supp. 2d 525",
+   "2013 WL 4432052",
+   "2013 U.S. Dist. LEXIS 114995"
+  ],
+  "citeCount": 19,
+  "cluster_id": 8727659,
+  "court": "District Court, M.D. North Carolina",
+  "court_citation_string": "M.D.N.C.",
+  "court_id": "ncmd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-08-14",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No. 1:11-cv-1068",
+  "docket_id": 65993583,
+  "judge": "Schroeder",
+  "lexisCite": "2013 U.S. Dist. LEXIS 114995",
+  "meta": {
+   "timestamp": "2024-06-22T21:11:26.372036Z",
+   "date_created": "2022-11-26T07:05:20.949232Z",
+   "score": {
+    "bm25": 16.129677
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8710857,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-27T03:58:52.056226Z",
+     "date_created": "2022-11-26T07:05:20.959052Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nMEMORANDUM OPINION AND ORDER\n\nTHOMAS D. SCHROEDER, District Judge.\nThis is a federal securities class action on behalf of a class consisting of all persons,1 other than Defendants, who acquired the common stock of a start-up company, Primo Water Corporation (\u201cPrimo\u201d or \u201cthe company\u201d), between November 4, 2010, and November 10, 2011 (the ",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8710857
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8730072/in-re-payment-card-interchange-fee-merchant-discount-antitrust-litigation/",
+  "attorney": "Robbins Geller Rudman & Dowd LLP, San Diego, CA, Robins, Kaplan, Miller & Ciresi L.L.P., Minneapolis, MN, Berger & Montague, P.C., Philadelphia, PA, for Class Plaintiffs., Arnold & Porter LLP, Holwell Shuster & Goldberg LLP, New York, NY, for Defendant Visa U.S.A. Inc., Morrison & Foerster LLP, New York, NY, for Defendant Bank of America., O\u2019Melveny & Myers LLP, New York, NY, for Defendant Capital One Bank (USA)., Sidley Austin LLP, Chicago, IL, for Defendant Citibank, N.A., Kutak Rock LLP, Omaha, NE, for Defendant First National Bank of Omaha., Jones Day, Washington, DC, for Defendant National City Corporation., Alston & Bird LLP, Atlanta, GA, for Defendant SunTrust Banks, Inc., Friedman Law Group LLP, New York, NY, for Plaintiffs in No. 05-cv-5074., Constantine Cannon LLP, New York, NY, for Plaintiff NATSO, Inc., Vorys, Safer, Seymour and Pease LLP, Columbus, OH, for Objector Target Corporation., Schlam, Stone & Dolan, LLP, New York, NY, for Amicus Curiae U.S. Public Research Interest Group., Boies, Schiller & Flexner LLP, New York, NY, for Objector American Express Co., Miller & Chevalier Chartered, Washington, DC, for Objector Blue Cross Blue Shield Entities., Law Offices of Edward F. Siegel, Denver, CO, for Objector Vicente Consulting LLC., Joshua R. Furman Law Corp., Sherman Oaks, CA, for Objector Jon M. Zimmerman., Ohio Attorney General Mike DeWine, Columbus, OH, for Objector State of Ohio., Kenny Nachwalter, P.A., Miami, FL, Sperling & Slater, Chicago, IL, Hangley Aronchick Segal Pudlin & Schiller, Harrisburg, PA, for the Individual Plaintiffs., Willkie Farr & Gallagher LLP, New York, NY, Paul, Weiss, Rifkind, Wharton & Garrison LLP, Washington, DC, for Defendant MasterCard International Incorporated., Shearman & Sterling LLP, New York, NY, for Defendant Barclays Bank., Skadden, Arps, Slate, Meagher & Flom LLP, New York, NY, for Defendant JPMorgan Chase & Go., Keating Muething & Klekamp PLL, Cincinnati, OH, for Defendant Fifth Third Bancorp., Wilmerhale, New York, NY, for Defendant HSBC Finance Corporation., Pullman & Comley, LLC, Bridgeport, CT, for Defendant Texas Independent Bancshares, Inc., Patterson Belknap Webb & Tyler LLP, New York, NY, for Defendant Wachovia Bank, NA., Freedman Boyd Daniels Hollander Goldberg & Cline, P.A., Albuquerque, NM, for Plaintiffs in No. 05-cv-5075., Quinn Emanuel, New York, NY, for Objector Home Depot U.S.A., Inc., Emery, Celli, Brinckerhoff & Abady LLP, New York, NY, for Objector National Retail Federation., Perkins Coie LLP, San Francisco, CA, for Objector First Data Corporation., Kirkland & Ellis, New York, NY, for Objector Discover Financial Services., The Law Offices of John J. Pentz, Sud-bury, MA, for Defendant Daviss Donuts and Deli., Thrash Law Firm, P.A., Little Rock, AR, for R & M Objectors., State of California Department of Justice, Office of the Attorney General, San Francisco, CA, for Objector State of California.",
+  "caseName": "In re Payment Card Interchange Fee & Merchant Discount Antitrust Litigation",
+  "caseNameFull": "In re PAYMENT CARD INTERCHANGE FEE AND MERCHANT DISCOUNT ANTITRUST LITIGATION",
+  "citation": [
+   "986 F. Supp. 2d 207",
+   "87 Fed. R. Serv. 3d 589",
+   "2013 WL 6510737",
+   "2013 U.S. Dist. LEXIS 179340"
+  ],
+  "citeCount": 9,
+  "cluster_id": 8730072,
+  "court": "District Court, E.D. New York",
+  "court_citation_string": "E.D.N.Y",
+  "court_id": "nyed",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2013-12-13",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "No. 05-MD-1720 (JG)(JO)",
+  "docket_id": 65995996,
+  "judge": "Gleeson",
+  "lexisCite": "2013 U.S. Dist. LEXIS 179340",
+  "meta": {
+   "timestamp": "2024-06-22T21:12:45.945861Z",
+   "date_created": "2022-11-26T07:24:58.200647Z",
+   "score": {
+    "bm25": 9.121098
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8713271,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T18:30:00.089615Z",
+     "date_created": "2022-11-26T07:24:58.212478Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nMEMORANDUM AND ORDER\n\nJOHN GLEESON, District Judge:\nCONTENTS\nA. Preliminary Statement.......................................................214\n1. Structure of a Credit Card Transaction; Interchange Fees....................214\n2. The Default Interchange Rule; Honor-all-Cards Rules; Anti-Steering Rules ...................................",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8713271
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ },
+ {
+  "absolute_url": "/opinion/8781362/in-re-checking-account-overdraft-litigation/",
+  "attorney": "Bruce S. Rogow, Bruce S. Rogow PA, Fort Lauderdale, FL, Robert Cecil Gilbert, Miami, FL, for Plaintiff., Mimi Yang, James R. McGuire, Morrison & Foerster, San Francisco, CA, for Defendant.",
+  "caseName": "In re Checking Account Overdraft Litigation",
+  "caseNameFull": "In re CHECKING ACCOUNT OVERDRAFT LITIGATION",
+  "citation": [
+   "281 F.R.D. 667",
+   "2012 WL 1134483"
+  ],
+  "citeCount": 1,
+  "cluster_id": 8781362,
+  "court": "District Court, S.D. Georgia",
+  "court_citation_string": "S.D. Ga.",
+  "court_id": "gasd",
+  "court_jurisdiction": null,
+  "dateArgued": null,
+  "dateFiled": "2012-04-03",
+  "dateReargued": null,
+  "dateReargumentDenied": null,
+  "docketNumber": "MDL No. 2036; No. 1:09-MD-02036-JLK",
+  "docket_id": 66047477,
+  "judge": "King",
+  "lexisCite": "",
+  "meta": {
+   "timestamp": "2024-06-22T21:31:47.582944Z",
+   "date_created": "2022-11-26T12:22:20.810454Z",
+   "score": {
+    "bm25": 6.4099865
+   }
+  },
+  "neutralCite": "",
+  "non_participating_judge_ids": [],
+  "opinions": [
+   {
+    "author_id": null,
+    "cites": [],
+    "download_url": null,
+    "id": 8765098,
+    "joined_by_ids": [],
+    "local_path": null,
+    "meta": {
+     "timestamp": "2025-10-23T18:48:21.097099Z",
+     "date_created": "2022-11-26T12:22:20.819523Z"
+    },
+    "ordering_key": null,
+    "per_curiam": false,
+    "sha1": "",
+    "snippet": "\n\nORDER GRANTING CLASS CERTIFICATION\n\nJAMES LAWRENCE KING, District Judge.\nTHIS CAUSE is before the Court upon Plaintiffs\u2019 Motion for Class Certification and Incorporated Memorandum of Law (DE # 2256) (the \u201cMotion\u201d). The Court has carefully considered the Motion, response, reply, and the documents attached to them, as well as Plaintiffs\u2019 voluminous evidentiary submission and the oral argument of c",
+    "type": "lead-opinion"
+   }
+  ],
+  "panel_ids": [],
+  "panel_names": [],
+  "posture": "",
+  "procedural_history": "",
+  "scdb_id": "",
+  "sibling_ids": [
+   8765098
+  ],
+  "source": "U",
+  "status": "Published",
+  "suitNature": "",
+  "syllabus": ""
+ }
+]

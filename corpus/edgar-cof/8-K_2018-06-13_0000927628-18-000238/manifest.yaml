@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-06-13_0000927628-18-000238
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-06-13 (period 2018-06-13)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000238/a8-kdated6132018.htm
+retrieved_at: '2026-08-20T02:54:49Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdated6132018.htm
+  role: raw
+  sha256: cfc9e41a05a3944bd51a4ac56cc6d56e53320f156f0fef4b4cbafe00a60c08ef
+  size: 32412
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 234e6590355abc4e051c9bd80dd16775a860779dcd38263395aa2bb758466ff3
+  size: 3389
+  stored: corpus
+filed_date: '2018-06-13'
+period_end: '2018-06-13'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000238
+  form: 8-K
+  items: '7.01'

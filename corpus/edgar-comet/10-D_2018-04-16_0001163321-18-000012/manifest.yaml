@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2018-04-16_0001163321-18-000012
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2018-04-16 (period 2018-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332118000012/form10-dmar2018.htm
+retrieved_at: '2026-08-20T02:57:26Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dmar2018.htm
+  role: raw
+  sha256: 654e67e95cb190a512e1f913790414dc3f1299552da78fd1cab3a053f73cd4a5
+  size: 41425
+  stored: corpus
+- name: exhibit9912002-ccmar2018.htm
+  role: exhibit
+  sha256: e7680eca2d76105c75e7614054339ff1d13bd9754fa2b73d68d66aaf4aec0a86
+  size: 205514
+  stored: corpus
+- name: exhibit992nhsmar2018.htm
+  role: exhibit
+  sha256: 0c189595091dcb248b055eee093c0c0cdadaf237232bfccc2051d134430556a2
+  size: 568112
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 766384c2edc91cec6dc0e3b682da417aac74ab651d804a4826644d426db4b282
+  size: 44420
+  stored: corpus
+filed_date: '2018-04-16'
+period_end: '2018-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-18-000012
+  form: 10-D
+  items: ''

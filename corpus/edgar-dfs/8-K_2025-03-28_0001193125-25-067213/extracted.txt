@@ -1,0 +1,90 @@
+false 0001393612 0001393612 2025-03-27 2025-03-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 27, 2025
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On March 27, 2025, Discover Financial Services (the “ Company ”) entered into a letter agreement with J. Michael Shepherd (the “ Letter Agreement ”), which provides the terms and conditions pursuant to which Mr. Shepherd will continue to serve as Interim Chief Executive Officer and President of the Company and Interim President of Discover Bank from April 1, 2025 through the completion of the merger with Capital One Financial Corporation pursuant to the Agreement and Plan of Merger dated February 19, 2024 (the “ Closing ”) or, if earlier, June 30, 2025. Pursuant to the terms of the Letter Agreement, Mr. Shepherd will receive a base salary of $1,750,000 for the month of April and $750,000 for the months of May and June, in each case paid in accordance with Discover’s customary payroll practices and prorated for any partial months. He will also be eligible to earn a one-time cash award of $2,400,000 (the “ Merger Completion Bonus ”), subject to the Closing occurring on or before June 30, 2025, and his employment continuing through the time immediately prior to the Closing. In the event Mr. Shepherd’s employment is terminated by the Company without cause, by Mr. Shepherd for good reason, or as a result of death or disability, subject to the effectiveness of a release of claims, (i) Discover will continue to pay any unpaid base salary during the remaining term of the Letter Agreement and (ii) the Merger Completion Bonus, less any base salary paid for the period following termination, will remain eligible to be earned subject to the Closing occurring on or before June 30, 2025. Mr. Shepherd will not be eligible to participate in the Company’s Severance Plan or Change in Control Severance Policy or entitled to any severance payments or benefits other than as specifically set forth in the Letter Agreement.
+
+The foregoing description of the Letter Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Letter agreement, which is attached hereto as Exhibit 10.1, and incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Letter Agreement, dated as of March 27, 2025, between Discover Financial Services and J. Michael Shepherd.
+104 |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: March 28, 2025 |  |  |  | By: |  | /s/ Efie Vainikos
+ |  |  |  | Name: |  | Efie Vainikos
+ |  |  |  | Title: |  | Assistant Secretary
+[/TABLE]

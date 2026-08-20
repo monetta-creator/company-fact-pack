@@ -1,0 +1,155 @@
+false --12-31 0000927628 0000927628 2020-04-30 2020-04-30 0000927628 us-gaap:SeriesHPreferredStockMember 2020-04-30 2020-04-30 0000927628 cof:SeriesIPreferredStockMember 2020-04-30 2020-04-30 0000927628 cof:SeriesJPreferredStockMember 2020-04-30 2020-04-30 0000927628 cof:SeniorNotesDue2024Member 2020-04-30 2020-04-30 0000927628 us-gaap:SeriesFPreferredStockMember 2020-04-30 2020-04-30 0000927628 us-gaap:SeriesGPreferredStockMember 2020-04-30 2020-04-30 0000927628 cof:SeniorNotesDue2029Member 2020-04-30 2020-04-30 0000927628 us-gaap:CommonStockMember 2020-04-30 2020-04-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+April 30, 2020
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F | COF PRF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+At the 2020 Annual Stockholder Meeting (the “Annual Meeting”) of Capital One Financial Corporation (“Capital One” or the “Company”) held on April 30, 2020, upon the recommendation of Capital One’s Board of Directors (the “Board”), stockholders holding a majority of the Company’s outstanding shares of common stock approved amendments to Capital One’s Restated Certificate of Incorporation (the “Restated Certificate”) to allow stockholders to act by written consent, subject to certain procedural and other safeguards. The Restated Certificate was also amended to make certain immaterial changes that removed from the Restated Certificate legacy provisions relating to the transition from a classified board structure to annual director elections, which provisions no longer apply.
+
+The amendments to the Restated Certificate became effective upon the filing of a Certificate of Amendment of the Restated Certificate (the “Certificate of Amendment”) with the Secretary of State of Delaware on May 1, 2020. A copy of the Certificate of Amendment and the Restated Certificate (as amended and restated to reflect the Certificate of Amendment) are filed as Exhibits 3.1 and 3.2, respectively, to this filing and incorporated herein by reference.
+
+The Company has also amended and restated its Amended and Restated Bylaws (the “Bylaws”), effective as of May 1, 2020, in order to (i) authorize stockholders to act by written consent (as described above), (ii) align the special meeting process with the written consent process as set forth in the Restated Certificate (by requiring stockholders to ask the Board to set an initial record date for any “proxy solicitation” to reach the special meeting ownership threshold), (iii) facilitate participation by stockholders and beneficial owners in the written consent process, and (iv) make additional changes to Article II of the Bylaws in light of Delaware law developments. A copy of the Bylaws is filed as Exhibit 3.3 to this filing and incorporated herein by reference.
+
+This description is a summary of the amendments and is qualified in its entirety by reference to the amendments to the Restated Certificate and the Bylaws, as described in Section XII “Approval of Amendments to Restated Certificate of Incorporation to Allow Stockholders to Act by Written Consent” of the Company’s definitive proxy statement, dated March 19, 2020, filed with the Securities and Exchange Commission.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a) | The Annual Meeting was held on April 30, 2020. On March 3, 2020, the record date for the Annual Meeting, 457,421,339 shares of the Company’s common stock were issued and outstanding, of which 412,735,344 were present for purposes of establishing a quorum.
+
+(b) | Stockholders voted on the following matters:
+
+(1) | Stockholders elected Mr. Richard D. Fairbank, Ms. Aparna Chennapragada, Ms. Ann Fritz Hackett, Mr. Peter Thomas Killalea, Mr. Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars, Mr. Pierre E. Leroy, Mr. François Locoh-Donou, Mr. Peter E. Raskind, Ms. Eileen Serra, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner and Ms. Catherine G. West to the Company’s Board of Directors for terms expiring at the 2021 annual meeting of stockholders;
+
+(2) | Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent registered public accounting firm of the Company for 2020;
+
+(3) | Stockholders approved, on an advisory basis, the Company’s 2019 named executive officer compensation;
+
+(4) | Stockholders approved the amendments to Capital One’s Restated Certificate of Incorporation to allow stockholders to act by written consent; and
+
+(5) | Stockholders did not approve a stockholder proposal regarding an independent Board chairman.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+1
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 375,364,645 |  |  | 8,830,447 |  |  | 2,770,915 |  |  | 25,769,337 |
+Aparna Chennapragada |  | 362,837,514 |  |  | 23,838,745 |  |  | 289,748 |  |  | 25,769,337 |
+Ann Fritz Hackett |  | 346,467,492 |  |  | 37,724,585 |  |  | 2,773,930 |  |  | 25,769,337 |
+Peter Thomas Killalea |  | 362,568,785 |  |  | 24,102,679 |  |  | 294,543 |  |  | 25,769,337 |
+Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars |  | 363,961,895 |  |  | 22,719,531 |  |  | 284,581 |  |  | 25,769,337 |
+Pierre E. Leroy |  | 352,298,832 |  |  | 34,379,385 |  |  | 287,790 |  |  | 25,769,337 |
+François Locoh-Donou |  | 364,709,204 |  |  | 21,958,357 |  |  | 298,446 |  |  | 25,769,337 |
+Peter E. Raskind |  | 386,095,569 |  |  | 581,837 |  |  | 288,601 |  |  | 25,769,337 |
+Eileen Serra |  | 386,181,287 |  |  | 510,049 |  |  | 274,671 |  |  | 25,769,337 |
+Mayo A. Shattuck III |  | 322,018,989 |  |  | 64,590,682 |  |  | 356,336 |  |  | 25,769,337 |
+Bradford H. Warner |  | 377,475,892 |  |  | 9,203,093 |  |  | 287,022 |  |  | 25,769,337 |
+Catherine G. West |  | 382,730,168 |  |  | 3,968,135 |  |  | 267,704 |  |  | 25,769,337 |
+Ratification of Selection of Ernst & Young LLP as Independent Registered Public Accounting Firm of the Company for 2020 |  | 399,911,708 |  |  | 12,593,175 |  |  | 230,461 |  |  | N/A |
+Advisory Approval of the Company’s 2019 Named Executive Officer Compensation |  | 265,034,896 |  |  | 121,145,079 |  |  | 786,032 |  |  | 25,769,337 |
+Amendments to Capital One’s Restated Certificate of Incorporation to Allow Stockholders to Act by Written Consent |  | 377,478,988 |  |  | 9,139,574 |  |  | 347,445 |  |  | 25,769,337 |
+Stockholder Proposal Regarding an Independent Board Chairman |  | 127,501,278 |  |  | 258,848,738 |  |  | 615,991 |  |  | 25,769,337 |
+[/TABLE]
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+3.1 |  | Certificate of Amendment of Restated Certificate of Incorporation
+3.2 |  | Restated Certificate of Incorporation of Capital One Financial Corporation dated May 1, 2020
+3.3 |  | Amended and Restated Bylaws
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: May 4, 2020 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+3

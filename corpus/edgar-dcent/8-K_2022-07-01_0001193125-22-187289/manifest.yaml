@@ -1,0 +1,43 @@
+doc_id: edgar-dcent/8-K_2022-07-01_0001193125-22-187289
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-07-01 (period 2022-07-01)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312522187289/d566327d8k.htm
+retrieved_at: '2026-08-20T02:50:42Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d566327d8k.htm
+  role: raw
+  sha256: fc055d9e68e681afde4a77b3389ea6ae6531fff5f04599364230e5f3f4c7135b
+  size: 39030
+  stored: corpus
+- name: d566327dex991.htm
+  role: exhibit
+  sha256: f9fbde67f6042626da952a57a71c6f1a3fa2a8d2b7dc5daf3bea65189f119d90
+  size: 89983
+  stored: corpus
+- name: d566327dex992.htm
+  role: exhibit
+  sha256: deefdb321ad319d36625d1a59dca17f47f501e45b1da73fd63da05603375dd64
+  size: 27676
+  stored: corpus
+- name: d566327dex993.htm
+  role: exhibit
+  sha256: 91eaf4d3dd96a29c3e39e43d7de3f82cca787da4abd3c90b812ead9400986d19
+  size: 21034
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b499d47c7a1a2d18ff77aac403581bcb0e11db015545010931d88bfd136c1c13
+  size: 69255
+  stored: corpus
+filed_date: '2022-07-01'
+period_end: '2022-07-01'
+extraction_method: lxml
+meta:
+  accession: 0001193125-22-187289
+  form: 8-K
+  items: 6.02,8.01,9.01

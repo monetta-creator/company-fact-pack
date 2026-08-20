@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2024-05-15_0001163321-24-000018
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2024-05-15 (period 2024-04-30)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332124000018/form10-dapril2024.htm
+retrieved_at: '2026-08-20T02:56:29Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dapril2024.htm
+  role: raw
+  sha256: 70e7beab0f7eebcacfbd33d859680458df150a400f6180274061bc36be934aff
+  size: 28537
+  stored: corpus
+- name: exhibit9912002-ccapril2024.htm
+  role: exhibit
+  sha256: 4d4465fadd34dc2366738a0d251e7d55bce515861a635b862eaf8a9113aa0f80
+  size: 152063
+  stored: corpus
+- name: exhibit992nhsapril2024.htm
+  role: exhibit
+  sha256: 93956ff891c5a255310b26788c66483e8f697012f63038832947662c192a6dc7
+  size: 413636
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: ace7b36d5cf24fc2768ffe590783e6d3de38cd151118fd19a79c8b7674cc0533
+  size: 40884
+  stored: corpus
+filed_date: '2024-05-15'
+period_end: '2024-04-30'
+extraction_method: lxml
+meta:
+  accession: 0001163321-24-000018
+  form: 10-D
+  items: ''

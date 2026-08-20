@@ -1,0 +1,156 @@
+Field: Set; Name: xdx; ID: xdx_029_US%2DGAAP%2D2020 Field: Set; Name: xdx; ID: xdx_030_COF_capitalone.com_20210312 Field: Set; Name: xdx; ID: xdx_049_20210312_20210312 Field: Set; Name: xdx; ID: xdx_05B_edei%2D%2DEntityCentralIndexKey_0000927628 Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares
+0000927628 false 0000927628 2021-03-12 2021-03-12 0000927628 us-gaap:CommonStockMember 2021-03-12 2021-03-12 0000927628 us-gaap:SeriesGPreferredStockMember 2021-03-12 2021-03-12 0000927628 us-gaap:SeriesHPreferredStockMember 2021-03-12 2021-03-12 0000927628 COF:SeriesIPreferredStockMember 2021-03-12 2021-03-12 0000927628 COF:SeriesJPreferredStockMember 2021-03-12 2021-03-12 0000927628 COF:SeriesKPreferredStockMember 2021-03-12 2021-03-12 0000927628 COF:SeniorNotesDue2024Member 2021-03-12 2021-03-12 0000927628 COF:SeniorNotesDue2029Member 2021-03-12 2021-03-12 iso4217:USD xbrli:shares iso4217:USD xbrli:shares
+Field: Rule-Page
+
+Field: /Rule-Page
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+FORM 8-K
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+March 12, 2021
+
+Date of Report (Date of earliest event
+reported)
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified
+in its charter)
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive ,
+
+ McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+(Not applicable)
+
+(Former
+name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the
+Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the
+Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section
+12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Field: Rule-Page
+
+Field: /Rule-Page
+
+Field: Page; Sequence: 1
+
+Field: /Page
+
+Item 8.01 Other Events.
+
+On March 12, 2021, Capital One Financial Corporation (the “Company”)
+filed with the Securities and Exchange Commission (the “SEC”) an automatic shelf registration statement on Form S-3,
+No. 333-254191 (the “Registration Statement”), which was effective upon filing. On March 12, 2021, the Company filed with
+the SEC a supplement to the prospectus included in the Registration Statement, relating to the Company’s Dividend
+Reinvestment and Stock Purchase Plan.
+
+The opinion filed as Exhibit
+5.1 to this Current Report on Form 8-K is incorporated by reference into the Registration Statement.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit
+No. | Description
+5.1 | Opinion of Davis Polk & Wardwell LLP
+23.1 | Consent of Davis Polk & Wardwell (included in Exhibit 5.1)
+104 | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+Field: Page; Sequence: 2
+
+Field: /Page
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly
+authorized.
+
+[TABLE]
+ |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: March 12, 2021 |  | By: | /s/ Matthew W. Cooper
+ |  |  | Name: | Matthew W. Cooper
+ |  |  | Title: | General Counsel
+[/TABLE]
+
+Field: Page; Sequence: 3; Options: Last
+
+Field: /Page

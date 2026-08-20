@@ -1,0 +1,120 @@
+8-K 1 d232858d8k.htm FORM 8-K Form 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT
+REPORT
+
+Pursuant to Section 13 OR 15(d) of
+
+The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) July 26, 2016
+
+Commission File Number of Depositor: 333-75276-01
+
+Central Index Key Number of Depositor: 0001162387
+
+CAPITAL ONE
+FUNDING, LLC
+
+(Exact name of Depositor as specified in its charter)
+
+ON BEHALF OF
+
+Commission File Number of Issuing Entity: 000-25762
+
+Central Index Key Number of Issuing Entity: 0000922869
+
+CAPITAL ONE MASTER TRUST
+
+(Issuing Entity in respect of the COMT Collateral Certificate)
+
+(Exact name of Issuing Entity as specified in its charter)
+
+AND
+
+Commission File
+Number of Issuing Entity: 333-75276
+
+Central Index Key Number of Issuing Entity: 0001163321
+
+CAPITAL ONE MULTI-ASSET EXECUTION TRUST
+
+(Issuing Entity in respect of the Notes)
+
+(Exact name of Issuing Entity as specified in its charter)
+
+[TABLE]
+Virginia |  | 54-2058720
+(State or Other Jurisdiction
+ of Incorporation) |  | (IRS Employer
+ Identification Number)
+140 East Shore Drive
+ Room 1071-B
+ Glen Allen, Virginia |  | 23059
+(Address of Principal Executive Office) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code (804) 290-6959
+
+N/A
+
+(Former name or address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2. below):
+
+¨ | Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-22 under the Exchange Act (17 CFR 240.14a-22)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+ 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+ 240.13e-4(c))
+
+Section 8 – Other Events.
+
+[TABLE]
+Item 8.01. |  | Other Events.
+ |  | On July 26, 2016, the Capital One Multi-asset Execution Trust issued its Class A(2016-3) Notes.
+[/TABLE]
+
+Section 9 – Financial Statements and Exhibits.
+
+Item 9.01 (d). Exhibits.
+
+The
+following is filed as an Exhibit to this Report.
+
+ |  | Exhibit 4.1 |  | Class A(2016-3) Terms Document dated as of July 26, 2016.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+CAPITAL ONE FUNDING, LLC
+Acting solely in its capacity as depositor of Capital One Master Trust and Capital One Multi-asset Execution Trust
+By: |  | /s/ Eric D. Bauder
+Name: |  | Eric D. Bauder
+Title: |  | Assistant Vice President
+[/TABLE]
+
+July 26, 2016
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit |  | Description
+Exhibit 4.1 |  | Class A(2016-3) Terms Document dated as of July 26, 2016.
+[/TABLE]

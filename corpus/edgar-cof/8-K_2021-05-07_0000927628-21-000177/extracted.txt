@@ -1,0 +1,149 @@
+false 0000927628 0000927628 2021-05-06 2021-05-06 0000927628 us-gaap:CommonStockMember 2021-05-06 2021-05-06 0000927628 us-gaap:SeriesGPreferredStockMember 2021-05-06 2021-05-06 0000927628 us-gaap:SeriesHPreferredStockMember 2021-05-06 2021-05-06 0000927628 cof:SeriesIPreferredStockMember 2021-05-06 2021-05-06 0000927628 cof:SeriesJPreferredStockMember 2021-05-06 2021-05-06 0000927628 cof:SeriesKPreferredStockMember 2021-05-06 2021-05-06 0000927628 cof:SeriesLPreferredStockMember 2021-05-06 2021-05-06 0000927628 cof:SeniorNotesDue2024Member 2021-05-06 2021-05-06 0000927628 cof:SeniorNotesDue2029Member 2021-05-06 2021-05-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 6, 2021
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) At the 2021 Annual Stockholder Meeting (the “Annual Meeting”) of Capital One Financial Corporation (the “Company”) held on May 6, 2021, the Company’s stockholders, upon recommendation of the Board of Directors of the Company, approved and adopted the Company’s Sixth Amended and Restated 2004 Stock Incentive Plan (the “Amended Plan”).
+
+The Amended Plan provides: (i) for a date of termination on May 6, 2031, which is ten (10) years following the date of the 2021 Annual Stockholder Meeting and (ii) that the maximum number of shares available for issuance to participants under the Amended Plan shall be 67 million.
+
+For a description of the terms and conditions of the Amended Plan, see “Summary of Material Provisions of the Sixth Amended and Restated 2004 Stock Incentive Plan” under proposal 4 “Approval and Adoption of the Capital One Financial Corporation Sixth Amended and Restated 2004 Stock Incentive Plan” on pages 118-125 of the Company’s Proxy Statement for the Annual Meeting (the “Proxy Statement”), which description is incorporated herein by reference. The descriptions of the Amended Plan contained herein and in the Proxy Statement are qualified in their entirety by reference to the full text of the Amended Plan, a copy of which is filed hereto as Exhibit 10.1.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a) The Annual Meeting was held on May 6, 2021. On March 10, 2021, the record date for the Annual Meeting, 456,630,057 shares of the Company’s common stock were issued and outstanding, of which 417,470,403 were present for purposes of establishing a quorum.
+
+(b) Stockholders voted on the following matters:
+
+(1) Stockholders elected Mr. Richard D. Fairbank, Mr. Ime Archibong, Ms. Ann Fritz Hackett, Mr. Peter Thomas Killalea, Mr. Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars, Mr. François Locoh-Donou, Mr. Peter E. Raskind, Ms. Eileen Serra, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner, Ms. Catherine G. West and Mr. Craig Anthony Williams to the Company’s Board of Directors for terms expiring at the 2022 annual meeting of stockholders;
+
+(2) Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent registered public accounting firm of the Company for 2021;
+
+(3) Stockholders approved, on an advisory basis, the Company’s 2020 named executive officer compensation; and
+
+(4) Stockholders approved and adopted the Company’s Sixth Amended and Restated 2004 Stock Incentive Plan.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+1
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 380,893,250 |  | 10,198,215 |  | 2,972,837 |  | 23,422,091
+Ime Archibong |  | 392,967,630 |  | 869,978 |  | 226,694 |  | 23,422,091
+Ann Fritz Hackett |  | 343,927,408 |  | 49,557,006 |  | 579,888 |  | 23,422,091
+Peter Thomas Killalea |  | 389,595,372 |  | 4,326,668 |  | 142,262 |  | 23,422,091
+Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars |  | 388,482,771 |  | 5,361,286 |  | 220,245 |  | 23,422,091
+François Locoh-Donou |  | 388,026,222 |  | 5,805,048 |  | 233,032 |  | 23,422,091
+Peter E. Raskind |  | 391,270,187 |  | 2,634,517 |  | 159,598 |  | 23,422,091
+Eileen Serra |  | 393,194,362 |  | 657,326 |  | 212,614 |  | 23,422,091
+Mayo A. Shattuck III |  | 377,628,534 |  | 16,278,924 |  | 156,844 |  | 23,422,091
+Bradford H. Warner |  | 383,404,771 |  | 10,432,542 |  | 226,989 |  | 23,422,091
+Catherine G. West |  | 391,008,081 |  | 2,843,870 |  | 212,351 |  | 23,422,091
+Craig Anthony Williams |  | 393,014,765 |  | 815,606 |  | 233,931 |  | 23,422,091
+Ratification of Selection of Ernst & Young LLP as Independent Registered Public Accounting Firm of the Company for 2021 |  | 385,181,585 |  | 32,091,764 |  | 213,044 |  | N/A
+Advisory Approval of the Company’s 2020 Named Executive Officer Compensation |  | 367,130,784 |  | 26,332,719 |  | 600,799 |  | 23,422,091
+Approval and Adoption of the Company’s Sixth Amended and Restated 2004 Stock Incentive Plan |  | 385,855,584 |  | 7,856,573 |  | 352,145 |  | 23,422,091
+[/TABLE]
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Sixth Amended and Restated 2004 Stock Incentive Plan
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: May 7, 2021 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+3

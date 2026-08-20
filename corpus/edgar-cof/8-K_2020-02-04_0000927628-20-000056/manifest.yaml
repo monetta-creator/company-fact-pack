@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2020-02-04_0000927628-20-000056
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-02-04 (period 2020-01-29)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762820000056/a8-kdividendsxjanuary2.htm
+retrieved_at: '2026-08-20T02:54:35Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsxjanuary2.htm
+  role: raw
+  sha256: 61be0c9fa0a62b314a8aab8df898092ed70d3576f3883b61cc8d13dcd8b05879
+  size: 61286
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: f6e343354486377a0520c752b06204ce5664dd06d653cf1bfb5e5a0a4f5bbe79
+  size: 6307
+  stored: corpus
+filed_date: '2020-02-04'
+period_end: '2020-01-29'
+extraction_method: lxml
+meta:
+  accession: 0000927628-20-000056
+  form: 8-K
+  items: 8.01,9.01

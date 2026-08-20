@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/10-D_2020-10-14_0001407200-20-000033
+source: edgar-dcent
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2020-10-14 (period 2020-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720020000033/dcent-dcmt10xdx101420.htm
+retrieved_at: '2026-08-20T02:58:10Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: dcent-dcmt10xdx101420.htm
+  role: raw
+  sha256: 0a6c7d2cc38922bdcd8a9411acc5fa1c4cee4d4e6a85113941bcb02772944ec9
+  size: 46116
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 7bd9332479533b1600013d6b5e4b5dcf99a9184e226171712b22317662d64f68
+  size: 9190
+  stored: corpus
+filed_date: '2020-10-14'
+period_end: '2020-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001407200-20-000033
+  form: 10-D
+  items: ''

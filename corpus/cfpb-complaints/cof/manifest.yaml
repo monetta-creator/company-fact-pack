@@ -1,0 +1,24 @@
+doc_id: cfpb-complaints/cof
+source: cfpb-complaints
+source_tier: A
+doc_type: complaints-csv
+title: CFPB complaints slice (cof)
+url: https://files.consumerfinance.gov/ccdb/complaints.csv.zip
+retrieved_at: '2026-08-20T03:15:11Z'
+entity_ids:
+- cof
+fetcher: cfpb_complaints v2
+files:
+- name: complaints.csv.gz
+  role: raw
+  sha256: fb46c8d7facdd1d629fd4926eb68d54c0473a1e2360800137a87c742b9445e73
+  size: 28600265
+  stored: cache
+- name: extracted.txt
+  role: extracted
+  sha256: 5274d565907dcb2b6b71c0fc8693560d66709c6aca23532c1c45f9b4f6372a50
+  size: 130
+  stored: corpus
+meta:
+  rows: 168862
+  filter: ^CAPITAL ONE

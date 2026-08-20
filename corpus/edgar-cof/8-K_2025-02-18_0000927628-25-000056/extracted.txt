@@ -1,0 +1,200 @@
+false 0000927628 0000927628 2025-02-18 2025-02-18 0000927628 us-gaap:CommonStockMember 2025-02-18 2025-02-18 0000927628 cof:SeriesIPreferredStockMember 2025-02-18 2025-02-18 0000927628 cof:SeriesJPreferredStockMember 2025-02-18 2025-02-18 0000927628 cof:SeriesKPreferredStockMemberMember 2025-02-18 2025-02-18 0000927628 cof:SeriesLPreferredStockMemberMember 2025-02-18 2025-02-18 0000927628 cof:SeriesNPreferredStockMember 2025-02-18 2025-02-18 0000927628 cof:SeniorNotesDue2029Member 2025-02-18 2025-02-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+February 18, 2025
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+On February 18, 2025, Capital One Financial Corporation, a Delaware corporation (“Capital One” or the “Company”) held a special meeting of stockholders (the “Capital One special meeting”) to consider certain proposals related to the Agreement and Plan of Merger (the “Merger Agreement”), dated as of February 19, 2024, by and among Capital One, Discover Financial Services, a Delaware corporation (“Discover”) and Vega Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of the Company (“Merger Sub”), pursuant to which, upon the terms and subject to the conditions set forth in the Merger Agreement, (a) Merger Sub will merge with and into Discover (the “Merger”), with Discover continuing as the surviving corporation in the Merger; (b) immediately following the Merger, Discover, as the surviving entity, will merge with and into Capital One (the “Second Step Merger” and together with the Merger, the “Mergers”), with Capital One continuing as the surviving corporation in the Second Step Merger; and (c) immediately following the Second Step Merger, Discover Bank, a wholly owned Delaware-chartered bank subsidiary of Discover, will merge with and into Capital One’s wholly owned national bank subsidiary, Capital One, National Association (the “Bank Merger” and together with the Merger and the Second Step Merger, the “Transaction”), with Capital One, National Association continuing as the surviving entity in the Bank Merger.
+
+As of the close of business on December 27, 2024, the record date for the Capital One special meeting, there were 381,230,343 shares of common stock, par value $0.01 per share, of Capital One (“Capital One common stock”) outstanding, each of which was entitled to one vote for each proposal at the Capital One special meeting. At the Capital One special meeting, a total of 325,198,714 shares of Capital One common stock, representing approximately 85.30% of the shares of Capital One common stock outstanding and entitled to vote, were present in person or represented by proxy, constituting a quorum to conduct business.
+
+At the Capital One special meeting, the following proposals were considered:
+
+■ A proposal to approve the issuance of Capital One common stock in connection with the Merger as merger consideration to holders of common stock, par value $0.01 per share, of Discover (the “Discover stockholders”) pursuant to the Merger Agreement (the “Capital One share issuance proposal”); and
+
+■ A proposal to adjourn the Capital One special meeting, if necessary or appropriate, to solicit additional proxies if, immediately prior to such adjournment, there are not sufficient votes to approve the Capital One share issuance proposal or to ensure that any supplement or amendment to the joint proxy statement/prospectus filed by Capital One with the U.S. Securities and Exchange Commission on January 6, 2025 (the “joint proxy statement/prospectus”) is timely provided to stockholders of Capital One (the “Capital One adjournment proposal”).
+
+Each of the two proposals was approved by the requisite vote of Capital One stockholders. The final voting results for each proposal are described below. For more information on each of these proposals, see the joint proxy statement/prospectus.
+
+Proposal 1: The Capital One share issuance proposal
+
+[TABLE]
+Votes For | Votes Against | Abstentions | Broker Non-Votes
+324,504,413 | 559,519 | 134,782 | N/A
+[/TABLE]
+
+Proposal 2: The Capital One adjournment proposal
+
+[TABLE]
+Votes For | Votes Against | Abstentions | Broker Non-Votes
+310,813,451 | 14,199,385 | 185,878 | N/A
+[/TABLE]
+
+Completion of the Transaction remains subject to the satisfaction of customary closing conditions, including the receipt of certain regulatory approvals.
+
+Item 8.01 Other Events.
+
+On February 18, 2025, Capital One and Discover issued a joint press release announcing the results of the Capital One special meeting and the results of the special meeting of Discover stockholders held on February 18, 2025. A copy of the joint press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+1
+
+Forward Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include, but are not limited to, statements related to the expected consummation of the Transaction. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology. All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, the possibility that the requisite regulatory approvals are not received on a timely basis or at all, or are obtained subject to conditions that are not anticipated (and the risk that requisite regulatory approvals may result in the imposition of conditions that could adversely affect Capital One or the expected benefits of the Mergers following the closing of the Mergers), and the possibility of a failure of the closing conditions in the Merger Agreement to be satisfied, or any unexpected delay in completing the Mergers or the occurrence of any event, change or other circumstances that could give rise to the termination of the Merger Agreement. Additional factors which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K (and any amendments to those documents), in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+Exhibit 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Joint Press Release, dated February 18, 2025
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: February 18, 2025 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+3
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99 2 exhibit991-pressreleasedat.htm EX-99.1 Document created using Wdesk Copyright 2025 Workiva Document
+
+Exhibit 99.1
+
+[TABLE]
+ |  | Media Relations |  | Investor Relations
+ |  | Sie Soheili |  | Danielle Dietz
+ |  | sie.soheili@capitalone.com |  | danielle.dietz@capitalone.com
+ |  | Matthew Towson |  | Erin Stieber
+ |  | matthewtowson@discover.com |  | investorrelations@discover.com
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: February 18, 2025
+
+Capital One and Discover Stockholders Approve Capital One’s
+
+Proposed Acquisition of Discover
+
+MCLEAN, VA, FEBRUARY 18, 2025 -- Capital One Financial Corporation (NYSE: COF) and Discover Financial Services (NYSE: DFS) today announced that each company’s respective stockholders have voted to approve Capital One’s previously announced acquisition of Discover at each company’s Special Meeting of Stockholders (the “Special Meeting”).
+
+Special Meeting Stockholder Vote Results
+
+• Capital One: More than 99.8% of the Capital One shares voted at the Capital One Special Meeting were voted in favor of the transaction, representing 85.1% of the total number of outstanding shares of Capital One common stock as of December 27, 2024, the record date for Capital One’s Special Meeting.
+
+• Discover: More than 99.3% of the Discover shares voted at the Discover Special Meeting were voted in favor of the transaction, representing approximately 81.6% of the total number of outstanding shares of Discover common stock as of December 27, 2024, the record date for Discover’s Special Meeting.
+
+Stockholder approval marks an important milestone in the process to combine Capital One and Discover, two mission-driven companies with proven track records of delivering best-in-class solutions for consumers, small businesses, merchants and communities.
+
+Additional Merger Agreement Conditions
+
+Capital One anticipates that the transaction will close in early 2025, subject to approval by the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency, and other customary closing conditions.
+
+As previously announced, the Delaware State Bank Commissioner approved Capital One’s proposed acquisition of Discover on December 18, 2024.
+
+Further information on Capital One’s agreement to acquire Discover can be found at www.capitalonediscover.com.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $362.7 billion in deposits and $490.1 billion in total assets as of December 31, 2024. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Additional information about Capital One can be found at Capital One About at www.capitalone.com/about.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. Discover issues the Discover® card, America’s cash rewards pioneer, and offers personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network® comprised of Discover Network, with millions of merchants and cash access locations; PULSE®, one of the nation’s leading ATM/debit networks; and Diners Club International®, a global payments network with acceptance around the world. For more information, visit www.discover.com/company
+
+Forward Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the benefits of the proposed transaction between Capital One Financial Corporation (“Capital One”) and Discover Financial Services (“Discover”), statements related to the expected timing of the completion of the transaction, statements about the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies and other anticipated benefits from the transaction may not be fully realized or may take longer than anticipated to be realized, the risk that revenues following the transaction may be lower than expected and/or the risk that certain expenses, such as the provision for credit losses, of Discover, or Capital One following the transaction, may be greater than expected, (2) disruption to the parties’ businesses as a result of the announcement and pendency of the transaction, (3) the risk that the integration of Discover’s business and operations into Capital One, including the integration into Capital One’s compliance management program, will be materially delayed or will be more costly or difficult than expected, or that Capital One is otherwise unable to successfully integrate Discover’s businesses into its own, including as a result of unexpected factors or events, (4) the possibility that the requisite regulatory approvals are not received or other conditions to the closing are not satisfied on a timely basis or at all, or are obtained subject to conditions that are not anticipated (and the risk that requisite regulatory approvals may result in the imposition of conditions that could adversely affect Capital One or the expected benefits of the transaction following the closing of the transaction), (5) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the transaction, (6) the failure of the closing conditions in the merger agreement to be satisfied, or any unexpected delay in completing the transaction or the occurrence of
+
+any event, change or other circumstances that could give rise to the termination of the merger agreement, (7) the dilution caused by the issuance of additional shares of Capital One’s common stock in connection with the transaction, (8) the possibility that the transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or events, (9) risks related to management and oversight of the expanded business and operations of Capital One following the transaction due to the increased size and complexity of its business, (10) the possibility of increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the transaction or the size, scope and complexity of Capital One’s business operations following the transaction, (11) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Capital One before or after the transaction, or against Discover, (12) the risk that expectations regarding the timing, completion and accounting and tax treatments of the transaction are not met, (13) the risk that any announcements relating to the transaction could have adverse effects on the market price of Capital One’s common stock, (14) certain restrictions during the pendency of the transaction, (15) the diversion of management’s attention from ongoing business operations and opportunities, (16) Capital One’s and Discover’s success in executing their respective business plans and strategies and managing the risks involved in the foregoing, (17) effects of the announcement, pendency or completion of the transaction on Capital One’s or Discover’s ability to retain customers and retain and hire key personnel and maintain relationships with Capital One’s and Discover’s suppliers and other business partners, and on Capital One’s and Discover’s operating results and businesses generally, (18) general competitive, economic, political and market conditions and other factors that may affect future results of Capital One and Discover, including changes in asset quality and credit risk; the inability to sustain revenue and earnings growth; changes in interest rates and capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities and (19) any other factors that may affect Capital One’s future results or the future results of Discover; and other actions of the Federal Reserve Board and legislative and regulatory actions and reforms. Additional factors which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K (and any amendments to those documents), in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+###

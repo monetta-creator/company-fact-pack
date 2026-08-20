@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2022-02-09_0000927628-22-000065
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-02-09 (period 2022-02-04)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762822000065/cof-20220204.htm
+retrieved_at: '2026-08-20T02:54:20Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20220204.htm
+  role: raw
+  sha256: e50967ab73891c20fdcaeec3f40a3bad9495b716ff4e180a6e3a4f9ce181d5b3
+  size: 57299
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b1d9ee982461085b613c1e805f8095bda4d5b9ad3b0d88c7b9170c2ae744de26
+  size: 6356
+  stored: corpus
+filed_date: '2022-02-09'
+period_end: '2022-02-04'
+extraction_method: lxml
+meta:
+  accession: 0000927628-22-000065
+  form: 8-K
+  items: 8.01,9.01

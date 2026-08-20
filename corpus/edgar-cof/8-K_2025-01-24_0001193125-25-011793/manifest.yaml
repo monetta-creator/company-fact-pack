@@ -1,0 +1,58 @@
+doc_id: edgar-cof/8-K_2025-01-24_0001193125-25-011793
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-01-24 (period 2025-01-24)
+url: https://www.sec.gov/Archives/edgar/data/927628/000119312525011793/d918322d8k.htm
+retrieved_at: '2026-08-20T02:45:57Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: d918322d8k.htm
+  role: raw
+  sha256: 48a83c2a945644d31969c962111a1b66f717255068cea9ca731817e024044286
+  size: 62512
+  stored: corpus
+- name: d918322dex991.htm
+  role: exhibit
+  sha256: 5426465d17cbd14f1497b59ff73421bd9a0cdbac60e205afab7d3c54d41d9ff6
+  size: 545979
+  stored: corpus
+- name: d918322dex992.htm
+  role: exhibit
+  sha256: 9273c7e5b3253702c66da2f557ebfe95014e43c1f0e33b4707712d74ff54fcd8
+  size: 1894109
+  stored: corpus
+- name: d918322dex993.htm
+  role: exhibit
+  sha256: d8877e433849ead9f6f954ff5b6359b5a31cac1ea93549433b74a161f4408a41
+  size: 1013254
+  stored: corpus
+- name: d918322dex994.htm
+  role: exhibit
+  sha256: cd84312d4c989fbcf2cfd68a9a1468e8791d774069f106c3352c3f9a4182107e
+  size: 1214401
+  stored: corpus
+- name: d918322dex995.htm
+  role: exhibit
+  sha256: b758fb821865233057b5f70982e9e3f14c8b187d80cb40d7385eae8dc73e3b9f
+  size: 1168626
+  stored: corpus
+- name: d918322dex996.htm
+  role: exhibit
+  sha256: 920bba243d2946d23b8f658c4b8047e381824e519f7fe5e297400c39e48e2a3a
+  size: 654405
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 59778c4966c685f855bdceaff7388d6cfa8998048950e5453668092b0e190fc5
+  size: 951288
+  stored: corpus
+filed_date: '2025-01-24'
+period_end: '2025-01-24'
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-011793
+  form: 8-K
+  items: 7.01,8.01,9.01

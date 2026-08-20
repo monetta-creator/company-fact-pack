@@ -1,0 +1,104 @@
+8-K 1 a8-kdated2118.htm 8-K Document created using Wdesk 1 Copyright 2018 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+__________________________________
+
+FORM 8-K
+
+__________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+February 1, 2018
+
+Date of Report (Date of earliest event reported)
+
+__________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+__________________________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+__________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) On February 1, 2018, the Compensation Committee (the “Committee”) and the independent members of the Board of Directors (the “Independent Directors”) of Capital One Financial Corporation (the “Company”) approved the 2018 compensation plans for Mr. Richard D. Fairbank, the Company’s Chair, Chief Executive Officer and President, and the Company’s other current executives who are named executive officers (the “Named Executive Officers”). Consistent with the Company’s long-standing practice, the compensation plans take effect immediately and are designed to directly link Mr. Fairbank’s and the Named Executive Officers’ compensation with the Company’s performance over multiple time horizons and to align their interests with the interests of the Company’s stockholders. In addition, the Committee and the Independent Directors approved incentive awards to Mr. Fairbank and the Named Executive Officers for the 2017 performance year.
+
+2017 Incentive Award for the Chief Executive Officer
+
+In February 2017, the Committee and the Independent Directors approved a 2017 compensation plan for Mr. Fairbank that included the opportunity to receive an award consisting of deferred cash, a cash-settled award, or both in late 2017 or early 2018 based on the Company’s actual performance in 2017. After evaluating the Company’s performance in 2017, on February 1, 2018, the Committee and the Independent Directors approved awards to Mr. Fairbank totaling $6.21 million. The award consists of a deferred cash bonus in the amount of $3.73 million and a grant of 23,730 restricted stock units (“RSUs”). The deferred cash bonus is mandatorily deferred for three years into the Company’s Voluntary Non-Qualified Deferred Compensation Plan and will pay out in the first calendar quarter of 2021. The award of RSUs will vest in full on February 15, 2021, and settle in cash based on the Company’s average stock price over the fifteen trading days preceding the vesting date. Both the deferred cash bonus and the cash-settled RSUs are subject to the same clawback and, with respect to the cash-settled RSUs, performance-based vesting provisions as described in the Proxy Statement for the 2017 Annual Stockholder Meeting (the “2017 Proxy Statement”) with respect to the deferred cash bonus and cash-settled RSUs granted to Mr. Fairbank in February 2017.
+
+2018 Compensation Plan for the Chief Executive Officer
+
+On February 1, 2018, the Committee and the Independent Directors approved a total target compensation amount of $17.5 million for Mr. Fairbank’s 2018 compensation plan. The plan is identical in amount to the 2017 compensation plan for Mr. Fairbank and consists of a performance share award that is completely at-risk based on the Company’s performance, with payout deferred for three years, as well as an opportunity for an incentive award in late 2018 or early 2019 based on the Company’s actual performance in 2018.
+
+Under the plan, on February 1, 2018, the Committee and the Independent Directors granted Mr. Fairbank a performance share award providing the opportunity to receive from 0 to 150% of the target number of 100,268 shares of the Company’s common stock based on the Company’s performance over the three-year period beginning on January 1, 2018. The Company’s performance will be assessed on the basis of two metrics: Growth of Shareholder Value, which measures the combined effects of common dividends per share plus the growth of the Company's Tangible Book Value per Common Share; and Adjusted Return on Tangible Common Equity (“Adjusted ROTCE”). Each metric will be assessed relative to a peer group consisting of companies in the KBW Bank Sector index, excluding custody banks. After the end of the three-year performance period, the Committee will certify the Company’s performance and issue the corresponding number of shares of the Company’s common stock, if any. The number of shares that will be issued after the Committee certifies the Company’s performance will be reduced in the event that the Company’s Adjusted ROTCE for one or more fiscal years during the performance period is not positive, regardless of how well the Company’s Adjusted ROTCE compares to the peer group. If the Company’s Adjusted ROTCE is not positive for all three fiscal years in the performance period, Mr. Fairbank will forfeit the entire award of performance shares. The performance shares are subject to clawback provisions as described in the 2017 Proxy Statement with respect to the performance shares granted to Mr. Fairbank in February 2017, including clawback in the event of a financial restatement by the Company.
+
+Mr. Fairbank also has an opportunity to receive an award in late 2018 or early 2019 based on the Company’s actual performance in 2018 solely in the discretion of the Committee and the Independent Directors. Any such award will consist of deferred cash, a cash-settled award, or both. The Committee’s and the Independent Directors’ determination regarding whether to make the award, the form of the award and the value of the award relative to the target amount of $7,000,000, will be based on a qualitative evaluation of multiple factors. The maximum value of any award will not exceed one and a half times the target value.
+
+2017 Incentive Awards for the Named Executive Officers
+
+On February 1, 2018, the Committee and the Independent Directors granted to the Named Executive Officers awards including stock-settled RSUs, cash-settled RSUs, and performance shares in recognition of the Company’s and the executives’ performance in 2017. In connection with the performance share, the Company’s performance will be assessed on the basis of the two metrics described above for Mr. Fairbank’s performance shares. All other terms and conditions of the incentive awards are comparable to the awards granted to the Named Executive Officers for 2016, as described in the 2017 Proxy Statement. The stock-settled RSUs are subject to the same performance-based vesting provisions as described in the 2017 Proxy Statement with respect to the stock-settled RSUs granted to the Named Executive Officers in February 2017, and all of the awards are subject to the same clawback provisions as described in the 2017 Proxy Statement with respect to the incentive awards granted to the Named Executive Officers in February 2017.
+
+2018 Compensation Plan for the Named Executive Officers
+
+On February 1, 2018, the Committee and the Independent Directors approved a 2018 compensation plan for the Named Executive Officers. The Named Executive Officers’ total target compensation ranges between $5.0 million and $5.4 million.
+
+Approximately 20% of each Named Executive Officer’s total target compensation will be paid as regular cash salary throughout the performance year.
+
+Approximately 25% of each Named Executive Officer’s total target compensation will consist of an opportunity to receive a cash bonus in late 2018 or early 2019. The amount of any such cash bonus will be determined solely in the discretion of the Committee and the Independent Directors based on a variety of company performance factors assessing the Company’s actual performance in 2018.
+
+The remaining 55% of the Named Executive Officers’ total target compensation is expected to consist of equity incentive awards in the form of (a) restricted stock units that settle in shares of the Company’s common stock and (b) performance share awards. These equity awards, if any, will be granted to the Named Executive Officers in late 2018 or early 2019 solely in the discretion of the Committee and the Independent Directors and will be completely at-risk based on the individual executive’s performance in 2018.
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: February 5, 2018 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]

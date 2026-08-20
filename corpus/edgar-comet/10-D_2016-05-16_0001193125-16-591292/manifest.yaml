@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2016-05-16_0001193125-16-591292
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2016-05-16 (period 2016-04-30)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312516591292/d193365d10d.htm
+retrieved_at: '2026-08-20T02:50:12Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d193365d10d.htm
+  role: raw
+  sha256: b3f70a08b960a50b6569848e8530163ec655db96f2f622547ce601e38d7d5507
+  size: 16965
+  stored: corpus
+- name: d193365dex991.htm
+  role: exhibit
+  sha256: 5a52f273dbf55ba9c818f53306a71581659914bc38c69123b9257a1abd13b068
+  size: 108230
+  stored: corpus
+- name: d193365dex992.htm
+  role: exhibit
+  sha256: 93631020a939e5187b98953aba3594d7987570ac6976e3236da5ed064df73133
+  size: 281457
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 7cb2b4b353c86c8b404a6c76b7fe38cacab84563cbe2415e229a1dd43799cddb
+  size: 48438
+  stored: corpus
+filed_date: '2016-05-16'
+period_end: '2016-04-30'
+extraction_method: lxml
+meta:
+  accession: 0001193125-16-591292
+  form: 10-D
+  items: ''

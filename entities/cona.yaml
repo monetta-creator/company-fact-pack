@@ -1,0 +1,16 @@
+id: cona
+name: Capital One, National Association
+type: bank
+status: active
+aliases:
+- Capital One NA
+- CONA
+identifiers:
+  fdic_cert: '4297'
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: fdic/financials_cona
+  locator: null

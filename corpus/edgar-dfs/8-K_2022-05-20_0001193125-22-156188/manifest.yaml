@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/8-K_2022-05-20_0001193125-22-156188
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-05-20 (period 2022-05-19)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312522156188/d354822d8k.htm
+retrieved_at: '2026-08-20T02:55:30Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d354822d8k.htm
+  role: raw
+  sha256: 5990d727855a5474681f56d2bb7fc2103a6a5e7200ec610b77da6261a02cedd3
+  size: 43758
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b5c5fd4a9dfa7a2fb56dccb83532b9823a7ca51f6ea16074d92c1de5c7313896
+  size: 5174
+  stored: corpus
+filed_date: '2022-05-20'
+period_end: '2022-05-19'
+extraction_method: lxml
+meta:
+  accession: 0001193125-22-156188
+  form: 8-K
+  items: '5.07'

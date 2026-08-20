@@ -1,0 +1,84 @@
+false 0001393612 0001393612 2024-12-11 2024-12-11
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): December 11, 2024
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+In connection with the merger (the “Merger”) contemplated by the previously announced Agreement and Plan of Merger (the “Merger Agreement”) by and among Discover Financial Services (the “Company”), Capital One Financial Corporation (“Capital One”) and Vega Merger Sub, Inc., certain employees of the Company (including certain of its named executive officers) may become entitled to payments and benefits that may be treated as “excess parachute payments” within the meaning of Sections 280G and 4999 of the Internal Revenue Code of 1986, as amended (the “Tax Provisions”). To mitigate the potential impact of the Tax Provisions on the Company and its impacted employees, on December 11, 2024, as contemplated by the terms of the Merger Agreement, the Compensation and Human Capital Committee of the Board of Directors of the Company and Discover Bank (the “Committee”) approved the payment or settlement in December 2024 of certain earned incentive amounts that would otherwise have been payable in the ordinary course in the first half of fiscal year 2025.
+
+Namely, the Committee approved the following actions with respect to certain employees: (1) payment in December 2024 of a portion of the annual cash incentive awards earned in respect of the 2024 fiscal year (the “2024 Bonus”) under the Company’s short-term incentive program that would otherwise have been payable in the first quarter of fiscal year 2025, including to John T. Greene ($1,394,663), Daniel P. Capozzi ($1,394,663) and Keith E. Toney ($1,009,125); (2) acceleration of the vesting and settlement into December 2024 of Performance Stock Units (“PSUs”) awarded in 2022 in respect of the 2022-2024 performance period and scheduled to vest and be settled in the first quarter of fiscal year 2025 (the “2022 PSUs”), with vesting and settlement based on actual performance, including to Messrs. Greene (12,109 PSUs), Capozzi (13,705 PSUs) and Toney (8,453 PSUs); and (3) acceleration of the vesting and settlement into December 2024 of the portion of the Restricted Stock Units awarded in 2024 that is scheduled to vest and be settled in the first half of fiscal year 2025 (the “RSUs”), including to Messrs. Greene (14,302 RSUs), Capozzi (8,871 RSUs) and Toney (6,571 RSUs).
+
+Prior to effectuating the actions described above, each applicable employee will enter into a letter agreement (the “Repayment Agreement”), which provides that (1) the accelerated payment of the 2024 Bonus will be subject to repayment by the applicable individual upon a resignation of employment without good reason or termination for cause (each as defined in the Company’s Change in Control Severance Policy, and each such termination event, a “Non-Qualifying Termination”) prior to February 14, 2025, subject to any applicable exceptions in the Company’s policies and procedures, including the Year-End Incentive Standard; and (2) the accelerated vesting and settlement of the 2022 PSUs and the RSUs will be subject to repayment by the applicable individual upon a Non-Qualifying Termination prior to the originally-scheduled vesting date of the 2022 PSUs and RSUs, as applicable. In addition, the 2024 Bonus and 2022 PSUs remain subject to clawback under the Company’s Compensation Recoupment Policy and any other clawback or recoupment policy in effect.
+
+The foregoing summary does not purport to be complete and is qualified in its entirety by reference to the complete text of the Repayment Agreement, a form of which will be filed with the Company’s Annual Report on Form 10-K for the year ended December 31, 2024.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: December 13, 2024 |  |  |  | By: |  | /s/ Efie Vainikos
+ |  |  |  | Name: |  | Efie Vainikos
+ |  |  |  | Title: |  | Assistant Secretary
+[/TABLE]

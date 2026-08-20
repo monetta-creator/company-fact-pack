@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2016-06-15_0000927628-16-000176
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-06-15 (period 2016-06-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000176/maycreditmetricsform8-k.htm
+retrieved_at: '2026-08-20T02:55:09Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: maycreditmetricsform8-k.htm
+  role: raw
+  sha256: 0fae65267c2af19145485cc6f8ada4c8a22d61a70bc508641e1d165b1b90388d
+  size: 38982
+  stored: corpus
+- name: maycreditmetricsexhibit991.htm
+  role: exhibit
+  sha256: 74de9532d903ac0156ed7227b11d389ed176853e2e1d9d95c5548bd23b074fda
+  size: 34278
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 28d79a57ecc95851a421842234b433b73ade409f2712fd150b0ad102a0cad1b1
+  size: 5727
+  stored: corpus
+filed_date: '2016-06-15'
+period_end: '2016-06-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000176
+  form: 8-K
+  items: 7.01,9.01

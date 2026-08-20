@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2025-12-19_0001193125-25-326465
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2025-12-19 (period 2025-12-18)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312525326465/d24119d8k.htm
+retrieved_at: '2026-08-20T02:57:36Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d24119d8k.htm
+  role: raw
+  sha256: b725ab129ec6f64a26978e8e68da06cbfa2d50828e6944339b0a8e1599b04a0f
+  size: 46269
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4b9c561477ee74867bb62428a0412c70ef2726c7719784a3a88a640bc0828c42
+  size: 12452
+  stored: corpus
+filed_date: '2025-12-19'
+period_end: '2025-12-18'
+extraction_method: lxml
+meta:
+  accession: 0001193125-25-326465
+  form: 8-K
+  items: 8.01,9.01

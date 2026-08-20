@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2020-05-01_0000927628-20-000175
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-05-01 (period 2020-04-29)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762820000175/a8-kdividendsxapril292.htm
+retrieved_at: '2026-08-20T02:54:33Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsxapril292.htm
+  role: raw
+  sha256: ff6d06409c9c7e6f3df3f5ed708d33348867ecc6c4321896ff7c0be6209d51fe
+  size: 59066
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 3b8e0c628e3515144accbcbe44a27c42b7bab8bf7b6f02cd17fbb110444fcbaf
+  size: 6170
+  stored: corpus
+filed_date: '2020-05-01'
+period_end: '2020-04-29'
+extraction_method: lxml
+meta:
+  accession: 0000927628-20-000175
+  form: 8-K
+  items: 8.01,9.01

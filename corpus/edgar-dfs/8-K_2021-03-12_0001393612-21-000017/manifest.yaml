@@ -1,0 +1,33 @@
+doc_id: edgar-dfs/8-K_2021-03-12_0001393612-21-000017
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2021-03-12 (period 2021-03-12)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361221000017/dfs-20210312.htm
+retrieved_at: '2026-08-20T02:55:36Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20210312.htm
+  role: raw
+  sha256: 0948264d89086ebb471a92a068e0ac215ea46e565f32564bd2e89dc56f8d292a
+  size: 39385
+  stored: corpus
+- name: exhibit99102-28x21.htm
+  role: exhibit
+  sha256: e30a90ae56df21926ab2d4391e5344da395bc4f37fb3d4e5a8e58996e272b330
+  size: 60371
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 504d6eace879d287c7a94b2c0a56401f66786cd1eda04117772b19656057bba1
+  size: 7691
+  stored: corpus
+filed_date: '2021-03-12'
+period_end: '2021-03-12'
+extraction_method: lxml
+meta:
+  accession: 0001393612-21-000017
+  form: 8-K
+  items: 7.01,9.01

@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2018-12-18_0000927628-18-000340
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-12-18 (period 2018-12-17)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000340/a8-kdated12182018.htm
+retrieved_at: '2026-08-20T02:54:45Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdated12182018.htm
+  role: raw
+  sha256: ce4a2ff75016eb149cce4fca59c13606d2760f3e24a4267d9d7203384aca7acb
+  size: 39811
+  stored: corpus
+- name: exhibit991-pressreleasex12.htm
+  role: exhibit
+  sha256: eebf1ba3b50a9c62d850521d753755c894b8e1e47619e53b1332112b84015686
+  size: 8685
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c0043bb0f0a62583f2680bf85708da97246c09d5de5019379ab4d30082934d51
+  size: 7726
+  stored: corpus
+filed_date: '2018-12-18'
+period_end: '2018-12-17'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000340
+  form: 8-K
+  items: 5.02,9.01

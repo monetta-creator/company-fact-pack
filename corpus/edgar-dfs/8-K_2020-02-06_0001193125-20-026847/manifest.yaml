@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/8-K_2020-02-06_0001193125-20-026847
+source: edgar-dfs
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-02-06 (period 2020-02-06)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312520026847/d882596d8k.htm
+retrieved_at: '2026-08-20T02:55:42Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d882596d8k.htm
+  role: raw
+  sha256: 72658fad9bf9a09457ebb3bedbd0577bf6cde92f58b9cfa9624762f23e6804d1
+  size: 29365
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 350702421b014e0f1b5afa2d619c91fa3ae07cba0211db80205a6881c4364036
+  size: 5159
+  stored: corpus
+filed_date: '2020-02-06'
+period_end: '2020-02-06'
+extraction_method: lxml
+meta:
+  accession: 0001193125-20-026847
+  form: 8-K
+  items: 2.03,9.01

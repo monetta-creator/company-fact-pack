@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/425_2024-10-16_0001393612-24-000056
+source: edgar-dfs
+source_tier: A
+doc_type: '425'
+title: 425 filed 2024-10-16
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361224000056/a3q24earnings8k.htm
+retrieved_at: '2026-08-20T02:33:36Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: a3q24earnings8k.htm
+  role: raw
+  sha256: f940c2333f574c45004c71462519e6961106467474030a6c6347555167384ea5
+  size: 27166
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e301e93c0713968c5f1b52450cf0e5080e3aa8dd5fd70bd4812d167b82835915
+  size: 4183
+  stored: corpus
+filed_date: '2024-10-16'
+period_end: null
+extraction_method: lxml
+meta:
+  accession: 0001393612-24-000056
+  form: '425'
+  items: ''

@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2026-05-07_0000927628-26-000048
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2026-05-07 (period 2026-03-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762826000048/cof-20260331.htm
+retrieved_at: '2026-08-20T02:30:58Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20260331.htm
+  role: raw
+  sha256: a7c10248c0ef4ea295f78a289716930616a7f4c8c1bd4f8fa286602fe99fca45
+  size: 6553319
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 25eb731deceb20cde3417d688a248fabee9049aea239cf67a31c27f34c99e8b2
+  size: 570716
+  stored: corpus
+filed_date: '2026-05-07'
+period_end: '2026-03-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-26-000048
+  form: 10-Q
+  items: ''

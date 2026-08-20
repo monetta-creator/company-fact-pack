@@ -1,0 +1,149 @@
+false 0000927628 0000927628 2024-02-28 2024-02-28 0000927628 us-gaap:CommonStockMember 2024-02-28 2024-02-28 0000927628 cof:SeriesIPreferredStockMember 2024-02-28 2024-02-28 0000927628 cof:SeriesJPreferredStockMember 2024-02-28 2024-02-28 0000927628 cof:SeriesKPreferredStockMemberMember 2024-02-28 2024-02-28 0000927628 cof:SeriesLPreferredStockMemberMember 2024-02-28 2024-02-28 0000927628 cof:SeriesNPreferredStockMember 2024-02-28 2024-02-28 0000927628 cof:SeniorNotesDue2024Member 2024-02-28 2024-02-28 0000927628 cof:SeniorNotesDue2029Member 2024-02-28 2024-02-28
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+February 28, 2024
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangement of Certain Officers.
+
+(d) On February 28, 2024, the Board of Directors (the “Board”) of Capital One Financial Corporation (the “Company”) appointed Suni P. Harford to serve as a director, effective April 1, 2024. The size of the Board was increased to thirteen members in connection with the appointment. Ms. Harford has been appointed to serve on the Audit Committee and the Risk Committee of the Board and will stand for election by the Company’s stockholders at the Annual Meeting of Stockholders in May 2024.
+
+Ms. Harford was not selected as a director pursuant to any arrangement or understanding between her and any other person and there are no related party transactions between the Company and Ms. Harford. She will receive compensation for her service on the Board in accordance with the standard compensatory arrangement described in the Company’s proxy statement filed on March 22, 2023 for non-employee directors, pro-rated for service until the Annual Meeting of Stockholders in May 2024.
+
+Item 7.01 Regulation FD Disclosure.
+
+On February 29, 2024, the Company issued a press release announcing the appointment of Ms. Harford to the Board. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+Note: Information in this report furnished pursuant to Item 7.01 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly stated by specific reference in such filing. This report will not be deemed an admission as to the materiality of any information in the report that is required to be disclosed solely by Regulation FD.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated February 2 9 , 2024
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: February 29, 2024 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99.1 2 exhibit991-pressreleasedat.htm EX-99.1 Document created using Wdesk Copyright 2024 Workiva Document
+
+Exhibit 99.1
+
+ |  |  | Media Release Media Contact Angela Solomon Angela.Solomon@capitalone.com
+
+Suni Harford to Join the Capital One Board of Directors
+
+Harford Brings Extensive Banking and Risk Management Experience to the Capital One Board
+
+McLean, VA - February 29, 2024 - Capital One Financial Corporation (NYSE: COF), today announced that seasoned financial services industry executive Suni P. Harford has been appointed to the company’s Board of Directors, effective April 1, 2024. Ms. Harford will stand for election to the Board by Capital One shareholders in May 2024. As a member of the Board, Ms. Harford will serve on the Audit Committee and Risk Committee.
+
+Ms. Harford brings more than 30 years of risk management, compliance, and banking experience as a senior executive at global financial institutions. Most recently, Ms. Harford served as President of UBS Asset Management as well as Chair of UBS Asset Management’s Executive Committee and Risk Committee. While at UBS, Ms. Harford also served as the UBS Group Executive Board Lead for the firm's sustainability and impact efforts. Ms. Harford joined UBS in 2017 as the Head of Investments where she was responsible for the investment teams for traditional asset classes and UBS O’Connor, a multi-strategy hedge fund.
+
+Prior to joining UBS, Ms. Harford worked at Citigroup for almost 25 years, most recently as the Regional Head of Markets for North America. Ms. Harford was also a member of Citibank’s Pension Plan Investment Committee and a director on the board of Citibank Canada.
+
+“I am thrilled to welcome Suni to our Board of Directors," said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer of Capital One. “Suni has deep experience in banking, having worked for more than three decades supporting clients in the United States and internationally for some of the largest and most sophisticated institutions.
+
+She has a proven ability to navigate the opportunities and risks in our industry, and brings a can-do attitude and reverence for rigorous and open problem-solving that will be valuable to our Board. I look forward to serving with her for years to come."
+
+Ms. Harford served as a co-chair of the World Economic Forum Global Future Council on Investing and has held seats on the board of several industry associations, including the Depository Trust and Clearing Corporation and the Securities Industry Financial Management Association. She has been named the Chair of the Bob Woodruff Foundation’s Board of Directors. She is also a founding sponsor of Veterans on Wall Street, a coalition of major financial services firms established to support military veterans and their transition into the financial services industry. She is involved in many organizations in this regard and received the Outstanding Civilian Service Award from the US Army for her efforts.
+
+Learn more about Capital One’s Board of Directors on the Investor Relations Web Page.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $348.4 billion in deposits and $478.5 billion in total assets as of December 31, 2023. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol "COF" and is included in the S&P 100 index.
+
+Learn more about Capital One by visiting www.capitalone.com/about/
+
+###

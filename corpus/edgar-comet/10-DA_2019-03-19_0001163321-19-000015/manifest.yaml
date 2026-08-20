@@ -1,0 +1,28 @@
+doc_id: edgar-comet/10-DA_2019-03-19_0001163321-19-000015
+source: edgar-comet
+source_tier: A
+doc_type: 10-D/A
+title: 10-D/A filed 2019-03-19 (period 2019-02-28)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332119000015/form10-dafeb2019.htm
+retrieved_at: '2026-08-20T02:57:16Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dafeb2019.htm
+  role: raw
+  sha256: 8cb2ff01bdf75c09eeb7dbff38b0bc81a8053a78696165bfd6cbb197de19020e
+  size: 39581
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cfd107a9db586549ac965239643bd4dcf67fa6072083e382e0312756f2a18eaf
+  size: 4001
+  stored: corpus
+filed_date: '2019-03-19'
+period_end: '2019-02-28'
+extraction_method: lxml
+meta:
+  accession: 0001163321-19-000015
+  form: 10-D/A
+  items: ''

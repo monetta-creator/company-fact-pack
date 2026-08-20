@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2016-10-27_0001393612-16-000100
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2016-10-27 (period 2016-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361216000100/dfs930201610q.htm
+retrieved_at: '2026-08-20T02:34:42Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs930201610q.htm
+  role: raw
+  sha256: 4ca05cc64b09c7ac9c9675349584c98de9bb014fe68d0a1e6f2d12296cd3e301
+  size: 3543270
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 794747ecfcc40186158380783f8eb4d37ae480c393cdbd995b82d4b450ecf117
+  size: 303531
+  stored: corpus
+filed_date: '2016-10-27'
+period_end: '2016-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001393612-16-000100
+  form: 10-Q
+  items: ''

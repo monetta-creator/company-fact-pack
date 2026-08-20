@@ -1,0 +1,228 @@
+8-K 1 d24119d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) December 18,
+2025
+
+[TABLE]
+Commission File Number: |  | Commission File Number: |  | Commission File Number:
+333-141703-02 |  | 000-23108 |  | 333-205455
+[/TABLE]
+
+[TABLE]
+Central Index Key Number: |  | Central Index Key Number: |  | Central Index Key Number:
+0001407200 |  | 0000894329 |  | 0001645731
+[/TABLE]
+
+[TABLE]
+DISCOVER CARD
+ EXECUTION NOTE TRUST |  | DISCOVER CARD
+ MASTER TRUST I |  | DISCOVER FUNDING LLC
+(Exact name of issuing entity in respect
+ of the notes as specified in
+charter) |  | (Exact name of issuing entity in respect
+ of the Series 2007-CC Collateral Certificate) |  | (Exact name of depositor as specified in charter)
+[/TABLE]
+
+[TABLE]
+Delaware |  | Delaware |  | Delaware
+(State or jurisdiction of
+ incorporation or organization of
+the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization of
+the issuing entity) |  | (State or jurisdiction of
+ incorporation or organization of
+the depositor)
+[/TABLE]
+
+c/o Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | c/o Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713 |  | Discover Funding LLC
+ 800 Prides Crossing Suite
+100 Newark, Delaware
+ 19713
+
+(Address of principal executive offices
+ of the issuing entity) |  | (Address of principal executive offices
+ of the issuing entity) |  | (Address of principal executive offices
+ of the depositor)
+
+47-4047337
+
+(IRS Employer Identification No.
+
+of the depositor)
+
+Central Index Key Number of Sponsor:
+
+0000047288
+
+CAPITAL ONE, NATIONAL ASSOCIATION
+
+(Exact name of the sponsor as specified in its charter)
+
+[TABLE]
+National banking association |  | 1680 Capital One Drive
+ McLean, Virginia |  | 22102
+(State or jurisdiction of incorporation or organization of the sponsor) |  | (Address of Principal Executive Office) |  | (Zip Code)
+[/TABLE]
+
+(703) 720-3148
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report:
+
+N/A
+
+Check the appropriate box
+below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+[ ] | Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+[ ] | Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+[ ] | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of each exchange on which registered
+N/A |  | N/A |  | N/A
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+ |  |  |  | Emerging growth company |  | ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+2
+
+Section 8 – Other Events.
+
+Item 8.01. | Other Events.
+
+DCENT Defeasance Amendments
+
+On
+December 18, 2025, the following program agreements relating to the Discover Card Master Trust I (“DCMT”) and Discover Card Execution Note Trust (“DCENT”) issuance platform were amended:
+
+ | • |  | DCENT, as issuer (the “Issuer”), and U.S. Bank Trust Company, National Association
+(“USBTC”), as indenture trustee for DCENT (in such capacity, the “Indenture Trustee”), entered into Amendment No. 1 to Second Amended and Restated Indenture (the “Indenture Amendment”).
+
+The Indenture Amendment provides for (i) the defeasance of any or all outstanding series, classes, or tranches of notes
+issued by Discover Card Execution Note Trust and (ii) in connection with any such defeasance, the cancellation of any subordinated notes held by Discover Funding LLC or any of its affiliates that, taken in the aggregate, provide credit
+enhancement solely for the benefit of notes belonging to any such defeased series, class, or tranche of notes.
+
+ | • |  | Discover Funding LLC (“Funding”), as beneficiary (the “Beneficiary”), and Wilmington
+Trust Company (“WTC”), as owner trustee for DCENT (in such capacity, the “Owner Trustee”), entered into Amendment No. 1 to Second Amended and Restated Trust Agreement (the “Trust Agreement Amendment”).
+
+The Trust Agreement Amendment addresses DCENT’s purposes and powers in connection with a
+defeasance undertaken in accordance with the Second Amended and Restated Indenture.
+
+ | • |  | Capital One, National Association (“CONA”), as master servicer and servicer, Funding, as
+transferor (the “Transferor”), and USBTC, as trustee for DCMT (in such capacity, the “DCMT Trustee”), entered into Amendment No. 1 to Fourth Amended and Restated Pooling and Servicing Agreement (the PSA Amendment”)
+and Amendment No. 1 to Second Amended and Restated Series 2007-CC Supplement (the “Series Supplement Amendment and, together with the PSA Amendment, the “Pooling and Servicing Agreement
+Amendment” and, together with the Indenture Amendment and the Trust Agreement Amendment, the “DCENT Defeasance Amendments”).
+
+The Pooling and Servicing Agreement Amendment addresses provisions relating to the termination of DCMT and reassignment of the
+portfolio of credit card receivables to Funding in connection with a defeasance undertaken in accordance with the Second Amended and Restated Indenture.
+
+Each of the DCENT Defeasance Amendments is filed as an Exhibit to this current report on
+Form 8 K.
+
+Defeasance of Outstanding DiscoverSeries Class A Notes
+
+On December 18, 2025, after giving effect to the DCENT Defeasance Amendments described above, Funding, as Beneficiary on behalf of DCENT,
+defeased the outstanding DiscoverSeries Class A(2021-2) Notes, Class A(2023-1) Notes, and Class A(2023-2) Notes
+(collectively, the “Class A Notes”) issued by DCENT pursuant to Section 1310 of the Second Amended and Restated Indenture, as amended by the Indenture Amendment, and a Defeasance Agreement, dated as of December 18, 2025
+(the “Defeasance Agreement”), by establishing certain defeasance principal funding accounts and defeasance interest funding accounts in the name of the Indenture Trustee and crediting, or causing to be credited, to such accounts certain
+defeasance collateral.
+
+The defeasance collateral consists of U.S. Treasury bonds, cash, or a combination of both, in an aggregate amount
+that is expected to be sufficient to pay the remaining principal of, and interest on, the Class A Notes in accordance with their terms, as detailed in the DCENT program agreements. A portion of the U.S. Treasury bonds, cash, or a combination of
+both was deposited into dedicated defeasance principal funding accounts and defeasance interest funding accounts established for each tranche of the Class A Notes. Upon completion of the defeasance, the amounts credited to each of these
+segregated funding accounts are the sole source for the scheduled payments of principal of, and interest on, the Class A Notes.
+
+The
+Defeasance Agreement is filed as an Exhibit to this current report on Form 8-K.
+
+Cancellation of DCENT
+Subordinated Notes, Release of Original Collateral from Lien of Indenture, Cancellation of Series 2007-CC Collateral Certificate, Termination of DCMT and Reassignment of DCMT Trust Portfolio to CONA
+
+In connection with the defeasance, Funding, as Beneficiary on behalf of DCENT or as Holder of the DCMT Transferor Certificate (as applicable)
+(i) retired and canceled each subordinated class of DiscoverSeries notes, all of which were held by Funding or its affiliates, pursuant to Section 603 of the Second Amended and Restated Indenture, as amended by the Indenture Amendment;
+(ii) directed the Indenture Trustee to release the original collateral securing DCENT’s obligations with respect to the defeased Class A Notes, including the Series 2007-CC Collateral
+Certificate, which represented a beneficial interest in the portfolio of credit card receivables held by DCMT, from the lien of the Indenture and to transfer such collateral, including the Series 2007-CC Collateral Certificate, to Funding; (iii) canceled the Series 2007-CC Collateral Certificate, surrendered it to the DCMT Trustee pursuant to Section 6.14 of the Fourth Amended and Restated Pooling
+and Servicing Agreement, as amended by the Pooling and Servicing Agreement Amendment, and terminated DCMT and the obligations of the parties to the Pooling and Servicing Agreement, subject to the survival of certain limited obligations, pursuant to
+Article XII of the Fourth Amended and Restated Pooling and Servicing Agreement, as amended by the Pooling and Servicing Agreement Amendment; (iv) directed the reassignment of the portfolio of credit card receivables from DCMT to Funding
+pursuant to a Reassignment and Release, and from Funding to CONA pursuant to a Reconveyance of Receivables; and (v) terminated each of the
+
+program agreements relating to DCMT pursuant to their terms, as acknowledged pursuant to an Omnibus Termination Acknowledgement and a Termination and Consent Agreement with respect to the Asset
+Representations Review Agreement, dated as of December 18, 2025 (“ARRA Termination and Consent Agreement”).
+
+Copies of
+the Reassignment and Release, Reconveyance of Receivables, Omnibus Termination Acknowledgement, and ARRA Termination and Consent Agreement are filed as Exhibits to this current report on Form 8-K.
+
+Section 9 – Financial Statements and Exhibits.
+
+Item 9.01 (d). | Exhibits.
+
+Exhibit Index
+
+Each of the following are
+filed as an Exhibit to this Report.
+
+[TABLE]
+Exhibit Number |  | Description
+Exhibit 4.1 |  | Amendment No. 1 to Second Amended and Restated Indenture, dated as of December 18, 2025, between Discover Card Execution Note Trust and U.S. Bank Trust Company, National Association.
+Exhibit 4.2 |  | Amendment No. 1 to Second Amended and Restated Trust Agreement, dated as of December 18, 2025, between Discover Funding LLC and Wilmington Trust Company.
+Exhibit 4.3 |  | Amendment No. 1 to Fourth Amended and Restated Pooling and Servicing Agreement and Amendment No. 1 to Second Amended and Restated Series Supplement, dated as of December
+18, 2025, among Capital One, National Association, Discover Funding LLC and U.S. Bank Trust Company, National Association.
+Exhibit 4.4 |  | Defeasance Agreement, dated as of December 18, 2025, by and among Discover Card Execution Note Trust, U.S. Bank Trust Company, National Association and U.S. Bank National Association.
+Exhibit 4.5 |  | Reassignment and Release, dated as of December 18, 2025, among Discover Funding LLC, among Discover Funding LLC, Capital One, National Association and U.S. Bank Trust Company, National Association.
+Exhibit 4.6 |  | Reconveyance of Receivables, dated as of December 18, 2025, between Discover Funding LLC and Capital One, National Association.
+[/TABLE]
+
+[TABLE]
+Exhibit 4.7 |  | Termination and Consent Agreement relating to the Asset Representations Review Agreement, dated as of December
+18, 2025, among Discover Card Execution Note Trust, Capital One, National Association, and FTI Consulting, Inc.
+Exhibit 4.8 |  | Omnibus Termination Acknowledgement, dated as of December 18, 2025, among Discover Card Execution Note Trust, Discover Funding LLC and Capital One, National Association.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+DISCOVER FUNDING LLC Acting
+solely in its capacity as depositor of Discover Card Master Trust I and Discover Card Execution Note Trust
+By: |  | /s/ Franco E. Harris
+ |  | Name:  Franco E. Harris
+ |  | Title:   President
+[/TABLE]
+
+December 19, 2025

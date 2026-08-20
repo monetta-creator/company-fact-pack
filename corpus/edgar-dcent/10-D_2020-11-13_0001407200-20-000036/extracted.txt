@@ -1,0 +1,165 @@
+10-D 1 dcent-dcmt10xdx111320.htm FORM 10-D Document created using Wdesk Copyright 2020 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-D
+
+ASSET-BACKED ISSUER
+
+DISTRIBUTION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the monthly distribution period from October 1, 2020 to October 31, 2020
+
+___________________________
+
+[TABLE]
+Commission File Numbers: 333-141703-02; 333-167413; 333-191359; 333-205455-01; 333-228025-02 | Commission File Numbers: 333-141703; 333-167413-02; 333-191359-02; 333-205455-02; 333-228025-01; 000-23108 | Commission File Number: 333-205455; 333-228025 | Commission File Numbers: 333-141703-01; 333-167413-01; 333-191359-01; 033-54804
+Central Index Key Number: 0001407200 | Central Index Key Number: 0000894329 | Central Index Key Number: 0001645731 | Central Index Key Number: 0000894327
+DISCOVER CARD EXECUTION NOTE TRUST | DISCOVER CARD MASTER TRUST I | DISCOVER FUNDING LLC | DISCOVER BANK
+(Exact name of the issuing entity in respect of the Notes as specified in its charter) | (Exact name of the issuing entity in respect of the Series 2007-CC Collateral Certificate) | (Exact name of the depositor as specified in its charter) | (Exact name of the sponsor as specified in its charter)
+Delaware | Delaware | Delaware | Delaware
+(State or jurisdiction of incorporation or organization of the issuing entity) | (State or jurisdiction of incorporation or organization of the issuing entity) | (State or jurisdiction of incorporation or organization of the depositor) | (State or jurisdiction of incorporation or organization of the sponsor)
+c/o Wilmington Trust Company, Rodney Square North 1100 North Market Street, Wilmington, Delaware 19890-0001 | c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 | c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 | 12 Read’s Way New Castle, Delaware 19720
+(Address of principal executive offices of the issuing entity) | (Address of principal executive offices of the issuing entity) | (Address of principal executive offices of the depositor) | (Address of principal executive offices of the sponsor)
+[/TABLE]
+
+Patricia S. Hall,
+
+Vice President, Chief Financial Officer and Treasurer
+
+Discover Funding LLC
+
+(302) 323-7315
+
+(Name and telephone number, including area code, of the person to contact in connection with this filing)
+
+1
+
+51-0020270
+
+(I.R.S. Employer Identification No. of the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of
+
+the depositor)
+
+Registered/reporting pursuant to (check one)
+
+[TABLE]
+Title of class | Section 12(b) | Section 12(g) | Section 15(d) | Name of exchange (If Section 12(b))
+DiscoverSeries Class A Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class B Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class C Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class D Notes | [___] | [___] | [_X_] | [___]
+Credit Card Pass-Through Certificates | [___] | [___] | [_X_] | [___]
+[/TABLE]
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes: [_X_] No: [___].
+
+PART I – DISTRIBUTION INFORMATION
+
+Item 1. Distribution and Pool Performance Information.
+
+The interest of Discover Card Execution Note Trust (the “ Note Issuance Trust ”) in credit card receivables is held solely in the form of an interest in a collateral certificate issued by Discover Card Master Trust I (the “ Master Trust ”). No assets securitized by Discover Bank and held by the Master Trust were the subject of a demand to repurchase or replace for breach of representations and warranties during the monthly distribution period from October 1, 2020 to October 31, 2020. Discover Bank filed its most recent Form ABS-15G on February 5, 2020. The CIK number of Discover Bank is 0000894327.
+
+The information required by Items 1121(a) and 1121(b) of Regulation AB is provided in the reports attached hereto as Exhibits 99.1 and 99.2.
+
+The Master Trust owns receivables in card accounts that have been selected at various times from the aggregate Discover card portfolio. Therefore, the performance of the accounts designated to the Master Trust may differ materially from the performance of the aggregate Discover card portfolio, which consists of all card accounts originated by Discover Bank, including those that have not been designated to the Master Trust.
+
+Item 1A. Asset-Level Information.
+
+Not applicable.
+
+Item 1B. Asset Representations Reviewer and Investor Communication.
+
+Nothing to report.
+
+PART II – OTHER INFORMATION
+
+Item 2. Legal Proceedings.
+
+In the last several years, U.S. Bank National Association (“U.S. Bank”) and other large financial institutions have been sued in their capacity as trustee or successor trustee for certain residential mortgage backed securities ("RMBS") trusts. The complaints, primarily filed by investors or investor groups against U.S. Bank and similar institutions, allege the trustees caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers to comply with the governing agreements for these RMBS trusts. Plaintiffs generally assert causes of action based upon the trustees’ purported failures to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties, notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and abide by a heightened standard of care following alleged events of default.
+
+U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors, that it has meritorious defenses, and it has contested and intends to continue contesting the plaintiffs’ claims vigorously. However, U.S. Bank cannot assure you as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts.
+
+On March 9, 2018, a law firm purporting to represent fifteen Delaware statutory trusts (the “DSTs”) that issued securities backed by student loans (the “Student Loans”) filed a lawsuit in the Delaware Court of Chancery against U.S. Bank National Association (“U.S. Bank”) in its capacities as indenture trustee and successor special servicer, and three other institutions in their respective transaction capacities, with respect to the DSTs and the Student Loans. This lawsuit is captioned The National Collegiate Student Loan Master Trust I, et al. v. U.S. Bank National Association, et al. , C.A. No. 2018-0167-JRS (Del. Ch.) (the “NCMSLT Action”). The complaint, as amended on June 15, 2018, alleged that the DSTs have been harmed as a result of purported misconduct or omissions by the defendants concerning administration of the trusts and special servicing of the Student Loans. Since the filing of the NCMSLT Action, certain Student Loan borrowers have made assertions against U.S. Bank concerning special servicing that appear to be based on certain allegations made on behalf of the DSTs in the NCMSLT Action.
+
+U.S. Bank has filed a motion seeking dismissal of the operative complaint in its entirety with prejudice pursuant to Chancery Court Rules 12(b)(1) and 12(b)(6) or, in the alternative, a stay of the case while other prior filed disputes involving the DSTs and the Student Loans are litigated. On November 7, 2018, the Court ruled that the case should be stayed in its entirety pending resolution of the first-filed cases. On January 21, 2020, the Court entered an order consolidating for pretrial purposes the NCMSLT Action and three other lawsuits pending in the Delaware Court of Chancery concerning the DSTs and the Student Loans, which remains pending.
+
+U.S. Bank denies liability in the NCMSLT Action and believes it has performed its obligations as indenture trustee and special servicer in good faith and in compliance in all material respects with the terms of the agreements governing the DSTs and that it has meritorious defenses. It has contested and intends to continue contesting the plaintiffs’ claims vigorously.
+
+Item 3. Sales of Securities and Use of Proceeds.
+
+Nothing to report.
+
+Item 4. Defaults Upon Senior Securities.
+
+Nothing to report.
+
+Item 5. Submission of Matters to a Vote of Security Holders.
+
+Not applicable.
+
+Item 6. Significant Obligors of Pool Assets.
+
+Not applicable.
+
+Item 7. Change in Sponsor Interest in the Securities.
+
+In accordance with the credit risk retention rules of Regulation RR, Discover Bank, as Sponsor, is required to retain an economic interest in the credit risk of the Master Trust receivables. The Sponsor intends to satisfy this obligation by maintaining a seller’s interest in the Master Trust, calculated in accordance with Regulation RR, that will equal not less than 5% of the aggregate unpaid principal balance of all DiscoverSeries notes, other than any notes that are at all times held by Discover Bank or one or more wholly-owned affiliates of Discover Bank. The required seller’s interest will be held by Discover Funding LLC through holding of the Transferor Interest, which represents an undivided interest in the receivables of the Master Trust that are not represented by outstanding certificates at any given time. The seller’s interest amount and percentage as of the end of the distribution period covered by this Form 10-D is provided in the report attached hereto as Exhibit 99.1.
+
+Item 8. Significant Enhancement Provider Information.
+
+Not applicable.
+
+Item 9. Other Information.
+
+Nothing to report.
+
+Item 10. Exhibits.
+
+Exhibit No. Description
+
+99.1 Series 2007CC Monthly Statement
+
+99.2 DiscoverSeries Monthly Statement
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: November 13, 2020
+
+DISCOVER FUNDING LLC
+
+(as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Numbers 333-205455 and 333-228025)
+
+By: /s/ Patricia S. Hall
+
+Name: Patricia S. Hall
+
+Title: Vice President, Chief Financial Officer and
+
+Treasurer
+
+DISCOVER BANK
+
+(as registrant under Commission File Numbers
+
+333-141703-01, 333-167413-01 and 333-191359-01)
+
+By: /s/ Patricia S. Hall
+
+Name: Patricia S. Hall
+
+Title: Vice President, Chief Financial Officer and
+
+Assistant Treasurer

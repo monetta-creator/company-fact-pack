@@ -1,0 +1,342 @@
+8-K 1 qtrly8-k_dcmtxdcentxasofma.htm 8-K Document created using Wdesk 1 Copyright 2018 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 31, 2018
+
+__________________
+
+[TABLE]
+Commission File Number: 333-141703-02; 333-167413; 333-191359; 333-205455-01 | Commission File Number: 333-141703; 333-167413-02; 333-191359-02; 333-205455-02; 000-23108 | Commission File Number: 333-205455 | Commission File Number: 333-141703-01; 333-167413-01; 333-191359-01; 033-54804
+DISCOVER CARD EXECUTION NOTE TRUST (Exact name of issuing entity in respect of the notes as specified in charter) | DISCOVER CARD MASTER TRUST I (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) | DISCOVER FUNDING LLC (Exact name of depositor as specified in charter) | DISCOVER BANK (Exact name of sponsor as specified in charter)
+Delaware (State or jurisdiction of incorporation or organization of the issuing entity) c/o Wilmington Trust Company Rodney Square North 1100 North Market Street Wilmington, Delaware 19890-0001 (Address of principal executive offices of the issuing entity) | Delaware (State or jurisdiction of incorporation or organization of the issuing entity) c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the issuing entity) | Delaware (State or jurisdiction of incorporation or organization of the depositor) Discover Funding LLC 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the depositor) | Delaware (State or jurisdiction of incorporation or organization of the sponsor) Discover Bank 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the sponsor)
+[/TABLE]
+
+__________________
+
+51-0020270
+
+(IRS Employer Identification No. of
+
+the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of
+
+the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+[ ] | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+[ ] | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[ ] | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+[ ] | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b– 2 of the Securities Exchange Act of 1934 (§ 240.12b–2 of this chapter).
+
+Emerging growth company [ ]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+Item 6.05 Securities Act Updating Disclosure
+
+The tables set forth in Sections A and B of Item 8.01 summarize the trust portfolio by various criteria as of the date specified therein.
+
+Item 8.01 Other Events
+
+Prior to January 1, 2016, Discover Bank transferred Discover Card receivables existing in designated accounts directly to Discover Card Master Trust I (the “Trust”). On and after such date, Discover Bank began and will continue to instead transfer such receivables to Discover Funding LLC pursuant to the Receivables Sale and Contribution Agreement, dated December 22, 2015, between Discover Bank and Discover Funding LLC. Discover Funding LLC has and will continue to transfer the receivables it receives from Discover Bank to the Trust pursuant to the Third Amended and Restated Pooling and Servicing Agreement dated as of December 22, 2015, as amended (the “Pooling and Servicing Agreement”), between Discover Bank, Discover Funding LLC and U.S. Bank National Association, as Trustee. Capitalized terms used in this Item 8.01 and not defined herein shall have the meanings given to them in the Pooling and Servicing Agreement, which is on file with the SEC.
+
+As of March 31, 2018, the Receivables in the Accounts designated for the Trust totaled $29,182,479,563.33 and the total number of Accounts was 15,561,755. Also, as of March 31, 2018, the average account balance was $3,173 (using 9,196,487 active accounts designated for the Trust for which cardmembers had a balance, a monetary transaction, or authorization within the past month), and the average credit limit was $11,786.
+
+A. Current Composition and Distribution of the Accounts
+
+In this Section A, we have set forth additional information below about the Accounts that are designated for the Trust.
+
+Geographic Distribution . As of March 31, 2018, the following nine states had the largest Receivables balances and comprised over 50% of the Receivables:
+
+[TABLE]
+State | Percentage of Total Receivables
+Texas | 8.6%
+California | 8.0%
+New York | 6.5%
+Florida | 5.9%
+Illinois | 5.8%
+Pennsylvania | 5.3%
+Ohio | 4.5%
+New Jersey | 3.7%
+Georgia | 3.0%
+Other States | 48.7%
+Total | 100.0%
+[/TABLE]
+
+Since the largest amounts of outstanding Receivables were with cardmembers whose billing addresses were in Texas, California, New York, Florida, Illinois, Pennsylvania, Ohio, New Jersey and Georgia, adverse changes in the business or economic conditions in these states could have an adverse effect on the performance of the Receivables.
+
+Credit Limit Information . As of March 31, 2018, the Accounts had the following credit limits:
+
+[TABLE]
+Credit Limit | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables |  | Number of Accounts |  | Percentage of Total Accounts
+Less than or equal to $5,000.00 | $ | 1,109,880 |  |  | 3.8 | % |  | 2,273,692 |  | 14.6 | %
+$5,000.01 to $10,000.00 | $ | 3,721,485 |  |  | 12.7 | % |  | 3,786,283 |  | 24.3 | %
+$10,000.01 to $15,000.00 | $ | 6,790,610 |  |  | 23.3 | % |  | 5,712,018 |  | 36.7 | %
+Over $15,000.00 | $ | 17,560,505 |  |  | 60.2 | % |  | 3,789,762 |  | 24.4 | %
+Total | $ | 29,182,480 |  |  | 100.0 | % |  | 15,561,755 |  | 100.0 | %
+[/TABLE]
+
+Account Balance Information . As of March 31, 2018, the Accounts had the following balances:
+
+[TABLE]
+Account Balance | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables |  | Number of Accounts |  | Percentage of Total Accounts
+Credit Balance | $ | (35,832 | ) |  | -0.1 | % |  | 483,084 |  | 3.1 | %
+No Balance | $ | 0 |  |  | 0.0 | % |  | 6,912,607 |  | 44.4 | %
+$0.01 to $5,000.00 | $ | 7,381,641 |  |  | 25.3 | % |  | 6,137,788 |  | 39.5 | %
+$5,000.01 to $10,000.00 | $ | 7,721,060 |  |  | 26.4 | % |  | 1,071,343 |  | 6.9 | %
+$10,000.01 to $15,000.00 | $ | 6,794,460 |  |  | 23.3 | % |  | 552,406 |  | 3.5 | %
+Over $15,000.00 | $ | 7,321,151 |  |  | 25.1 | % |  | 404,527 |  | 2.6 | %
+Total | $ | 29,182,480 |  |  | 100.0 | % |  | 15,561,755 |  | 100.0 | %
+[/TABLE]
+
+Seasoning . As of March 31, 2018, 99.7% of the Accounts were at least 24 months old. The ages of the Accounts as of March 31, 2018 were distributed as follows:
+
+[TABLE]
+Age of Accounts | Percentage of Total Accounts |  | Percentage of Total Receivables
+Less than 12 Months | 0.0 | % |  | 0.0 | %
+12 to 23 Months | 0.3 | % |  | 0.4 | %
+24 to 35 Months | 1.4 | % |  | 1.7 | %
+36 to 47 Months | 1.3 | % |  | 1.5 | %
+48 to 59 Months | 1.2 | % |  | 1.3 | %
+60 Months and Greater | 95.8 | % |  | 95.1 | %
+Total | 100.0 | % |  | 100.0 | %
+[/TABLE]
+
+Delinquency Information . As of March 31, 2018, the Accounts in the Trust had the following delinquency statuses:
+
+[TABLE]
+Delinquency Status | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables
+Total Receivables | $ | 29,182,480 |  |  | 100.00 | %
+Receivables Delinquent: |  |  |
+30 to 59 Days | $ | 153,774 |  |  | 0.53 | %
+60 to 89 Days | $ | 111,193 |  |  | 0.38 | %
+90 to 119 Days | $ | 97,013 |  |  | 0.33 | %
+120 to 149 Days | $ | 84,290 |  |  | 0.29 | %
+150 to 179 Days | $ | 79,672 |  |  | 0.27 | %
+180 Days and Greater | $ | 0 |  |  | 0.00 | %
+Total Delinquent | $ | 525,942 |  |  | 1.80 | %
+[/TABLE]
+
+[TABLE]
+Delinquency Status | Number of Accounts |  | Percentage of Total Accounts
+Total Accounts | 15,561,755 |  | 100.00 | %
+Accounts Delinquent: |  |  |
+30 to 59 Days | 21,323 |  | 0.14 | %
+60 to 89 Days | 14,707 |  | 0.09 | %
+90 to 119 Days | 12,529 |  | 0.08 | %
+120 to 149 Days | 9,931 |  | 0.06 | %
+150 to 179 Days | 9,123 |  | 0.06 | %
+180 Days and Greater | 0 |  | 0.00 | %
+Total Delinquent | 67,613 |  | 0.43 | %
+[/TABLE]
+
+Distribution of the Accounts by FICO® Score . A FICO® score is a measurement derived from a proprietary credit scoring method owned by Fair Isaac Corporation to determine the likelihood that credit users will pay their bills. Although Fair Isaac Corporation discloses only limited information about the variables it uses to assess credit risk, those variables likely include, but are not limited to, debt level, credit history, payment patterns (including delinquency experience), and level of utilization of available credit. FICO ® scores for any one individual may be determined by up to three independent credit bureaus. In determining whether to grant credit to a potential account holder, Discover Bank uses a FICO ® score as reported by one particular credit bureau. Therefore, certain FICO ® scores for an individual account holder based upon information collected by other credit bureaus could be different from the FICO ® score used by Discover Bank. FICO ® scores of an individual may change over time, depending on the conduct of the individual, including the individual’s usage of his or her available credit, and changes in credit score technology used by Fair Isaac Corporation.
+
+FICO ® scores are based on independent, third-party information, the accuracy of which we cannot verify. Discover Bank does not use standardized credit scores, such as a FICO ® score, alone to determine the credit limit or other terms that are approved or applied on an account. Rather, a FICO ® score is one of many factors used by Discover Bank to assess an individual’s credit and default risk prior to initially approving an account or changing the terms of an account. To the extent available, FICO ® scores are generally obtained at origination of the account and monthly or quarterly thereafter. Because the composition of the Accounts designated for the Trust may change over time, this table is not necessarily indicative of FICO ® scores at origination of the Accounts or the composition of the accounts in the Trust at any specific time thereafter.
+
+The following table reflects the Receivables as of March 31, 2018, and the composition of Accounts by FICO ® score as refreshed during March 2018:
+
+[TABLE]
+FICO ® Credit Score Range (1) | Receivables Outstanding ($000) |  | Percentage of Total Receivables
+No Score | $ | 59,615 |  |  | 0.20 | %
+Less than 600 | $ | 1,186,798 |  |  | 4.07 | %
+600 to 659 | $ | 2,806,137 |  |  | 9.62 | %
+660 to 719 | $ | 8,716,580 |  |  | 29.87 | %
+720 and above | $ | 16,413,350 |  |  | 56.24 | %
+Total | $ | 29,182,480 |  |  | 100.00 | %
+[/TABLE]
+
+(1) | FICO® is federally registered service mark of Fair Isaac Corporation.
+
+B. Payment and Balance Reduction Rates
+
+In this Section B, we have set forth additional information regarding payment and other balance reduction experience of the Accounts for the noted periods.
+
+Minimum Monthly Payment and Full Balance Payment Rates . Discover Bank calculates the monthly rate of cardmembers that made payments equal to the contractual monthly minimum payment due (but less than full payment), and the monthly rate of cardmembers that paid the full balance per their statement as a percentage of the total Accounts in each case as of the beginning of the month. The rates below are the monthly rates for the Accounts as of the month ended March 31, 2018.
+
+[TABLE]
+ | Month Ended March 31, 2018
+Minimum Monthly Payment Rate | 7.34%
+Full Balance Payment Rate | 23.15%
+[/TABLE]
+
+Balance Reductions . The Accounts designated for the Trust may have balance reductions granted for a number of reasons, including merchandise refunds, returns, and fraudulent charges. As of the three months ended March 31, 2018, the average monthly balance reduction rate for the Accounts designated for the Trust attributable to such refunds, returns and cardmember fraud was 0.57%.
+
+C. Static Pool Information
+
+The following tables set forth static pool information for the receivables in the Trust for the periods shown. Performance data presented in this Section C reflects only the performance of the accounts that were designated for the Trust during or prior to the specified time period, starting from the date such account was designated for the Trust.
+
+As used in this Section C:
+
+• | Total Receivables Outstanding represents any amounts owed by the obligor, including, without limitation, amounts owed due to cash advances, finance charges, fees, other charges and as payment for goods and services. Total Receivables Outstanding does not include amounts owed under a charged-off account.
+
+• | Total Receivables 30+ Days Delinquent includes principal, finance charges and fees/other charges owed by obligors who are at least 30 days past due.
+
+• | Principal Receivables Outstanding includes all receivables other than Finance Charge Receivables.
+
+• | Finance Charge Receivables includes the net amount billed during the month as periodic finance charges, fees and other charges, in each case, net of write-offs.
+
+• | Net Principal Charge-Offs equals the amount of principal receivables in accounts that became charged-off accounts, net of collections received on previously charged-off principal receivables.
+
+• | Total Payments equals all payments made by or on behalf of the obligors on the accounts received in respect of the Total Receivables Outstanding.
+
+• | Finance Charges and Fees represents the net amount billed in the prior month as periodic finance charges, cash advance item charges, late and other fees, in each case, net of write-offs and including any recoveries of such amounts.
+
+• | Origination Year is the calendar year in which the account was opened.
+
+Total Receivables Outstanding ($000’s) (1)
+
+[TABLE]
+Origination Year | As of March 31, | As of December 31,
+2018 | 2017 | 2016 | 2015 | 2014
+2018 | $ | 0 |  |  |  |  |
+2017 | $ | 0 |  | $ | 0 |  |  |  |
+2016 | $ | 223,588 |  | $ | 228,947 |  | $ | 231,176 |  |  |
+2015 | $ | 488,583 |  | $ | 504,602 |  | $ | 469,355 |  | $ | 0 |  |
+2014 | $ | 446,578 |  | $ | 462,686 |  | $ | 438,247 |  | $ | 0 |  | $ | 0 |
+2013 and prior | $ | 28,023,731 |  | $ | 29,823,124 |  | $ | 30,486,864 |  | $ | 28,873,471 |  | $ | 30,335,279 |
+Total | $ | 29,182,480 |  | $ | 31,019,359 |  | $ | 31,625,642 |  | $ | 28,873,471 |  | $ | 30,335,279 |
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the Trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+30+ Days Delinquency Rates (1)
+
+Delinquency rates are calculated by dividing Total Receivables 30+ Days Delinquent for accounts in an Origination Year by the Total Receivables Outstanding for such Origination Year, both as of the end of the applicable period.
+
+[TABLE]
+Origination Year | As of March 31, | As of December 31,
+2018 | 2017 | 2016 | 2015 | 2014
+2018 | 0.00% |  |  |  |
+2017 | 0.00% | 0.00% |  |  |
+2016 | 4.64% | 4.64% | 2.45% |  |
+2015 | 4.26% | 4.39% | 3.36% | 0.00% |
+2014 | 3.64% | 3.74% | 3.73% | 0.00% | 0.00%
+2013 and prior | 1.71% | 1.62% | 1.54% | 1.37% | 1.48%
+Total | 1.80% | 1.72% | 1.60% | 1.37% | 1.48%
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the Trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+Principal Receivables Outstanding – Average Beginning of Month Balances ($000’s) (1)
+
+[TABLE]
+ | Three Months Ended March 31, | Twelve Months Ended December 31,
+Origination Year | 2018 | 2017 | 2016 | 2015 | 2014
+2018 | $ | 0 |  |  |  |  |
+2017 | $ | 0 |  | $ | 0 |  |  |  |
+2016 | $ | 224,961 |  | $ | 215,097 |  | $ | 105,167 |  |  |
+2015 | $ | 493,737 |  | $ | 467,839 |  | $ | 226,848 |  | $ | 0 |  |
+2014 | $ | 452,417 |  | $ | 433,953 |  | $ | 205,599 |  | $ | 0 |  | $ | 0 |
+2013 and prior | $ | 28,670,587 |  | $ | 28,784,858 |  | $ | 28,274,962 |  | $ | 28,296,628 |  | $ | 29,320,054 |
+Total | $ | 29,841,702 |  | $ | 29,901,747 |  | $ | 28,812,576 |  | $ | 28,296,628 |  | $ | 29,320,054 |
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the Trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+Net Charge-Off Rates (1)
+
+Monthly net charge-off rates are calculated for each Origination Year by dividing the Net Principal Charge-Offs for each month by Principal Receivables Outstanding as of the beginning of the month multiplied by twelve. The rates below are the average of the monthly net charge-off rates for the periods indicated.
+
+[TABLE]
+ | Three Months Ended March 31, | Twelve Months Ended December 31,
+Origination Year | 2018 | 2017 | 2016 | 2015 | 2014
+2018 | 0.00 | % |  |  |  |
+2017 | 0.00 | % | 0.00 | % |  |  |
+2016 | 7.58 | % | 5.77 | % | 1.58 | % |  |
+2015 | 7.23 | % | 6.26 | % | 4.61 | % | 0.00 | % |
+2014 | 5.84 | % | 5.80 | % | 5.70 | % | 0.00 | % | 0.00 | %
+2013 and prior | 2.10 | % | 1.96 | % | 1.66 | % | 1.64 | % | 1.76 | %
+Total | 2.29 | % | 2.11 | % | 1.71 | % | 1.64 | % | 1.76 | %
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the master trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+Monthly Payment Rates (1)
+
+Monthly payment rates are calculated for each Origination Year by dividing Total Payments for each month by Receivables Outstanding as of the beginning of the month. The rates below are the average of the monthly payment rates for the periods indicated.
+
+[TABLE]
+ | Three Months Ended March 31, | Twelve Months Ended December 31,
+Origination Year | 2018 | 2017 | 2016 | 2015 | 2014
+2018 | 0.00 | % |  |  |  |
+2017 | 0.00 | % | 0.00 | % |  |  |
+2016 | 14.96 | % | 16.81 | % | 15.95 | % |  |
+2015 | 14.50 | % | 15.07 | % | 17.04 | % | 0.00 | % |
+2014 | 14.40 | % | 14.41 | % | 14.88 | % | 0.00 | % | 0.00 | %
+2013 and prior | 22.75 | % | 22.59 | % | 22.64 | % | 22.93 | % | 22.80 | %
+Total | 22.42 | % | 22.31 | % | 22.53 | % | 22.93 | % | 22.80 | %
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the Trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+Yield (1)
+
+Monthly yield rates are calculated for each Origination Year by dividing the Finance Charges and Fees for each month by Principal Receivables Outstanding as of the beginning of the month multiplied by twelve. The rates below are the average of the monthly yields for the periods indicated. The table below also sets forth the total average yield including interchange for the total Trust. Interchange amounts are not available per Origination Year.
+
+[TABLE]
+ | Three Months Ended March 31, | Twelve Months Ended December 31,
+Origination Year | 2018 | 2017 | 2016 | 2015 | 2014
+2018 | 0.00 | % |  |  |  |
+2017 | 0.00 | % | 0.00 | % |  |  |
+2016 | 16.65 | % | 10.72 | % | 2.14 | % |  |
+2015 | 15.80 | % | 15.74 | % | 9.41 | % | 0.00 | % |
+2014 | 15.36 | % | 15.10 | % | 15.71 | % | 0.00 | % | 0.00 | %
+2013 and prior | 14.58 | % | 14.33 | % | 14.22 | % | 14.04 | % | 14.05 | %
+Total Average Yield | 14.64 | % | 14.34 | % | 14.16 | % | 14.04 | % | 14.05 | %
+Total Average Yield Including Interchange | 18.58 | % | 18.53 | % | 18.40 | % | 18.21 | % | 18.18 | %
+[/TABLE]
+
+_______________
+
+(1) Additional accounts were last designated for the Trust as of July 1, 2016, with the previous such designation as of October 1, 2008.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: April 16, 2018 |
+ | Discover Funding LLC (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Number 333-205455) By: /s/ Michael F. Rickert Michael F. Rickert Vice President, Chief Financial Officer and Treasurer
+ | Discover Bank (as registrant under Commission File Numbers 333-141703-01, 333-167413-01 and 333-191359-01) By: /s/ Michael F. Rickert Michael F. Rickert Vice President, Chief Financial Officer and Assistant Treasurer
+[/TABLE]

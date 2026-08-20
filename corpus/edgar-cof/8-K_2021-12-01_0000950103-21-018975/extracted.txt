@@ -1,0 +1,138 @@
+Field: Set; Name: xdx; ID: xdx_029_US%2DGAAP%2D2020 Field: Set; Name: xdx; ID: xdx_03D_COF_capitalone.com_20211201 Field: Set; Name: xdx; ID: xdx_045_20211201_20211201 Field: Set; Name: xdx; ID: xdx_05B_edei%2D%2DEntityCentralIndexKey_0000927628 Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DCurrentFiscalYearEndDate_12/31 Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares
+0000927628 false 12/31 0000927628 2021-12-01 2021-12-01 0000927628 us-gaap:CommonStockMember 2021-12-01 2021-12-01 0000927628 COF:SeriesIPreferredStockMember 2021-12-01 2021-12-01 0000927628 COF:SeriesJPreferredStockMember 2021-12-01 2021-12-01 0000927628 COF:SeriesKPreferredStockMember 2021-12-01 2021-12-01 0000927628 COF:SeriesLPreferredStockMember 2021-12-01 2021-12-01 0000927628 COF:SeriesNPreferredStockMember 2021-12-01 2021-12-01 0000927628 COF:Sec0.800PercentSeniorNotesDue2024Member 2021-12-01 2021-12-01 0000927628 COF:Sec1.650PercentSeniorNotesDue2029Member 2021-12-01 2021-12-01 iso4217:USD xbrli:shares iso4217:USD xbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________
+
+FORM 8-K
+
+____________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+December
+1, 2021
+
+Date of Report (Date of earliest event reported)
+
+____________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its
+charter)
+
+____________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital
+One Drive ,
+ McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+[TABLE]
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+(Not applicable)
+ (Former name
+or former address, if changed since last report)
+[/TABLE]
+
+____________________________
+
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.
+below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))
+
+[TABLE]
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. ☐
+
+Field: Page; Sequence: 1
+
+Field: /Page
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change
+in Fiscal Year.
+
+On December 1, 2021, Capital One Financial Corporation (the “Company”)
+filed a Certificate of Elimination to its Restated Certificate of Incorporation with the Secretary of State of the State of Delaware eliminating
+from the Restated Certificate of Incorporation all matters set forth in the Certificate of Designations with respect to its Fixed Rate
+Non-Cumulative Perpetual Preferred Stock, Series G (the “Series G Preferred Stock”) and a Certificate of Elimination to its
+Restated Certificate of Incorporation with the Secretary of State of the State of Delaware eliminating from the Restated Certificate of
+Incorporation all matters set forth in the Certificate of Designations with respect to its Fixed Rate Non-Cumulative Perpetual Preferred
+Stock, Series H (the “Series H Preferred Stock”).
+
+All outstanding shares of the Series G Preferred Stock and the Series
+H Preferred Stock were redeemed on December 1, 2021. Copies of the Certificate of Elimination relating to the Series G Preferred Stock
+and the Certificate of Elimination relating to the Series H Preferred Stock are attached as Exhibit 3.1 and Exhibit 3.2, respectively,
+to this Current Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. | Description
+3.1 | Certificate of Elimination relating to the Series G Preferred Stock, dated December 1, 2021
+3.2 | Certificate of Elimination relating to the Series H Preferred Stock, dated December 1, 2021
+104 | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+Field: Page; Sequence: 2
+
+Field: /Page
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: December 1, 2021 |  | By: | /s/ Matthew W. Cooper
+ |  |  |  | Matthew W. Cooper
+ |  |  |  | General Counsel
+[/TABLE]
+Field: Page; Sequence: 3; Options: Last
+
+Field: /Page

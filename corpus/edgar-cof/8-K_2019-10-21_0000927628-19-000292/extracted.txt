@@ -1,0 +1,162 @@
+false 0000927628 0000927628 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesHPreferredStockMember 2019-10-21 2019-10-21 0000927628 cof:SeniorNotesDue2029Member 2019-10-21 2019-10-21 0000927628 cof:SeriesIPreferredStockMember 2019-10-21 2019-10-21 0000927628 cof:SeniorNotesDue2024Member 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesGPreferredStockMember 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesCPreferredStockMember 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesBPreferredStockMember 2019-10-21 2019-10-21 0000927628 us-gaap:CommonStockMember 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesDPreferredStockMember 2019-10-21 2019-10-21 0000927628 us-gaap:SeriesFPreferredStockMember 2019-10-21 2019-10-21
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+October 21, 2019
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares of Series B Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRP | New York Stock Exchange
+Depositary Shares of Series C Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRC | New York Stock Exchange
+Depositary Shares of Series D Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRD | New York Stock Exchange
+Depositary Shares of Series F Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRF | New York Stock Exchange
+Depositary Shares of Series G Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRG | New York Stock Exchange
+Depositary Shares of Series H Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRH | New York Stock Exchange
+Depositary Shares of Series I Fixed Rate Non-Cumulative Perpetual Preferred Stock (1) | COF PRI | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+(1) Each depositary share represents a 1/40th interest in a share of the respective series of preferred stock
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+On October 21, 2019, Capital One Financial Corporation (the “Company”) issued a press release announcing that it will redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C, $0.01 par value per share (“Series C Preferred Stock”) and the corresponding depositary shares representing fractional interests in the Series C Preferred Stock (“Series C Depositary Shares”). The Company will also redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series D, $0.01 par value per share (“Series D Preferred Stock”) and the corresponding depositary shares representing fractional interests in the Series D Preferred Stock (“Series D Depositary Shares”).
+
+The Series C Depositary Shares (NYSE: COF PRC, CUSIP: 14040H600), each representing a 1/40th interest in a share of Series C Preferred Stock, and the Series D Depositary Shares (NYSE: COF PRD, CUSIP: 14040H709), each representing a 1/40th interest in a share of Series D Preferred Stock, will be redeemed simultaneously with the redemption of the Series C Preferred Stock and Series D Preferred Stock, respectively, in each case at a redemption price of $25 per depositary share (equivalent to $1,000 per share of preferred stock). All 20 million outstanding Series C Depositary Shares, and all 20 million outstanding Series D Depositary Shares, will be redeemed on the dividend payment date of December 2, 2019.
+
+Regular dividends on the outstanding shares of the Series C Preferred Stock and Series D Preferred Stock will be paid separately to holders of record as of the close of business on November 15, 2019, in the customary manner. On and after the redemption date, all dividends on the shares of Series C Preferred Stock and Series D Preferred Stock will cease to accrue.
+
+A copy of the press release is attached as Exhibit 99.1 hereto and incorporated by reference into this Item 8.01.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated October 21, 2019
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: October 21, 2019 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99.1 2 exhibit991-pressreleasedat.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2019 Workiva Exhibit
+
+Exhibit 99.1
+
+[TABLE]
+For Immediate Release: October 21, 2019 |  | Contacts: Investor Relations |  | Media Relations | Media Release
+ |  | Jeff Norris 703.720.2455 | Danielle Dietz 703.720.2455 | Sie Soheili 703.720.3929 | Tatiana Stead 703.720.2352
+[/TABLE]
+
+Capital One Announces Full Redemption of Depositary Shares Representing Interests in Its Series C and Series D Preferred Stock
+
+Full Redemption of Depositary Shares Representing Interests in its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C, and Full Redemption of Depositary Shares Representing Interests in its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series D
+
+McLean, Va., October 21, 2019 – Capital One Financial Corporation (NYSE: COF) today announced that it will redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series C, $0.01 par value per share (“Series C Preferred Stock”), and the corresponding depositary shares representing fractional interests in the Series C Preferred Stock (“Series C Depositary Shares”). Capital One will also redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series D, $0.01 par value per share (“Series D Preferred Stock”), and the corresponding depositary shares representing fractional interests in the Series D Preferred Stock (“Series D Depositary Shares”).
+
+The Series C Depositary Shares (NYSE: COF PRC, CUSIP: 14040H600), each representing a 1/40th interest in a share of Series C Preferred Stock, and the Series D Depositary Shares (NYSE: COF PRD, CUSIP: 14040H709), each representing a 1/40th interest in a share of Series D Preferred Stock, will be redeemed simultaneously with the redemption of the respective Series C Preferred Stock or Series D Preferred Stock, in each case at a redemption price of $25 per depositary share (equivalent to $1,000 per share of preferred stock). All 20 million outstanding Series C Depositary Shares, and all 20 million outstanding Series D Depositary Shares, will be redeemed on the dividend payment date of December 2, 2019.
+
+Regular dividends on the outstanding shares of the Series C Preferred Stock of $15.625 per share (equivalent to $0.390625 per Series C Depositary Share) and regular dividends on the outstanding shares of the Series D Preferred Stock of $16.750 per share (equivalent to $0.41875 per Series D Depositary Share) will be paid separately to holders of record as of the close of business on November 15, 2019, in the customary manner. Accordingly, the redemption price for the Series C Preferred Stock and the redemption price for the Series D Preferred Stock will not include any accrued and unpaid dividends. On and after the redemption date, all dividends on the shares of Series C Preferred Stock and all dividends on the shares of Series D Preferred Stock will cease to accrue.
+
+The Series C Depositary Shares and the Series D Depositary Shares are held through The Depository Trust Company (“DTC”) and will be redeemed in accordance with the procedures of DTC. Payment to DTC for the Series C Depositary Shares and the Series D Depositary Shares will be made by Computershare Trust Company, N.A., as redemption agent, in accordance with the Deposit Agreements that govern the Series C Depositary Shares and Series D Depositary Shares. The address for the redemption agent is as follows:
+
+Computershare Trust Company, N.A.
+
+Attn: Corporate Actions
+
+150 Royall St.
+
+Canton, MA 02021
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed
+
+from time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2018.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $254.5 billion in deposits and $373.6 billion in total assets as of June 30, 2019. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Visit the Capital One newsroom for more Capital One news.
+
+# # #

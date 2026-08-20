@@ -1,0 +1,24 @@
+doc_id: courtlistener/o_discover-financial-services-antitrust
+source: courtlistener
+source_tier: A
+doc_type: litigation-search
+title: 'CourtListener: "Discover Financial Services" antitrust'
+url: https://www.courtlistener.com/api/rest/v4/search/?q="Discover Financial Services"
+  antitrust&type=o
+retrieved_at: '2026-08-20T02:38:52Z'
+entity_ids:
+- dfs
+fetcher: courtlistener v1
+files:
+- name: results.json
+  role: raw
+  sha256: 4eb3007aa6bbfda0f7d2fb7be9d0d598d5dfca0729565c7360583f86c9bae28e
+  size: 50255
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 50e2f7dbd33469b25c3509e17241594463378acd375436664a398725f383073b
+  size: 2320
+  stored: corpus
+meta:
+  result_count: 13

@@ -1,0 +1,149 @@
+false 0000927628 0000927628 2021-11-04 2021-11-04 0000927628 us-gaap:CommonStockMember 2021-11-04 2021-11-04 0000927628 us-gaap:SeriesGPreferredStockMember 2021-11-04 2021-11-04 0000927628 us-gaap:SeriesHPreferredStockMember 2021-11-04 2021-11-04 0000927628 cof:SeriesIPreferredStockMember 2021-11-04 2021-11-04 0000927628 cof:SeriesJPreferredStockMember 2021-11-04 2021-11-04 0000927628 cof:SeriesKPreferredStockMemberMember 2021-11-04 2021-11-04 0000927628 cof:SeriesLPreferredStockMemberMember 2021-11-04 2021-11-04 0000927628 cof:SeriesNPreferredStockMember 2021-11-04 2021-11-04 0000927628 cof:SeniorNotesDue2024Member 2021-11-04 2021-11-04 0000927628 cof:SeniorNotesDue2029Member 2021-11-04 2021-11-04
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+November 4, 2021
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G | COF PRG | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H | COF PRH | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) On November 4, 2021, the Board of Directors (the “Board”) of Capital One Financial Corporation (the “Company”) appointed Christine Detrick to serve as a director, effective November 5, 2021. The size of the Board was increased to thirteen in connection with the appointment. Ms. Detrick has been appointed to serve on the Audit Committee and the Risk Committee of the Board and will stand for election by the Company’s stockholders at the Annual Meeting of Stockholders in May 2022.
+
+Ms. Detrick was not selected as a director pursuant to any arrangement or understanding between her and any other person and there are no related party transactions between the Company and Ms. Detrick. She will receive compensation for her service on the Board in accordance with the standard compensatory arrangement described in the Company’s proxy statement filed on March 24, 2021 for non-employee directors, pro-rated for service until the Annual Meeting of Stockholders in May 2022.
+
+A copy of the Company’s press release announcing the appointment of Ms. Detrick to the Board is attached as Exhibit 99.1 to this Form 8-K and is incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated November 5, 2021
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: November 5, 2021 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99.1 2 exhibit991-pressreleasedat.htm EX-99.1 Document created using Wdesk Copyright 2021 Workiva Document
+
+Exhibit 99.1
+
+ |  | Media Release Contact Sie Soheili Sie.Soheili@CapitalOne.com
+
+For Immediate Release: November 5, 2021
+
+Christine Detrick Joins Capital One Financial’s Board of Directors
+
+Detrick Brings Extensive Financial Services and Business Consulting Expertise to the Capital One Board
+
+McLean, VA - November 5, 2021 - Capital One Financial Corporation (NYSE: COF), today announced that financial services industry veteran Christine Detrick has been appointed to the company’s Board of Directors (Board). Detrick will be submitted for election to the Board by Capital One shareholders in May 2022. As a member of the Board, Ms. Detrick will serve on the Audit Committee and Risk Committee.
+
+Ms. Detrick brings more than 35 years of senior operating and executive leadership experience in the financial services industry as a bank CEO, as a partner with top tier strategy consulting firms, and as an experienced board director. She has deep expertise in the banking and insurance industries and has driven success across a wide array of sectors, including banking, asset management, credit cards, property & casualty and life insurance, payments, and other consumer finance segments.
+
+Most recently, Ms. Detrick served as a Director, Head of the Americas Financial Services Practice, and Senior Advisor at Bain & Company, one of the world’s leading management consulting firms. Prior to Bain, she served as a member of the Global Leadership Team, Board of Management, and Board of Directors at A.T. Kearney, Inc., where she was Global Leader of the Financial Institutions Group (FIG), and Leader of the Eastern United States across all industry sectors.
+
+Further, she was a founding member of First Financial Partners, a private equity firm specializing in savings and loan institutions, and previously served as President and Chief Executive Officer, St. Louis Bank for Savings, among other executive positions.
+
+“Christine brings the wisdom of her diverse set of experiences to our Board, with an impressive blend of executive management and board leadership roles across multiple industries. Her strong strategic mindset has been honed through years of strategy consulting, complemented by hands-on business experience, risk management expertise and elite governance skills,” said Richard D. Fairbank, Founder, Chairman, and Chief Executive Officer of Capital One. “I’m thrilled to have Christine join our board. As Capital One continues to focus on reimagining banking, her ability to see the big picture, along with her sound judgment and deep experience, will serve us well for years to come.”
+
+Ms. Detrick brings a wealth of board governance experience having served as chairs of Nominating and Governance, Compensation, Investments, and Technology Committees. She is currently a member of several boards, including Reinsurance Group of America (RGA), a Fortune 500 public company focused on life and health reinsurance, where she serves as chair of the Nominating and Governance Committee. Additionally, Ms. Detrick sits on the Board of Directors for Hartford Funds and has recently been named Chair of the Board. She also is on the Board of Directors for Charles River Associates, a public global consulting firm offering economic, financial, and strategic expertise.
+
+Learn more about Capital One’s Board of Directors on the Investor Relations Web Page.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $305.9 billion in deposits and $425.4 billion in total assets as of September 30, 2021. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses, and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey, and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Learn more about Capital One by visiting www.capitalone.com/about/
+
+###

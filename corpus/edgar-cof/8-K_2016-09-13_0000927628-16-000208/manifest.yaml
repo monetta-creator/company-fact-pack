@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-09-13_0000927628-16-000208
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-09-13 (period 2016-09-13)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000208/a8-kdated9132016.htm
+retrieved_at: '2026-08-20T02:55:07Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdated9132016.htm
+  role: raw
+  sha256: 0d8800fc20e9317ac3c29107413173002730af16e4a758b23946f8545df46f76
+  size: 27525
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 3b092337c2adc97e74927c7604b5ec352120442835da6bcb44ff4a1f3216ea7a
+  size: 2960
+  stored: corpus
+filed_date: '2016-09-13'
+period_end: '2016-09-13'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000208
+  form: 8-K
+  items: '7.01'

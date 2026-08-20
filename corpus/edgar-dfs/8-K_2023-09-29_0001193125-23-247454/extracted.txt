@@ -1,0 +1,563 @@
+false 0001393612 0001393612 2023-09-25 2023-09-25
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 25, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events.
+
+On September 25, 2023, following the consent of the Board of Directors of Discover Bank, the Federal Deposit Insurance Corporation (“FDIC”) issued the previously disclosed consent order (“consent order”) to Discover Bank, a subsidiary of the Registrant. The consent order addresses shortcomings in Discover Bank’s compliance management system for consumer protection laws and related matters.
+
+As part of the consent order, Discover Bank has agreed to improve its consumer compliance management system and enhance related corporate governance and enterprise risk management practices, and increase the level of Board oversight over such matters. Discover Bank has been taking significant steps to strengthen the organization’s compliance management system and address the other issues identified in the consent order. Management and the Board are committed to ensuring that all of the requirements of the consent order are met. The consent order does not contain any monetary penalties or fines.
+
+As previously noted, the consent order does not address the card product misclassification matter disclosed by the Registrant earlier this year. As regulatory review of the card product misclassification matter is ongoing, additional enforcement actions or other supervisory activity from the FDIC and other regulatory agencies remain possible.
+
+A copy of the consent order is attached as Exhibit 99.1 to this report.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Consent Order between the Federal Deposit Insurance Corporation and Discover Bank dated September 25, 2023
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated September 29, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer,
+ |  |  |  |  |  | General Counsel and Secretary
+[/TABLE]
+
+
+=== EXHIBIT d533221dex991.htm ===
+
+EX-99.1 2 d533221dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+FEDERAL DEPOSIT INSURANCE CORPORATION
+
+WASHINGTON, D.C.
+
+[TABLE]
+ |  | ) |  |
+In the Matter of |  | ) |  |
+ |  | ) |  | CONSENT ORDER
+DISCOVER BANK |  | ) |  |
+GREENWOOD, DELAWARE |  | ) |  |
+ |  | ) |  |
+ |  | ) |  |
+(INSURED STATE NONMEMBER BANK) |  | ) |  | FDIC-23-0014b
+ |  | ) |  |
+ |  | ) |  |
+[/TABLE]
+
+The Federal Deposit Insurance Corporation ( FDIC ) is the appropriate Federal banking agency for Discover
+Bank, Greenwood, Delaware ( Bank ), under section 3(q) of the Federal Deposit Insurance Act ( Act ), 12 U.S.C. § 1813(q).
+
+The FDIC considered the matter and determined, and the Bank neither admits or denies that, as described in the Consumer Compliance Report of
+Examination ( 2021 ROE ) which considered the findings of the FDIC’s October 18, 2021 examination along with Consumer Financial Protection Bureau ( CFPB ) findings during the review period and the results of FDIC visitation
+reports, targeted reviews, and ongoing monitoring conducted during the review period, the Bank engaged in (i) unsafe or unsound banking practices by, among other things, failing to establish and maintain a compliance management system
+( CMS ) providing for compliance with Consumer Protection Laws and Regulations, as defined below, including (a) board of directors ( Board ) and Bank management oversight and commitment, change management, comprehension,
+identification, and management of risk, corrective action and self-identification, and third party risk management; and (b) written policies, procedures, standards, and/or processes (collectively, Procedures ), training, monitoring and
+testing, audit, and consumer complaint response programs designed to prevent, or identify and self-correct violations of all applicable consumer protection laws and/or
+
+1
+
+regulations, including those administered by the CFPB, (collectively, Consumer Protection Laws and Regulations ) and associated consumer harm with internal controls and information systems
+and internal audit systems appropriate to the size of the Bank and the nature, scope and risk of its activities, whether conducted by the Bank or on behalf of the Bank through Third-Party Relationships, as defined below, ( Bank Activities );
+and (ii) violations of, and consumer harm related to, among other things, Section 5 of the Federal Trade Commission Act, 15 U.S.C. § 45(a)(1); Truth-in-Lending Act, 15 U.S.C. § 1601, et seq ., the Servicemembers Civil Relief Act, 50 U.S.C. § 501, et seq ., and the Electronic Records and
+Signatures in Commerce Act, 5 U.S.C. § 7001, et seq. , and related implementing regulations.
+
+The Bank, by and through its duly
+elected and acting Board, has executed a STIPULATION AND CONSENT TO THE ISSUANCE OF A CONSENT ORDER ( CONSENT AGREEMENT ), dated September 25, 2023, that is accepted by the FDIC. With the CONSENT AGREEMENT, the Bank, without admitting or
+denying any charges or unsafe or unsound banking practices or violations of law or regulation, has consented to the issuance of this CONSENT ORDER ( ORDER ) under section 8(b) of the Act, 12 U.S.C. § 1818(b), by the FDIC.
+
+Having determined that the requirements for issuance of an order under section 8(b) of the Act, 12 U.S.C. § 1818(b), have been satisfied,
+the FDIC hereby issues the following ORDER:
+
+CONSENT ORDER
+
+IT IS HEREBY ORDERED that the Bank, its institution-affiliated parties ( IAPs ), as that term is defined in section 3(u) of the Act, 12 U.S.C. §
+1813(u), and its successors and assigns, take the following action:
+
+2
+
+1. Board Requirements
+
+A. Supervision, Direction, Oversight, and
+Monitoring . The Board must immediately and
+
+appropriately increase, commensurate with the size of the Bank and the nature, scope and risk of Bank
+Activities, its supervision and direction of Bank management, and its oversight and monitoring of the Bank’s enterprise risk management framework ( ERM Framework ), corporate governance framework ( CG Framework ), consumer compliance
+program ( CC Program ), and compliance vendor management program ( CVM Program ). The Board must, at a minimum:
+
+1. set and
+clearly communicate expectations regarding ethics and compliance with Consumer Protection Laws and Regulations for the Board, Bank management, staff, and any person associated with a business arrangement between the Bank and another entity, by
+contract or otherwise, including any business arrangements with an entity conducting one or more activities for or on behalf of the Bank and any party performing these services, or a component of these services, for or on behalf of such entity
+(collectively, Third-Party Relationships );
+
+2. ensure that the Bank establishes and maintains a proactive, effective risk-based ERM
+Framework, CC Program and CVM Program;
+
+3. ensure that the Bank maintains one or more compliance officers with appropriate experience and
+expertise and sufficient authority, independence, and suitable resources, both staffing and systems, to enable them to satisfactorily oversee the implementation of the CC Program and the CVM Program and assure the Bank’s compliance with
+Consumer Protection Laws and Regulations;
+
+4. ensure adequate information systems and Procedures are in place to provide the Board with
+timely, relevant and accurate information regarding risks related to potential and identified violations of Consumer Protection Laws and Regulations and incidents that may involve consumer harm in a consistent and readily understandable format at
+regular intervals and enable it to act on such reporting;
+
+3
+
+5. engage in robust consumer compliance-related discussions as part of all full Board and
+appropriate Board committee meetings, and comprehensively and accurately document those discussions in meeting minutes, including a satisfactory summary of matters reviewed, discussion of expectations and any challenges or questions, any specific
+actions taken or to be taken as a result of these consumer compliance-related discussions, including any requirements of or directions to Bank management, and the recording of votes taken with respect to such actions;
+
+6. set clear and measurable expectations for Bank management regarding their (a) ethics and commitment to compliance with Consumer
+Protection Laws and Regulations; (b) leadership across business lines and operations; (c) sound and consistent management of the Bank’s ERM Framework, CC Program and CVM Program; (d) oversight and monitoring of Third-Party
+Relationships providing products, services, and/or conducting other activities either to, through, or on behalf of the Bank, for compliance with Consumer Protection Laws and Regulations; and (e) managing consumer compliance risks to stay within
+the Board’s risk appetite parameters and established risk limits, and establish and maintain Procedures to monitor and regularly evaluate Bank management’s adherence to these Board expectations;
+
+7. have and maintain Procedures to monitor and regularly evaluate the adherence to and effectiveness of the Bank’s ERM Framework, CC
+Program and CVM Program and ensure appropriate revisions are timely made to the ERM Framework, CC Program and/or CVM Program to assure on-going compliance with Consumer Protection Laws and Regulations;
+
+8. ensure the Bank’s internal audit function ( Internal Audit) (a) is appropriate to the size of the Bank and the nature and
+scope of Bank Activities; (b) appropriately considers available risk assessments, studies, reports, including regulatory findings, plans, and/or Procedures related to the Bank’s compliance with Consumer Protection Laws and Regulations; and
+(c) appropriately assesses the Bank’s implementation of and adherence to the Bank’s ERM Framework, CC Program, CVM Program and any other Procedures adopted by the Board related to compliance with Consumer Protection Laws and Regulations
+and any revisions to them; and
+
+4
+
+9. have and maintain Procedures to track actions to (a) eliminate or correct any unsafe
+or unsound banking practices identified and violations of law or regulation cited in reports of examination, visitation reports or supervisory letters; (b) appropriately address any instances of consumer harm and/or any deficiencies or
+weaknesses identified in future reports of examination, visitation reports or supervisory letters; and (c) appropriately address non-compliance with Consumer Protection Laws and Regulations and corrective
+and preventive action for identified deficiencies and weaknesses in the Bank’s ERM Framework, CC Program and/or CVM Program to ensure such corrective actions are implemented in a timely manner and thereafter monitor implementation of and
+adherence to resulting revisions to the ERM Framework, CC Program and/or CVM Program by the Bank.
+
+B. Corrective Action . The Board
+must also ensure that the Bank takes all steps necessary, consistent with other provisions of this ORDER and safe and sound banking practices, to:
+
+1. eliminate or correct, and prevent the unsafe or unsound banking practices and the violations of law or regulation identified in the 2021
+ROE;
+
+2. appropriately address the instances of consumer harm and the deficiencies and weaknesses identified in the 2021 ROE in a timely
+manner; and
+
+3. fully comply with the provisions of this ORDER in a timely manner.
+
+5
+
+2. Corporate Governance
+
+A. Corporate Governance Review . Within 30 days
+from the effective date of this
+
+ORDER, the Bank must submit a proposed engagement letter or contract to the Deputy Regional Director of the FDIC’s
+New York Regional Office ( DRD ) for review, and comment or non-objection in accordance with Paragraph 6 to engage an independent third party acceptable to the DRD to (i) assess whether the CG
+Framework is appropriate to the size of the Bank and the nature, scope and risk of Bank Activities and satisfactorily provides an organizational structure with clear lines of authority and responsibility for monitoring adherence to established
+Procedures, effective risk assessment, timely and accurate reporting and compliance with Consumer Protection Laws and Regulations ( CG Framework Assessment ); (ii) prepare a written report reflecting the findings of the CG Framework assessment
+( CG Framework Report ) at its conclusion. The CG Framework Assessment must, at a minimum, include a review and assessment of the CG Framework Report components required by subparagraph B below. The engagement letter or contract must, at a
+minimum:
+
+1. describe the work to be performed under the engagement letter or contract;
+
+2. provide for unrestricted access to workpapers and personnel of the third party by the FDIC; and
+
+3. require that the CG Framework Assessment be completed and summarized in the CG Framework Report and delivered to the Bank within 120 days
+from the DRD’s non-objection to the proposed engagement letter or contract, with a copy delivered simultaneously to the DRD for review, and comment or non-objection in accordance with Paragraph 6 of this ORDER, the Board’s Governance and Control Committee ( GCC ), the maintenance of which is required by Paragraph 5 of this ORDER, and Internal Audit.
+
+6
+
+B. CG Framework Report . The CG Framework Report must, at a minimum, include:
+
+1. Organizational Chart. An organizational chart detailing the current corporate governance framework for overseeing risk and
+compliance with Consumer Protection Laws and Regulations identifying all Board and Bank committees and any subcommittees (collectively, Committees ), delineating lines of authority and reporting, and noting whether they are a component of the
+ERM Framework, CC Program, CVM Program, Internal Audit, and/or other framework, system, or function ( Current CG Framework );
+
+2. Organizational Documents. A review of the charters, bylaws, and/or other organizational documents (collectively, Organizational Documents ) of the Board and each Committee; Procedures, if any, related to the Board and each Committee and
+how it operates; the delegated authority of each Committee ( Authority ); each Committee’s membership, including the experience, expertise, and proficiency of each member with respect to Consumer Protection Laws and Regulations applicable
+to the Bank ( Membership ); Board meetings and meetings of each Committee, including frequency, length, and how conducted ( Meetings ); meeting documentation, including agenda and ability of members to add agenda items, pre-meeting materials, if any, and minutes of the meeting ( Meeting Documentation ); assigned duties and responsibilities of each Committee ( Assigned Duties ) and assessment of whether (a) the
+Organizational Documents, are appropriate for Assigned Duties; (b) the Authority is appropriate for Assigned Duties, (c) the Membership is appropriate for Assigned Duties; (d) Meetings are appropriate for Assigned Duties;
+(e) Meeting Documentation is sufficiently detailed, timely, consistent and presented in a readily understandable format with significant matters appropriately highlighted for discussion; and (f) Procedures satisfactorily provide for member
+input, communication and escalation of identified risks, concerns, issues and/or violations, and corrective and/or preventive action to appropriately address such risks, concerns, issues and/or violations;
+
+7
+
+3. Current CG Framework. A review and assessment of whether the Current CG Framework,
+including the number, structure, and Assigned Duties of Committees, is appropriate to the size of the Bank and the nature, scope and risk of Bank Activities and satisfactorily enables the Bank to identify, assess, and appropriately mitigate
+compliance risk, monitor and test compliance, correct and prevent violations of Consumer Protection Laws and Regulations and consumer harm, manage corrective and preventive action to appropriately address identified issues, weaknesses and
+deficiencies, and appropriately address regulatory changes, business process changes and/or new initiatives, changes in systems and/or technology, and changes in any other area involving the Bank or the environment in which it operates; and
+
+4. Recommendations. A detailed schedule and description of any deficiencies, weaknesses, issues and/or concerns identified during the
+CG Framework Assessment and recommendations to appropriately address them.
+
+C. CG Framework Plan . Within 60 days from receipt of
+the DRD’s non-objection to the CG Framework Report, the Bank must develop a written plan of action ( CG Framework Plan ) appropriately addressing each recommendation contained in the CG Framework
+Report which includes (i) a time frame for completing the recommended action; (ii) a satisfactory justification as to why the recommended action is not necessary or appropriate; or, (iii) if the Bank prefers an alternative proposal to
+the recommended action, a satisfactory justification for such alternative and a time frame for completing it. The CG Framework Plan must be submitted to the DRD for review, and comment or non-objection in
+accordance with Paragraph 6 of this ORDER. In the event the CG Framework Plan, or any portion thereof, is not implemented or adhered to after its adoption by the Board, the GCC must promptly, but in no instance more than 30 days from such event,
+advise the DRD in writing of the specific reasons for deviating from the CG Framework Plan and the action it will take to address the deviation. The DRD may either provide written non-objection to any such
+deviation or require compliance with the CG Framework Plan.
+
+8
+
+3. Consumer Compliance Program
+
+The Board must ensure that the Bank has a CC Program that (i) is commensurate with its size, and the nature, scope, and risk of Bank
+Activities and satisfactorily provides an organizational structure with clear lines of authority and responsibility for monitoring adherence to established Procedures, effective risk assessment, timely and accurate reporting, and compliance with
+Consumer Protection Laws and Regulations; and (ii) includes appropriate Procedures for each of the CC Program components listed in subparagraphs B below that proactively and effectively assure all Bank Activities comply with Consumer Protection
+Laws and Regulations. The Board must also ensure that the CC Program (i) is reviewed and assessed in accordance with subparagraphs A and B below as of the date on which the reviews and assessments are commenced and that the reviews and
+assessments appropriately consider the deficiencies and weaknesses identified in the 2021 ROE; and (ii) is revised and enhanced in accordance with subparagraph E below.
+
+A. CC Program Review and Assessment . Within 30 days from the effective date of this ORDER, the Bank must submit one or more proposed
+engagement letters or contracts to the DRD for review, and comment or non-objection in accordance with Paragraph 6 to engage one or more independent third parties acceptable to the DRD to (i) assess
+whether the Bank’s (1) consumer compliance risk ( CC Risk Assessment ) and related Procedures ( CC Risk Assessment Procedures ); (2) consumer compliance resources in both the CC Program and CVM Program, including staff ( CC
+Staff Resources ) and software, automated systems and/or other technology ( CC Non-Staff Resources ), and Bank management (collectively, CC Resources ) and related Procedures ( CC Resource
+Assessment Procedures ); (3) monitoring and testing of Bank Activities for compliance with Consumer Protection Laws and Regulations ( CC Monitoring and Testing )
+
+9
+
+and related Procedures ( CC Monitoring and Testing Procedures ); (4) training Procedures regarding compliance with Consumer Protection Laws and Regulations ( CC Training Procedures );
+(5) Procedures related to audits regarding compliance with Consumer Protection Laws and Regulations ( CC Audit Procedures ); and (6) consumer complaint Procedures ( Complaint Procedures ), are commensurate with the size of the Bank
+and the nature, scope and risk of Bank Activities and satisfactorily provide for compliance with Consumer Protection Laws and Regulations ( CC Program Assessment ); and (ii) prepare a written report reflecting the findings of the CC
+Program Assessment ( CC Program Report ) at its conclusion. The independent third party conducting the CC Program Assessment may, after evaluating the adequacy of any prior reviews of the Bank’s CMS completed within the last year and any
+resulting recommendations, consider such reviews and recommendations when conducting the CC Program Assessment and making its recommendations in the CC Program Report. The CC Program Assessment must, at a minimum, review and assess the CC Program
+Report elements required by subparagraph B below, appropriately considering the deficiencies and weaknesses identified in the 2021 ROE. The engagement letter or contract must, at a minimum:
+
+1. describe the work to be performed under the engagement letter or contract;
+
+2. provide for unrestricted access to workpapers and personnel of the third party by the FDIC; and
+
+3. require that the CC Program Assessment be completed and summarized in the CC Program Report and delivered to the Bank within 120 days from
+the DRD’s non-objection to the proposed engagement letter(s) or contract(s), with a copy delivered simultaneously to the DRD for review, and comment or non-objection in accordance with Paragraph 6 of this ORDER, the GCC, and Internal Audit.
+
+10
+
+B. CC Program Report . The CC Program Report must, at a minimum, include:
+
+1. Consumer Compliance Risk Assessment . A CC Risk Assessment containing a satisfactorily detailed qualitative and quantitative analysis
+of each Bank Activity and Third-Party Relationship that effectively and accurately identifies and measures areas of risk for non-compliance with Consumer Protection Laws and Regulations and the risk of
+associated consumer harm ( CC Risk );
+
+2. Assessment of Consumer Compliance Risk Assessment Procedures . An assessment of the
+CC Risk Assessment Procedures and whether they appropriately (a) consider all pertinent information, including previously conducted CC Risk Assessments; supervisory findings, findings by Internal Audit, external auditors, or otherwise coming to
+the attention of the Board and/or Bank management; and changes in Consumer Protection Laws and Regulations, Bank Activities, and Third-Party Relationships; (b) require the preparation of an appropriately detailed qualitative and quantitative
+analysis of the risks posed by each Bank Activity and Third-Party Relationship that effectively and accurately identifies and measures areas of CC Risk on a regular basis; (c) require and establish satisfactory testing and validation of CC Risk
+Assessment inputs; (d) require the assessment of all proposed new Bank Activities and proposed new Third-Party Relationships and to identify CC Risks prior to engaging in the new Bank Activities or entering into a new Third-Party Relationship
+and reassessment of Third-Party Relationships and Bank Activities when appropriate, including when changes are made to Consumer Protection Laws and Regulations and/or the CC Risk Assessment Procedures with timeframes and tracking mechanisms to
+assure timely completion; (e) require the development and implementation of appropriate risk-mitigating strategies for the CC Risks identified in the CC Risk Assessment with timeframes and tracking mechanisms to assure timely development and
+implementation; and (f) require prompt delivery of each CC Risk Assessment and any corresponding risk-mitigating strategies to the appropriate Board and/or Bank Committees, including Internal Audit;
+
+11
+
+3. Consumer Compliance Resource Assessment . An assessment of the adequacy of the
+Bank’s CC Resources appropriately considering the Bank’s size and growth plans; current and anticipated number of Bank Activities and respective volumes; and current and anticipated number of Third-Party Relationships and their respective
+complexity and scope ( CC Resources Assessment ). The CC Resources Assessment must, at a minimum: (a) assess the adequacy and effectiveness of CC Non-Staff Resources in accomplishing stated
+objectives related to their use; identify any CC Non-Staff Resource needs and/or any enhancements to existing CC Non-Staff Resources necessary for complete and timely
+compliance with this ORDER, Consumer Protection Laws and Regulations, and pertinent Procedures, clearly and concisely detailing any deficiencies in and/or necessary enhancements to existing CC Non-Staff Resources, with appropriate consideration to any statutory or regulatory requirements, the size, complexity, and growth plans of the Bank, the current and anticipated number of Bank Activities and their respective volumes, and current and
+anticipated number of Third-Party Relationships and their respective complexity and scope; (b) identify the type and number of Bank managers needed to supervise CC Staff Resources ( CC Managers ), including those necessary to ensure the
+Bank’s complete and timely compliance with this ORDER, Consumer Protection Laws and Regulations, and consumer compliance Procedures, detailing any vacancies and additional needs, including those necessary for succession planning, with
+appropriate consideration to any statutory or regulatory requirements, the size, complexity, and growth plans of the Bank, the current and anticipated number of Bank Activities and their respective volumes, current and anticipated number of
+Third-Party Relationships and their complexity and scope, and the Bank’s use of CC Non-Staff Resources; (c) identify the type and number of CC Staff
+
+12
+
+positions needed for complete and timely compliance with this ORDER, Consumer Protection Laws and Regulations, and consumer compliance Procedures noting the duties and responsibilities
+attributable to each position, providing a clear and concise description of the relevant knowledge, skills, abilities, and experience necessary for each position, including delegations of authority, reporting lines, and performance objectives, and
+detailing any vacancies and additional needs, including those necessary for succession planning, with appropriate consideration to any statutory or regulatory requirements, the size, complexity, and growth plans of the Bank, the current and
+anticipated number of Bank Activities and their respective volumes, current and anticipated number of Third-Party Relationships and their complexity and scope, and the Bank’s use of Non-Staff Resources;
+and (d) recommend actions to be taken to recruit and/or retain CC Staff and CC Managers (collectively, CC Personnel );
+
+4. Assessment of Consumer Compliance Resource Assessment Procedures . An assessment of the CC Resources Assessment Procedures and whether they appropriately require (a) consideration of the size, complexity, and growth plans of the Bank, the
+current and anticipated number of Bank Activities and their respective volumes, current and anticipated number of Third-Party Relationships and their complexity and scope, the Bank’s use of Non-Staff Resources, and other pertinent information, including previously conducted CC Resources Assessments; supervisory findings, findings by Internal Audit, external auditors, or otherwise coming to the attention of the Board and/or Bank management; and
+changes in Consumer Protection Laws and Regulations, Bank Activities, and Third-Party Relationships; (b) a clear description and delineation of roles and responsibilities of CC Personnel responsible for the Bank’s compliance with all
+Consumer Protection Laws and Regulations with prescribed and measurable performance standards and metrics; (c) regular review and assessment of whether the type and number of CC Personnel
+
+13
+
+and existing Non-Staff Resources are adequate, and whether any additional CC Personnel or Non-Staff Resources are
+necessary, to ensure compliance with Consumer Protection Laws and Regulations, appropriately and timely address identified consumer compliance deficiencies and weaknesses, including those identified in supervisory communications, internal or
+external audit communications, or otherwise coming to the attention of the Board and/or Bank management; (d) regular review and identification of any additional or necessary enhancements to Non-Staff Resources necessary to ensure compliance with Consumer Protection Laws and Regulations and any changes to Consumer Protection Laws and Regulations, appropriately and timely address identified consumer compliance deficiencies and weaknesses,
+including those identified in supervisory communications, internal or external audit communications, or otherwise coming to the attention of the Board and/or Bank management; (e) regular review and identification of the type and number of any
+additional CC Managers needed to supervise compliance staff to ensure compliance with Consumer Protection Laws and Regulations, appropriately and timely address identified consumer compliance deficiencies and weaknesses, including those identified
+in supervisory communications, internal or external audit communications, or otherwise coming to the attention of the Board and/or Bank management; (f) regular review and identification of the type and number of any additional CC Staff
+positions to ensure compliance with Consumer Protection Laws and Regulations and any changes to Consumer Protection Laws and Regulations, appropriately and timely address identified consumer compliance deficiencies and weaknesses, including those
+identified in supervisory communications, internal or external audit communications, or otherwise coming to the attention of the Board and/or Bank management; (g) succession planning; (h) performance reviews and accountability of CC
+Personnel for any non-compliance with performance standards and metrics; and (i) preparation and submission of a written report with the findings of each CC Resources Assessment with recommended actions
+to address any identified weaknesses and deficiencies and/or any CC Personnel or Non-Staff Resources needs to the appropriate Board and/or Bank Committees, and Internal Audit;
+
+14
+
+5. Consumer Compliance Monitoring and Testing . An assessment of whether the CC
+Monitoring and Testing is adequate and effective considering the Bank’s size and growth plans; current and anticipated number of Bank Activities and respective volumes; and current and anticipated number of Third-Party Relationships and their
+respective type, complexity and scope ( CC Monitoring and Testing Assessment ). The CC Monitoring and Testing Assessment must, at a minimum, review and assess the adequacy and effectiveness, including the frequency, coverage and scope, of the
+Bank’s detection, monitoring and/or testing of (a) CC Risks, including those identified in CC Risk Assessments, supervisory findings, findings by Internal Audit and/or external auditors, or otherwise coming to the attention of the Board
+and/or Bank management; (b) CC Risks posed by changes in Consumer Protection Laws and Regulations, Bank Activities, and Third-Party Relationships; (c) deficiencies and/or weaknesses in the ERM Framework, CG Framework, CC Program and/or CVM
+Program causing or related to CC Risks; (d) consumer harm resulting from non-compliance with Consumer Protection Laws and Regulations; and (e) mitigation efforts to address identified CC Risks and
+consumer harm resulting from non-compliance with Consumer Protection Laws and Regulations, including their timeliness;
+
+6. Assessment of Consumer Compliance Monitoring and Testing Procedures . An assessment of the CC Monitoring and Testing Procedures and
+whether they appropriately require (a) consideration of the size, complexity, and growth plans of the Bank, the current and anticipated number of Bank Activities and their respective volumes, current and anticipated number of Third-Party
+Relationships and their type, complexity and scope, and other pertinent information,
+
+15
+
+including previously conducted CC Monitoring and Testing Assessments; supervisory findings, findings by Internal Audit, external auditors, or otherwise coming to the attention of the Board and/or
+Bank management; and changes in Consumer Protection Laws and Regulations, Bank Activities, and Third-Party Relationships; (b) regular assessment of the adequacy and effectiveness, including the frequency, coverage and scope, of the Bank’s
+detection, monitoring and/or testing of (i) CC Risks, including those identified in CC Risk Assessments, supervisory findings, findings by Internal Audit and/or external auditors, or otherwise coming to the attention of the Board and/or Bank
+management; (ii) CC Risks posed by changes in Consumer Protection Laws and Regulations, Bank Activities, and Third-Party Relationships; (iii) non-compliance with Consumer Protection Laws and
+Regulations and the identification of the deficiencies and/or weaknesses in the ERM Framework, CG Framework, CC Program and/or CVM Program causing or related to such non-compliance; (iv) consumer harm
+resulting from non-compliance with Consumer Protection Laws and Regulations and the identification of the deficiencies and/or weaknesses in the ERM Framework, CG Framework, CC Program and/or CVM Program
+causing or related to such consumer harm; and (v) mitigation efforts, including their timeliness, to address identified CC Risks, non-compliance with Consumer Protection Laws and Regulations and associate
+consumer harm; (c) recommendations for any corrective, preventive, and remedial actions to appropriately address any instances of non-compliance with Consumer Protection Laws and Regulations, any consumer
+harm associated with such instances of non-compliance, CC Risks, and/or weaknesses or deficiencies identified in a CC Monitoring and Testing Assessments; (d) timeframes for any recommended corrective,
+preventive, and remedial action and the means by which such action will be tracked for adherence to established timeframes; (e) preparation and submission of a written report with the findings of each CC Monitoring and Testing Assessment with
+recommended actions to address any instances of non-compliance with Consumer Protection Laws and Regulations, any consumer harm associated with such instances of non-compliance, CC Risks, and/or weaknesses and deficiencies identified to the appropriate Board and/or Bank Committees, and Internal Audit;
+
+16
+
+7. Assessment of CC Training Procedures. An assessment of the CC Training Procedures
+and whether, considering the Bank’s size and growth plans, current and anticipated number of Bank Activities and respective volumes, and current and anticipated number of Third-Party Relationships and their respective complexity and scope, the
+CC Training Procedures adequately and effectively provide for (a) regular training to all members of the Board; all compliance personnel; and any managers, Internal Audit personnel, and other personnel with roles and responsibilities related to
+or involving compliance with Consumer Protection Laws and Regulations ( Trainee or Trainees ); (b) training designed to be commensurate with the Trainee’s respective duties and responsibilities with respect to the Bank’s compliance
+with Consumer Protection Laws and Regulations, including any duties and responsibilities in connection with the selection, including due diligence, engagement, oversight and monitoring of Third-Party Relationships and related activities, to enable
+the Trainee to satisfactorily fulfill their respective role(s) and responsibilities; (c) training designed to be commensurate with the Trainee’s respective duties and responsibilities with respect to the ERM Framework, CG Framework,
+Internal Audit, CC Program, CVM Program, compliance with this ORDER and any risk assessments, studies, reports, plans, and Procedures required by this ORDER; (d) training designed to be commensurate with the Trainee’s respective duties and
+responsibilities with respect to (i) any changes in Consumer Protection Laws and Regulations; (ii) any new Bank Activities and/or Third-Party Relationships; (iii) any changes to the ERM Framework, CG Framework, Internal Audit, CC
+Program, CVM Program, and/or any new or revised Procedure, plan or program related to compliance with Consumer Protection Laws and regulations; and/or (iv) the results of the training assessments required below; (d) initial and periodic
+assessments of training effectiveness ( Training Assessments ); and (e) documentation of training activities and Training Assessments;
+
+17
+
+8. Assessment of Consumer Compliance Audit Procedures . An assessment of the CC Audit
+Procedures and whether they require that (a) audit staffing is appropriate to the size, complexity, and growth plans of the Bank, the current and anticipated number of Bank Activities and their respective volumes, current and anticipated number
+of Third-Party Relationships and their complexity and scope; (b) audits are appropriate in number, scope, coverage, and frequency, and include all aspects of the Bank’s CMS, including the CC Program, the CVM Program, and all components of
+the ERM Framework and CG Framework related to or involving the Bank’s compliance with Consumer Protection Laws and Regulations; (c) audit documentation clearly describes audit scope, including which aspects of compliance with Consumer
+Protection Laws and Regulations were in and out of scope; (d) audits appropriately consider any changes to applicable Consumer Protection Laws and Regulations, CC Risk Assessments, and any relevant studies, reports, plans, and Procedures
+required by this ORDER; (e) audits appropriately assess the implementation of and adherence to any plans and Procedures adopted by the Board; and (f) the Audit and Risk Committee appropriately monitors and oversees Internal Audit,
+including the critical evaluation of the effectiveness, implementation and adherence to the CC Audit Procedures;
+
+9. Assessment of
+Consumer Complaint Procedures . An assessment of the Complaint Procedures and whether they assure an effective, risk-based consumer complaint process providing for (a) timely identification, review, investigation, response to and resolution
+of consumer complaints related to Bank Activities and/or associated Third-Party Relationships; and (b) timely determinations as to the root cause of a complaint and recommendations for appropriate action to address any related deficiencies or
+weaknesses in the CC Program and/or CVM Program; and
+
+18
+
+10. Recommendations . A detailed schedule and description of any deficiencies,
+weaknesses, issues and/or concerns identified during the CC Program Assessment and recommendations to appropriately address them.
+
+C. CC Program Revision Plan . Within 60 days from receipt of the DRD’s non-objection to the CC Program Report, the Bank must develop a written plan of action ( CC Program Revision Plan )
+appropriately addressing each recommendation contained in the CC Program Report which includes (i) a time frame for completing the recommended action; (ii) a satisfactory justification as to why the recommended action is not necessary or
+appropriate; or, (iii) if the Bank prefers an alternative proposal to the recommended action, a satisfactory justification for such alternative and a time frame for completing it. The CC Program Revision Plan must be submitted to the DRD for
+review, and comment or non-objection in accordance with Paragraph 6 of this ORDER. In the event the CC Program Revision Plan, or any portion thereof, is not implemented or adhered to after its adoption by the
+Board, the GCC must promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating from the CC Program Revision Plan and the action it will take to address the deviation. The DRD may
+either provide written non-objection to any such deviation or require compliance with the CC Program Revision Plan.
+
+4. Compliance Vendor Management Program
+
+A. Compliance Vendor Management Program Review . Within 30 days from the effective date of this ORDER, the Bank must submit a proposed
+engagement letter or contract to the DRD for review, and comment or non-objection in accordance with Paragraph 6 to engage a third party acceptable to the DRD to: (i) assess whether the Bank’s CVM
+Program is commensurate with
+
+19
+
+the size and complexity of the Bank, and the nature, scope, and the risk of the Bank Activities conducted through Third-Party Relationships and satisfactorily ensures that Bank Activities
+conducted through Third-Party Relationships are conducted in a safe and sound manner and in compliance with Consumer Protection Laws and Regulations and the Bank’s Procedures and provides, at a minimum, clear lines of authority and
+responsibility for monitoring adherence to applicable Procedures, effective risk assessment, timely and accurate reporting, and compliance with Consumer Protection Laws and Regulations ( CVM Program Assessment ); and (ii) prepare a written
+summary of the of the CVM Program Assessment ( CVM Report ) at its conclusion.. The independent third party conducting the CVM Program Assessment may, after evaluating the adequacy of any prior reviews of the CVM Program completed within the
+last year and any resulting recommendations, consider such reviews and recommendations when conducting the CVM Program Assessment and making its recommendations in the CVM Report. The CVM Program Assessment must include a review and assessment of
+the CVM Report components required by Paragraph B below. The engagement letter or contract must, at a minimum:
+
+1. describe the work to be
+performed under the engagement letter or contract;
+
+2. provide for unrestricted access to work papers and personnel of the third party by
+the FDIC; and
+
+3. require that the CVM Program Assessment be completed and summarized in the CVM Report and delivered to the Bank, within
+120 days from the DRD’s non-objection to the proposed engagement letter or contract, with a copy delivered simultaneously to the DRD for review, and comment or non-objection in accordance with Paragraph 6 of this ORDER, the GCC and Internal Audit.
+
+20
+
+B. CVM Report . The CVM Report must, at a minimum, include:
+
+1. Due Diligence. A review and assessment of the Bank’s due diligence Procedures for proposed new Third-Party Relationships,
+including whether the Procedures require (a) sufficient information about the proposed new Third-Party Relationship be collected to appropriately assess associated risk and ability to comply with Consumer Protection Laws and Regulations;
+(b) a written agreement establishing the Third-Party Relationship that is sufficiently detailed with respect to assigned duties and responsibilities, includes appropriate performance metrics and standards, and provides for full and timely
+access to all information necessary to assess, monitor and test for compliance with Consumer Protection Laws and Regulations and the agreement by Bank employees and appropriate federal and state regulatory agencies; and (c) a written and
+well-supported summary of the due diligence results;
+
+2. Risk Ratings. A review and assessment of the Bank’s methodology for
+assigning risk ratings to Third-Party Relationships and proposed new Third-Party Relationships, including whether the methodology appropriately considers the risk posed by the relationship with respect to strategic, reputation, operational,
+transaction, credit, consumer compliance, and any other risk(s) that may arise in connection with such relationship, and is consistently applied;
+
+3. On-going Due Diligence, Oversight, Monitoring and Testing. A review and assessment of the
+Bank’s Procedures for on-going due diligence, oversight, monitoring and testing of Third-Party Relationships, including due diligence, oversight, monitoring and testing Procedures related to
+(a) compliance with Consumer Protection Laws and Regulations; (b) processing of consumer inquiries and complaints; and (c) satisfaction of contractual obligations, performance metrics and standards;
+
+21
+
+4. Recordkeeping Systems and Reporting. A review and assessment of the Bank’s
+recordkeeping systems and reporting Procedures regarding Third-Party Relationships, including whether (a) the Bank has and maintains sufficiently detailed descriptions of the services or products provided and/or activities conducted through
+each Third-Party Relationship and the Consumer Protection Laws and/or Regulations applicable to those services; (b) the adequacy and accuracy of the recordkeeping systems; (c) and the sufficiency and frequency of reporting regarding due
+diligence, both for Third-Party Relationships and proposed new Third-Party Relationship, oversight, monitoring, and testing of compliance with Consumer Protection Laws and Regulations and the written agreement establishing the Third-Party
+Relationship; and
+
+5. Recommendations. A detailed schedule and description of any deficiencies, weaknesses, issues, and/or concerns
+identified during the CVM Program Assessment and recommendations to appropriately address them.
+
+C. CVM Plan . Within 60days from
+receipt of the CVM Report, the Bank must develop a written plan of action ( CVM Plan ) appropriately addressing each recommendation contained in the CVM Report which includes (i) a time frame for completing the recommended action;
+(ii) a satisfactory justification as to why a recommended action is not necessary or appropriate; or (iii) if the Bank prefers an alternative proposal to a recommended action, a satisfactory justification for such alternative and a time
+frame for completing it. The CVM Plan must be submitted to the DRD for review, and comment or non-objection in accordance with Paragraph 6. In the event the CVM Plan, or any portion thereof, is not implemented
+or adhered to after its adoption by the Board, the GCC must promptly, but in no instance more than 30 days from such event, advise the DRD in writing of the specific reasons for deviating from the CVM Plan and the action it will take to address the
+deviation. The DRD may either provide written non-objection to any such deviation or require compliance with the CVM Plan.
+
+22
+
+5. Governance and Control Committee
+
+A. Governance and Control Committee . The Board must maintain its GCC and ensure it continues to be comprised of at least three
+independent directors (directors who are independent of management and are not, and within the preceding fiscal year have not been, an officer or employee of the institution or any affiliate of the institution) acceptable to the DRD. If, after
+receiving the non-objection of the DRD, there is a proposed change to the composition of the GCC, such proposed change must be submitted to the DRD for review, comment or non-objection in accordance with Paragraph 6. Nothing herein diminishes the responsibility of the entire Board to ensure compliance with the provisions of this ORDER in a timely manner.
+
+B. GCC Plan . Within 75 days from the effective date of this ORDER, the GCC must submit a written plan detailing how the Board will
+ensure the requirements of this ORDER are met in a timely manner ( GCC Plan ) to the DRD for review, and comment or non-objection in accordance with Paragraph 6. The GCC Plan must, at a minimum:
+
+1. describe the specific corrective actions to be taken to meet the requirements of each provision this ORDER (Corrective Actions);
+
+2. establish the date by which each Corrective Action will be taken;
+
+3. identify the person(s) responsible for the completion of each Corrective Action; and
+
+4. establish the means by which the GCC will monitor the status of each Corrective Action and ensure timely compliance with this ORDER.
+
+23
+
+C. GCC Report . The GCC must submit a written report ( GCC Report ) detailing the
+status of all actions required in connection with this ORDER to the Board for consideration at each regularly scheduled Board meeting occurring after the effective date of this ORDER. The GCC Report and any discussion related to it or this ORDER
+must be included in the minutes of the corresponding Board meeting. The GCC Report must be submitted to the DRD as part of the progress reports required by Paragraph 7 of this ORDER, noting any action taken by the Board based on them.
+
+6. Non-objection, Implementation and Adherence
+
+A. Review, Comment or Non-objection . When a provision of this ORDER requires the Bank to submit
+a matter to the DRD for review, and comment or non-objection ( Submission ), the Bank will make the Submission to the DRD as a PDF document through the FDIC’s Secure Email portal
+(securemail.fdic.gov) using e-mail address: NYMailRoom@fdic.gov. The DRD may request in writing additional information or analysis in support of or in connection with any Submission from the Bank, and the Bank
+may request clarification of the DRD’s request for additional information or analysis, but must provide such information or analysis or request additional time to provide the information or analysis with a reasonable justification of such
+request within the time frame set in the written request. Within 30 days from receipt of comments from the DRD, the Bank will make such modifications as may be necessary to respond to the DRD’s comments and resubmit the Submission for review,
+additional comments or non-objection.
+
+B. Adoption, Implementation and Adherence . The Board
+will adopt any plan required by this ORDER, at its next regularly scheduled meeting following receipt of the DRD’s written non-objection to such plan. For any Procedure, or matter and/or any revision or
+addition to a Procedure required by this ORDER but not requiring the written non-objection of the DRD, the Board must adopt any new or revised Procedure or other matter within the timeframe required for such
+action in this ORDER. These actions must be appropriately reflected in the Board minutes. Thereafter, the
+
+24
+
+Board must ensure that the Bank fully implements and adheres to the plan, Procedure, or other matter as adopted and enforce full and complete compliance with these plans, Procedures, or other
+matters. In the event a plan required by this ORDER and adopted by the Board, or any portion thereof, is not fully implemented or adhered to, the Board must promptly, in no instance more than 30 days from the event, advise the DRD in writing of the
+specific reasons for the deviation or delay and the action it will take to address the deviation or delay. The DRD may either provide a written non-objection to any such deviation or delay or require
+compliance with the plan as adopted by the Board.
+
+7. Progress Reports
+
+Within 45 days from the end of first full calendar quarter following the effective date of this ORDER and 45 days from the end of each
+calendar quarter thereafter, the Bank must furnish written progress reports detailing the form, manner, and results of any actions taken to secure compliance with this ORDER to the DRD. All progress reports must be reviewed and approved by the Board
+and be made a part of the Board minutes.
+
+8. Shareholder Disclosure
+
+Within 30 days from the effective date of this ORDER, the Board must provide its parent holding company with either an accurate and complete
+description of all material aspects of the ORDER or a copy of the ORDER. Miscellaneous
+
+The provisions of this ORDER do not bar,
+estop, or otherwise prevent the FDIC or any other federal or state agency or department from taking any other action against the Bank or any of the Bank’s current or former IAPs, or any of their respective directors, officers, employees and
+agents, including any action under 12 U.S.C. § 1818(i), arising from, out of, or related to the facts and circumstances forming the basis of this ORDER; or in any way prevent the FDIC from conducting on-site reviews, visitations, and/or examinations of the Bank, its affiliates, agents, or Third-Party Relationships at any time to monitor compliance with this ORDER.
+
+25
+
+The provisions of this ORDER are binding on the Bank, its IAPs, and any successors and
+assigns thereof.
+
+This ORDER is effective on the date of issuance, and its provisions will remain effective and enforceable unless and
+until it is modified, terminated, suspended, or set aside in writing by the FDIC.
+
+Issued Under Delegated Authority this 25 th day of September, 2023.
+
+[TABLE]
+/s/ Frank R. Hughes
+Frank R. Hughes
+Regional Director
+New York Region
+Federal Deposit Insurance Corporation
+[/TABLE]
+
+26

@@ -1,0 +1,151 @@
+false 0001393612 0001393612 2023-05-27 2023-05-27
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 27, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On May 27, 2023, the Board of Directors of Discover Financial Services (the “Company”) appointed Daniela O’Leary-Gill as a director of the Company and to serve on the Company’s Audit Committee, effective as of June 14, 2023.
+
+There are no arrangements or understandings between Ms. O’Leary-Gill and any other person pursuant to which Ms. O’Leary-Gill was selected as a director. There are no transactions involving Ms. O’Leary-Gill that would be required to be reported under Item 404(a) of Regulation S-K.
+
+In connection with her appointment as a director of the Company and a member of the Audit Committee, Ms. O’Leary-Gill’s compensation will be consistent with the Company’s previously disclosed standard compensatory arrangements for non-employee directors, which are described in the Company’s most recent proxy statement filed with the Securities and Exchange Commission on March 17, 2023, under the heading “Director Compensation.” Ms. O’Leary-Gill’s compensation will be prorated to reflect the commencement date of her Board service.
+
+On May 28, 2023, Mary K. Bush, a member of the Company’s Board of Directors, provided the Company notice that she will be resigning from the Board of Directors, effective June 2, 2023.
+
+A copy of the press release announcing these changes is attached as Exhibit 99.1 to this report.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of the Company dated June 1, 2023
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated June 1, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer,
+ |  |  |  |  |  | General Counsel and Secretary
+[/TABLE]
+
+
+=== EXHIBIT d461392dex991.htm ===
+
+EX-99.1 2 d461392dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER FINANCIAL SERVICES NAMES DANIELA O’LEARY-GILL TO ITS BOARD OF DIRECTORS
+
+RIVERWOODS, IL, June 1, 2023 — Discover Financial Services (DFS) announced today that Daniela O’Leary-Gill will join the
+company’s Board of Directors, effective as of June 14, 2023. O’Leary-Gill previously served as a director on the Discover Bank Board where she served on the Audit & Risk Committee. She is the former Chief Operating Officer of
+BMO U.S. for BMO Financial Group.
+
+For more than 25 years, O’Leary-Gill held progressively senior P&L, strategy, and governance leadership roles,
+globally and in the U.S., for BMO Financial Group. In her last role with BMO, as Chief Operating Officer, BMO U.S., she was a member of BMO’s U.S. Executive Committee.
+
+O’Leary-Gill will serve on the Board’s Audit Committee. She joins Beverley A. Sibblies, also a member of the Discover Bank Board, who was recently
+elected to the DFS Board and serves on the Audit Committee.
+
+The Company also announced that Mary K. Bush will be resigning from its Board of Directors
+effective June 2, 2023.
+
+“Daniela’s nearly three decades of experience in the banking industry, and knowledge of Discover through her prior
+service on the Discover Bank Board further strengthens our Board and will help us succeed in becoming a leading digital consumer bank,” said Thomas Maheras, Chair of the Board. “While the Board will miss Mary’s exemplary leadership
+and commitment during her tenure on the Board, and is grateful to her for her service, the Board is committed to thoughtful refreshment and succession planning as demonstrated by the recent addition of Beverley Sibblies to the Board. Both
+Daniela’s and Beverley’s experience with governance and regulatory issues will provide valuable contributions to the Company.”
+
+About
+Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S.
+financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the Discover ® card, America’s cash rewards
+pioneer, and offers private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global
+Network ® comprised of Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the nation’s leading
+ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company .
+
+Media Contact
+
+Matthew Towson
+
+224-405-5649
+
+matthewtowson@discover.com
+
+@Discover_News
+
+Investor Relations
+
+Eric Wasserstrom
+
+224-405-4555
+
+investorrelations @discover.com

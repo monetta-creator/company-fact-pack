@@ -1,0 +1,1055 @@
+false 0000927628 0000927628 2022-04-26 2022-04-26 0000927628 us-gaap:CommonStockMember 2022-04-26 2022-04-26 0000927628 cof:SeriesIPreferredStockMember 2022-04-26 2022-04-26 0000927628 cof:SeriesJPreferredStockMember 2022-04-26 2022-04-26 0000927628 cof:SeriesKPreferredStockMemberMember 2022-04-26 2022-04-26 0000927628 cof:SeriesLPreferredStockMemberMember 2022-04-26 2022-04-26 0000927628 cof:SeriesNPreferredStockMemberMember 2022-04-26 2022-04-26 0000927628 cof:SeniorNotesDue2024Member 2022-04-26 2022-04-26 0000927628 cof:SeniorNotesDue2029Member 2022-04-26 2022-04-26
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+April 26, 2022
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.02 Results of Operations and Financial Condition.
+
+On April 26, 2022, Capital One Financial Corporation (the “Company”) issued a press release announcing its financial results for the first quarter ended March 31, 2022. Copies of the Company’s press release and financial supplement are attached and furnished herewith as Exhibits 99.1 and 99.2 to this Form 8-K and are incorporated herein by reference.
+
+Note: Information in this report (including Exhibits 99.1 and 99.2) furnished pursuant to Item 2.02 shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that Section.
+
+1
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated April 26, 2022 - First Quarter 2022
+99.2 |  | Financial Supplement - First Quarter 2022
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+Earnings Conference Call Webcast Information.
+
+The Company will hold an earnings conference call on April 26, 2022 at 5:00 PM Eastern Time. The conference call will be accessible through live webcast. Interested investors and other individuals can access the webcast via the Company’s home page (www.capitalone.com). Under “About,” choose “Investors” to access the Investor Center and view and/or download the earnings press release, the financial supplement, including a reconciliation of non-GAAP financial measures, and the earnings release presentation. A replay of the webcast will be archived on the Company’s website through May 10, 2022 at 5:00 PM Eastern Time.
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: April 26, 2022 | By: | /s/ TIMOTHY P. GOLDEN
+ |  | Timothy P. Golden
+ |  | Controller and Principal Accounting Officer
+[/TABLE]
+
+3
+
+
+=== EXHIBIT ex991q12022earningsrelease.htm ===
+
+EX-99.1 2 ex991q12022earningsrelease.htm EX-99.1 Document created using Wdesk Copyright 2022 Workiva Document
+
+Exhibit 99.1
+
+News Release
+
+[TABLE]
+Contacts: |  |  |
+Investor Relations | Media Relations
+Jeff Norris | Danielle Dietz | Sie Soheili |
+jeff.norris@capitalone.com | danielle.dietz@capitalone.com | sie.soheili@capitalone.com |
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: April 26, 2022
+
+Capital One Reports First Quarter 2022 Net Income of $2.4 billion,
+
+or $5.62 per share
+
+McLean, Va. (April 26, 2022) – Capital One Financial Corporation (NYSE: COF) today announced net income for the first quarter of 2022 of $2.4 billion, or $5.62 per diluted common share, compared with net income of $2.4 billion, or $5.41 per diluted common share in the fourth quarter of 2021, and with net income of $3.3 billion, or $7.03 per diluted common share in the first quarter of 2021.
+
+“We continued to deliver strong growth across our businesses in the first quarter,” said Richard D. Fairbank, Founder, Chairman and Chief Executive Officer. “We remain well-positioned to capitalize on opportunities that emerge as sweeping digital change and modern technology transform banking.”
+
+The quarter included the following notable item:
+
+[TABLE]
+(Dollars in millions, except per share data) | Pre-Tax Impact | Diluted EPS Impact
+Gain on sale of partnership card portfolios | $ | 192 |  | $ | 0.35 |
+[/TABLE]
+
+All comparisons below are for the first quarter of 2022 compared with the fourth quarter of 2021 unless otherwise noted.
+
+First Quarter 2022 Income Statement Summary:
+
+• Total net revenue increased 1 percent to $8.2 billion.
+
+• Total non-interest expense decreased 3 percent to $4.6 billion:
+
+◦ 8 percent decrease in marketing.
+
+◦ 1 percent decrease in operating expenses.
+
+Capital One First Quarter 2022 Earnings
+
+Page 2
+
+• Pre-provision earnings increased 5 percent to $3.6 billion. (1)
+
+• Provision for credit losses increased $296 million to $677 million:
+
+◦ Net charge-offs of $767 million.
+
+◦ $119 million loan reserve release.
+
+• Net interest margin of 6.49 percent, a decrease of 11 basis points.
+
+• Efficiency ratio of 55.68 percent.
+
+• Operating efficiency ratio of 44.45 percent.
+
+First Quarter 2022 Balance Sheet Summary:
+
+• Common equity Tier 1 capital ratio under Basel III Standardized Approach of 12.7 percent at March 31, 2022.
+
+• Period-end loans held for investment in the quarter increased $3.1 billion, or 1 percent, to $280.5 billion.
+
+◦ Credit Card period-end loans decreased $810 million, or 1 percent, to $114.0 billion.
+
+• Domestic Card period-end loans decreased $736 million, or 1 percent, to $108.0 billion.
+
+◦ Consumer Banking period-end loans increased $2.7 billion, or 3 percent, to $80.3 billion.
+
+• Auto period-end loans increased $2.8 billion, or 4 percent, to $78.6 billion.
+
+◦ Commercial Banking period-end loans increased $1.3 billion, or 1 percent, to $86.2 billion.
+
+• Average loans held for investment in the quarter increased $8.2 billion, or 3 percent, to $275.3 billion.
+
+◦ Credit Card average loans increased $2.9 billion, or 3 percent, to $111.5 billion.
+
+• Domestic Card average loans increased $2.8 billion, or 3 percent, to $105.5 billion.
+
+◦ Consumer Banking average loans increased $1.2 billion, or 2 percent, to $78.7 billion.
+
+• Auto average loans increased $1.6 billion, or 2 percent, to $76.9 billion.
+
+◦ Commercial Banking average loans increased $4.0 billion, or 5 percent, to $85.2 billion.
+
+• Period-end total deposits increased $2.4 billion, or 1 percent, to $313.4 billion, while average deposits increased $2.3 billion, or 1 percent, to $309.6 billion.
+
+• Interest-bearing deposits rate paid decreased 1 basis point to 0.32 percent.
+
+(1) Pre-provision earnings is calculated based on the sum of net interest income and non-interest income, less non-interest expense for the period. Management believes that this financial metric is useful in enabling investors and others to assess the Company’s ability to generate income to cover credit losses through a credit cycle, which can vary significantly between periods.
+
+Capital One First Quarter 2022 Earnings
+
+Page 3
+
+Earnings Conference Call Webcast Information
+
+The company will hold an earnings conference call on April 26, 2022 at 5:00 PM Eastern Time. The conference call will be accessible through live webcast. Interested investors and other individuals can access the webcast via the company’s home page (www.capitalone.com). Under “About,” choose “Investors” to access the Investor Center and view and/or download the earnings press release, the financial supplement, including a reconciliation of non-GAAP financial measures, and the earnings release presentation. The replay of the webcast will be archived on the company’s website through May 10, 2022 at 5:00 PM Eastern Time.
+
+Forward-Looking Statements
+
+Certain statements in this release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports that Capital One files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended December 31, 2021.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $313.4 billion in deposits and $434.2 billion in total assets as of March 31, 2022. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+###
+
+
+=== EXHIBIT ex992q12022earningsrelease.htm ===
+
+EX-99.2 3 ex992q12022earningsrelease.htm EX-99.2 Document created using Wdesk Copyright 2022 Workiva Document
+
+Exhibit 99.2
+
+Capital One Financial Corporation
+
+Financial Supplement (1)(2)
+
+First Quarter 2022
+
+Table of Contents
+
+[TABLE]
+Capital One Financial Corporation Consolidated Results | Page
+ | Table 1: | Financial Summary—Consolidated | 1
+ | Table 2: | Selected Metrics—Consolidated | 3
+ | Table 3: | Consolidated Statements of Income | 4
+ | Table 4: | Consolidated Balance Sheets | 6
+ | Table 5: | Notes to Financial Summary, Selected Metrics and Consolidated Financial Statements (Tables 1—4) | 8
+ | Table 6: | Average Balances, Net Interest Income and Net Interest Margin | 9
+ | Table 7: | Loan Information and Performance Statistics | 10
+ | Table 8: | Allowance for Credit Losses and Reserve for Unfunded Lending Commitments Activity | 12
+Business Segment Results |
+ | Table 9: | Financial Summary—Business Segment Results | 13
+ | Table 10: | Financial & Statistical Summary—Credit Card Business | 14
+ | Table 11: | Financial & Statistical Summary—Consumer Banking Business | 16
+ | Table 12: | Financial & Statistical Summary—Commercial Banking Business | 17
+ | Table 13: | Financial & Statistical Summary—Other and Total | 18
+Other |
+ | Table 14: | Notes to Net Interest Margin, Loan, Allowance and Business Segment Disclosures (Tables 6—13) | 19
+ | Table 15: | Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures | 20
+[/TABLE]
+
+__________
+
+(1) The information contained in this Financial Supplement is preliminary and based on data available at the time of the earnings presentation. Investors should refer to our Quarterly Report on Form 10-Q for the period ended March 31, 2022 once it is filed with the Securities and Exchange Commission.
+
+(2) This Financial Supplement includes non-GAAP measures. We believe these non-GAAP measures are useful to investors and users of our financial information as they provide an alternate measurement of our performance and assist in assessing our capital adequacy and the level of return generated. These non-GAAP measures should not be viewed as a substitute for reported results determined in accordance with generally accepted accounting principles in the U.S. (“GAAP”), nor are they necessarily comparable to non-GAAP measures that may be presented by other companies.
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 1: Financial Summary—Consolidated
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+(Dollars in millions, except per share data and as noted) |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 6,397 |  |  | $ | 6,450 |  |  | $ | 6,156 |  |  | $ | 5,743 |  |  | $ | 5,822 |  |  | (1) | % |  | 10 | % |  |  |  |  |  |
+Non-interest income |  | 1,776 |  |  | 1,668 |  |  | 1,674 |  |  | 1,631 |  |  | 1,291 |  |  | 6 |  |  | 38 |  |  |  |  |  |  |
+Total net revenue (1) |  | 8,173 |  |  | 8,118 |  |  | 7,830 |  |  | 7,374 |  |  | 7,113 |  |  | 1 |  |  | 15 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 677 |  |  | 381 |  |  | (342) |  |  | (1,160) |  |  | (823) |  |  | 78 |  |  | ** |  |  |  |  |  |
+Non-interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Marketing |  | 918 |  |  | 999 |  |  | 751 |  |  | 620 |  |  | 501 |  |  | (8) |  |  | 83 |  |  |  |  |  |  |
+Operating expense |  | 3,633 |  |  | 3,679 |  |  | 3,435 |  |  | 3,346 |  |  | 3,239 |  |  | (1) |  |  | 12 |  |  |  |  |  |  |
+Total non-interest expense |  | 4,551 |  |  | 4,678 |  |  | 4,186 |  |  | 3,966 |  |  | 3,740 |  |  | (3) |  |  | 22 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 2,945 |  |  | 3,059 |  |  | 3,986 |  |  | 4,568 |  |  | 4,196 |  |  | (4) |  |  | (30) |  |  |  |  |  |  |
+Income tax provision |  | 542 |  |  | 633 |  |  | 882 |  |  | 1,031 |  |  | 869 |  |  | (14) |  |  | (38) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | 2,403 |  |  | 2,426 |  |  | 3,104 |  |  | 3,537 |  |  | 3,327 |  |  | (1) |  |  | (28) |  |  |  |  |  |  |
+Loss from discontinued operations, net of tax |  | — |  |  | (1) |  |  | — |  |  | (1) |  |  | (2) |  |  | ** |  | ** |  |  |  |  |  |
+Net income |  | 2,403 |  |  | 2,425 |  |  | 3,104 |  |  | 3,536 |  |  | 3,325 |  |  | (1) |  |  | (28) |  |  |  |  |  |  |
+Dividends and undistributed earnings allocated to participating securities (2) |  | (28) |  |  | (21) |  |  | (26) |  |  | (30) |  |  | (28) |  |  | 33 |  |  | — |  |  |  |  |  |  |
+Preferred stock dividends |  | (57) |  |  | (74) |  |  | (79) |  |  | (60) |  |  | (61) |  |  | (23) |  |  | (7) |  |  |  |  |  |  |
+Issuance cost for redeemed preferred stock (3) |  | — |  |  | (34) |  |  | (12) |  |  | — |  |  | — |  |  | ** |  | — |  |  |  |  |  |  |
+Net income available to common stockholders |  | $ | 2,318 |  |  | $ | 2,296 |  |  | $ | 2,987 |  |  | $ | 3,446 |  |  | $ | 3,236 |  |  | 1 |  |  | (28) |  |  |  |  |  |  |
+Common Share Statistics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Basic earnings per common share: (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 5.65 |  |  | $ | 5.43 |  |  | $ | 6.81 |  |  | $ | 7.65 |  |  | $ | 7.06 |  |  | 4 | % |  | (20) | % |  |  |  |  |  |
+Net income per basic common share |  | $ | 5.65 |  |  | $ | 5.43 |  |  | $ | 6.81 |  |  | $ | 7.65 |  |  | $ | 7.06 |  |  | 4 |  |  | (20) |  |  |  |  |  |  |
+Diluted earnings per common share: (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 5.62 |  |  | $ | 5.41 |  |  | $ | 6.78 |  |  | $ | 7.62 |  |  | $ | 7.03 |  |  | 4 | % |  | (20) | % |  |  |  |  |  |
+Net income per diluted common share |  | $ | 5.62 |  |  | $ | 5.41 |  |  | $ | 6.78 |  |  | $ | 7.62 |  |  | $ | 7.03 |  |  | 4 |  |  | (20) |  |  |  |  |  |  |
+Weighted-average common shares outstanding (in millions): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Basic |  | 410.4 |  |  | 422.5 |  |  | 438.8 |  |  | 450.6 |  |  | 458.6 |  |  | (3) | % |  | (11) | % |  |  |  |  |  |
+Diluted |  | 412.2 |  |  | 424.3 |  |  | 440.5 |  |  | 452.3 |  |  | 460.1 |  |  | (3) |  |  | (10) |  |  |  |  |  |  |
+Common shares outstanding (period-end, in millions) |  | 399.0 |  |  | 413.9 |  |  | 430.4 |  |  | 446.1 |  |  | 456.8 |  |  | (4) |  |  | (13) |  |  |  |  |  |  |
+Dividends declared and paid per common share |  | $ | 0.60 |  |  | $ | 0.60 |  |  | $ | 1.20 |  |  | $ | 0.40 |  |  | $ | 0.40 |  |  | — |  |  | 50 |  |  |  |  |  |  |
+Tangible book value per common share (period-end) (4) |  | 91.77 |  |  | 99.74 |  |  | 99.60 |  |  | 97.20 |  |  | 90.96 |  |  | (8) |  |  | 1 |  |  |  |  |  |  |
+[/TABLE]
+
+1
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+(Dollars in millions) |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Balance Sheet (Period-End) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans held for investment |  | $ | 280,466 |  |  | $ | 277,340 |  |  | $ | 261,390 |  |  | $ | 249,597 |  |  | $ | 243,131 |  |  | 1 | % |  | 15 | % |  |  |  |  |  |
+Interest-earning assets |  | 398,241 |  |  | 397,341 |  |  | 387,208 |  |  | 387,295 |  |  | 392,485 |  |  | — |  |  | 1 |  |  |  |  |  |  |
+Total assets |  | 434,195 |  |  | 432,381 |  |  | 425,377 |  |  | 423,420 |  |  | 425,175 |  |  | — |  |  | 2 |  |  |  |  |  |  |
+Interest-bearing deposits |  | 275,648 |  |  | 272,937 |  |  | 269,134 |  |  | 271,314 |  |  | 276,325 |  |  | 1 |  |  | — |  |  |  |  |  |  |
+Total deposits |  | 313,429 |  |  | 310,980 |  |  | 305,938 |  |  | 306,308 |  |  | 310,328 |  |  | 1 |  |  | 1 |  |  |  |  |  |  |
+Borrowings |  | 45,358 |  |  | 43,086 |  |  | 37,501 |  |  | 36,343 |  |  | 38,450 |  |  | 5 |  |  | 18 |  |  |  |  |  |  |
+Common equity |  | 51,499 |  |  | 56,184 |  |  | 57,632 |  |  | 58,136 |  |  | 56,341 |  |  | (8) |  |  | (9) |  |  |  |  |  |  |
+Total stockholders’ equity |  | 56,345 |  |  | 61,029 |  |  | 63,544 |  |  | 64,624 |  |  | 61,188 |  |  | (8) |  |  | (8) |  |  |  |  |  |  |
+Balance Sheet (Average Balances) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans held for investment |  | $ | 275,342 |  |  | $ | 267,159 |  |  | $ | 253,101 |  |  | $ | 246,463 |  |  | $ | 243,937 |  |  | 3 | % |  | 13 | % |  |  |  |  |  |
+Interest-earning assets |  | 394,082 |  |  | 390,868 |  |  | 387,766 |  |  | 390,129 |  |  | 388,572 |  |  | 1 |  |  | 1 |  |  |  |  |  |  |
+Total assets |  | 430,372 |  |  | 427,845 |  |  | 424,506 |  |  | 424,099 |  |  | 421,808 |  |  | 1 |  |  | 2 |  |  |  |  |  |  |
+Interest-bearing deposits |  | 271,823 |  |  | 269,951 |  |  | 269,278 |  |  | 273,476 |  |  | 273,358 |  |  | 1 |  |  | (1) |  |  |  |  |  |  |
+Total deposits |  | 309,597 |  |  | 307,272 |  |  | 305,035 |  |  | 308,217 |  |  | 305,056 |  |  | 1 |  |  | 1 |  |  |  |  |  |  |
+Borrowings |  | 42,277 |  |  | 39,943 |  |  | 37,464 |  |  | 37,054 |  |  | 39,911 |  |  | 6 |  |  | 6 |  |  |  |  |  |  |
+Common equity |  | 54,591 |  |  | 56,946 |  |  | 58,230 |  |  | 56,885 |  |  | 55,775 |  |  | (4) |  |  | (2) |  |  |  |  |  |  |
+Total stockholders’ equity |  | 59,437 |  |  | 62,498 |  |  | 64,682 |  |  | 62,376 |  |  | 60,623 |  |  | (5) |  |  | (2) |  |  |  |  |  |  |
+[/TABLE]
+
+2
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 2: Selected Metrics—Consolidated
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+(Dollars in millions, except as noted) |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+ | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Performance Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income growth (period over period) |  | (1) | % |  | 5 | % |  | 7 | % |  | (1) | % |  | (1) | % |  | ** |  | ** |  |  |  |  |  |
+Non-interest income growth (period over period) |  | 6 |  |  | — |  |  | 3 |  |  | 26 |  |  | (12) |  |  | ** |  | ** |  |  |  |  |  |
+Total net revenue growth (period over period) |  | 1 |  |  | 4 |  |  | 6 |  |  | 4 |  |  | (3) |  |  | ** |  | ** |  |  |  |  |  |
+Total net revenue margin (5) |  | 8.30 |  |  | 8.31 |  |  | 8.08 |  |  | 7.56 |  |  | 7.32 |  |  | (1) | bps |  | 98 | bps |  |  |  |  |  |
+Net interest margin (6) |  | 6.49 |  |  | 6.60 |  |  | 6.35 |  |  | 5.89 |  |  | 5.99 |  |  | (11) |  |  | 50 |  |  |  |  |  |  |
+Return on average assets |  | 2.23 |  |  | 2.27 |  |  | 2.92 |  |  | 3.34 |  |  | 3.16 |  |  | (4) |  |  | (93) |  |  |  |  |  |  |
+Return on average tangible assets (7) |  | 2.31 |  |  | 2.35 |  |  | 3.03 |  |  | 3.46 |  |  | 3.27 |  |  | (4) |  |  | (96) |  |  |  |  |  |  |
+Return on average common equity (8) |  | 16.98 |  |  | 16.13 |  |  | 20.52 |  |  | 24.24 |  |  | 23.22 |  |  | 85 |  |  | (6)% |  |  |  |  |  |
+Return on average tangible common equity (9) |  | 23.36 |  |  | 21.82 |  |  | 27.50 |  |  | 32.75 |  |  | 31.61 |  |  | 154 |  |  | (8) |  |  |  |  |  |  |
+Non-interest expense as a percentage of average loans held for investment |  | 6.61 |  |  | 7.00 |  |  | 6.62 |  |  | 6.44 |  |  | 6.13 |  |  | (39) |  |  | 48 | bps |  |  |  |  |  |
+Efficiency ratio (10) |  | 55.68 |  |  | 57.63 |  |  | 53.46 |  |  | 53.78 |  |  | 52.58 |  |  | (195) |  |  | 310 |  |  |  |  |  |  |
+Operating efficiency ratio (11) |  | 44.45 |  |  | 45.32 |  |  | 43.87 |  |  | 45.38 |  |  | 45.54 |  |  | (87) |  |  | (109) |  |  |  |  |  |  |
+Effective income tax rate for continuing operations |  | 18.4 |  |  | 20.7 |  |  | 22.1 |  |  | 22.6 |  |  | 20.7 |  |  | (230) |  |  | (230) |  |  |  |  |  |  |
+Employees (period-end, in thousands) |  | 51.5 |  |  | 50.8 |  |  | 50.8 |  |  | 52.0 |  |  | 51.7 |  |  | 1% |  | — | % |  |  |  |  |  |
+Credit Quality Metrics |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Allowance for credit losses |  | $ | 11,308 |  |  | $ | 11,430 |  |  | $ | 11,573 |  |  | $ | 12,346 |  |  | $ | 14,017 |  |  | (1)% |  | (19)% |  |  |  |  |  |
+Allowance coverage ratio |  | 4.03 | % |  | 4.12 | % |  | 4.43 | % |  | 4.95 | % |  | 5.77 | % |  | (9) | bps |  | (174) | bps |  |  |  |  |  |
+Net charge-offs |  | $ | 767 |  |  | $ | 527 |  |  | $ | 426 |  |  | $ | 541 |  |  | $ | 740 |  |  | 46% |  | 4% |  |  |  |  |  |
+Net charge-off rate (12) |  | 1.11 | % |  | 0.79 | % |  | 0.67 | % |  | 0.88 | % |  | 1.21 | % |  | 32 | bps |  | (10) | bps |  |  |  |  |  |
+30+ day performing delinquency rate |  | 2.08 |  |  | 2.25 |  |  | 1.97 |  |  | 1.75 |  |  | 1.82 |  |  | (17) |  |  | 26 |  |  |  |  |  |  |
+30+ day delinquency rate |  | 2.21 |  |  | 2.41 |  |  | 2.13 |  |  | 1.89 |  |  | 1.98 |  |  | (20) |  |  | 23 |  |  |  |  |  |  |
+Capital Ratios (13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Common equity Tier 1 capital |  | 12.7 | % |  | 13.1 | % |  | 13.8 | % |  | 14.5 | % |  | 14.6 | % |  | (40) | bps |  | (190) | bps |  |  |  |  |  |
+Tier 1 capital |  | 14.1 |  |  | 14.5 |  |  | 15.7 |  |  | 16.6 |  |  | 16.2 |  |  | (40) |  |  | (210) |  |  |  |  |  |  |
+Total capital |  | 16.4 |  |  | 16.9 |  |  | 18.2 |  |  | 18.8 |  |  | 18.6 |  |  | (50) |  |  | (220) |  |  |  |  |  |  |
+Tier 1 leverage |  | 11.3 |  |  | 11.6 |  |  | 12.2 |  |  | 12.4 |  |  | 11.7 |  |  | (30) |  |  | (40) |  |  |  |  |  |  |
+Tangible common equity (“TCE”) (14) |  | 8.7 |  |  | 9.9 |  |  | 10.4 |  |  | 10.6 |  |  | 10.1 |  |  | (120) |  |  | (140) |  |  |  |  |  |  |
+[/TABLE]
+
+3
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 3: Consolidated Statements of Income
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 6,367 |  |  | $ | 6,451 |  |  | $ | 6,205 |  |  | $ | 5,753 |  |  | $ | 5,854 |  |  | (1) | % |  | 9 | % |  |  |  |  |  |
+Investment securities |  | 402 |  |  | 368 |  |  | 317 |  |  | 370 |  |  | 391 |  |  | 9 |  |  | 3 |  |  |  |  |  |  |
+Other |  | 15 |  |  | 12 |  |  | 16 |  |  | 16 |  |  | 16 |  |  | 25 |  |  | (6) |  |  |  |  |  |  |
+Total interest income |  | 6,784 |  |  | 6,831 |  |  | 6,538 |  |  | 6,139 |  |  | 6,261 |  |  | (1) |  |  | 8 |  |  |  |  |  |  |
+Interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Deposits |  | 218 |  |  | 222 |  |  | 228 |  |  | 237 |  |  | 269 |  |  | (2) |  |  | (19) |  |  |  |  |  |  |
+Securitized debt obligations |  | 29 |  |  | 30 |  |  | 29 |  |  | 28 |  |  | 32 |  |  | (3) |  |  | (9) |  |  |  |  |  |  |
+Senior and subordinated notes |  | 131 |  |  | 121 |  |  | 116 |  |  | 122 |  |  | 129 |  |  | 8 |  |  | 2 |  |  |  |  |  |  |
+Other borrowings |  | 9 |  |  | 8 |  |  | 9 |  |  | 9 |  |  | 9 |  |  | 13 |  |  | — |  |  |  |  |  |  |
+Total interest expense |  | 387 |  |  | 381 |  |  | 382 |  |  | 396 |  |  | 439 |  |  | 2 |  |  | (12) |  |  |  |  |  |  |
+Net interest income |  | 6,397 |  |  | 6,450 |  |  | 6,156 |  |  | 5,743 |  |  | 5,822 |  |  | (1) |  |  | 10 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 677 |  |  | 381 |  |  | (342) |  |  | (1,160) |  |  | (823) |  |  | 78 |  |  | ** |  |  |  |  |  |
+Net interest income after provision for credit losses |  | 5,720 |  |  | 6,069 |  |  | 6,498 |  |  | 6,903 |  |  | 6,645 |  |  | (6) |  |  | (14) |  |  |  |  |  |  |
+Non-interest income: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interchange fees, net |  | 1,033 |  |  | 1,005 |  |  | 1,022 |  |  | 1,016 |  |  | 817 |  |  | 3 |  |  | 26 |  |  |  |  |  |  |
+Service charges and other customer-related fees |  | 400 |  |  | 435 |  |  | 407 |  |  | 384 |  |  | 352 |  |  | (8) |  |  | 14 |  |  |  |  |  |  |
+Other |  | 343 |  |  | 228 |  |  | 245 |  |  | 231 |  |  | 122 |  |  | 50 |  |  | 181 |  |  |  |  |  |  |
+Total non-interest income |  | 1,776 |  |  | 1,668 |  |  | 1,674 |  |  | 1,631 |  |  | 1,291 |  |  | 6 |  |  | 38 |  |  |  |  |  |  |
+Non-interest expense: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Salaries and associate benefits |  | 2,026 |  |  | 1,941 |  |  | 1,852 |  |  | 1,781 |  |  | 1,847 |  |  | 4 |  |  | 10 |  |  |  |  |  |  |
+Occupancy and equipment |  | 513 |  |  | 527 |  |  | 481 |  |  | 523 |  |  | 472 |  |  | (3) |  |  | 9 |  |  |  |  |  |  |
+Marketing |  | 918 |  |  | 999 |  |  | 751 |  |  | 620 |  |  | 501 |  |  | (8) |  |  | 83 |  |  |  |  |  |  |
+Professional services |  | 397 |  |  | 449 |  |  | 358 |  |  | 341 |  |  | 292 |  |  | (12) |  |  | 36 |  |  |  |  |  |  |
+Communications and data processing |  | 339 |  |  | 326 |  |  | 319 |  |  | 315 |  |  | 302 |  |  | 4 |  |  | 12 |  |  |  |  |  |  |
+Amortization of intangibles |  | 14 |  |  | 13 |  |  | 5 |  |  | 5 |  |  | 6 |  |  | 8 |  |  | 133 |  |  |  |  |  |  |
+Other |  | 344 |  |  | 423 |  |  | 420 |  |  | 381 |  |  | 320 |  |  | (19) |  |  | 8 |  |  |  |  |  |  |
+Total non-interest expense |  | 4,551 |  |  | 4,678 |  |  | 4,186 |  |  | 3,966 |  |  | 3,740 |  |  | (3) |  |  | 22 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 2,945 |  |  | 3,059 |  |  | 3,986 |  |  | 4,568 |  |  | 4,196 |  |  | (4) |  |  | (30) |  |  |  |  |  |  |
+Income tax provision |  | 542 |  |  | 633 |  |  | 882 |  |  | 1,031 |  |  | 869 |  |  | (14) |  |  | (38) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | 2,403 |  |  | 2,426 |  |  | 3,104 |  |  | 3,537 |  |  | 3,327 |  |  | (1) |  |  | (28) |  |  |  |  |  |  |
+Loss from discontinued operations, net of tax |  | — |  |  | (1) |  |  | — |  |  | (1) |  |  | (2) |  |  | ** |  | ** |  |  |  |  |  |
+Net income |  | 2,403 |  |  | 2,425 |  |  | 3,104 |  |  | 3,536 |  |  | 3,325 |  |  | (1) |  |  | (28) |  |  |  |  |  |  |
+Dividends and undistributed earnings allocated to participating securities (2) |  | (28) |  |  | (21) |  |  | (26) |  |  | (30) |  |  | (28) |  |  | 33 |  |  | — |  |  |  |  |  |  |
+Preferred stock dividends |  | (57) |  |  | (74) |  |  | (79) |  |  | (60) |  |  | (61) |  |  | (23) |  |  | (7) |  |  |  |  |  |  |
+Issuance cost for redeemed preferred stock (3) |  | — |  |  | (34) |  |  | (12) |  |  | — |  |  | — |  |  | ** |  | — |  |  |  |  |  |  |
+Net income available to common stockholders |  | $ | 2,318 |  |  | $ | 2,296 |  |  | $ | 2,987 |  |  | $ | 3,446 |  |  | $ | 3,236 |  |  | 1 |  |  | (28) |  |  |  |  |  |  |
+[/TABLE]
+
+4
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Basic earnings per common share: (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 5.65 |  |  | $ | 5.43 |  |  | $ | 6.81 |  |  | $ | 7.65 |  |  | $ | 7.06 |  |  | 4 | % |  | (20) | % |  |  |  |  |  |
+Net income per basic common share |  | $ | 5.65 |  |  | $ | 5.43 |  |  | $ | 6.81 |  |  | $ | 7.65 |  |  | $ | 7.06 |  |  | 4 |  |  | (20) |  |  |  |  |  |  |
+Diluted earnings per common share: (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income from continuing operations |  | $ | 5.62 |  |  | $ | 5.41 |  |  | $ | 6.78 |  |  | $ | 7.62 |  |  | $ | 7.03 |  |  | 4 |  |  | (20) |  |  |  |  |  |  |
+Net income per diluted common share |  | $ | 5.62 |  |  | $ | 5.41 |  |  | $ | 6.78 |  |  | $ | 7.62 |  |  | $ | 7.03 |  |  | 4 |  |  | (20) |  |  |  |  |  |  |
+Weighted-average common shares outstanding (in millions): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Basic common shares |  | 410.4 |  |  | 422.5 |  |  | 438.8 |  |  | 450.6 |  |  | 458.6 |  |  | (3) |  |  | (11) |  |  |  |  |  |  |
+Diluted common shares |  | 412.2 |  |  | 424.3 |  |  | 440.5 |  |  | 452.3 |  |  | 460.1 |  |  | (3) |  |  | (10) |  |  |  |  |  |  |
+[/TABLE]
+
+5
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 4: Consolidated Balance Sheets
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs.
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and cash equivalents: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Cash and due from banks |  | $ | 5,107 |  |  | $ | 4,164 |  |  | $ | 5,444 |  |  | $ | 5,312 |  |  | $ | 4,670 |  |  | 23 | % |  | 9 | %
+Interest-bearing deposits and other short-term investments |  | 21,697 |  |  | 17,582 |  |  | 21,180 |  |  | 29,534 |  |  | 45,825 |  |  | 23 |  |  | (53) |
+Total cash and cash equivalents |  | 26,804 |  |  | 21,746 |  |  | 26,624 |  |  | 34,846 |  |  | 50,495 |  |  | 23 |  |  | (47) |
+Restricted cash for securitization investors |  | 281 |  |  | 308 |  |  | 234 |  |  | 242 |  |  | 1,779 |  |  | (9) |  |  | (84) |
+Securities available for sale |  | 89,076 |  |  | 95,261 |  |  | 98,149 |  |  | 101,766 |  |  | 99,165 |  |  | (6) |  |  | (10) |
+Loans held for investment: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Unsecuritized loans held for investment |  | 257,505 |  |  | 252,468 |  |  | 238,475 |  |  | 226,130 |  |  | 219,182 |  |  | 2 |  |  | 17 |
+Loans held in consolidated trusts |  | 22,961 |  |  | 24,872 |  |  | 22,915 |  |  | 23,467 |  |  | 23,949 |  |  | (8) |  |  | (4) |
+Total loans held for investment |  | 280,466 |  |  | 277,340 |  |  | 261,390 |  |  | 249,597 |  |  | 243,131 |  |  | 1 |  |  | 15 |
+Allowance for credit losses |  | (11,308) |  |  | (11,430) |  |  | (11,573) |  |  | (12,346) |  |  | (14,017) |  |  | (1) |  |  | (19) |
+Net loans held for investment |  | 269,158 |  |  | 265,910 |  |  | 249,817 |  |  | 237,251 |  |  | 229,114 |  |  | 1 |  |  | 17 |
+Loans held for sale |  | 1,155 |  |  | 5,888 |  |  | 6,300 |  |  | 6,522 |  |  | 2,896 |  |  | (80) |  |  | (60) |
+Premises and equipment, net |  | 4,238 |  |  | 4,210 |  |  | 4,204 |  |  | 4,227 |  |  | 4,277 |  |  | 1 |  |  | (1) |
+Interest receivable |  | 1,479 |  |  | 1,460 |  |  | 1,418 |  |  | 1,372 |  |  | 1,380 |  |  | 1 |  |  | 7 |
+Goodwill |  | 14,784 |  |  | 14,782 |  |  | 14,652 |  |  | 14,654 |  |  | 14,654 |  |  | — |  |  | 1 |
+Other assets |  | 27,220 |  |  | 22,816 |  |  | 23,979 |  |  | 22,540 |  |  | 21,415 |  |  | 19 |  |  | 27 |
+Total assets |  | $ | 434,195 |  |  | $ | 432,381 |  |  | $ | 425,377 |  |  | $ | 423,420 |  |  | $ | 425,175 |  |  | — |  |  | 2 |
+[/TABLE]
+
+6
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs.
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest payable |  | $ | 261 |  |  | $ | 281 |  |  | $ | 241 |  |  | $ | 301 |  |  | $ | 288 |  |  | (7) | % |  | (9) | %
+Deposits: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Non-interest-bearing deposits |  | 37,781 |  |  | 38,043 |  |  | 36,804 |  |  | 34,994 |  |  | 34,003 |  |  | (1) |  |  | 11 |
+Interest-bearing deposits |  | 275,648 |  |  | 272,937 |  |  | 269,134 |  |  | 271,314 |  |  | 276,325 |  |  | 1 |  |  | — |
+Total deposits |  | 313,429 |  |  | 310,980 |  |  | 305,938 |  |  | 306,308 |  |  | 310,328 |  |  | 1 |  |  | 1 |
+Securitized debt obligations |  | 13,740 |  |  | 14,994 |  |  | 12,635 |  |  | 10,561 |  |  | 12,071 |  |  | (8) |  |  | 14 |
+Other debt: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Federal funds purchased and securities loaned or sold under agreements to repurchase |  | 594 |  |  | 820 |  |  | 825 |  |  | 845 |  |  | 842 |  |  | (28) |  |  | (29) |
+Senior and subordinated notes |  | 26,976 |  |  | 27,219 |  |  | 23,983 |  |  | 24,878 |  |  | 25,467 |  |  | (1) |  |  | 6 |
+Other borrowings |  | 4,048 |  |  | 53 |  |  | 58 |  |  | 59 |  |  | 70 |  |  | ** |  | **
+Total other debt |  | 31,618 |  |  | 28,092 |  |  | 24,866 |  |  | 25,782 |  |  | 26,379 |  |  | 13 |  |  | 20 |
+Other liabilities |  | 18,802 |  |  | 17,005 |  |  | 18,153 |  |  | 15,844 |  |  | 14,921 |  |  | 11 |  |  | 26 |
+Total liabilities |  | 377,850 |  |  | 371,352 |  |  | 361,833 |  |  | 358,796 |  |  | 363,987 |  |  | 2 |  |  | 4 |
+Stockholders’ equity: |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Preferred stock |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |  | 0 |  |  | — |  |  | — |
+Common stock |  | 7 |  |  | 7 |  |  | 7 |  |  | 7 |  |  | 7 |  |  | — |  |  | — |
+Additional paid-in capital, net |  | 34,286 |  |  | 34,112 |  |  | 35,051 |  |  | 35,472 |  |  | 33,671 |  |  | 1 |  |  | 2 |
+Retained earnings |  | 53,099 |  |  | 51,006 |  |  | 48,944 |  |  | 46,461 |  |  | 43,167 |  |  | 4 |  |  | 23 |
+Accumulated other comprehensive income (loss) |  | (4,093) |  |  | 374 |  |  | 1,360 |  |  | 1,792 |  |  | 1,783 |  |  | ** |  | **
+Treasury stock, at cost |  | (26,954) |  |  | (24,470) |  |  | (21,818) |  |  | (19,108) |  |  | (17,440) |  |  | 10 |  |  | 55 |
+Total stockholders’ equity |  | 56,345 |  |  | 61,029 |  |  | 63,544 |  |  | 64,624 |  |  | 61,188 |  |  | (8) |  |  | (8) |
+Total liabilities and stockholders’ equity |  | $ | 434,195 |  |  | $ | 432,381 |  |  | $ | 425,377 |  |  | $ | 423,420 |  |  | $ | 425,175 |  |  | — |  |  | 2 |
+[/TABLE]
+
+7
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 5: Notes to Financial Summary, Selected Metrics and Consolidated Financial Statements (Tables 1—4)
+
+(1) Total net revenue was reduced by $192 million in Q1 2022, $151 million in Q4 2021, $123 million in Q3 2021, $175 million in Q2 2021 and $180 million in Q1 2021 for credit card finance charges and fees charged-off as uncollectible.
+
+(2) Dividends and undistributed earnings allocated to participating securities and earnings per share are computed independently for each period. Accordingly, the sum of each quarterly amount may not agree to the year-to-date total. We also provide adjusted diluted earnings per share, which is a non-GAAP measure. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on our non-GAAP measures.
+
+(3) On September 1, 2021, we redeemed all outstanding shares of our fixed-to-floating rate non-cumulative perpetual preferred stock Series E, which reduced our net income available to common shareholders by $12 million in Q3 2021. On December 1, 2021, we redeemed all outstanding shares of our fixed rate 5.20% non-cumulative perpetual preferred stock Series G, and our fixed rate 6.00% non-cumulative perpetual preferred stock Series H, which together reduced our net income available to common shareholders by $34 million in Q4 2021.
+
+(4) Tangible book value per common share is a non-GAAP measure calculated based on tangible common equity divided by common shares outstanding. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+
+(5) Total net revenue margin is calculated based on annualized total net revenue for the period divided by average interest-earning assets for the period.
+
+(6) Net interest margin is calculated based on annualized net interest income for the period divided by average interest-earning assets for the period.
+
+(7) Return on average tangible assets is a non-GAAP measure calculated based on annualized income (loss) from continuing operations, net of tax, for the period divided by average tangible assets for the period. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+
+(8) Return on average common equity is calculated based on annualized net income (loss) available to common stockholders less annualized income (loss) from discontinued operations, net of tax, for the period, divided by average common equity. Our calculation of return on average common equity may not be comparable to similarly-titled measures reported by other companies.
+
+(9) Return on average tangible common equity (“ROTCE”) is a non-GAAP measure calculated based on annualized net income (loss) available to common stockholders less annualized income (loss) from discontinued operations, net of tax, for the period, divided by average tangible common equity (“TCE”). Our calculation of return on average TCE may not be comparable to similarly-titled measures reported by other companies. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+
+(10) Efficiency ratio is calculated based on total non-interest expense for the period divided by total net revenue for the period. We also provide an adjusted efficiency ratio, which is a non-GAAP measure. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on our non-GAAP measures.
+
+(11) Operating efficiency ratio is calculated based on operating expense for the period divided by total net revenue for the period. We also provide an adjusted operating efficiency ratio, which is a non-GAAP measure. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on our non-GAAP measures.
+
+(12) Net charge-off rate is calculated based on annualized net charge-offs for the period divided by average loans held for investment for the period.
+
+(13) Capital ratios as of the end of Q1 2022 are preliminary and therefore subject to change. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for information on the calculation of each of these ratios.
+
+(14) TCE ratio is a non-GAAP measure calculated based on TCE divided by tangible assets. See “Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures” for additional information on non-GAAP measures.
+
+** Not meaningful.
+
+8
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 6: Average Balances, Net Interest Income and Net Interest Margin
+
+[TABLE]
+ |  | 2022 Q1 |  | 2021 Q4 |  | 2021 Q1
+(Dollars in millions, except as noted) |  | Average Balance |  | Interest Income/ Expense |  | Yield/Rate |  | Average Balance |  | Interest Income/ Expense |  | Yield/Rate |  | Average Balance |  | Interest Income/ Expense |  | Yield/Rate
+Interest-earning assets: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Loans, including loans held for sale |  | $ | 279,022 |  |  | $ | 6,367 |  |  | 9.13 | % |  | $ | 272,805 |  |  | $ | 6,451 |  |  | 9.46 | % |  | $ | 246,675 |  |  | $ | 5,854 |  |  | 9.49 | %
+Investment securities |  | 94,700 |  |  | 402 |  |  | 1.70 |  |  | 96,421 |  |  | 368 |  |  | 1.53 |  |  | 98,296 |  |  | 391 |  |  | 1.59 |
+Cash equivalents and other |  | 20,360 |  |  | 15 |  |  | 0.29 |  |  | 21,642 |  |  | 12 |  |  | 0.22 |  |  | 43,601 |  |  | 16 |  |  | 0.15 |
+Total interest-earning assets |  | $ | 394,082 |  |  | $ | 6,784 |  |  | 6.89 |  |  | $ | 390,868 |  |  | $ | 6,831 |  |  | 6.99 |  |  | $ | 388,572 |  |  | $ | 6,261 |  |  | 6.45 |
+Interest-bearing liabilities: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Interest-bearing deposits |  | $ | 271,823 |  |  | $ | 218 |  |  | 0.32 |  |  | $ | 269,951 |  |  | $ | 222 |  |  | 0.33 |  |  | $ | 273,358 |  |  | $ | 269 |  |  | 0.39 |
+Securitized debt obligations |  | 13,740 |  |  | 29 |  |  | 0.84 |  |  | 13,775 |  |  | 30 |  |  | 0.87 |  |  | 12,240 |  |  | 32 |  |  | 1.05 |
+Senior and subordinated notes |  | 26,481 |  |  | 131 |  |  | 1.98 |  |  | 25,454 |  |  | 121 |  |  | 1.90 |  |  | 26,968 |  |  | 129 |  |  | 1.91 |
+Other borrowings and liabilities |  | 3,633 |  |  | 9 |  |  | 1.00 |  |  | 2,279 |  |  | 8 |  |  | 1.50 |  |  | 2,210 |  |  | 9 |  |  | 1.62 |
+Total interest-bearing liabilities |  | $ | 315,677 |  |  | $ | 387 |  |  | 0.49 |  |  | $ | 311,459 |  |  | $ | 381 |  |  | 0.49 |  |  | $ | 314,776 |  |  | $ | 439 |  |  | 0.56 |
+Net interest income/spread |  |  |  | $ | 6,397 |  |  | 6.40 |  |  |  |  | $ | 6,450 |  |  | 6.50 |  |  |  |  | $ | 5,822 |  |  | 5.89 |
+Impact of non-interest-bearing funding |  |  |  |  |  | 0.09 |  |  |  |  |  |  | 0.10 |  |  |  |  |  |  | 0.10 |
+Net interest margin |  |  |  |  |  | 6.49 | % |  |  |  |  |  | 6.60 | % |  |  |  |  |  | 5.99 | %
+[/TABLE]
+
+9
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 7: Loan Information and Performance Statistics
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Loans Held for Investment (Period-End) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | $ | 107,987 |  |  | $ | 108,723 |  |  | $ | 99,258 |  |  | $ | 95,309 |  |  | $ | 91,099 |  |  | (1) | % |  | 19 | % |  |  |  |  |  |
+International card businesses |  | 5,975 |  |  | 6,049 |  |  | 5,772 |  |  | 5,708 |  |  | 8,028 |  |  | (1) |  |  | (26) |  |  |  |  |  |  |
+Total credit card |  | 113,962 |  |  | 114,772 |  |  | 105,030 |  |  | 101,017 |  |  | 99,127 |  |  | (1) |  |  | 15 |  |  |  |  |  |  |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 78,604 |  |  | 75,779 |  |  | 74,716 |  |  | 71,713 |  |  | 67,059 |  |  | 4 |  |  | 17 |  |  |  |  |  |  |
+Retail banking |  | 1,726 |  |  | 1,867 |  |  | 2,396 |  |  | 3,046 |  |  | 3,143 |  |  | (8) |  |  | (45) |  |  |  |  |  |  |
+Total consumer banking |  | 80,330 |  |  | 77,646 |  |  | 77,112 |  |  | 74,759 |  |  | 70,202 |  |  | 3 |  |  | 14 |  |  |  |  |  |  |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 34,354 |  |  | 35,262 |  |  | 33,096 |  |  | 29,616 |  |  | 30,008 |  |  | (3) |  |  | 14 |  |  |  |  |  |  |
+Commercial and industrial |  | 51,820 |  |  | 49,660 |  |  | 46,152 |  |  | 44,205 |  |  | 43,794 |  |  | 4 |  |  | 18 |  |  |  |  |  |  |
+Total commercial banking |  | 86,174 |  |  | 84,922 |  |  | 79,248 |  |  | 73,821 |  |  | 73,802 |  |  | 1 |  |  | 17 |  |  |  |  |  |  |
+Total loans held for investment |  | $ | 280,466 |  |  | $ | 277,340 |  |  | $ | 261,390 |  |  | $ | 249,597 |  |  | $ | 243,131 |  |  | 1 |  |  | 15 |  |  |  |  |  |  |
+Loans Held for Investment (Average) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | $ | 105,536 |  |  | $ | 102,717 |  |  | $ | 96,309 |  |  | $ | 91,535 |  |  | $ | 92,594 |  |  | 3 | % |  | 14 | % |  |  |  |  |  |
+International card businesses |  | 5,944 |  |  | 5,871 |  |  | 5,737 |  |  | 8,139 |  |  | 7,940 |  |  | 1 |  |  | (25) |  |  |  |  |  |  |
+Total credit card |  | 111,480 |  |  | 108,588 |  |  | 102,046 |  |  | 99,674 |  |  | 100,534 |  |  | 3 |  |  | 11 |  |  |  |  |  |  |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 76,892 |  |  | 75,284 |  |  | 73,296 |  |  | 69,543 |  |  | 66,185 |  |  | 2 |  |  | 16 |  |  |  |  |  |  |
+Retail banking |  | 1,797 |  |  | 2,160 |  |  | 2,700 |  |  | 3,162 |  |  | 3,049 |  |  | (17) |  |  | (41) |  |  |  |  |  |  |
+Total consumer banking |  | 78,689 |  |  | 77,444 |  |  | 75,996 |  |  | 72,705 |  |  | 69,234 |  |  | 2 |  |  | 14 |  |  |  |  |  |  |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 34,671 |  |  | 33,591 |  |  | 30,314 |  |  | 30,124 |  |  | 29,856 |  |  | 3 |  |  | 16 |  |  |  |  |  |  |
+Commercial and industrial |  | 50,502 |  |  | 47,536 |  |  | 44,745 |  |  | 43,960 |  |  | 44,313 |  |  | 6 |  |  | 14 |  |  |  |  |  |  |
+Total commercial banking |  | 85,173 |  |  | 81,127 |  |  | 75,059 |  |  | 74,084 |  |  | 74,169 |  |  | 5 |  |  | 15 |  |  |  |  |  |  |
+Total average loans held for investment |  | $ | 275,342 |  |  | $ | 267,159 |  |  | $ | 253,101 |  |  | $ | 246,463 |  |  | $ | 243,937 |  |  | 3 |  |  | 13 |  |  |  |  |  |  |
+[/TABLE]
+
+10
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+ |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1
+Net Charge-Off (Recovery) Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | 2.12 | % |  | 1.49 | % |  | 1.36 | % |  | 2.28 | % |  | 2.54 | % |  | 63 | bps |  | (42) | bps |  |  |  |  |  |
+International card businesses |  | 3.20 |  |  | 0.14 |  |  | 2.72 |  |  | 2.41 |  |  | 2.30 |  |  | 306 |  |  | 90 |  |  |  |  |  |  |
+Total credit card |  | 2.18 |  |  | 1.42 |  |  | 1.43 |  |  | 2.29 |  |  | 2.52 |  |  | 76 |  |  | (34) |  |  |  |  |  |  |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 0.66 |  |  | 0.58 |  |  | 0.18 |  |  | (0.12) |  |  | 0.47 |  |  | 8 |  |  | 19 |  |  |  |  |  |  |
+Retail banking |  | 4.31 |  |  | 6.69 |  |  | 2.45 |  |  | 1.41 |  |  | 1.68 |  |  | (238) |  |  | 263 |  |  |  |  |  |  |
+Total consumer banking |  | 0.75 |  |  | 0.75 |  |  | 0.27 |  |  | (0.06) |  |  | 0.52 |  |  | — |  |  | 23 |  |  |  |  |  |  |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | — |  |  | — |  |  | 0.01 |  |  | 0.04 |  |  | 0.06 |  |  | — |  |  | (6) |  |  |  |  |  |  |
+Commercial and industrial |  | 0.11 |  |  | (0.03) |  |  | 0.07 |  |  | (0.21) |  |  | 0.11 |  |  | 14 |  |  | — |  |  |  |  |  |  |
+Total commercial banking |  | 0.06 |  |  | (0.02) |  |  | 0.05 |  |  | (0.11) |  |  | 0.09 |  |  | 8 |  |  | (3) |  |  |  |  |  |  |
+Total net charge-offs |  | 1.11 |  |  | 0.79 |  |  | 0.67 |  |  | 0.88 |  |  | 1.21 |  |  | 32 |  |  | (10) |  |  |  |  |  |  |
+30+ Day Performing Delinquency Rates |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Domestic credit card |  | 2.32 | % |  | 2.22 | % |  | 1.93 | % |  | 1.68 | % |  | 2.24 | % |  | 10 | bps |  | 8 | bps |  |  |  |  |  |
+International card businesses |  | 3.58 |  |  | 3.42 |  |  | 3.27 |  |  | 2.89 |  |  | 2.51 |  |  | 16 |  |  | 107 |  |  |  |  |  |  |
+Total credit card |  | 2.38 |  |  | 2.28 |  |  | 2.00 |  |  | 1.75 |  |  | 2.26 |  |  | 10 |  |  | 12 |  |  |  |  |  |  |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 3.85 |  |  | 4.32 |  |  | 3.65 |  |  | 3.26 |  |  | 3.12 |  |  | (47) |  |  | 73 |  |  |  |  |  |  |
+Retail banking |  | 0.74 |  |  | 1.92 |  |  | 1.15 |  |  | 0.79 |  |  | 1.02 |  |  | (118) |  |  | (28) |  |  |  |  |  |  |
+Total consumer banking |  | 3.78 |  |  | 4.26 |  |  | 3.58 |  |  | 3.16 |  |  | 3.03 |  |  | (48) |  |  | 75 |  |  |  |  |  |  |
+Nonperforming Loans and Nonperforming Assets Rates (1)(2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Credit card: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+International card businesses |  | 0.14 | % |  | 0.16 | % |  | 0.16 | % |  | 0.20 | % |  | 0.17 | % |  | (2) | bps |  | (3) | bps |  |  |  |  |  |
+Total credit card |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | — |  |  | — |  |  |  |  |  |  |
+Consumer banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Auto |  | 0.41 |  |  | 0.45 |  |  | 0.36 |  |  | 0.29 |  |  | 0.29 |  |  | (4) |  |  | 12 |  |  |  |  |  |  |
+Retail banking |  | 2.63 |  |  | 2.51 |  |  | 2.20 |  |  | 1.75 |  |  | 1.16 |  |  | 12 |  |  | 147 |  |  |  |  |  |  |
+Total consumer banking |  | 0.46 |  |  | 0.50 |  |  | 0.42 |  |  | 0.35 |  |  | 0.33 |  |  | (4) |  |  | 13 |  |  |  |  |  |  |
+Commercial banking: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Commercial and multifamily real estate |  | 0.98 |  |  | 1.09 |  |  | 0.87 |  |  | 1.02 |  |  | 0.78 |  |  | (11) |  |  | 20 |  |  |  |  |  |  |
+Commercial and industrial |  | 0.69 |  |  | 0.64 |  |  | 0.68 |  |  | 1.03 |  |  | 1.02 |  |  | 5 |  |  | (33) |  |  |  |  |  |  |
+Total commercial banking |  | 0.81 |  |  | 0.82 |  |  | 0.76 |  |  | 1.03 |  |  | 0.92 |  |  | (1) |  |  | (11) |  |  |  |  |  |  |
+Total nonperforming loans |  | 0.38 |  |  | 0.40 |  |  | 0.35 |  |  | 0.41 |  |  | 0.38 |  |  | (2) |  |  | — |  |  |  |  |  |  |
+Total nonperforming assets |  | 0.40 |  |  | 0.41 |  |  | 0.37 |  |  | 0.43 |  |  | 0.40 |  |  | (1) |  |  | — |  |  |  |  |  |  |
+[/TABLE]
+
+11
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 8: Allowance for Credit Losses and Reserve for Unfunded Lending Commitments Activity
+
+[TABLE]
+ |  | Three Months Ended March 31, 2022
+ |  | Credit Card |  | Consumer Banking |  |  |  |  |  |
+(Dollars in millions) |  | Domestic Card |  | International Card Businesses |  | Total Credit Card |  | Auto |  | Retail Banking |  | Total Consumer Banking |  | Commercial Banking |  |  |  | Total
+Allowance for credit losses: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Balance as of December 31, 2021 |  | $ | 7,968 |  |  | $ | 377 |  |  | $ | 8,345 |  |  | $ | 1,852 |  |  | $ | 66 |  |  | $ | 1,918 |  |  | $ | 1,167 |  |  |  |  | $ | 11,430 |
+Charge-offs |  | (867) |  |  | (88) |  |  | (955) |  |  | (326) |  |  | (23) |  |  | (349) |  |  | (17) |  |  |  |  | (1,321) |
+Recoveries |  | 308 |  |  | 40 |  |  | 348 |  |  | 199 |  |  | 4 |  |  | 203 |  |  | 3 |  |  |  |  | 554 |
+Net charge-offs |  | (559) |  |  | (48) |  |  | (607) |  |  | (127) |  |  | (19) |  |  | (146) |  |  | (14) |  |  |  |  | (767) |
+Provision (benefit) for credit losses |  | 559 |  |  | (14) |  |  | 545 |  |  | 127 |  |  | 3 |  |  | 130 |  |  | (27) |  |  |  |  | 648 |
+Allowance build (release) for credit losses |  | — |  |  | (62) |  |  | (62) |  |  | — |  |  | (16) |  |  | (16) |  |  | (41) |  |  |  |  | (119) |
+Other changes (3) |  | — |  |  | (3) |  |  | (3) |  |  | — |  |  | — |  |  | — |  |  | — |  |  |  |  | (3) |
+Balance as of March 31, 2022 |  | 7,968 |  |  | 312 |  |  | 8,280 |  |  | 1,852 |  |  | 50 |  |  | 1,902 |  |  | 1,126 |  |  |  |  | 11,308 |
+Reserve for unfunded lending commitments: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Balance as of December 31, 2021 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 165 |  |  |  |  | 165 |
+Provision (benefit) for losses on unfunded lending commitments |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 35 |  |  |  |  | 35 |
+Balance as of March 31, 2022 |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 200 |  |  |  |  | 200 |
+Combined allowance and reserve as of March 31, 2022 |  | $ | 7,968 |  |  | $ | 312 |  |  | $ | 8,280 |  |  | $ | 1,852 |  |  | $ | 50 |  |  | $ | 1,902 |  |  | $ | 1,326 |  |  |  |  | $ | 11,508 |
+[/TABLE]
+
+12
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 9: Financial Summary—Business Segment Results
+
+[TABLE]
+ |  | Three Months Ended March 31, 2022 |  |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking (4) |  | Other (4) |  | Total |  |  |  |  |  |  |  |  |  |
+Net interest income (loss) |  | $ | 3,839 |  |  | $ | 2,113 |  |  | $ | 607 |  |  | $ | (162) |  |  | $ | 6,397 |  |  |  |  |  |  |  |  |  |  |
+Non-interest income (loss) |  | 1,458 |  |  | 105 |  |  | 277 |  |  | (64) |  |  | 1,776 |  |  |  |  |  |  |  |  |  |  |
+Total net revenue (loss) |  | 5,297 |  |  | 2,218 |  |  | 884 |  |  | (226) |  |  | 8,173 |  |  |  |  |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 545 |  |  | 130 |  |  | 8 |  |  | (6) |  |  | 677 |  |  |  |  |  |  |  |  |  |  |
+Non-interest expense |  | 2,783 |  |  | 1,236 |  |  | 488 |  |  | 44 |  |  | 4,551 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations before income taxes |  | 1,969 |  |  | 852 |  |  | 388 |  |  | (264) |  |  | 2,945 |  |  |  |  |  |  |  |  |  |  |
+Income tax provision (benefit) |  | 469 |  |  | 202 |  |  | 92 |  |  | (221) |  |  | 542 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations, net of tax |  | $ | 1,500 |  |  | $ | 650 |  |  | $ | 296 |  |  | $ | (43) |  |  | $ | 2,403 |  |  |  |  |  |  |  |  |  |  |
+ |  | Three Months Ended December 31, 2021 |  |  |  |  |  |  |  |  |  |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking (4) |  | Other (4) |  | Total |  |  |  |  |  |  |  |  |  |
+Net interest income (loss) |  | $ | 3,865 |  |  | $ | 2,158 |  |  | $ | 595 |  |  | $ | (168) |  |  | $ | 6,450 |  |  |  |  |  |  |  |  |  |  |
+Non-interest income (loss) |  | 1,261 |  |  | 142 |  |  | 345 |  |  | (80) |  |  | 1,668 |  |  |  |  |  |  |  |  |  |  |
+Total net revenue (loss) |  | 5,126 |  |  | 2,300 |  |  | 940 |  |  | (248) |  |  | 8,118 |  |  |  |  |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 423 |  |  | 2 |  |  | (44) |  |  | — |  |  | 381 |  |  |  |  |  |  |  |  |  |  |
+Non-interest expense |  | 2,799 |  |  | 1,285 |  |  | 520 |  |  | 74 |  |  | 4,678 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations before income taxes |  | 1,904 |  |  | 1,013 |  |  | 464 |  |  | (322) |  |  | 3,059 |  |  |  |  |  |  |  |  |  |  |
+Income tax provision (benefit) |  | 451 |  |  | 239 |  |  | 109 |  |  | (166) |  |  | 633 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations, net of tax |  | $ | 1,453 |  |  | $ | 774 |  |  | $ | 355 |  |  | $ | (156) |  |  | $ | 2,426 |  |  |  |  |  |  |  |  |  |  |
+ |  | Three Months Ended March 31, 2021 |  |
+(Dollars in millions) |  | Credit Card |  | Consumer Banking |  | Commercial Banking (4) |  | Other (4) |  | Total |  |  |  |  |  |  |  |  |  |
+Net interest income (loss) |  | $ | 3,372 |  |  | $ | 2,030 |  |  | $ | 520 |  |  | $ | (100) |  |  | $ | 5,822 |  |  |  |  |  |  |  |  |  |  |
+Non-interest income (loss) |  | 1,029 |  |  | 141 |  |  | 240 |  |  | (119) |  |  | 1,291 |  |  |  |  |  |  |  |  |  |  |
+Total net revenue (loss) |  | 4,401 |  |  | 2,171 |  |  | 760 |  |  | (219) |  |  | 7,113 |  |  |  |  |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | (492) |  |  | (126) |  |  | (203) |  |  | (2) |  |  | (823) |  |  |  |  |  |  |  |  |  |  |
+Non-interest expense |  | 2,135 |  |  | 1,117 |  |  | 419 |  |  | 69 |  |  | 3,740 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations before income taxes |  | 2,758 |  |  | 1,180 |  |  | 544 |  |  | (286) |  |  | 4,196 |  |  |  |  |  |  |  |  |  |  |
+Income tax provision (benefit) |  | 653 |  |  | 278 |  |  | 128 |  |  | (190) |  |  | 869 |  |  |  |  |  |  |  |  |  |  |
+Income (loss) from continuing operations, net of tax |  | $ | 2,105 |  |  | $ | 902 |  |  | $ | 416 |  |  | $ | (96) |  |  | $ | 3,327 |  |  |  |  |  |  |  |  |  |  |
+[/TABLE]
+
+13
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 10: Financial & Statistical Summary—Credit Card Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Credit Card |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 3,839 |  |  | $ | 3,865 |  |  | $ | 3,620 |  |  | $ | 3,217 |  |  | $ | 3,372 |  |  | (1)% |  | 14% |  |  |  |  |  |
+Non-interest income |  | 1,458 |  |  | 1,261 |  |  | 1,263 |  |  | 1,253 |  |  | 1,029 |  |  | 16 |  |  | 42 |  |  |  |  |  |  |
+Total net revenue |  | 5,297 |  |  | 5,126 |  |  | 4,883 |  |  | 4,470 |  |  | 4,401 |  |  | 3 |  |  | 20 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 545 |  |  | 423 |  |  | (198) |  |  | (635) |  |  | (492) |  |  | 29 |  |  | ** |  |  |  |  |  |
+Non-interest expense |  | 2,783 |  |  | 2,799 |  |  | 2,424 |  |  | 2,263 |  |  | 2,135 |  |  | (1) |  |  | 30 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 1,969 |  |  | 1,904 |  |  | 2,657 |  |  | 2,842 |  |  | 2,758 |  |  | 3 |  |  | (29) |  |  |  |  |  |  |
+Income tax provision |  | 469 |  |  | 451 |  |  | 627 |  |  | 672 |  |  | 653 |  |  | 4 |  |  | (28) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | $ | 1,500 |  |  | $ | 1,453 |  |  | $ | 2,030 |  |  | $ | 2,170 |  |  | $ | 2,105 |  |  | 3 |  |  | (29) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 113,962 |  |  | $ | 114,772 |  |  | $ | 105,030 |  |  | $ | 101,017 |  |  | $ | 99,127 |  |  | (1) |  |  | 15 |  |  |  |  |  |  |
+Average loans held for investment |  | 111,480 |  |  | 108,588 |  |  | 102,046 |  |  | 99,674 |  |  | 100,534 |  |  | 3 |  |  | 11 |  |  |  |  |  |  |
+Average yield on loans outstanding (5) |  | 14.97 | % |  | 14.94 | % |  | 14.88 | % |  | 14.04 | % |  | 14.49 | % |  | 3 | bps |  | 48 | bps |  |  |  |  |  |
+Total net revenue margin (6) |  | 18.56 |  |  | 18.11 |  |  | 18.33 |  |  | 17.59 |  |  | 17.17 |  |  | 45 |  |  | 139 |  |  |  |  |  |  |
+Net charge-off rate |  | 2.18 |  |  | 1.42 |  |  | 1.43 |  |  | 2.29 |  |  | 2.52 |  |  | 76 |  |  | (34) |  |  |  |  |  |  |
+30+ day performing delinquency rate |  | 2.38 |  |  | 2.28 |  |  | 2.00 |  |  | 1.75 |  |  | 2.26 |  |  | 10 |  |  | 12 |  |  |  |  |  |  |
+30+ day delinquency rate |  | 2.39 |  |  | 2.29 |  |  | 2.00 |  |  | 1.75 |  |  | 2.27 |  |  | 10 |  |  | 12 |  |  |  |  |  |  |
+Nonperforming loan rate (1) |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | 0.01 |  |  | — |  |  | — |  |  |  |  |  |  |
+Purchase volume (7) |  | $ | 133,662 |  |  | $ | 149,982 |  |  | $ | 136,614 |  |  | $ | 132,676 |  |  | $ | 108,333 |  |  | (11) | % |  | 23% |  |  |  |  |  |
+[/TABLE]
+
+14
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Domestic Card |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 3,620 |  |  | $ | 3,558 |  |  | $ | 3,319 |  |  | $ | 2,944 |  |  | $ | 3,095 |  |  | 2% |  | 17% |  |  |  |  |  |
+Non-interest income |  | 1,248 |  |  | 1,190 |  |  | 1,200 |  |  | 1,183 |  |  | 959 |  |  | 5 |  |  | 30 |  |  |  |  |  |  |
+Total net revenue |  | 4,868 |  |  | 4,748 |  |  | 4,519 |  |  | 4,127 |  |  | 4,054 |  |  | 3 |  |  | 20 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 559 |  |  | 384 |  |  | (200) |  |  | (561) |  |  | (491) |  |  | 46 |  |  | ** |  |  |  |  |  |
+Non-interest expense |  | 2,564 |  |  | 2,564 |  |  | 2,191 |  |  | 2,034 |  |  | 1,923 |  |  | — |  |  | 33 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 1,745 |  |  | 1,800 |  |  | 2,528 |  |  | 2,654 |  |  | 2,622 |  |  | (3) |  |  | (33) |  |  |  |  |  |  |
+Income tax provision |  | 414 |  |  | 424 |  |  | 597 |  |  | 626 |  |  | 619 |  |  | (2) |  |  | (33) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | $ | 1,331 |  |  | $ | 1,376 |  |  | $ | 1,931 |  |  | $ | 2,028 |  |  | $ | 2,003 |  |  | (3) |  |  | (34) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 107,987 |  |  | $ | 108,723 |  |  | $ | 99,258 |  |  | $ | 95,309 |  |  | $ | 91,099 |  |  | (1) |  |  | 19 |  |  |  |  |  |  |
+Average loans held for investment |  | 105,536 |  |  | 102,717 |  |  | 96,309 |  |  | 91,535 |  |  | 92,594 |  |  | 3 |  |  | 14 |  |  |  |  |  |  |
+Average yield on loans outstanding (5) |  | 14.82 | % |  | 14.86 | % |  | 14.80 | % |  | 13.91 | % |  | 14.34 | % |  | (4) | bps |  | 48 | bps |  |  |  |  |  |
+Total net revenue margin (6) |  | 18.28 |  |  | 18.14 |  |  | 18.40 |  |  | 17.66 |  |  | 17.15 |  |  | 14 |  |  | 113 |  |  |  |  |  |  |
+Net charge-off rate |  | 2.12 |  |  | 1.49 |  |  | 1.36 |  |  | 2.28 |  |  | 2.54 |  |  | 63 |  |  | (42) |  |  |  |  |  |  |
+30+ day performing delinquency rate |  | 2.32 |  |  | 2.22 |  |  | 1.93 |  |  | 1.68 |  |  | 2.24 |  |  | 10 |  |  | 8 |  |  |  |  |  |  |
+Purchase volume (7) |  | $ | 126,284 |  |  | $ | 138,825 |  |  | $ | 126,057 |  |  | $ | 122,456 |  |  | $ | 99,960 |  |  | (9)% |  | 26% |  |  |  |  |  |
+Refreshed FICO scores: (8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Greater than 660 |  | 70 | % |  | 71 | % |  | 71 | % |  | 72 | % |  | 70 | % |  | (1) |  |  | — |  |  |  |  |  |  |
+660 or below |  | 30 |  |  | 29 |  |  | 29 |  |  | 28 |  |  | 30 |  |  | 1 |  |  | — |  |  |  |  |  |  |
+Total |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  |  |  |  |  |  |  |  |  |
+[/TABLE]
+
+15
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 11: Financial & Statistical Summary—Consumer Banking Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Consumer Banking |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 2,113 |  |  | $ | 2,158 |  |  | $ | 2,159 |  |  | $ | 2,101 |  |  | $ | 2,030 |  |  | (2)% |  | 4% |  |  |  |  |  |
+Non-interest income |  | 105 |  |  | 142 |  |  | 127 |  |  | 144 |  |  | 141 |  |  | (26) |  |  | (26) |  |  |  |  |  |  |
+Total net revenue |  | 2,218 |  |  | 2,300 |  |  | 2,286 |  |  | 2,245 |  |  | 2,171 |  |  | (4) |  |  | 2 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 130 |  |  | 2 |  |  | (91) |  |  | (306) |  |  | (126) |  |  | ** |  | ** |  |  |  |  |  |
+Non-interest expense |  | 1,236 |  |  | 1,285 |  |  | 1,186 |  |  | 1,123 |  |  | 1,117 |  |  | (4) |  |  | 11 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 852 |  |  | 1,013 |  |  | 1,191 |  |  | 1,428 |  |  | 1,180 |  |  | (16) |  |  | (28) |  |  |  |  |  |  |
+Income tax provision |  | 202 |  |  | 239 |  |  | 282 |  |  | 337 |  |  | 278 |  |  | (15) |  |  | (27) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | $ | 650 |  |  | $ | 774 |  |  | $ | 909 |  |  | $ | 1,091 |  |  | $ | 902 |  |  | (16) |  |  | (28) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 80,330 |  |  | $ | 77,646 |  |  | $ | 77,112 |  |  | $ | 74,759 |  |  | $ | 70,202 |  |  | 3 |  |  | 14 |  |  |  |  |  |  |
+Average loans held for investment |  | 78,689 |  |  | 77,444 |  |  | 75,996 |  |  | 72,705 |  |  | 69,234 |  |  | 2 |  |  | 14 |  |  |  |  |  |  |
+Average yield on loans held for investment (5) |  | 7.17 | % |  | 7.55 | % |  | 7.78 | % |  | 7.99 | % |  | 8.16 | % |  | (38) | bps |  | (99) | bps |  |  |  |  |  |
+Auto loan originations |  | $ | 11,713 |  |  | $ | 9,721 |  |  | $ | 11,570 |  |  | $ | 12,959 |  |  | $ | 8,833 |  |  | 20% |  | 33% |  |  |  |  |  |
+Period-end deposits |  | 258,359 |  |  | 256,407 |  |  | 252,387 |  |  | 251,155 |  |  | 254,001 |  |  | 1 |  |  | 2 |  |  |  |  |  |  |
+Average deposits |  | 255,265 |  |  | 253,372 |  |  | 251,307 |  |  | 252,488 |  |  | 249,499 |  |  | 1 |  |  | 2 |  |  |  |  |  |  |
+Average deposits interest rate |  | 0.29 | % |  | 0.30 | % |  | 0.30 | % |  | 0.31 | % |  | 0.36 | % |  | (1) | bps |  | (7) | bps |  |  |  |  |  |
+Net charge-off (recovery) rate |  | 0.75 |  |  | 0.75 |  |  | 0.27 |  |  | (0.06) |  |  | 0.52 |  |  | — |  |  | 23 |  |  |  |  |  |  |
+30+ day performing delinquency rate |  | 3.78 |  |  | 4.26 |  |  | 3.58 |  |  | 3.16 |  |  | 3.03 |  |  | (48) |  |  | 75 |  |  |  |  |  |  |
+30+ day delinquency rate |  | 4.13 |  |  | 4.66 |  |  | 3.88 |  |  | 3.40 |  |  | 3.25 |  |  | (53) |  |  | 88 |  |  |  |  |  |  |
+Nonperforming loan rate (1) |  | 0.46 |  |  | 0.50 |  |  | 0.42 |  |  | 0.35 |  |  | 0.33 |  |  | (4) |  |  | 13 |  |  |  |  |  |  |
+Nonperforming asset rate (2) |  | 0.52 |  |  | 0.56 |  |  | 0.47 |  |  | 0.40 |  |  | 0.39 |  |  | (4) |  |  | 13 |  |  |  |  |  |  |
+Auto—At origination FICO scores: (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Greater than 660 |  | 51 | % |  | 50 | % |  | 49 | % |  | 48 | % |  | 47 | % |  | 1 | % |  | 4 | % |  |  |  |  |  |
+621 - 660 |  | 20 |  |  | 20 |  |  | 20 |  |  | 20 |  |  | 20 |  |  | — |  |  | — |  |  |  |  |  |  |
+620 or below |  | 29 |  |  | 30 |  |  | 31 |  |  | 32 |  |  | 33 |  |  | (1) |  |  | (4) |  |  |  |  |  |  |
+Total |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  | 100 | % |  |  |  |  |  |  |  |  |  |
+[/TABLE]
+
+16
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 12: Financial & Statistical Summary—Commercial Banking Business
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions, except as noted) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Commercial Banking |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 607 |  |  | $ | 595 |  |  | $ | 578 |  |  | $ | 460 |  |  | $ | 520 |  |  | 2% |  | 17% |  |  |  |  |  |
+Non-interest income |  | 277 |  |  | 345 |  |  | 306 |  |  | 257 |  |  | 240 |  |  | (20) |  |  | 15 |  |  |  |  |  |  |
+Total net revenue (6) |  | 884 |  |  | 940 |  |  | 884 |  |  | 717 |  |  | 760 |  |  | (6) |  |  | 16 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 8 |  |  | (44) |  |  | (53) |  |  | (219) |  |  | (203) |  |  | ** |  | ** |  |  |  |  |  |
+Non-interest expense |  | 488 |  |  | 520 |  |  | 459 |  |  | 417 |  |  | 419 |  |  | (6) |  |  | 16 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 388 |  |  | 464 |  |  | 478 |  |  | 519 |  |  | 544 |  |  | (16) |  |  | (29) |  |  |  |  |  |  |
+Income tax provision |  | 92 |  |  | 109 |  |  | 113 |  |  | 123 |  |  | 128 |  |  | (16) |  |  | (28) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | $ | 296 |  |  | $ | 355 |  |  | $ | 365 |  |  | $ | 396 |  |  | $ | 416 |  |  | (17) |  |  | (29) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 86,174 |  |  | $ | 84,922 |  |  | $ | 79,248 |  |  | $ | 73,821 |  |  | $ | 73,802 |  |  | 1 |  |  | 17 |  |  |  |  |  |  |
+Average loans held for investment |  | 85,173 |  |  | 81,127 |  |  | 75,059 |  |  | 74,084 |  |  | 74,169 |  |  | 5 |  |  | 15 |  |  |  |  |  |  |
+Average yield on loans held for investment (4)(5) |  | 2.66 | % |  | 2.71 | % |  | 2.77 | % |  | 2.72 | % |  | 2.76 | % |  | (5) | bps |  | (10) | bps |  |  |  |  |  |
+Period-end deposits |  | $ | 45,232 |  |  | $ | 44,809 |  |  | $ | 43,347 |  |  | $ | 42,973 |  |  | $ | 41,552 |  |  | 1% |  | 9% |  |  |  |  |  |
+Average deposits |  | 45,008 |  |  | 44,206 |  |  | 42,729 |  |  | 42,311 |  |  | 40,107 |  |  | 2 |  |  | 12 |  |  |  |  |  |  |
+Average deposits interest rate |  | 0.12 | % |  | 0.12 | % |  | 0.15 | % |  | 0.14 | % |  | 0.18 | % |  | — |  |  | (6) | bps |  |  |  |  |  |
+Net charge-off (recovery) rate |  | 0.06 |  |  | (0.02) |  |  | 0.05 |  |  | (0.11) |  |  | 0.09 |  |  | 8 | bps |  | (3) |  |  |  |  |  |  |
+Nonperforming loan rate (1) |  | 0.81 |  |  | 0.82 |  |  | 0.76 |  |  | 1.03 |  |  | 0.92 |  |  | (1) |  |  | (11) |  |  |  |  |  |  |
+Nonperforming asset rate (2) |  | 0.81 |  |  | 0.82 |  |  | 0.76 |  |  | 1.03 |  |  | 0.92 |  |  | (1) |  |  | (11) |  |  |  |  |  |  |
+Risk category: (10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Noncriticized |  | $ | 80,586 |  |  | $ | 79,014 |  |  | $ | 73,218 |  |  | $ | 67,481 |  |  | $ | 66,299 |  |  | 2% |  | 22% |  |  |  |  |  |
+Criticized performing |  | 4,893 |  |  | 5,209 |  |  | 5,429 |  |  | 5,581 |  |  | 6,821 |  |  | (6) |  |  | (28) |  |  |  |  |  |  |
+Criticized nonperforming |  | 695 |  |  | 699 |  |  | 601 |  |  | 759 |  |  | 682 |  |  | (1) |  |  | 2 |  |  |  |  |  |  |
+Total commercial banking loans |  | $ | 86,174 |  |  | $ | 84,922 |  |  | $ | 79,248 |  |  | $ | 73,821 |  |  | $ | 73,802 |  |  | 1 |  |  | 17 |  |  |  |  |  |  |
+Risk category as a percentage of period-end loans held for investment: (10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Noncriticized |  | 93.5 | % |  | 93.1 | % |  | 92.3 | % |  | 91.4 | % |  | 89.9 | % |  | 40 | bps |  | 360 | bps |  |  |  |  |  |
+Criticized performing |  | 5.7 |  |  | 6.1 |  |  | 6.9 |  |  | 7.6 |  |  | 9.2 |  |  | (40) |  |  | (350) |  |  |  |  |  |  |
+Criticized nonperforming |  | 0.8 |  |  | 0.8 |  |  | 0.8 |  |  | 1.0 |  |  | 0.9 |  |  | — |  |  | (10) |  |  |  |  |  |  |
+Total commercial banking loans |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  | 100.0 | % |  |  |  |  |  |  |  |  |  |
+[/TABLE]
+
+17
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 13: Financial & Statistical Summary—Other and Total
+
+[TABLE]
+ |  |  |  |  |  |  |  |  |  |  |  | 2022 Q1 vs. |  |
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  | 2021 |  |  |  |  |  |
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1 |  | Q4 |  | Q1 |  |  |  |  |  |
+Other |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest loss |  | $ | (162) |  |  | $ | (168) |  |  | $ | (201) |  |  | $ | (35) |  |  | $ | (100) |  |  | (4) | % |  | 62 | % |  |  |  |  |  |
+Non-interest loss |  | (64) |  |  | (80) |  |  | (22) |  |  | (23) |  |  | (119) |  |  | (20) |  |  | (46) |  |  |  |  |  |  |
+Total net loss (4) |  | (226) |  |  | (248) |  |  | (223) |  |  | (58) |  |  | (219) |  |  | (9) |  |  | 3 |  |  |  |  |  |  |
+Benefit for credit losses |  | (6) |  |  | — |  |  | — |  |  | — |  |  | (2) |  |  | ** |  | ** |  |  |  |  |  |
+Non-interest expense (11) |  | 44 |  |  | 74 |  |  | 117 |  |  | 163 |  |  | 69 |  |  | (41) |  |  | (36) |  |  |  |  |  |  |
+Loss from continuing operations before income taxes |  | (264) |  |  | (322) |  |  | (340) |  |  | (221) |  |  | (286) |  |  | (18) |  |  | (8) |  |  |  |  |  |  |
+Income tax benefit |  | (221) |  |  | (166) |  |  | (140) |  |  | (101) |  |  | (190) |  |  | 33 |  |  | 16 |  |  |  |  |  |  |
+Loss from continuing operations, net of tax |  | $ | (43) |  |  | $ | (156) |  |  | $ | (200) |  |  | $ | (120) |  |  | $ | (96) |  |  | (72) |  |  | (55) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end deposits |  | $ | 9,838 |  |  | $ | 9,764 |  |  | $ | 10,204 |  |  | $ | 12,180 |  |  | $ | 14,775 |  |  | 1 |  |  | (33) |  |  |  |  |  |  |
+Average deposits |  | 9,324 |  |  | 9,694 |  |  | 10,999 |  |  | 13,418 |  |  | 15,450 |  |  | (4) |  |  | (40) |  |  |  |  |  |  |
+Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Earnings: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net interest income |  | $ | 6,397 |  |  | $ | 6,450 |  |  | $ | 6,156 |  |  | $ | 5,743 |  |  | $ | 5,822 |  |  | (1) | % |  | 10 | % |  |  |  |  |  |
+Non-interest income |  | 1,776 |  |  | 1,668 |  |  | 1,674 |  |  | 1,631 |  |  | 1,291 |  |  | 6 |  |  | 38 |  |  |  |  |  |  |
+Total net revenue |  | 8,173 |  |  | 8,118 |  |  | 7,830 |  |  | 7,374 |  |  | 7,113 |  |  | 1 |  |  | 15 |  |  |  |  |  |  |
+Provision (benefit) for credit losses |  | 677 |  |  | 381 |  |  | (342) |  |  | (1,160) |  |  | (823) |  |  | 78 |  |  | ** |  |  |  |  |  |
+Non-interest expense |  | 4,551 |  |  | 4,678 |  |  | 4,186 |  |  | 3,966 |  |  | 3,740 |  |  | (3) |  |  | 22 |  |  |  |  |  |  |
+Income from continuing operations before income taxes |  | 2,945 |  |  | 3,059 |  |  | 3,986 |  |  | 4,568 |  |  | 4,196 |  |  | (4) |  |  | (30) |  |  |  |  |  |  |
+Income tax provision |  | 542 |  |  | 633 |  |  | 882 |  |  | 1,031 |  |  | 869 |  |  | (14) |  |  | (38) |  |  |  |  |  |  |
+Income from continuing operations, net of tax |  | $ | 2,403 |  |  | $ | 2,426 |  |  | $ | 3,104 |  |  | $ | 3,537 |  |  | $ | 3,327 |  |  | (1) |  |  | (28) |  |  |  |  |  |  |
+Selected performance metrics: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Period-end loans held for investment |  | $ | 280,466 |  |  | $ | 277,340 |  |  | $ | 261,390 |  |  | $ | 249,597 |  |  | $ | 243,131 |  |  | 1 |  |  | 15 |  |  |  |  |  |  |
+Average loans held for investment |  | 275,342 |  |  | 267,159 |  |  | 253,101 |  |  | 246,463 |  |  | 243,937 |  |  | 3 |  |  | 13 |  |  |  |  |  |  |
+Period-end deposits |  | 313,429 |  |  | 310,980 |  |  | 305,938 |  |  | 306,308 |  |  | 310,328 |  |  | 1 |  |  | 1 |  |  |  |  |  |  |
+Average deposits |  | 309,597 |  |  | 307,272 |  |  | 305,035 |  |  | 308,217 |  |  | 305,056 |  |  | 1 |  |  | 1 |  |  |  |  |  |  |
+[/TABLE]
+
+18
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 14: Notes to Net Interest Margin, Loan, Allowance and Business Segment Disclosures (Tables 6—13)
+
+(1) Nonperforming loan rates are calculated based on nonperforming loans for each category divided by period-end total loans held for investment for each respective category.
+
+(2) Nonperforming assets consist of nonperforming loans, repossessed assets and other foreclosed assets. The total nonperforming asset rate is calculated based on total nonperforming assets divided by the combined period-end total loans held for investment, repossessed assets and other foreclosed assets.
+
+(3) Primarily represents foreign currency translation adjustments.
+
+(4) Some of our commercial investments generate tax-exempt income, tax credits or other tax benefits. Accordingly, we present our Commercial Banking revenue and yields on a taxable-equivalent basis, calculated using the federal statutory tax rate of 21% and state taxes where applicable, with offsetting reductions to the Other category.
+
+(5) Average yield is calculated based on annualized interest income for the period divided by average loans during the period. Annualized interest income does not include any allocations, such as funds transfer pricing.
+
+(6) Total net revenue margin is calculated based on total net revenue for the period divided by average loans outstanding during the period.
+
+(7) Purchase volume consists of purchase transactions, net of returns, for the period, and excludes cash advance and balance transfer transactions.
+
+(8) Percentages represent period-end loans held for investment in each credit score category. Domestic card credit scores generally represent FICO scores. These scores are obtained from one of the major credit bureaus at origination and are refreshed monthly thereafter. We approximate non-FICO credit scores to comparable FICO scores for consistency purposes. Balances for which no credit score is available or the credit score is invalid are included in the 660 or below category.
+
+(9) Percentages represent period-end loans held for investment in each credit score category. Auto credit scores generally represent average FICO scores obtained from three credit bureaus at the time of application and are not refreshed thereafter. Balances for which no credit score is available or the credit score is invalid are included in the 620 or below category.
+
+(10) Criticized exposures correspond to the “Special Mention,” “Substandard” and “Doubtful” asset categories defined by bank regulatory authorities.
+
+(11) Includes charges incurred as a result of restructuring activities.
+
+** Not meaningful.
+
+19
+
+CAPITAL ONE FINANCIAL CORPORATION (COF)
+
+Table 15: Calculation of Regulatory Capital Measures and Reconciliation of Non-GAAP Measures (1)
+
+[TABLE]
+ |  | Basel III Standardized Approach
+(Dollars in millions, except as noted) |  | March 31, 2022 |  | December 31, 2021 |  | September 30, 2021 |  | June 30, 2021 |  | March 31, 2021
+Regulatory Capital Metrics |  |  |  |  |  |  |  |  |  |
+Common equity excluding AOCI |  | $ | 57,390 |  | $ | 58,206 |  | $ | 58,705 |  | $ | 58,969 |  | $ | 57,607
+Adjustments: |  |  |  |  |  |  |  |  |  |
+AOCI, net of tax (2) |  | (20) |  | (23) |  | (33) |  | (5) |  | (13)
+Goodwill, net of related deferred tax liabilities |  | (14,559) |  | (14,562) |  | (14,435) |  | (14,440) |  | (14,444)
+Intangible assets, net of related deferred tax liabilities |  | (94) |  | (108) |  | (84) |  | (76) |  | (81)
+Other |  | (16) |  | (12) |  | (15) |  | (16) |  | (18)
+Common equity Tier 1 capital |  | $ | 42,701 |  | $ | 43,501 |  | $ | 44,138 |  | $ | 44,432 |  | $ | 43,051
+Tier 1 capital |  | $ | 47,547 |  | $ | 48,346 |  | $ | 50,049 |  | $ | 50,920 |  | $ | 47,898
+Total capital (3) |  | 55,059 |  | 56,089 |  | 57,851 |  | 57,932 |  | 54,780
+Risk-weighted assets |  | 336,739 |  | 332,673 |  | 318,729 |  | 307,334 |  | 295,209
+Adjusted average assets (4) |  | 418,957 |  | 415,141 |  | 411,216 |  | 411,032 |  | 408,596
+Capital Ratios |  |  |  |  |  |  |  |  |  |
+Common equity Tier 1 capital (5) |  | 12.7 | % |  | 13.1 | % |  | 13.8 | % |  | 14.5 | % |  | 14.6 | %
+Tier 1 capital (6) |  | 14.1 |  |  | 14.5 |  |  | 15.7 |  |  | 16.6 |  |  | 16.2 |
+Total capital (7) |  | 16.4 |  |  | 16.9 |  |  | 18.2 |  |  | 18.8 |  |  | 18.6 |
+Tier 1 leverage (4) |  | 11.3 |  |  | 11.6 |  |  | 12.2 |  |  | 12.4 |  |  | 11.7 |
+Tangible common equity (“TCE”) (8) |  | 8.7 |  |  | 9.9 |  |  | 10.4 |  |  | 10.6 |  |  | 10.1 |
+[/TABLE]
+
+20
+
+Reconciliation of Non-GAAP Measures
+
+The following non-GAAP measures consist of our adjusted results that we believe help investors and users of our financial information understand the effect of adjusting items on our selected reported results. These adjusted results provide alternate measurements of our operating performance, both for the current period and trends across multiple periods. The following tables present reconciliations of these non-GAAP measures to the applicable amounts measured in accordance with GAAP.
+
+[TABLE]
+ |  | 2022 |  | 2021 |  |  |  |  |  | 2021 |  | 2021 |  | 2021 |  |
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  |  |  |  |  | Q3 |  | Q2 |  | Q1 |  |  |  |
+Adjusted diluted EPS: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Net income available to common stockholders (GAAP) |  | $ | 2,318 |  | $ | 2,296 |  |  |  |  |  |  | $ | 2,987 |  | $ | 3,446 |  | $ | 3,236 |  |  |  |
+Legal reserve activity, including insurance recoveries |  | — |  |  | — |  |  |  |  |  |  | 45 |  | 55 |  | — |  |  |  |
+Adjusted net income available to common stockholders before income tax impacts (non-GAAP) |  | 2,318 |  | 2,296 |  |  |  |  |  |  | 3,032 |  | 3,501 |  | 3,236 |  |  |  |
+Income tax impacts |  | — |  | — |  |  |  |  |  |  | (11) |  | (13) |  | — |  |  |  |
+Adjusted net income available to common stockholders (non-GAAP) |  | $ | 2,318 |  | $ | 2,296 |  |  |  |  |  |  | $ | 3,021 |  | $ | 3,488 |  | $ | 3,236 |  |  |  |
+Diluted weighted-average common shares outstanding (in millions) (GAAP) |  | 412.2 |  | 424.3 |  |  |  |  |  |  | 440.5 |  | 452.3 |  | 460.1 |  |  |  |
+Diluted EPS (GAAP) |  | $ | 5.62 |  | $ | 5.41 |  |  |  |  |  |  | $ | 6.78 |  | $ | 7.62 |  | $ | 7.03 |  |  |  |
+Impact of adjustments noted above |  | — |  | — |  |  |  |  |  |  | 0.08 |  | 0.09 |  | — |  |  |  |
+Adjusted diluted EPS (non-GAAP) |  | $ | 5.62 |  | $ | 5.41 |  |  |  |  |  |  | $ | 6.86 |  | $ | 7.71 |  | $ | 7.03 |  |  |  |
+Adjusted efficiency ratio: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Non-interest expense (GAAP) |  | $ | 4,551 |  | $ | 4,678 |  |  |  |  |  |  | $ | 4,186 |  | $ | 3,966 |  | $ | 3,740 |  |  |  |
+Legal reserve activity, including insurance recoveries |  | — |  | — |  |  |  |  |  |  | (45) |  | (55) |  | — |  |  |  |
+Adjusted non-interest expense (non-GAAP) |  | $ | 4,551 |  | $ | 4,678 |  |  |  |  |  |  | $ | 4,141 |  | $ | 3,911 |  | $ | 3,740 |  |  |  |
+Total net revenue (GAAP) |  | $ | 8,173 |  | $ | 8,118 |  |  |  |  |  |  | $ | 7,830 |  | $ | 7,374 |  | $ | 7,113 |  |  |  |
+Efficiency ratio (GAAP) |  | 55.68% |  | 57.63% |  |  |  |  |  | 53.46% |  | 53.78% |  | 52.58% |  |  |  |
+Impact of adjustments noted above |  | — |  | — |  |  |  |  |  | (57)bps |  | (74)bps |  | — |  |  |  |
+Adjusted efficiency ratio (non-GAAP) |  | 55.68% |  | 57.63% |  |  |  |  |  | 52.89% |  | 53.04% |  | 52.58% |  |  |  |
+Adjusted operating efficiency ratio: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Operating expense (GAAP) |  | $ | 3,633 |  | $ | 3,679 |  |  |  |  |  |  | $ | 3,435 |  | $ | 3,346 |  | $ | 3,239 |  |  |  |
+Legal reserve activity, including insurance recoveries |  | — |  | — |  |  |  |  |  | (45) |  | (55) |  | — |  |  |  |
+Adjusted operating expense (non-GAAP) |  | $ | 3,633 |  | $ | 3,679 |  |  |  |  |  |  | $ | 3,390 |  | $ | 3,291 |  | $ | 3,239 |  |  |  |
+Total net revenue (GAAP) |  | $ | 8,173 |  | $ | 8,118 |  |  |  |  |  |  | $ | 7,830 |  | $ | 7,374 |  | $ | 7,113 |  |  |  |
+Operating efficiency ratio (GAAP) |  | 44.45% |  | 45.32% |  |  |  |  |  | 43.87% |  | 45.38% |  | 45.54% |  |  |  |
+[/TABLE]
+
+21
+
+[TABLE]
+ |  | 2022 |  | 2021 |  |  |  |  |  | 2021 |  | 2021 |  | 2021 |  |
+(Dollars in millions, except per share data and as noted) |  | Q1 |  | Q4 |  |  |  |  |  | Q3 |  | Q2 |  | Q1 |  |  |  |
+Impact of adjustments noted above |  | — |  | — |  |  |  |  |  | (57)bps |  | (75)bps |  | — |  |  |  |
+Adjusted operating efficiency ratio (non-GAAP) |  | 44.45% |  | 45.32% |  |  |  |  |  | 43.30% |  | 44.63% |  | 45.54% |  |  |  |
+[/TABLE]
+
+22
+
+Reconciliation of Non-GAAP Measures
+
+The following non-GAAP measures consist of TCE, tangible assets and metrics computed using these amounts, which include tangible book value per common share, return on average tangible assets, return on average TCE and TCE ratio. We consider these metrics to be key financial performance measures that management uses in assessing capital adequacy and the level of returns generated. While our non-GAAP measures are widely used by investors, analysts and bank regulatory agencies to assess the capital position of financial services companies, they may not be comparable to similarly-titled measures reported by other companies. The following tables present reconciliations of these non-GAAP measures to the applicable amounts measured in accordance with GAAP.
+
+[TABLE]
+ |  | 2022 |  | 2021 |  | 2021 |  | 2021 |  | 2021
+(Dollars in millions) |  | Q1 |  | Q4 |  | Q3 |  | Q2 |  | Q1
+Tangible Common Equity (Period-End) |  |  |  |  |  |  |  |  |  |
+Stockholders’ equity |  | $ | 56,345 |  |  | $ | 61,029 |  |  | $ | 63,544 |  |  | $ | 64,624 |  |  | $ | 61,188 |
+Goodwill and intangible assets (9) |  | (14,883) |  |  | (14,907) |  |  | (14,766) |  |  | (14,774) |  |  | (14,789) |
+Noncumulative perpetual preferred stock |  | (4,845) |  |  | (4,845) |  |  | (5,912) |  |  | (6,488) |  |  | (4,847) |
+Tangible common equity |  | $ | 36,617 |  |  | $ | 41,277 |  |  | $ | 42,866 |  |  | $ | 43,362 |  |  | $ | 41,552 |
+Tangible Common Equity (Average) |  |  |  |  |  |  |  |  |  |
+Stockholders’ equity |  | $ | 59,437 |  |  | $ | 62,498 |  |  | $ | 64,682 |  |  | $ | 62,376 |  |  | $ | 60,623 |
+Goodwill and intangible assets (9) |  | (14,904) |  |  | (14,847) |  |  | (14,777) |  |  | (14,788) |  |  | (14,807) |
+Noncumulative perpetual preferred stock |  | (4,845) |  |  | (5,552) |  |  | (6,452) |  |  | (5,491) |  |  | (4,847) |
+Tangible common equity |  | $ | 39,688 |  |  | $ | 42,099 |  |  | $ | 43,453 |  |  | $ | 42,097 |  |  | $ | 40,969 |
+Tangible Assets (Period-End) |  |  |  |  |  |  |  |  |  |
+Total assets |  | $ | 434,195 |  |  | $ | 432,381 |  |  | $ | 425,377 |  |  | $ | 423,420 |  |  | $ | 425,175 |
+Goodwill and intangible assets (9) |  | (14,883) |  |  | (14,907) |  |  | (14,766) |  |  | (14,774) |  |  | (14,789) |
+Tangible assets |  | $ | 419,312 |  |  | $ | 417,474 |  |  | $ | 410,611 |  |  | $ | 408,646 |  |  | $ | 410,386 |
+Tangible Assets (Average) |  |  |  |  |  |  |  |  |  |
+Total assets |  | $ | 430,372 |  |  | $ | 427,845 |  |  | $ | 424,506 |  |  | $ | 424,099 |  |  | $ | 421,808 |
+Goodwill and intangible assets (9) |  | (14,904) |  |  | (14,847) |  |  | (14,777) |  |  | (14,788) |  |  | (14,807) |
+Tangible assets |  | $ | 415,468 |  |  | $ | 412,998 |  |  | $ | 409,729 |  |  | $ | 409,311 |  |  | $ | 407,001 |
+[/TABLE]
+__________
+
+(1) Regulatory capital metrics and capital ratios as of March 31, 2022 are preliminary and therefore subject to change.
+
+(2) Excludes certain components of AOCI as permitted under the Tailoring Rules.
+
+(3) Total capital equals the sum of Tier 1 capital and Tier 2 capital.
+
+(4) Adjusted average assets for the purpose of calculating our Tier 1 leverage ratio represents total average assets adjusted for amounts that are deducted from Tier 1 capital, predominately goodwill and intangible assets. Tier 1 leverage ratio is a regulatory capital measure calculated based on Tier 1 capital divided by adjusted average assets.
+
+(5) Common equity Tier 1 capital ratio is a regulatory capital measure calculated based on common equity Tier 1 capital divided by risk-weighted assets.
+
+(6) Tier 1 capital ratio is a regulatory capital measure calculated based on Tier 1 capital divided by risk-weighted assets.
+
+(7) Total capital ratio is a regulatory capital measure calculated based on total capital divided by risk-weighted assets.
+
+(8) TCE ratio is a non-GAAP measure calculated based on TCE divided by tangible assets.
+
+(9) Includes impact of related deferred taxes .
+
+23

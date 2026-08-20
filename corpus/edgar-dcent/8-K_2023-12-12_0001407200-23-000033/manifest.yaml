@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2023-12-12_0001407200-23-000033
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2023-12-12 (period 2023-11-30)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720023000033/qtrly_dcmtxdcentxasofnovem.htm
+retrieved_at: '2026-08-20T02:57:47Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly_dcmtxdcentxasofnovem.htm
+  role: raw
+  sha256: affd02cf502a8045df21e4d9c70ecae7d560ee36de7d1313822f36ab62cbffe2
+  size: 121054
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: b85de036c0cc82f4be4215a58f945e42713cbbceea9d505f9c7a984d58cb802b
+  size: 14447
+  stored: corpus
+filed_date: '2023-12-12'
+period_end: '2023-11-30'
+extraction_method: lxml
+meta:
+  accession: 0001407200-23-000033
+  form: 8-K
+  items: 6.05,8.01

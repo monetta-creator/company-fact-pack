@@ -1,0 +1,127 @@
+8-K 1 a8-kdated22616.htm 8-K Document created using Wdesk 1 Copyright 2016 Workiva 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, DC 20549
+
+__________________________________
+
+FORM 8-K
+
+__________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+February 24, 2016
+
+Date of Report (Date of earliest event reported)
+
+__________________________________
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+__________________________________
+
+[TABLE]
+Delaware | 1-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive, McLean, Virginia | 22102
+(Address of principal executive offices) | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Former name or former address, if changed since last report)
+
+__________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(d) On February 24, 2016, the Board of Directors (the “Board”) of Capital One Financial Corporation (the “Company”) appointed Peter Thomas Killalea to serve as a director, effective immediately. The size of the Board was increased to eleven in connection with the appointment. Mr. Killalea has not been appointed to serve on any Board committee at this time. Mr. Killalea will stand for election by the Company’s stockholders at the Annual Meeting of Stockholders in May 2016.
+
+Mr. Killalea was not selected as a director pursuant to any arrangement or understanding between him and any other person. There are no related party transactions between the Company and Mr. Killalea. Mr. Killalea will receive compensation for his services on the Board in accordance with the standard compensatory arrangement described in the Company’s proxy statement filed on March 17, 2015 for non-employee directors, pro-rated for service until the Annual Meeting of Stockholders in May 2016.
+
+A copy of the Company’s press release announcing the appointment of Mr. Killalea to the Board is attached to this report as Exhibit 99.1 and is incorporated herein by reference.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated February 26, 2016
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Dated: February 26, 2016 | By: | /s/ John G. Finneran, Jr.
+ |  | John G. Finneran, Jr.
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+3
+
+EXHIBIT INDEX
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+99.1 |  | Press Release, dated February 26, 2016
+[/TABLE]
+
+4
+
+
+=== EXHIBIT exhibit991.htm ===
+
+EX-99.1 2 exhibit991.htm EXHIBIT 99.1 Document created using Wdesk 1 Copyright 2016 Workiva Exhibit
+
+Exhibit 99.1
+
+Media Release
+
+Contact: Tatiana Stead, 703-720-2352
+
+tatiana.stead@capitalone.com
+
+FOR IMMEDIATE RELEASE: February 26, 2016
+
+Tom Killalea to Join the Capital One Board of Directors
+
+McLean, Va. (Feb. 26, 2016) - Capital One Financial Corporation (NYSE: COF) today announced that Tom Killalea has been appointed to the company's Board of Directors. An experienced technological innovator, and the former Chief Information Security Officer at Amazon.com, Inc., Mr. Killalea will fill a newly created seat on the Board and will stand for election by Capital One shareholders in May 2016.
+
+"Tom brings deep technology expertise along with a proven focus on security, digital innovation, and customer experience, and I am extremely pleased to welcome him to Capital One," said Richard D. Fairbank, Chairman and Chief Executive Officer of Capital One. "We are deeply embedding technology, data, design, and software development into how we work. As we continue to transform our business, Tom will make an excellent addition to our Board and will be a valuable resource for our executive management team."
+
+Mr. Killalea spent 16 years at Amazon.com, where he was the company's first Chief Information Security Officer. While at Amazon, he served in various leadership roles, including Vice President of Technology for the Kindle Content Ecosystem, and leading the company’s Infrastructure and Distributed Systems team, that worked on what later became a key part of the AWS platform. He also led the product development and engineering teams for the Kindle Content Ecosystem, where he advanced the Kindle reading experience by creating innovative features such as X-Ray and Popular Highlights, and built the Amazon Publishing technology platform.
+
+Mr. Killalea has been an advisor to private technology-driven companies since November 2014. He also serves on the boards of Orreco and of MongoDB, Inc., and is on the Advisory Board of Profitero.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $217.7 billion in deposits and $334.0 billion in total assets as of December 31, 2015. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, New Jersey, Texas, Louisiana, Maryland, Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.

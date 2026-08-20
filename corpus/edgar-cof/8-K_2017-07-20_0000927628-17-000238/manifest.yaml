@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-07-20_0000927628-17-000238
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-07-20 (period 2017-07-20)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000238/june2017creditmetricsform8.htm
+retrieved_at: '2026-08-20T02:54:58Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: june2017creditmetricsform8.htm
+  role: raw
+  sha256: a73a7659b87142d59df395de94687b76f0efbe1d1d2446bd363c1ce0fcf3035a
+  size: 38833
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: f7eea50b986396fe59fbd6f91bf77c8fb65612d0af95814cfaf1c07b243ac9a3
+  size: 3711
+  stored: corpus
+filed_date: '2017-07-20'
+period_end: '2017-07-20'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000238
+  form: 8-K
+  items: 7.01,9.01

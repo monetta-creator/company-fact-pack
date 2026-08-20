@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-11-04_0000927628-16-000232
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-11-04 (period 2016-11-03)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000232/a8-kdividends1142016.htm
+retrieved_at: '2026-08-20T02:55:05Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividends1142016.htm
+  role: raw
+  sha256: d0ac3b0547779fe0077f675ae5b09cf0d61039ccd314c7e7d300043beea93599
+  size: 27874
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 85d0e114c9946b66cc53179f2f20dac1a2a2ba5d380b93e77f15b4843ec91748
+  size: 4156
+  stored: corpus
+filed_date: '2016-11-04'
+period_end: '2016-11-03'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000232
+  form: 8-K
+  items: '7.01'

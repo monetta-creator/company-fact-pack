@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2017-02-15_0000927628-17-000079
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2017-02-15 (period 2017-02-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762817000079/january2017creditmetricsfo.htm
+retrieved_at: '2026-08-20T02:55:02Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: january2017creditmetricsfo.htm
+  role: raw
+  sha256: 59e973a5d3b5fe3db38b21720d418e81e1e7df7038bdca0ec73cae5cd1f2f1ee
+  size: 38988
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cff1d89008936481c49a4d154774fb2c06d4b40c73f956a2a719b4c157b4bc0c
+  size: 3196
+  stored: corpus
+filed_date: '2017-02-15'
+period_end: '2017-02-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-17-000079
+  form: 8-K
+  items: 7.01,9.01

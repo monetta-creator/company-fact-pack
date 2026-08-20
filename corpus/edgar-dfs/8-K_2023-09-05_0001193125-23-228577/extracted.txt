@@ -1,0 +1,145 @@
+false 0001393612 0001393612 2023-09-05 2023-09-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): September 5, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On September 5, 2023, the Board of Directors of Discover Financial Services (the “Company”) appointed Kathy “Moe” Lonowski as a director of the Company and as a member of the Board of Directors of Discover Bank, effective immediately, and correspondingly increased the size of the Board to 13 directors. In connection with her appointment to the Board, Ms. Lonowski is being named to the Risk Oversight Committee of the Board.
+
+The Board has determined that Ms. Lonowski has no material relationship with the Company or Discover Bank (either directly or as a partner, shareholder or officer of an organization that has a relationship with the company) and is independent for purposes of the New York Stock Exchange listing standards applicable to the Company. There are no arrangements or understandings between Ms. Lonowski and any other person pursuant to which Ms. Lonowski was selected as a director, and there are no transactions involving Ms. Lonowski that would be required to be reported under Item 404(a) of Regulation S-K.
+
+In connection with her appointment, Ms. Lonowski’s compensation will be consistent with the Company’s previously disclosed standard compensatory arrangements for non-employee directors, which are described in the Company’s most recent proxy statement filed with the Securities and Exchange Commission on March 17, 2023, under the heading “Director Compensation.”
+
+A copy of the press release announcing Ms. Lonowski’s appointment is attached as Exhibit 99.1 to this report.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of the Company dated September 5, 2023
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated September 5, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]
+
+
+=== EXHIBIT d822992dex991.htm ===
+
+EX-99.1 2 d822992dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+DISCOVER FINANCIAL SERVICES AND DISCOVER BANK APPOINT
+
+KATHY “MOE” LONOWSKI TO THEIR BOARDS OF DIRECTORS
+
+RIVERWOODS, IL, Sept. 5, 2023 — Discover Financial Services (NYSE: DFS) today announced that Kathy “Moe” Lonowski has been appointed
+to the Boards of Directors of Discover Financial Services and its subsidiary, Discover Bank, effective immediately. She will serve on the Boards’ Risk Oversight Committee.
+
+Moe has 38 years of bank regulatory experience, including with prudential oversight of some of the largest financial institutions in the U.S. She recently
+retired as Regional Director of the Federal Deposit Insurance Corporation (FDIC), San Francisco Region, a role she held since 2016. As Director of the San Francisco Region, the FDIC’s largest in terms of Gross Domestic Product, Moe evaluated
+the operations of 350 insured financial institutions and led the risk management and consumer protection divisions covering 11 western states. She also supported the management of examination and legal risk-related technical issues and assessed
+solutions related to potential enforcement actions and civil money penalties.
+
+Prior to her role as Regional Director for the San Francisco Region, Moe
+served as an FDIC Deputy Regional Director, Risk Management Supervision, and Field Supervisor, Risk Management Supervision.
+
+“Kathy’s knowledge
+and depth of experience gained during her tenure with the FDIC make her an excellent addition to our Board,” said Tom Maheras, Chairman of the Board. “With compliance being a top priority at Discover, Kathy’s expertise with regulatory
+issues and understanding of the financial services industry will help make the company more effective in managing risk.”
+
+About Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services.
+Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the Discover ® card, America’s cash rewards pioneer, and offers
+private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network ® comprised of
+Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company .
+
+Media Contact
+
+Matthew Towson
+
+224-405-5649
+
+matthewtowson@discover.com
+
+@Discover_News
+
+Investor Relations
+
+Eric Wasserstrom
+
+224-405-4555
+
+investorrelations@discover.com

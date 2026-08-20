@@ -1,0 +1,33 @@
+doc_id: edgar-cof/10-K_2024-02-23_0000927628-24-000094
+source: edgar-cof
+source_tier: A
+doc_type: 10-K
+title: 10-K filed 2024-02-23 (period 2023-12-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762824000094/cof-20231231.htm
+retrieved_at: '2026-08-20T02:46:07Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20231231.htm
+  role: raw
+  sha256: b2f611cf62a604f81aa1957238af56d9a1c9e8e6a80ce6cda24f070e76a5484e
+  size: 8252507
+  stored: corpus
+- name: cof-12312023x10kxex21.htm
+  role: exhibit
+  sha256: e3baa830982b5587978ef9dce5035b5b4ffd36cb4528eb10bb2ac7a159e8ca90
+  size: 4065
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 4328e70b471e3940667e2a59282f03883405875fb08787824cf0a88969794b9e
+  size: 984761
+  stored: corpus
+filed_date: '2024-02-23'
+period_end: '2023-12-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-24-000094
+  form: 10-K
+  items: ''

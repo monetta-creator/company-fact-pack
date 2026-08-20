@@ -1,0 +1,91 @@
+false 0001393612 0001393612 2023-11-02 2023-11-02
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): November 2, 2023
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+ |  | Commission File Number: 001-33378 |  |
+Delaware |  |  |  | 36-2517428
+(State or other jurisdiction of incorporation) |  |  |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act or Rule 12b-2 of the Exchange Act.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events.
+
+On October 30, 2022, the Company priced its offering of $1,000,000,000 aggregate principal amount of 7.964% Fixed-to-Floating Rate Senior Notes due 2034 (the “Notes”), at a public offering price of 100.000% of the aggregate principal amount, and entered into an underwriting agreement with Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc. and RBC Capital Markets, LLC, as representatives of the underwriters listed on Schedule 1 thereto (the “Underwriting Agreement”) relating to the Notes. The sale of the Notes closed on November 2, 2023. The Notes were issued pursuant to a Senior Indenture, dated as of June 12, 2007, between the Company and U.S. Bank Trust Company, N.A. (as successor in interest to U.S. Bank National Association), as trustee, as supplemented by the Second Supplemental Indenture, dated as of November 2, 2023 (the “Second Supplemental Indenture”). The offering of the Notes has been registered under the Securities Act of 1933, as amended, by the Company pursuant to its Registration Statement on Form S-3 (Registration No. 333-257242). The Underwriting Agreement, the form of Note and the Second Supplemental Indenture are filed as Exhibit 1.1, Exhibit 4.1 and Exhibit 4.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference. In connection with the issuance of the Notes, Sidley Austin LLP provided the Company with the legal opinion attached to this Current Report on Form 8-K as Exhibit 5.1.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+1.1 |  | Underwriting Agreement, dated October 30, 2023, between the Company and Barclays Capital Inc., BofA Securities, Inc., Citigroup Global Markets Inc. and RBC Capital Markets, LLC, as representatives to the several Underwriters listed on Schedule 1 thereto, relating to the Company’s senior notes offering
+4.1 |  | Form of 7.964% Fixed-to-Floating Rate Senior Note due 2034
+4.2 |  | Second Supplemental Indenture, dated as of November 2, 2023, between the Company and U.S. Bank Trust Company, N.A.
+5.1 |  | Opinion of Sidley Austin LLP
+23.1 |  | Consent of Opinion of Sidley Austin LLP (included in Exhibit 5.1)
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101)
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: November 2, 2023 |  |  |  | By: |  | /s/ Hope D. Mehlman
+ |  |  |  | Name: |  | Hope D. Mehlman
+ |  |  |  | Title: |  | Executive Vice President, Chief Legal Officer, General Counsel and Secretary
+[/TABLE]

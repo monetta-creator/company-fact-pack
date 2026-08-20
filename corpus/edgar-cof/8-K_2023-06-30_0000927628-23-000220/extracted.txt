@@ -1,0 +1,132 @@
+false 0000927628 0000927628 2023-06-30 2023-06-30 0000927628 us-gaap:CommonStockMember 2023-06-30 2023-06-30 0000927628 cof:SeriesIPreferredStockMember 2023-06-30 2023-06-30 0000927628 cof:SeriesJPreferredStockMember 2023-06-30 2023-06-30 0000927628 cof:SeriesKPreferredStockMemberMember 2023-06-30 2023-06-30 0000927628 cof:SeriesLPreferredStockMemberMember 2023-06-30 2023-06-30 0000927628 cof:SeriesNPreferredStockMember 2023-06-30 2023-06-30 0000927628 cof:SeniorNotesDue2024Member 2023-06-30 2023-06-30 0000927628 cof:SeniorNotesDue2029Member 2023-06-30 2023-06-30
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+June 30, 2023
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 Other Events.
+
+On June 30, 2023, Capital One Financial Corporation (the “Company”) issued a press release announcing its preliminary Stress Capital Buffer Requirement (“SCB”), as calculated by the Board of Governors of the Federal Reserve System 2023 Comprehensive Capital Analysis and Review (“CCAR”) process, is 4.8 percent, effective October 1, 2023. The Company's previously disclosed SCB of 3.1 percent, as calculated by the Board of Governors of the Federal Reserve System 2022 CCAR process, will remain in effect until September 30, 2023.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release, dated June 30 , 2023
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: June 30, 2023 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+2
+
+
+=== EXHIBIT exhibit991-pressreleasedat.htm ===
+
+EX-99.1 2 exhibit991-pressreleasedat.htm EX-99.1 Document created using Wdesk Copyright 2023 Workiva Document
+
+Exhibit 99.1
+
+[TABLE]
+ |  |  | Media Release Contacts Sie Soheili Sie.Soheili@capitalone.com
+ |  |  |  | Danielle Dietz Danielle.Dietz@capitalone.com
+[/TABLE]
+
+For Release: June 30, 2023
+
+Capital One Announces Stress Capital Buffer Requirement
+
+MCLEAN, Va. (June 30, 2023) Capital One Financial Corporation (NYSE: COF) today announced its preliminary Stress Capital Buffer Requirement (“SCB”), as calculated based on the Federal Reserve’s 2023 Comprehensive Capital Analysis and Review process (“CCAR”), is 4.8 percent, effective October 1, 2023. Capital One’s previously disclosed SCB of 3.1 percent, as calculated based on the 2022 CCAR process, will remain in effect through the end of the third quarter of 2023.
+
+About Capital One
+
+Capital One Financial Corporation (www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $349.8 billion in deposits and $471.7 billion in total assets as of March 31, 2023. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Visit Capital One About for more Capital One news.
+
+# # #

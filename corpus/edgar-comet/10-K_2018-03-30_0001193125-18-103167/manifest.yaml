@@ -1,0 +1,28 @@
+doc_id: edgar-comet/10-K_2018-03-30_0001193125-18-103167
+source: edgar-comet
+source_tier: A
+doc_type: 10-K
+title: 10-K filed 2018-03-30 (period 2017-12-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312518103167/d644808d10k.htm
+retrieved_at: '2026-08-20T02:57:26Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d644808d10k.htm
+  role: raw
+  sha256: f297325a73fa35f1cc6079c8d771b1f7adbbb95f264162c9cea94eb0536a722f
+  size: 100600
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: a854fd46b6bee85f89d7454b6691c9267865236566e36fd861596c30bf444149
+  size: 37410
+  stored: corpus
+filed_date: '2018-03-30'
+period_end: '2017-12-31'
+extraction_method: lxml
+meta:
+  accession: 0001193125-18-103167
+  form: 10-K
+  items: ''

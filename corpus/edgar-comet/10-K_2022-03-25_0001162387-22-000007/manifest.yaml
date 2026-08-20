@@ -1,0 +1,28 @@
+doc_id: edgar-comet/10-K_2022-03-25_0001162387-22-000007
+source: edgar-comet
+source_tier: A
+doc_type: 10-K
+title: 10-K filed 2022-03-25 (period 2021-12-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116238722000007/comet10-k2021.htm
+retrieved_at: '2026-08-20T02:56:49Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: comet10-k2021.htm
+  role: raw
+  sha256: 7645803e0292730512d73c5ff7e4af0733aa47f027dada430169f190ab2ea4f4
+  size: 128519
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 92411628481df68eddf0af970a04bfb8f026204a1a8a6c02f77c73f9443ddbd6
+  size: 30439
+  stored: corpus
+filed_date: '2022-03-25'
+period_end: '2021-12-31'
+extraction_method: lxml
+meta:
+  accession: 0001162387-22-000007
+  form: 10-K
+  items: ''

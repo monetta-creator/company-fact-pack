@@ -1,0 +1,43 @@
+doc_id: edgar-cof/8-K_2018-03-13_0001193125-18-080851
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-03-13 (period 2018-03-13)
+url: https://www.sec.gov/Archives/edgar/data/927628/000119312518080851/d518375d8k.htm
+retrieved_at: '2026-08-20T02:47:19Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: d518375d8k.htm
+  role: raw
+  sha256: 88ccf6a439746bfc2e8559242c98c25eab1f02f3c6fae9c643da0b288307d022
+  size: 19080
+  stored: corpus
+- name: d518375dex991.htm
+  role: exhibit
+  sha256: edca8b3acb5e6f0c030ac7e30fe3b360abf5b1c0372bdfcf9db936da8d22bda7
+  size: 5801
+  stored: corpus
+- name: d518375dex992.htm
+  role: exhibit
+  sha256: 101a63c4e90249570ff38bd3e301ec1db518c1f3b193332c796f9b3981cfd723
+  size: 21277
+  stored: corpus
+- name: d518375dex993.htm
+  role: exhibit
+  sha256: 0c13ce4e557c10f17dd4d181a51ad2440f7a2532cb30e609a9cbac071c0ef210
+  size: 4870
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 11fda6047a5ae23056a42657d402628a5c2879678273b5b6cfaa2863c6f35ebb
+  size: 16630
+  stored: corpus
+filed_date: '2018-03-13'
+period_end: '2018-03-13'
+extraction_method: lxml
+meta:
+  accession: 0001193125-18-080851
+  form: 8-K
+  items: '9.01'

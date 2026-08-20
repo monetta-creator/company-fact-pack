@@ -1,0 +1,17 @@
+id: cof
+name: Capital One Financial Corporation
+type: holding_co
+status: active
+aliases:
+- Capital One
+- COF
+identifiers:
+  cik: 0000927628
+  ticker: COF
+edges: []
+summary: ''
+epistemic_status: reported
+as_of: '2026-08-19'
+sources:
+- doc_id: edgar-cof/xbrl_companyfacts
+  locator: null

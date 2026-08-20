@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2019-11-05_0000927628-19-000319
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-11-05 (period 2019-10-31)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000319/a8-kdividendsxoctober3.htm
+retrieved_at: '2026-08-20T02:54:37Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-kdividendsxoctober3.htm
+  role: raw
+  sha256: 171c00cb86750736a771ec9e951f6a136b60fb9cc74a7ee541a2955ee9b41f10
+  size: 62737
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 0c2d9db8fd191c2eab34faace8255c11075d08862a638a4e92ee3d56c7d19474
+  size: 6836
+  stored: corpus
+filed_date: '2019-11-05'
+period_end: '2019-10-31'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000319
+  form: 8-K
+  items: 8.01,9.01

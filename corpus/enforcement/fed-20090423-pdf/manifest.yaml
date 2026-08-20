@@ -1,0 +1,21 @@
+doc_id: enforcement/fed-20090423-pdf
+source: enforcement
+source_tier: A
+doc_type: consent-order
+title: Fed enforcement order 20090423-pdf
+url: https://www.federalreserve.gov/boarddocs/legaldevelopments/ordersother/section19/2009/20090423.pdf
+retrieved_at: '2026-08-20T02:38:25Z'
+entity_ids:
+- cof
+fetcher: enforcement v1
+files:
+- name: 20090423.pdf
+  role: raw
+  sha256: 06cdf79c651a85c2295bfa859701ef83d40287732d5686938a3b055b497b891e
+  size: 315370
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: dbe5880f227c47fe33de47c48a1ab41799ad1e0b1dae457ab461f88709344015
+  size: 15117
+  stored: corpus

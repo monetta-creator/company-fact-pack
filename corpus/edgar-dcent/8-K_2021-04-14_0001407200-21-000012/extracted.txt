@@ -1,0 +1,213 @@
+8-K 1 qtrly_dcmtxdcentxasofmarch.htm 8-K Document created using Wdesk Copyright 2021 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 31, 2021
+
+__________________
+
+[TABLE]
+Commission File Number: 333-141703-02; 333-167413; 333-191359; 333-205455-01; 333-228025-02 | Commission File Number: 333-141703; 333-167413-02; 333-191359-02; 333-205455-02; 333-228025-01; 000-23108 | Commission File Number: 333-205455; 333-228025 | Commission File Number: 333-141703-01; 333-167413-01; 333-191359-01; 033-54804
+DISCOVER CARD EXECUTION NOTE TRUST (Exact name of issuing entity in respect of the notes as specified in charter) | DISCOVER CARD MASTER TRUST I (Exact name of issuing entity in respect of the Series 2007-CC Collateral Certificate) | DISCOVER FUNDING LLC (Exact name of depositor as specified in charter) | DISCOVER BANK (Exact name of sponsor as specified in charter)
+Delaware (State or jurisdiction of incorporation or organization of the issuing entity) c/o Wilmington Trust Company Rodney Square North 1100 North Market Street Wilmington, Delaware 19890-0001 (Address of principal executive offices of the issuing entity) | Delaware (State or jurisdiction of incorporation or organization of the issuing entity) c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the issuing entity) | Delaware (State or jurisdiction of incorporation or organization of the depositor) Discover Funding LLC 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the depositor) | Delaware (State or jurisdiction of incorporation or organization of the sponsor) Discover Bank 12 Read’s Way New Castle, Delaware 19720 (Address of principal executive offices of the sponsor)
+[/TABLE]
+
+__________________
+
+51-0020270
+
+(IRS Employer Identification No. of
+
+the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of
+
+the depositor)
+
+(302) 323-7315
+
+(Telephone, including area code)
+
+Former name or former address, if changed since last report: Not Applicable
+
+__________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act
+
+(17 CFR 240.14d-2(b))
+
+[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act
+
+(17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b– 2 of the Securities Exchange Act of 1934 (§ 240.12b–2 of this chapter).
+
+Emerging growth company [ ]
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+Item 6.05 Securities Act Updating Disclosure
+
+The tables set forth in Sections A and B of Item 8.01 summarize the trust portfolio by various criteria as of the date specified therein.
+
+Item 8.01 Other Events
+
+Prior to January 1, 2016, Discover Bank transferred Discover Card receivables existing in designated accounts directly to Discover Card Master Trust I (the “Trust”). On and after such date, Discover Bank began and will continue to instead transfer such receivables to Discover Funding LLC pursuant to the Receivables Sale and Contribution Agreement, dated December 22, 2015, between Discover Bank and Discover Funding LLC. Discover Funding LLC has and will continue to transfer the receivables it receives from Discover Bank to the Trust pursuant to the Third Amended and Restated Pooling and Servicing Agreement dated as of December 22, 2015, as amended (the “Pooling and Servicing Agreement”), between Discover Bank, Discover Funding LLC and U.S. Bank National Association, as Trustee. Capitalized terms used in this Item 8.01 and not defined herein shall have the meanings given to them in the Pooling and Servicing Agreement, which is on file with the SEC.
+
+As of March 31, 2021, the Receivables in the Accounts designated for the Trust totaled $25,162,908,913.46 and the total number of Accounts was 14,063,589. Also, as of March 31, 2021, the average account balance was $2,918 (using 8,622,235 active accounts designated for the Trust for which cardmembers had a balance, a monetary transaction, or authorization within the past month), and the average credit limit was $12,969.
+
+A. Current Composition and Distribution of the Accounts
+
+In this Section A, we have set forth additional information below about the Accounts that are designated for the Trust.
+
+Geographic Distribution . As of March 31, 2021, the following nine states had the largest Receivables balances and comprised over 50% of the Receivables:
+
+[TABLE]
+State | Percentage of Total Receivables |  |
+Texas | 8.8% |  |
+California | 7.4% |  |
+New York | 6.4% |  |
+Florida | 6.1% |  |
+Illinois | 5.8% |  |
+Pennsylvania | 5.5% |  |
+Ohio | 4.5% |  |
+New Jersey | 3.7% |  |
+Georgia | 3.0% |  |
+Other States | 48.8% |  |
+Total | 100.0% |  |
+[/TABLE]
+
+Since the largest amounts of outstanding Receivables were with cardmembers whose billing addresses were in Texas, California, New York, Florida, Illinois, Pennsylvania, Ohio, New Jersey and Georgia, adverse changes in the business or economic conditions in these states could have an adverse effect on the performance of the Receivables.
+
+Credit Limit Information . As of March 31, 2021, the Accounts had the following credit limits:
+
+[TABLE]
+Credit Limit | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables |  | Number of Accounts |  | Percentage of Total Accounts |
+Less than or equal to $5,000.00 | $ | 621,198 |  |  | 2.5% |  | 1,599,085 |  | 11.4% |
+$5,000.01 to $10,000.00 | $ | 2,468,122 |  |  | 9.8% |  | 3,019,351 |  | 21.5% |
+$10,000.01 to $15,000.00 | $ | 5,143,646 |  |  | 20.4% |  | 4,900,531 |  | 34.8% |
+Over $15,000.00 | $ | 16,929,943 |  |  | 67.3% |  | 4,544,622 |  | 32.3% |
+Total | $ | 25,162,909 |  |  | 100.0% |  | 14,063,589 |  | 100.0% |
+[/TABLE]
+
+Account Balance Information . As of March 31, 2021, the Accounts had the following balances:
+
+[TABLE]
+Account Balance | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables |  | Number of Accounts |  | Percentage of Total Accounts |
+Credit Balance | $ | (43,865) |  |  | -0.2% |  | 524,977 |  | 3.7% |
+No Balance | $ | 0 |  |  | 0.0% |  | 6,042,134 |  | 43.0% |
+$0.01 to $5,000.00 | $ | 6,505,279 |  |  | 25.9% |  | 5,813,308 |  | 41.3% |
+$5,000.01 to $10,000.00 | $ | 6,172,920 |  |  | 24.5% |  | 856,406 |  | 6.1% |
+$10,000.01 to $15,000.00 | $ | 5,506,421 |  |  | 21.9% |  | 447,615 |  | 3.2% |
+Over $15,000.00 | $ | 7,022,154 |  |  | 27.9% |  | 379,149 |  | 2.7% |
+Total | $ | 25,162,909 |  |  | 100.0% |  | 14,063,589 |  | 100.0% |
+[/TABLE]
+
+Seasoning . As of March 31, 2021, 100.0% of the Accounts were at least 24 months old. The ages of the Accounts as of March 31, 2021 were distributed as follows:
+
+[TABLE]
+Age of Accounts | Percentage of Total Accounts |  | Percentage of Total Receivables |
+Less than 12 Months | 0.0% |  | 0.0% |
+12 to 23 Months | 0.0% |  | 0.0% |
+24 to 35 Months | 0.0% |  | 0.0% |
+36 to 47 Months | 0.0% |  | 0.0% |
+48 to 59 Months | 0.3% |  | 0.4% |
+60 Months and Greater | 99.7% |  | 99.6% |
+Total | 100.0% |  | 100.0% |
+[/TABLE]
+
+Delinquency Information . As of March 31, 2021, the Accounts in the Trust had the following delinquency statuses:
+
+[TABLE]
+Delinquency Status | Receivables Outstanding ($000’s) |  | Percentage of Total Receivables |
+Total Receivables | $ | 25,162,909 |  |  | 100.00% |
+Receivables Delinquent: |  |  |  |
+30 to 59 Days | $ | 86,446 |  |  | 0.34% |
+60 to 89 Days | $ | 63,658 |  |  | 0.25% |
+90 to 119 Days | $ | 53,264 |  |  | 0.21% |
+120 to 149 Days | $ | 50,187 |  |  | 0.20% |
+150 to 179 Days | $ | 51,090 |  |  | 0.20% |
+180 Days and Greater | $ | 0 |  |  | 0.00% |
+Total Delinquent | $ | 304,645 |  |  | 1.21% |
+[/TABLE]
+
+[TABLE]
+Delinquency Status | Number of Accounts |  | Percentage of Total Accounts |
+Total Accounts | 14,063,589 |  | 100.00% |
+Accounts Delinquent: |  |  |  |
+30 to 59 Days | 12,330 |  | 0.09% |
+60 to 89 Days | 8,578 |  | 0.06% |
+90 to 119 Days | 6,004 |  | 0.04% |
+120 to 149 Days | 5,216 |  | 0.04% |
+150 to 179 Days | 5,228 |  | 0.04% |
+180 Days and Greater | 0 |  | 0.00% |
+Total Delinquent | 37,356 |  | 0.27% |
+[/TABLE]
+
+Distribution of the Accounts by FICO® Score . A FICO® score is a measurement derived from a proprietary credit scoring method owned by Fair Isaac Corporation to determine the likelihood that credit users will pay their bills. Although Fair Isaac Corporation discloses only limited information about the variables it uses to assess credit risk, those variables likely include, but are not limited to, debt level, credit history, payment patterns (including delinquency experience), and level of utilization of available credit. FICO ® scores for any one individual may be determined by up to three independent credit bureaus. In determining whether to grant credit to a potential account holder, Discover Bank uses a FICO ® score as reported by one particular credit bureau. Therefore, certain FICO ® scores for an individual account holder based upon information collected by other credit bureaus could be different from the FICO ® score used by Discover Bank. FICO ® scores of an individual may change over time, depending on the conduct of the individual, including the individual’s usage of his or her available credit, and changes in credit score technology used by Fair Isaac Corporation.
+
+FICO ® scores are based on independent, third-party information, the accuracy of which we cannot verify. Discover Bank does not use standardized credit scores, such as a FICO ® score, alone to determine the credit limit or other terms that are approved or applied on an account. Rather, a FICO ® score is one of many factors used by Discover Bank to assess an individual’s credit and default risk prior to initially approving an account or changing the terms of an account. To the extent available, FICO ® scores are generally obtained at origination of the account and monthly or quarterly thereafter. Because the composition of the Accounts designated for the Trust may change over time, this table is not necessarily indicative of FICO ® scores at origination of the Accounts or the composition of the accounts in the Trust at any specific time thereafter.
+
+The following table reflects the Receivables as of March 31, 2021, and the composition of Accounts by FICO ® score as refreshed during December 2020:
+
+[TABLE]
+FICO ® Credit Score Range (1) | Receivables Outstanding ($000) |  | Percentage of Total Receivables |
+No Score | $ | 17,073 |  |  | 0.07% |
+Less than 600 | $ | 632,430 |  |  | 2.51% |
+600 to 659 | $ | 1,823,178 |  |  | 7.25% |
+660 to 719 | $ | 6,628,899 |  |  | 26.34% |
+720 and above | $ | 16,061,329 |  |  | 63.83% |
+Total | $ | 25,162,909 |  |  | 100.00% |
+[/TABLE]
+
+(1) FICO® is federally registered service mark of Fair Isaac Corporation.
+
+B. Payment and Balance Reduction Rates
+
+In this Section B, we have set forth additional information regarding payment and other balance reduction experience of the Accounts for the noted periods.
+
+Minimum Monthly Payment and Full Balance Payment Rates . Discover Bank calculates the monthly rate of cardmembers that made payments equal to the contractual monthly minimum payment due (but less than full payment), and the monthly rate of cardmembers that paid the full balance per their statement as a percentage of the total Accounts in each case as of the beginning of the month. The rates below are the monthly rates for the Accounts as of the month ended March 31, 2021.
+
+[TABLE]
+ | Month Ended March 31, 2021 |  |
+Minimum Monthly Payment Rate | 5.91% |  |
+Full Balance Payment Rate | 26.88% |  |
+[/TABLE]
+
+Balance Reductions . The Accounts designated for the Trust may have balance reductions granted for a number of reasons, including merchandise refunds, returns, and fraudulent charges. As of the three months ended March 31, 2021, the average monthly balance reduction rate for the Accounts designated for the Trust attributable to such refunds, returns and cardmember fraud was 0.72%.
+
+C. Static Pool Information
+
+Although we have previously provided static pool information (delinquency rates, charge-off rates, payment rates and yield) regarding the historical performance of the receivables for the Accounts based on the date of their origination, we are not providing such information in this filing because 99.7% of the Accounts are now 60 or more months past the date on which they were originated.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+[TABLE]
+Date: April 14, 2021 |
+ | Discover Funding LLC (as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Numbers 333-205455 and 333-228025) By: /s/ Patricia S. Hall Name: Patricia S. Hall Title: Vice President, Chief Financial Officer and Treasurer
+ | Discover Bank (as registrant under Commission File Numbers 333-141703-01, 333-167413-01 and 333-191359-01) By: /s/ Patricia S. Hall Name: Patricia S. Hall Title: Vice President, Chief Financial Officer and Assistant Treasurer
+[/TABLE]

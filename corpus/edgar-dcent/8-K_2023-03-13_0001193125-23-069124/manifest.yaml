@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2023-03-13_0001193125-23-069124
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2023-03-13 (period 2023-03-10)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000119312523069124/d481620d8k.htm
+retrieved_at: '2026-08-20T02:57:52Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: d481620d8k.htm
+  role: raw
+  sha256: 417a68560969fd717097b8392af7f74a76879693640a931e2556f12bf50af249
+  size: 24043
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 616025f0088a40ad2405521e76ac47a8f105b536ec981716aaa8c950bebd0d1c
+  size: 5048
+  stored: corpus
+filed_date: '2023-03-13'
+period_end: '2023-03-10'
+extraction_method: lxml
+meta:
+  accession: 0001193125-23-069124
+  form: 8-K
+  items: '8.01'

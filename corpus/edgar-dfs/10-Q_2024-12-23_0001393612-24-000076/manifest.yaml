@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2024-12-23_0001393612-24-000076
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2024-12-23 (period 2024-09-30)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361224000076/dfs-20240930.htm
+retrieved_at: '2026-08-20T02:33:33Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs-20240930.htm
+  role: raw
+  sha256: f1637a1c2fdd46c64dee3aa4beca76f90a8e921571d08c696584900f68a489c5
+  size: 3424376
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c69c2ae83f3616e0e0fcadf92a6862cbd56e3508a00964243c8f5623c5b69556
+  size: 357027
+  stored: corpus
+filed_date: '2024-12-23'
+period_end: '2024-09-30'
+extraction_method: lxml
+meta:
+  accession: 0001393612-24-000076
+  form: 10-Q
+  items: ''

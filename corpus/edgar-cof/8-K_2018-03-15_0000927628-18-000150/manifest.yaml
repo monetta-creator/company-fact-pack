@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2018-03-15_0000927628-18-000150
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2018-03-15 (period 2018-03-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762818000150/february2018creditmetricsf.htm
+retrieved_at: '2026-08-20T02:54:52Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: february2018creditmetricsf.htm
+  role: raw
+  sha256: ba63fc5b78ad7b510260b6271183695ca02878f4398e1462414ed1557c1842cd
+  size: 39349
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 9fcdef6b73385fd016f6cf2d01cced19dbc841ab03ff22c93bb36cc942341ac6
+  size: 3725
+  stored: corpus
+filed_date: '2018-03-15'
+period_end: '2018-03-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-18-000150
+  form: 8-K
+  items: 7.01,9.01

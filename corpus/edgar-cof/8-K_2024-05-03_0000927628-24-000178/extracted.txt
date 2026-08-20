@@ -1,0 +1,153 @@
+false 0000927628 0000927628 2024-05-02 2024-05-02 0000927628 us-gaap:CommonStockMember 2024-05-02 2024-05-02 0000927628 cof:SeriesIPreferredStockMember 2024-05-02 2024-05-02 0000927628 cof:SeriesJPreferredStockMember 2024-05-02 2024-05-02 0000927628 cof:SeriesKPreferredStockMemberMember 2024-05-02 2024-05-02 0000927628 cof:SeriesLPreferredStockMemberMember 2024-05-02 2024-05-02 0000927628 cof:SeriesNPreferredStockMember 2024-05-02 2024-05-02 0000927628 cof:SeniorNotesDue2024Member 2024-05-02 2024-05-02 0000927628 cof:SeniorNotesDue2029Member 2024-05-02 2024-05-02
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 2, 2024
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) At the 2024 Annual Stockholder Meeting (the “Annual Meeting”) of Capital One Financial Corporation (the “Company”) held on May 2, 2024, the Company’s stockholders, upon recommendation of the Board of Directors of the Company, approved and adopted the Company’s Amended and Restated 2002 Associate Stock Purchase Plan (the “Amended Plan”).
+
+The Amended Plan provides that the maximum number of shares available for issuance to participants under the Amended Plan shall be 53 million.
+
+For a description of the terms and conditions of the Amended Plan, see “Summary of Material Provisions of the ASPP” under proposal 3 “Approval and Adoption of the Capital One Financial Corporation Amended and Restated 2002 Associate Stock Purchase Plan” on pages 60-62 of the Company’s Proxy Statement for the Annual Meeting filed with the Securities and Exchange Commission on March 20, 2024 (the “Proxy Statement”), which description is incorporated herein by reference. The descriptions of the Amended Plan contained herein and in the Proxy Statement are qualified in their entirety by reference to the full text of the Amended Plan, a copy of which is filed hereto as Exhibit 10.1.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a) The Annual Meeting was held on May 2, 2024. On March 6, 2024, the record date (the “Record Date”) for the Annual Meeting, 382,102,457 shares of the Company’s common stock were issued and outstanding, of which 352,808,630 shares were present for purposes of establishing a quorum.
+
+(b) Stockholders voted on the following matters:
+
+(1) Stockholders elected Mr. Richard D. Fairbank, Mr. Ime Archibong, Ms. Christine Detrick, Ms. Ann Fritz Hackett, Ms. Suni P. Harford, Mr. Peter Thomas Killalea, Mr. Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars, Mr. François Locoh-Donou, Mr. Peter E. Raskind, Ms. Eileen Serra, Mr. Mayo A. Shattuck III and Mr. Craig Anthony Williams to the Company’s Board of Directors for terms expiring at the 2025 annual meeting of stockholders or until such director’s successor is duly elected and qualified;
+
+(2) Stockholders approved, on an advisory basis, the Company’s 2023 named executive officer compensation;
+
+(3) Stockholders approved and adopted the Company’s Amended Plan;
+
+(4) Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent registered public accounting firm of the Company for 2024; and
+
+(5-7) All of the shareholder proposals presented at the Annual Meeting and described below did not receive majority support.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+1
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 313,033,516 |  | 10,796,752 |  | 566,794 |  | 28,411,568
+Ime Archibong |  | 322,639,203 |  | 1,431,935 |  | 325,924 |  | 28,411,568
+Christine Detrick |  | 313,013,843 |  | 11,068,469 |  | 314,750 |  | 28,411,568
+Ann Fritz Hackett |  | 308,479,410 |  | 15,584,005 |  | 333,647 |  | 28,411,568
+Suni P. Harford |  | 323,596,578 |  | 461,430 |  | 339,054 |  | 28,411,568
+Peter Thomas Killalea |  | 315,142,261 |  | 8,915,900 |  | 338,901 |  | 28,411,568
+Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars |  | 322,658,429 |  | 1,408,655 |  | 329,978 |  | 28,411,568
+François Locoh-Donou |  | 313,344,375 |  | 10,705,294 |  | 347,393 |  | 28,411,568
+Peter E. Raskind |  | 313,765,487 |  | 10,338,769 |  | 292,806 |  | 28,411,568
+Eileen Serra |  | 322,143,163 |  | 1,933,312 |  | 320,587 |  | 28,411,568
+Mayo A. Shattuck III |  | 311,706,321 |  | 12,418,361 |  | 272,380 |  | 28,411,568
+Craig Anthony Williams |  | 322,715,222 |  | 1,397,971 |  | 283,869 |  | 28,411,568
+Advisory Approval of the Company’s 2023 Named Executive Officer Compensation |  | 308,121,145 |  | 15,908,838 |  | 367,079 |  | 28,411,568
+Approval and Adoption of the Company’s Amended and Restated 2002 Associate Stock Purchase Plan |  | 320,959,342 |  | 3,209,850 |  | 227,870 |  | 28,411,568
+Ratification of Selection of Ernst & Young LLP as Independent Registered Public Accounting Firm of the Company for 2024 |  | 337,747,106 |  | 14,859,871 |  | 201,653 |  | N/A
+Stockholder Proposal Setting of Near- and Long-Term Greenhouse Gas Emission Reduction Targets |  | 32,529,942 |  | 289,824,329 |  | 2,042,791 |  | 28,411,568
+Stockholder Proposal Report on Respecting Workforce Civil Liberties |  | 2,956,632 |  | 319,575,880 |  | 1,864,550 |  | 28,411,568
+Stockholder Proposal Director Election Resignation Bylaw Proposal |  | 33,126,745 |  | 290,334,050 |  | 936,267 |  | 28,411,568
+[/TABLE]
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Amended and Restated 2002 Associate Stock Purchase Plan
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+2
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: May 3, 2024 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+3

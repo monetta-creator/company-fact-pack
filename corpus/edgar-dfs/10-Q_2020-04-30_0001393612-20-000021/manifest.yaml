@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/10-Q_2020-04-30_0001393612-20-000021
+source: edgar-dfs
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2020-04-30 (period 2020-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000139361220000021/dfs331202010q.htm
+retrieved_at: '2026-08-20T02:34:08Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: dfs331202010q.htm
+  role: raw
+  sha256: be4891dfbe4b9f723e23ef261c19863961435fc8d16bd57b1fa50925ffbd7feb
+  size: 3816056
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: c15a00f5491cc43fb4743b53be59b50ab92809d2e3e7c441086dd126f43cc357
+  size: 313886
+  stored: corpus
+filed_date: '2020-04-30'
+period_end: '2020-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001393612-20-000021
+  form: 10-Q
+  items: ''

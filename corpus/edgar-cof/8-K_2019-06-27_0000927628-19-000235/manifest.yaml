@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2019-06-27_0000927628-19-000235
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-06-27 (period 2019-06-27)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762819000235/a8-klegaldated06272019ccar.htm
+retrieved_at: '2026-08-20T02:54:40Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-klegaldated06272019ccar.htm
+  role: raw
+  sha256: af5372d8b73dacb138eb0d4e486d73a11100fd1d668910d81adce556a8a15775
+  size: 42010
+  stored: corpus
+- name: a2019ccarexhibit991.htm
+  role: exhibit
+  sha256: 920e45451bd243a8d909a57e0333cc5bdf97a9c8ba1fbc701f98f3a9882a072f
+  size: 11936
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 380a7e7f45216f261fa44f4e7f56e3bdb9b78028f895a73015ae7b69b2185ce6
+  size: 10029
+  stored: corpus
+filed_date: '2019-06-27'
+period_end: '2019-06-27'
+extraction_method: lxml
+meta:
+  accession: 0000927628-19-000235
+  form: 8-K
+  items: 8.01,9.01

@@ -1,0 +1,28 @@
+doc_id: edgar-comet/8-K_2019-08-30_0001193125-19-234896
+source: edgar-comet
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2019-08-30 (period 2019-08-28)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000119312519234896/d797206d8k.htm
+retrieved_at: '2026-08-20T02:57:13Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: d797206d8k.htm
+  role: raw
+  sha256: 398a5167dc0602ec5f0628a4133fe60b312158a0153b333a880a349f57c065da
+  size: 24030
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: bca8067b5d0a1477b1e8229d10f543f01c5085970fd708d99a084a5b359e7942
+  size: 4493
+  stored: corpus
+filed_date: '2019-08-30'
+period_end: '2019-08-28'
+extraction_method: lxml
+meta:
+  accession: 0001193125-19-234896
+  form: 8-K
+  items: 8.01,9.01

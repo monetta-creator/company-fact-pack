@@ -1,0 +1,104 @@
+8-K 1 d571683d8k.htm FORM 8-K Form 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current
+Report
+
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): August 9, 2018
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission
+File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction
+ of incorporation) |  | (IRS Employer
+ Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road, Riverwoods, Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or
+former address, if changed since last report)
+
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act
+(17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act or Rule 12b-2 of the Exchange Act.
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.03. | Creation of a Direct Financial Obligation of a Registrant or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+
+On August 9, 2018, Discover
+Bank (the “Bank”), a wholly-owned subsidiary of Discover Financial Services (the “Company”), issued and sold $500,000,000 aggregate principal amount of its 4.682% Fixed-to-Fixed Rate Subordinated Notes due 2028 (the “Notes”). The Notes were issued pursuant to a Fiscal and Paying Agency Agreement, dated August 9,
+2018 (the “FPAA”), between the Bank, as issuer of the Notes, and U.S. Bank National Association, as fiscal and paying agent. The Notes were issued pursuant to an exemption from registration provided by Section 3(a)(2) of the
+Securities Act of 1933, as amended.
+
+The indebtedness of the Bank evidenced by the Notes, including principal and interest, is unsecured
+and subordinated to the claims of depositors and general creditors of the Bank and, consequently, junior in right of payment to the Bank’s obligations to its depositors, its obligations under bankers’ acceptances and letters of credit, its
+obligations to any Federal Reserve Bank or the Federal Deposit Insurance Company (the “FDIC”) and its obligations to its other creditors, and to any rights acquired by the FDIC as a result of loans made by the FDIC to the Bank or the
+purchase or guarantee of any of its assets by the FDIC pursuant to the provisions of 12 U.S.C. Section 1823(c), (d) or (e), in each case whether now outstanding or hereafter incurred (except any obligations that expressly rank on a parity
+with or junior to the Notes).
+
+Subject to any redemption prior to August 9, 2028, the Notes will bear interest (i) from and
+including August 9, 2018 to, but excluding, August 9, 2023, at the rate of 4.682% per annum and (ii) from and including August 9, 2023 to, but excluding August 9, 2028 at a rate per annum which will be 1.730% above the 5-Year Mid-Swap Rate (as defined in the FPAA). Interest on the Notes will be payable semi-annually in arrears on February 9 and August 9 of each year, commencing on
+February 9, 2019, and on the date of maturity (each, an “Interest Payment Date”). Payments will include interest accrued to, but excluding, the relevant Interest Payment Date. Interest on the Notes will be calculated on the basis of a
+360 day year of twelve 30 day months.
+
+A copy of the FPAA, which includes the form of Note as an exhibit thereto, is filed with
+this Current Report on Form 8-K as Exhibit 4.1 and is incorporated herein by reference.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+4.1 |  | Fiscal and Paying Agency Agreement, dated August 9, 2018 between Discover Bank, as issuer, and U.S. Bank National Association, as fiscal and paying agent.
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: August 9, 2018 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  |  |  | Name: |  | D. Christopher Greene
+ |  |  |  |  |  | Title: |  | Vice President, Deputy General Counsel and Assistant Secretary
+[/TABLE]

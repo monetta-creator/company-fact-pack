@@ -1,0 +1,153 @@
+false 0001393612 --12-31 0001393612 2025-05-18 2025-05-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): May 19, 2025 ( May 18, 2025 )
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Introductory Note
+
+This Current Report on Form 8-K is being filed in connection with the closing on May 18, 2025 (the “Closing Date”), of the previously announced merger of Discover Financial Services, a Delaware corporation (“Discover”) and Capital One Financial Corporation, a Delaware corporation (“Capital One”), pursuant to the Agreement and Plan of Merger, dated as of February 19, 2024 (the “Merger Agreement”), by and among Discover, Capital One, and Vega Merger Sub, Inc., a Delaware corporation and a direct, wholly-owned subsidiary of Capital One (“Merger Sub”).
+
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+
+Pursuant to the Merger Agreement, on the Closing Date, (i) Merger Sub merged with and into Discover, with Discover continuing as the surviving corporation (the “Merger”), (ii) immediately following the Merger, Discover merged with and into Capital One, with Capital One as the surviving entity in the second-step merger (the “Second Step Merger,” and together with the Merger, the “Mergers”) and (iii) immediately following the Second Step Merger, Discover Bank, a Delaware-chartered bank and a wholly-owned subsidiary of Discover (“Discover Bank”), merged with and into Capital One, National Association, a national bank and a wholly-owned subsidiary of Capital One (“CONA”), with CONA continuing as the surviving bank (collectively with the Mergers, the “Transaction”). Upon the closing of the Second Step Merger, the separate existence of Discover ceased and upon the closing of the Bank Merger the separate existence of Discover Bank ceased.
+
+Pursuant to the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each share of the common stock, par value $0.01 per share, of Discover (“Discover Common Stock”) issued and outstanding immediately prior to the Effective Time, other than certain shares held by Capital One or Discover, was converted into the right to receive (the “Merger Consideration”) 1.0192 shares (the “Exchange Ratio”) of common stock, par value $0.01 per share, of Capital One (“Capital One Common Stock”). Each holder of shares of Discover Common Stock converted pursuant to the Merger who would otherwise have been entitled to receive a fraction of a share of Capital One Common Stock (after taking into account all shares held by such holder) will instead receive cash (without interest) in lieu of such fractional share in accordance with the terms of the Merger Agreement. Pursuant to the Merger Agreement, at the effective time of the Second Step Merger (the “Second Effective Time”), (a) each share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C, par value $0.01 per share, of Discover (“Discover Series C Preferred Stock”) issued and outstanding prior to the Second Effective Time was converted into the right to receive a share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series O, par value $0.01 per share, of Capital One (“Capital One Series O Preferred Stock”) and (b) each share of 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series D, par value $0.01 per share, of Discover (“Discover Series D Preferred Stock”) issued and outstanding immediately prior to the Second Effective Time was converted into the right to receive a share of 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series P, par value $0.01 per share, of Capital One (“Capital One Series P Preferred Stock” and, together with the Capital One Series O Preferred Stock, the “New Capital One Preferred Stock”). In addition, at the Second Effective Time, (i) each outstanding Discover depositary share representing a 1/100th interest in a share of Discover Series C Preferred Stock was converted into a Capital One depositary share representing a 1/100th interest in a share of Capital One Series O Preferred Stock (each, a “Capital One Series O Depositary Share”) and (ii) each outstanding Discover depositary share representing a 1/100th interest in a share of Discover Series D Preferred Stock was converted into a Capital One depositary share representing a 1/100th interest in a share of Capital One Series P Preferred Stock (each, a “Capital One Series P Depositary Share” and collectively with the Capital One Series O Depositary Shares, the “New Capital One Depositary Shares”).
+
+Pursuant to the Merger Agreement, at the Effective Time, (i) each outstanding Discover restricted stock unit award (except those described in the following paragraph) was converted into a corresponding restricted stock unit award with respect to Capital One Common Stock, with the number of shares underlying such award adjusted based on the Exchange Ratio, and (ii) each outstanding Discover performance stock unit award was converted into a cash-based award, with the number of shares of Discover Common Stock underlying such award determined based on the greater of target and actual performance through March 31, 2025, with the per share cash amount determined using the product of the Exchange Ratio and the average of the closing sale prices of Capital One Common Stock for the five trading days ending on the day preceding the Closing Date. Each such converted Capital One award otherwise continues to be subject to the same terms and conditions as applied to the corresponding Discover equity award immediately prior to the Effective Time.
+
+2
+
+As of immediately prior to the Effective Time, the Discover restricted stock unit award granted to John B. Owen on January 31, 2024 (in recognition of his service as Discover’s interim chief executive officer and president from August 14, 2023 to February 1, 2024), which was fully vested on the date of grant and scheduled to settle ratably over three years, was fully settled in shares of Discover Common Stock in accordance with its terms, resulting in the right to receive the Merger Consideration. In addition, immediately prior to the Effective Time, each outstanding Discover restricted stock unit award granted to a Discover non-employee director fully vested and was settled in shares of Discover Common Stock, resulting in the right to receive the Merger Consideration (except any deferred award in the case of the New Directors (as defined below)).
+
+The foregoing description of the Transaction and the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Merger Agreement, a copy of which is filed as Exhibit 2.1 and incorporated herein by reference.
+
+The issuance of shares of Capital One Common Stock, New Capital One Preferred Stock and New Capital One Depositary Shares in connection with the Transaction was registered under the Securities Act of 1933, as amended (the “Securities Act”), pursuant to a registration statement on Form S-4 (File No. 333-278812) filed by Capital One with the Securities and Exchange Commission (the “Commission”) and declared effective on January 6, 2025 (the “Registration Statement”). The joint proxy statement/prospectus included in the Registration Statement contains additional information about the Merger Agreement and the transactions contemplated thereby.
+
+Item 3.01. Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+As a result of the Merger, Discover no longer fulfills the listing requirements of the New York Stock Exchange (“NYSE”). In connection with the closing of the Merger, Discover notified NYSE that a certificate of merger had been filed with the Secretary of State of the State of Delaware and that trading in Discover Common Stock should be suspended and the listing of Discover Common Stock should be removed, and requested that NYSE (i) withdraw Discover Common Stock from listing on NYSE and (ii) file with the Securities and Exchange Commission (the “SEC”) on Form 25 a notification of delisting of Discover Common Stock and deregistration under Section 12(b) of the Securities Exchange Act of 1934 (the “Exchange Act”), in each case before the market opens on NYSE on May 19, 2025. As a result, Discover Common Stock will no longer be listed on NYSE.
+
+Capital One, as successor to Discover, intends to file with the SEC certifications on Form 15 under the Exchange Act requesting the deregistration of Discover Common Stock under Section 12(g) of the Exchange Act and the suspension of Discover’s reporting obligations under Sections 13 and 15(d) of the Exchange Act as promptly as practicable. The information set forth under Item 2.01 of this Current Report on Form 8-K is incorporated by reference into this Item 3.01.
+
+Item 3.03. Material Modification to Rights of Security Holders.
+
+As of the Effective Time in the case of the Discover Common Stock and the Second Effective time in the case of the Discover Preferred Stock, each holder of Discover Common Stock and Discover Preferred Stock ceased to have any rights with respect thereto, except the right to receive the applicable consideration described above and subject to the terms and conditions set forth in the Merger Agreement.
+
+The information set forth under Item 2.01, 3.01 and 5.03 of this Current Report on Form 8-K is incorporated by reference into this Item 3.03.
+
+Item 5.01. Changes in Control of the Registrant
+
+The information set forth under Item 2.01, 3.01, 3.03 and 5.02 of this Current Report on Form 8-K is incorporated by reference into this Item 5.01.
+
+3
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+In connection with the Merger, certain Discover employees (including certain of its named executive officers) may become entitled to payments and benefits that may be treated as “excess parachute payments” within the meaning of Section 4999 of the Internal Revenue Code of 1986, as amended (the “Code”). To mitigate the potential impact of Section 4999 of the Code on impacted employees, as contemplated by the terms of the Merger Agreement, the Compensation and Human Capital Committee of the Board of Directors of Discover approved the entrance into agreements (the “Gross-Up Agreements”) with certain employees, including John T. Greene, Jason J. Strle and Keith E. Toney on May 16, 2025, providing for reimbursements for excise taxes incurred under Section 4999 of the Code in connection with the Merger, so that on a net after-tax basis such employees will be in the same position as though such excise tax did not apply. The reimbursements are subject to an aggregate cap not to exceed $25,000,000 for all impacted employees, individual caps set forth in the Gross-Up Agreements (including $5,835,000 for Mr. Greene, $3,885,000 for Mr. Strle, and $3,885,000 for Mr. Toney) and other limitations set forth in the Gross-Up Agreements. The actual amount of the excise tax reimbursement for each employee, if any, will not be determinable until after the Effective Time, but is expected to be significantly less than the applicable caps. The foregoing summary does not purport to be complete and is qualified in its entirety by reference to the complete text of the Gross-Up Agreements, a form of which is attached hereto as Exhibit 10.1.
+
+At the Effective Time, Discover’s directors and executive officers ceased serving as directors and executive officers of Discover.
+
+In accordance with the terms of the Merger Agreement, as of the Effective Time, the size of the board of directors of Capital One (the “Capital One Board”) was increased to consist of a total of 15 directors, including the 12 directors of the Capital One Board immediately prior to the Effective Time and three former directors of Discover. The three former directors of Discover appointed by the Capital One Board to fill the increase in the size of the Capital One Board referred to above, in each case effective as of the Effective Time, are as follows: Thomas G. Maheras, Michael Shepherd and Jennifer L. Wong (each, a “New Director” and, collectively, the “New Directors”). Other than the Merger Agreement, there are no arrangements between the New Directors and any other person pursuant to which the New Directors were selected as directors.
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+At the Second Effective Time, the Restated Certificate of Incorporation of Discover and the Amended and Restated Bylaws of Discover ceased to be in effect by operation of law. The Restated Certificate of Incorporation of Capital One and the Amended and Restated Bylaws of Capital One, in each case, as in effect immediately prior to the Second Effective Time, remained the organizational documents of Capital One consistent with the terms of the Merger Agreement. In connection with the completion of the Transaction and in accordance with the Merger Agreement, Capital One filed two Certificates of Designations with the Delaware Secretary of State, establishing (i) the Capital One Series O Preferred Stock consisting of 5,700 authorized shares and (ii) the Capital One Series P Preferred Stock consisting of 5,000 authorized shares, respectively. The Certificates of Designations became effective on May 18, 2025, immediately prior to the Second Effective Time. A copy of the Restated Certificate of Incorporation of Capital One, the Certificate of Designations in respect of Capital One’s existing preferred stock, and the Certificate of Designations in respect of the Capital One Series O Preferred Stock, the Certificate of Designations in respect of Capital One Series P Preferred Stock, and the Amended and Restated Bylaws of Capital One are filed as Exhibit 3.1, Exhibits 3.2 – 3.7, Exhibit 3.8, Exhibit 3.9 and Exhibit 3.10, respectively, of this Current Report on Form 8-K and are incorporated herein by reference.
+
+4
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description
+2.1 |  | Agreement and Plan of Merger, dated as of February 19, 2024, by and among Discover Financial Services, Capital One Financial Corporation and Vega Merger Sub, Inc. (incorporated by reference to Exhibit 2.1 to Discover Financial Services’ Current Report on Form 8-K, filed with the Commission on February 22, 2024).
+3.1 |  | Restated Certificate of Incorporation of Capital One (as restated July 26, 2023) (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Quarterly Report on Form 10-Q filed on July 27, 2023).
+3.2 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I, dated September 10, 2019 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on September 11, 2019).
+3.3 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J, dated January 30, 2020 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on January 31, 2020).
+3.4 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K, dated September 16, 2020 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on September 17, 2020).
+3.5 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L, dated May 3, 2021 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on May 4, 2021).
+3.6 |  | Certificate of Designations of Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M, dated June 9, 2021 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on June 10, 2021).
+3.7 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N, dated July 28, 2021 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on July 29, 2021).
+3.8 |  | Certificate of Designations of Fixed-to-Floating Rate Non-Cumulative, Perpetual Preferred Stock, Series O, of Capital One Financial Corporation, effective as of May 18, 2025 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on May 19, 2025).
+3.9 |  | Certificate of Designations of 6.125% Fixed-Rate Reset Non-Cumulative, Perpetual Preferred Stock, Series P, of Capital One Financial Corporation, effective as of May 18, 2025 (incorporated by reference to Exhibit 3.2 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on May 19, 2025).
+3.10 |  | Amended and Restated Bylaws of Capital One, dated September 23, 2021 (incorporated by reference to Exhibit 3.1 of Capital One Financial Corporation’s Current Report on Form 8-K, filed on September 29, 2021).
+10.1 |  | Form of Gross-Up Agreement.
+104 |  | Cover Page Interactive Data File (formatted as inline XBRL document).
+[/TABLE]
+
+5
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+CAPITAL ONE FINANCIAL CORPORATION as successor by merger to Discover Financial Services
+By: |  | /s/ Matthew W. Cooper
+Name: |  | Matthew W. Cooper
+Title: |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+Dated: May 19, 2025
+
+6

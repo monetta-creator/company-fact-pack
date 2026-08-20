@@ -1,0 +1,28 @@
+doc_id: edgar-dfs/DEF14A_2016-03-17_0001193125-16-507073
+source: edgar-dfs
+source_tier: A
+doc_type: DEF 14A
+title: DEF 14A filed 2016-03-17 (period 2016-05-12)
+url: https://www.sec.gov/Archives/edgar/data/1393612/000119312516507073/d120710ddef14a.htm
+retrieved_at: '2026-08-20T02:34:48Z'
+entity_ids:
+- dfs
+fetcher: edgar_filings v1
+files:
+- name: d120710ddef14a.htm
+  role: raw
+  sha256: 0743ed252b240db40a53bb56f796c302d976f3f3120272d3d56ebc7714002c4a
+  size: 852213
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 70c267ac03c852336301355cf44aaf5e84d5c07942b2501d788505763e6cf0c5
+  size: 221370
+  stored: corpus
+filed_date: '2016-03-17'
+period_end: '2016-05-12'
+extraction_method: lxml
+meta:
+  accession: 0001193125-16-507073
+  form: DEF 14A
+  items: ''

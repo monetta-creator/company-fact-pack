@@ -1,0 +1,169 @@
+false 0000927628 0000927628 2023-05-04 2023-05-04 0000927628 us-gaap:CommonStockMember 2023-05-04 2023-05-04 0000927628 cof:SeriesIPreferredStockMember 2023-05-04 2023-05-04 0000927628 cof:SeriesJPreferredStockMember 2023-05-04 2023-05-04 0000927628 cof:SeriesKPreferredStockMemberMember 2023-05-04 2023-05-04 0000927628 cof:SeriesLPreferredStockMemberMember 2023-05-04 2023-05-04 0000927628 cof:SeriesNPreferredStockMember 2023-05-04 2023-05-04 0000927628 cof:SeniorNotesDue2024Member 2023-05-04 2023-05-04 0000927628 cof:SeniorNotesDue2029Member 2023-05-04 2023-05-04
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+____________________________________
+
+FORM 8-K
+
+____________________________________
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d) of
+
+The Securities Exchange Act of 1934
+
+May 4, 2023
+
+Date of Report (Date of earliest event reported)
+
+____________________________________
+
+CAPITAL ONE FINANCIAL CORP ORATION
+
+(Exact name of registrant as specified in its charter)
+
+____________________________________
+
+[TABLE]
+Delaware | 001-13300 | 54-1719854
+(State or other jurisdiction of incorporation) | (Commission File Number) | (IRS Employer Identification No.)
+1680 Capital One Drive, |  |
+McLean, | Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: ( 703 ) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+____________________________________
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class | Trading Symbol(s) | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) | COF | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I | COF PRI | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J | COF PRJ | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K | COF PRK | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L | COF PRL | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N | COF PRN | New York Stock Exchange
+0.800% Senior Notes Due 2024 | COF24 | New York Stock Exchange
+1.650% Senior Notes Due 2029 | COF29 | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+(e) At the 2023 Annual Stockholder Meeting (the “Annual Meeting”) of Capital One Financial Corporation (the “Company”) held on May 4, 2023, the Company’s stockholders, upon recommendation of the Board of Directors of the Company, approved and adopted the Company’s Seventh Amended and Restated 2004 Stock Incentive Plan (the “Amended Plan”).
+
+The Amended Plan provides that the maximum number of shares available for issuance to participants under the Amended Plan shall be 81 million.
+
+For a description of the terms and conditions of the Amended Plan, see “Summary of Material Provisions of the Seventh Amended and Restated 2004 Stock Incentive Plan” under proposal 5 “Approval and Adoption of the Capital One Financial Corporation Seventh Amended and Restated 2004 Stock Incentive Plan” on pages 67-75 of the Company’s Proxy Statement for the Annual Meeting filed with the Securities and Exchange Commission on March 22, 2023 (the “Proxy Statement”), which description is incorporated herein by reference. The descriptions of the Amended Plan contained herein and in the Proxy Statement are qualified in their entirety by reference to the full text of the Amended Plan, a copy of which is filed hereto as Exhibit 10.1.
+
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+
+(a) The Annual Meeting was held on May 4, 2023. On March 8, 2023, the record date (the “Record Date”) for the Annual Meeting, 382,444,881 shares of the Company’s common stock were issued and outstanding, of which 353,568,928 were present for purposes of establishing a quorum.
+
+(b) Stockholders voted on the following matters:
+
+(1) Stockholders elected Mr. Richard D. Fairbank, Mr. Ime Archibong, Ms. Christine Detrick, Ms. Ann Fritz Hackett, Mr. Peter Thomas Killalea, Mr. Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars, Mr. François Locoh-Donou, Mr. Peter E. Raskind, Ms. Eileen Serra, Mr. Mayo A. Shattuck III, Mr. Bradford H. Warner and Mr. Craig Anthony Williams to the Company’s Board of Directors for terms expiring at the 2024 annual meeting of stockholders or until such director’s successor is duly elected and qualified;
+
+(2) Stockholders voted on amendments to the Company’s Restated Certificate of Incorporation (the “Certificate”) to remove remaining supermajority voting requirements and references to Signet Banking Corporation;
+
+(3) Stockholders voted, on an advisory basis, to have future votes on named executive officer compensation every year;
+
+(4) Stockholders approved, on an advisory basis, the Company’s 2022 named executive officer compensation;
+
+(5) Stockholders approved and adopted the Company’s Seventh Amended and Restated 2004 Stock Incentive Plan;
+
+(6) Stockholders ratified the selection of the firm Ernst & Young LLP to serve as the independent registered public accounting firm of the Company for 2023; and
+
+(7-9) A majority of shares present in person or by proxy at the Annual Meeting voted in favor of a shareholder proposal requesting the Company adopt a simple majority vote standard. The other two shareholder proposals presented at the Annual Meeting and described below did not receive majority support.
+
+Set forth below are the number of votes cast for and against each such matter as well as the number of abstentions and broker non-votes with respect to each such matter.
+
+1
+
+[TABLE]
+Item |  | Votes For |  | Votes Against |  | Abstain |  | Broker Non-Votes
+Election of Directors: |  |  |  |  |  |  |  |
+Richard D. Fairbank |  | 316,167,451 |  | 10,346,296 |  | 1,592,535 |  | 25,462,646
+Ime Archibong |  | 325,557,125 |  | 2,014,356 |  | 534,801 |  | 25,462,646
+Christine Detrick |  | 314,500,713 |  | 13,109,936 |  | 495,633 |  | 25,462,646
+Ann Fritz Hackett |  | 301,091,245 |  | 26,498,772 |  | 516,265 |  | 25,462,646
+Peter Thomas Killalea |  | 305,813,321 |  | 21,716,122 |  | 576,839 |  | 25,462,646
+Cornelis Petrus Adrianus Joseph (“Eli”) Leenaars |  | 324,983,780 |  | 2,598,704 |  | 523,798 |  | 25,462,646
+François Locoh-Donou |  | 310,435,501 |  | 17,116,570 |  | 554,211 |  | 25,462,646
+Peter E. Raskind |  | 316,745,505 |  | 10,854,789 |  | 505,988 |  | 25,462,646
+Eileen Serra |  | 325,793,306 |  | 1,816,620 |  | 496,356 |  | 25,462,646
+Mayo A. Shattuck III |  | 315,779,689 |  | 11,844,956 |  | 481,637 |  | 25,462,646
+Bradford H. Warner |  | 314,010,614 |  | 13,609,783 |  | 485,885 |  | 25,462,646
+Craig Anthony Williams |  | 324,989,711 |  | 2,648,999 |  | 467,572 |  | 25,462,646
+Amendments to the Company’s Restated Certificate of Incorporation to Remove Remaining Supermajority Voting Requirements and References to Signet Banking Corporation* |  | 326,747,706 |  | 1,052,415 |  | 306,161 |  | 25,462,646
+Advisory Approval of the Company’s 2022 Named Executive Officer Compensation |  | 305,489,838 |  | 22,041,386 |  | 575,058 |  | 25,462,646
+Approval and Adoption of the Company’s Seventh Amended and Restated 2004 Stock Incentive Plan |  | 316,774,011 |  | 10,816,033 |  | 516,238 |  | 25,462,646
+Ratification of Selection of Ernst & Young LLP as Independent Registered Public Accounting Firm of the Company for 2023 |  | 341,382,670 |  | 11,979,261 |  | 206,997 |  | N/A
+Stockholder Proposal Requesting a Simple Majority Vote Standard |  | 216,608,932 |  | 110,610,165 |  | 887,185 |  | 25,462,646
+Stockholder Proposal Requesting a Report on Board Oversight of Risks Related to Discrimination |  | 3,063,266 |  | 322,804,381 |  | 2,238,635 |  | 25,462,646
+Stockholder Proposal Requesting a Board Skills and Diversity Matrix |  | 144,061,969 |  | 182,942,270 |  | 1,102,043 |  | 25,462,646
+[/TABLE]
+
+*As disclosed in the Proxy Statement, the proposal to amend the Certificate (“Proposal 2”) requires approval of at least 305,955,905 shares, representing 80% of the Company’s common stock outstanding as of the Record Date and also requires approval by 80% of the Company’s common stock outstanding as of the Record Date not owned directly or indirectly by any Interested Stockholder or any Affiliate of any Interested Stockholder (as defined in the Certificate) (the “Non-Interested Stockholder Vote”). Management has determined that Proposal 2 received the approval of more than 80% of the Company’s common stock outstanding, but has not yet confirmed if it received more than 80% of the Non-Interested Stockholder Vote.
+
+[TABLE]
+Item |  | One Year |  | Two Years |  | Three Years |  | Abstain |  | Broker Non-Votes
+Advisory Vote on the Frequency of Future Advisory Votes to Approve Executive Compensation |  | 322,348,209 |  | 467,199 |  | 4,758,132 |  | 532,742 |  | 25,462,646
+[/TABLE]
+
+In accordance with the Board of Directors’ recommendation and the voting results on this advisory proposal, the Company will hold an annual advisory vote to approve the compensation of its named executive officers.
+
+2
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+10.1 |  | Seventh Amended and Restated 2004 Stock Incentive Plan
+104 |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+3
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ | CAPITAL ONE FINANCIAL CORPORATION
+Date: May 9, 2023 | By: | /s/ Matthew W. Cooper
+ |  | Matthew W. Cooper
+ |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+4

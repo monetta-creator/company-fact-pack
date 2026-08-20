@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2016-03-15_0000927628-16-000147
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2016-03-15 (period 2016-03-15)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000147/februarycreditmetricsform8.htm
+retrieved_at: '2026-08-20T02:55:11Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: februarycreditmetricsform8.htm
+  role: raw
+  sha256: ebcffaf53a551759b12dfa28a8705d8ecdbf29b622ad2756401e3e3cea9df164
+  size: 38815
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 7575c4bfe3f65d102cd141e724f012eb4788e74e7c3a083fb85fefc8fa07a1ee
+  size: 3206
+  stored: corpus
+filed_date: '2016-03-15'
+period_end: '2016-03-15'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000147
+  form: 8-K
+  items: 7.01,9.01

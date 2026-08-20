@@ -1,0 +1,120 @@
+8-K 1 d202765d8k.htm 8-K 8-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant
+to Section 13 or 15(d) of the
+
+Securities Exchange Act of 1934
+
+July 28, 2016
+
+Date of
+report (Date of earliest event reported)
+
+Commission File No. 1-13300
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 54-1719854
+(State or Other Jurisdiction of
+ (Incorporation or Organization) |  | I.R.S. Employer
+ Identification No.)
+1680 Capital One Drive, McLean, Virginia |  | 22102
+(Address of Principal Executive Offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code:
+
+(703) 720-1000
+
+(Former
+name, former address and former fiscal year, if changed since last report)
+
+(Not applicable)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (see General Instruction A.2. below):
+
+¨ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e4(c))
+
+Item 3.03. | Material Modification to Rights of Security Holders.
+
+On July 29, 2016, Capital One Financial
+Corporation (the “Company”) issued and sold 24,000,000 depositary shares (“Depositary Shares”), each representing a 1/40 th interest in a share of Fixed Rate Non-Cumulative
+Perpetual Preferred Stock, Series G, $0.01 par value, with a liquidation preference of $25 per Depositary Share (equivalent to $1,000 per share of Series G Preferred Stock) (the “Series G Preferred Stock”). The Company filed a
+Certificate of Designations (the “Certificate of Designations”) with the Secretary of State of the State of Delaware, establishing the voting rights, powers, preferences and privileges, and the relative, participating, optional or other
+rights, and the qualifications, limitations or restrictions thereof, of the Series G Preferred Stock on July 28, 2016. Holders of the Depositary Shares will be entitled to all proportional rights and preferences of the Series G Preferred Stock
+(including dividend, voting, redemption and liquidation rights).
+
+Under the terms of the Series G Preferred Stock, the ability of the Company to pay
+dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the Series G Preferred Stock, is subject to restrictions in the event that the Company
+does not declare and either pay or set aside a sum sufficient for payment of dividends on the Series G Preferred Stock for the immediately preceding dividend period.
+
+The description of the terms of the Series G Preferred Stock is qualified in its entirety by reference to the Certificate of Designations, which is included
+as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+
+Item 5.03 | Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+
+The Certificate of
+Designations became effective upon filing with the Secretary of State of the State of Delaware and it amends the Company’s Restated Certificate of Incorporation. The terms of the Series G Preferred Stock are more fully described in Item
+3.03 of this Current Report on Form 8-K and the Certificate of Designations which is included as Exhibit 3.1 to this Current Report on Form 8-K, both of which are incorporated by reference herein.
+
+Item 8.01 | Other Events
+
+On July 26, 2016, the Company entered into an Underwriting Agreement (the
+“Underwriting Agreement”) with Merrill Lynch, Pierce, Fenner & Smith Incorporated, J.P. Morgan Securities LLC, Morgan Stanley & Co. LLC, UBS Securities LLC and Wells Fargo Securities, LLC, as the representatives of the several
+underwriters named therein (collectively, the “Underwriters”), pursuant to which the Company agreed to sell to the Underwriters 24,000,000 Depositary Shares, each representing a 1/40 th ownership interest in a share of the Series G Preferred Stock.
+
+The Underwriting Agreement contains customary representations, warranties and agreements
+of the Company, conditions to closing, indemnification rights and obligations of the parties, and termination provisions. Under the terms of the Underwriting Agreement, the Company agreed to indemnify the Underwriters against certain specified
+types of liabilities, including liabilities under the Securities Act of 1933, as amended, and to contribute to payments the Underwriters may be required to make in respect of these liabilities.
+
+The net proceeds of the offering of the 24,000,000 Depositary Shares were approximately $583 million, after deducting underwriting commissions and estimated
+offering expenses. The offering was made pursuant to the prospectus supplement dated July 26, 2016 and the accompanying prospectus dated March 31, 2015, filed with the Securities and Exchange Commission pursuant to the Company’s effective
+registration statement on Form S-3 (File No. 333-203125) (the “Registration Statement”). The following documents are being filed with this Current Report on Form 8-K and are incorporated by reference into the Registration Statement:
+(a) the Underwriting Agreement, (b) the Certificate of Designations, (c) the Deposit Agreement dated July 29, 2016, between the Company, Computershare Trust Company, N.A., as Depositary, Computershare Inc. and the holders from time to time of the
+depositary receipts described therein, to which the Deposit Agreement and Form of Depositary Receipt is attached as Exhibit A and (d) a validity opinion with respect to the Depositary Shares and the Series G Preferred Stock.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) | Exhibits.
+
+[TABLE]
+Exhibit No. |  | Description of Exhibit
+1.1 |  | Underwriting Agreement dated July 26, 2016
+3.1 |  | Certificate of Designations of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G, dated July 28, 2016
+4.1 |  | Deposit Agreement, dated July 29, 2016
+5.1 |  | Opinion of Gibson, Dunn & Crutcher LLP
+23.1 |  | Consent of Gibson, Dunn & Crutcher LLP (included in Exhibit 5.1)
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Dated: July 29, 2016 |  |  |  |  |  |
+ |  |  |  | By: |  | /s/ John G. Finneran Jr.
+ |  |  |  | Name: |  | John G. Finneran, Jr.
+ |  |  |  | Title: |  | General Counsel and Corporate Secretary
+[/TABLE]

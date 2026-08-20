@@ -1,0 +1,113 @@
+false 0001393612 --12-31 0001393612 2020-06-22 2020-06-22
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported): June 22, 2020
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File No. 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation or Organization) |  | (I.R.S. Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+(Address of Principal Executive Offices, including zip code)
+[/TABLE]
+
+Registrant’s telephone number, including area code:
+
+(224) 405-0900
+
+(Former name, former address and former fiscal year, if changed since last report)
+
+(Not applicable)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 3.03. | Material Modification to Rights of Security Holders.
+
+On June 22, 2020, Discover Financial Services (the “Company”) issued and sold 500,000 depositary shares (“Depositary Shares”), each representing a 1/100th ownership interest in a share of 6.125% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series D, $0.01 par value (the “Series D Preferred Stock”), with a liquidation preference of $100,000 per Share (equivalent to $1,000 per depositary share). The terms of the Depositary Shares are set forth in the Deposit Agreement, dated June 22, 2020, among the Company, Computershare Inc., Computershare Trust Company, N.A., and the holders from time to time of the Depositary Receipts issued thereunder (the “Deposit Agreement”) and the form of Depositary Receipt attached thereto as Exhibit A. The Company filed a Certificate of Designations (the “Certificate of Designations”) with the Secretary of State of the State of Delaware, establishing the voting rights, powers, preferences and privileges, and the relative, participating, optional or other rights, and the qualifications, limitations or restrictions thereof, of the Series D Preferred Stock on June 22, 2020. Holders of the Depositary Shares will be entitled to all proportional rights and preferences of the Series D Preferred Stock (including dividend, voting, redemption and liquidation rights).
+
+Under the terms of the Series D Preferred Stock, the ability of the Company to pay dividends on, make distributions with respect to, or to repurchase, redeem or acquire its common stock or any preferred stock ranking on parity with or junior to the Series D Preferred Stock, is subject to restrictions in the event that the Company does not declare and either pay or set aside a sum sufficient for payment of dividends on the Series D Preferred Stock for the immediately preceding dividend period.
+
+The description of the terms of the Series D Preferred Stock is qualified in its entirety by reference to the Certificate of Designations, which is included as Exhibit 3.1 to this Current Report on Form 8–K and is incorporated by reference herein.
+
+The description of the terms of the Depositary Shares is qualified in its entirety by reference to the Deposit Agreement and the form of Depositary Receipt attached thereto, which are included as Exhibit 4.1 to this Current Report on Form 8-K and are incorporated by reference herein.
+
+Item 5.03 | Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+
+The Certificate of Designations became effective upon filing with the Secretary of State of the State of Delaware and it amends the Company’s Amended and Restated Certificate of Incorporation. The terms of the Series D Preferred Stock are more fully described in Item 3.03 of this Current Report on Form 8-K and the Certificate of Designations which is included as Exhibit 3.1 to this Current Report on Form 8–K, both of which are incorporated by reference herein.
+
+Item 8.01 | Other Events
+
+On June 17, 2020, the Company entered into an Underwriting Agreement (the “Underwriting Agreement”) with BofA Securities, Inc., Citigroup Global Markets Inc., Deutsche Bank Securities Inc., RBC Capital Markets, LLC and Wells Fargo Securities, LLC, as the representatives of the several underwriters named therein (collectively, the “Underwriters”), pursuant to which the Company agreed to sell to the Underwriters 500,000 Depositary Shares, each representing a 1/100th ownership interest in a share of Series D Preferred Stock.
+
+The Underwriting Agreement contains customary representations, warranties and agreements of the Company, conditions to closing, indemnification rights and obligations of the parties, and termination provisions. Under the terms of the Underwriting Agreement, the Company agreed to indemnify the Underwriters against certain specified types of liabilities, including liabilities under the Securities Act of 1933, as amended, and to contribute to payments the Underwriters may be required to make in respect of these liabilities.
+
+The net proceeds of the offering of the 500,000 Depositary Shares were approximately $493,370,000, after deducting underwriting commissions and estimated offering expenses. The offering was made pursuant to the prospectus supplement dated June 17, 2020 and the accompanying prospectus dated June 22, 2018, filed with the Securities and Exchange Commission pursuant to the Company’s effective registration statement on Form S-3ASR (File No. 333-225830) (the “Registration Statement”). The following documents are being filed with this Current Report on Form 8-K and are incorporated by reference into the Registration Statement: (a) the Underwriting Agreement, (b) the Certificate of Designations, (c) the Deposit Agreement and the Form of Depositary Receipt attached as Exhibit A thereto and (d) a validity opinion with respect to the Depositary Shares and the Series D Preferred Stock.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+[TABLE]
+Exhibit No. |  |  | Description of Exhibit
+ | 1.1 |  |  | Underwriting Agreement dated June 17, 2020
+ | 3.1 |  |  | Certificate of Designations of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series D
+ | 4.1 |  |  | Deposit Agreement, dated June 22, 2020
+ | 4.2 |  |  | Form of certificate representing the Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series D
+ | 5.1 |  |  | Opinion of Sidley Austin LLP
+ | 23.1 |  |  | Consent of Opinion of Sidley Austin LLP (included in Exhibit 5.1)
+ | 104 |  |  | Cover Page Interactive Data File – the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  | DISCOVER FINANCIAL SERVICES
+Dated: June 22, 2020 |  |  |  |
+ |  | By: |  | /s/ D. Christopher Greene
+ |  | Name: |  | D. Christopher Greene
+ |  | Title: |  | Vice President, Secretary and Deputy General Counsel
+[/TABLE]

@@ -1,0 +1,28 @@
+doc_id: edgar-cof/10-Q_2016-08-01_0000927628-16-000200
+source: edgar-cof
+source_tier: A
+doc_type: 10-Q
+title: 10-Q filed 2016-08-01 (period 2016-06-30)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762816000200/cof-06302016x10q.htm
+retrieved_at: '2026-08-20T02:33:15Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-06302016x10q.htm
+  role: raw
+  sha256: c477eff0d7e4391b00a0dbe00af90a61fa16f377a4637b1de6f4aa03d0fc236e
+  size: 9373338
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: fe2b2841aab8ac24112ea6e98f008128c4358b86423f7102790af264bb94b77b
+  size: 539350
+  stored: corpus
+filed_date: '2016-08-01'
+period_end: '2016-06-30'
+extraction_method: lxml
+meta:
+  accession: 0000927628-16-000200
+  form: 10-Q
+  items: ''

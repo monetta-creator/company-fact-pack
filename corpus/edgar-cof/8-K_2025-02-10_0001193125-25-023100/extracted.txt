@@ -1,0 +1,313 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2025-02-10 2025-02-10 0000927628 us-gaap:CommonStockMember 2025-02-10 2025-02-10 0000927628 cof:SeriesIPreferredStockMember 2025-02-10 2025-02-10 0000927628 cof:SeriesJPreferredStockMember 2025-02-10 2025-02-10 0000927628 cof:SeriesKPreferredStockMember 2025-02-10 2025-02-10 0000927628 cof:SeriesLPreferredStockMember 2025-02-10 2025-02-10 0000927628 cof:SeriesNPreferredStockMember 2025-02-10 2025-02-10 0000927628 us-gaap:SeniorNotesMember 2025-02-10 2025-02-10
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+February 10, 2025
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , |  |
+McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☒ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series J |  | COF PRJ |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K |  | COF PRK |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L |  | COF PRL |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series N |  | COF PRN |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+As previously disclosed, Capital One Financial Corporation, a Delaware corporation (“Capital One” or the “Company”) entered into an Agreement and Plan of Merger (the “Merger Agreement”), dated as of February 19, 2024, with Discover Financial Services, a Delaware corporation (“Discover”) and Vega Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of the Company (“Merger Sub”). The Merger Agreement provides that, upon the terms and subject to the conditions set forth in the Merger Agreement, (a) Merger Sub will merge with and into Discover (the “Merger”), with Discover continuing as the surviving corporation in the Merger; (b) immediately following the Merger, Discover, as the surviving entity, will merge with and into Capital One (the “Second Step Merger” and together with the Merger, the “Mergers”), with Capital One continuing as the surviving corporation in the Second Step Merger; and (c) immediately following the Second Step Merger, Discover Bank, a wholly-owned Delaware-chartered bank subsidiary of Discover, will merge with and into Capital One’s wholly owned national bank subsidiary, Capital One, National Association (the “Bank Merger” and together with the Merger and the Second Step Merger, the “Transaction”), with Capital One, National Association continuing as the surviving entity in the Bank Merger. The Merger Agreement was unanimously approved by the board of directors of each of Capital One and Discover.
+
+In connection with the proposed Mergers, Capital One filed with the Securities and Exchange Commission (the “SEC”) a registration statement on Form S-4 containing a joint proxy statement/prospectus, as amended, and filed a definitive joint proxy statement/prospectus with the SEC dated January 6, 2025 (the “joint proxy statement/prospectus”), which Capital One and Discover first mailed to their respective stockholders on or about January 6, 2025.
+
+Each of Capital One and Discover will hold a special meeting of stockholders on February 18, 2025 to consider certain proposals related to the Merger Agreement as further described in the joint proxy statement/prospectus (the “Special Meetings”). Pursuant to the Merger Agreement, subject to the receipt of the requisite stockholder approvals at the Special Meetings, and as a result of the closing conditions related to the requisite regulatory approvals not yet having been satisfied, the outside date under the Merger Agreement will be automatically extended to May 19, 2025.
+
+Litigation Related to the Mergers
+
+Following the announcement of the Merger Agreement, as of the date of this Current Report on Form 8-K, three lawsuits challenging the Mergers have been filed (each, a “Lawsuit” and, collectively, the “Lawsuits”). The first Lawsuit, captioned Siegel v. Duncan et al. (No. 2025CH00000020), was filed in Illinois Circuit Court on January 27, 2025. The second Lawsuit, Stone v. Discover Financial Services et al. (No. 650327/2025) was filed in New York Superior Court on January 29, 2025. The third Lawsuit, Collins v. Discover Financial Services et al. (No. 650550/2025) was filed in New York Superior Court on January 29, 2025. In addition, Capital One and Discover have received demand letters from counsel representing purported stockholders of Capital One or Discover, respectively (the “Demand Letters” and, together with the Lawsuits, the “Matters”). The Matters each allege that, among other things, the joint proxy statement/prospectus contains certain disclosure deficiencies and/or incomplete information regarding the Mergers.
+
+Capital One and Discover believe that the claims asserted in the Matters are without merit and supplemental disclosures are not required or necessary under applicable laws. However, in order to avoid the risk that the Matters delay or otherwise adversely affect the Mergers, and to minimize the costs, risks and uncertainties inherent in litigation, and without admitting any liability or wrongdoing, Capital One and Discover are supplementing the joint proxy statement/prospectus as described in this Current Report on Form 8-K. Nothing in this Current Report on Form 8-K shall be deemed an admission of the legal necessity or materiality under applicable laws of any of the disclosures set forth herein. To the contrary, Capital One and Discover specifically deny all allegations in the Matters that any additional disclosure was or is required.
+
+Supplemental Disclosures to Joint Proxy Statement/Prospectus
+
+The additional disclosures (the “supplemental disclosures”) in this Current Report on Form 8-K supplement the disclosures contained in the joint proxy statement/prospectus and should be read in conjunction with the disclosures contained in the joint proxy statement/prospectus, which should be read in its entirety. To the extent that
+
+1
+
+information set forth in the supplemental disclosures differs from or updates information contained in the joint proxy statement/prospectus, the information in this Current Report on Form 8-K shall supersede or supplement the information contained in the joint proxy statement/prospectus. All page references are to the joint proxy statement/prospectus and terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the joint proxy statement/prospectus. For clarity, new text within restated paragraphs and tables from the definitive proxy statement is underlined, while deleted text is stricken-through.
+
+ | 1. | The disclosure under the heading “The Mergers—Background of the Mergers” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the fifth full paragraph Page 61 as follows:
+
+The Discover board of directors met on September 22, 2023, and at that meeting, Mr. Maheras reported that he had received certain inquiries and it was possible that he would receive additional inquiries regarding potential strategic transactions. Mr. Maheras, referring to the discussions with Capital One, informed the directors of his view that one such inquiry likely merited further consideration, whereas the other inquiries had thus far largely been speculative inquiries from investment bankers. For the sake of efficiency given the circumstances, the board determined to assemble a subset of independent directors to take the lead on evaluating actionable inquiries and pursuing discussions in advance of further consideration of such inquiries by the board. Following this meeting, this subset of independent directors was identified and it included Mr. Maheras, Jeffrey Aronin, Gregory Case, Michael Shepherd and Mark Thierer (such directors collectively, the “Discover director subgroup”). On October 3, 2023, the Discover director subgroup met as a group for the first time, and Mr. Maheras updated the Discover director subgroup on the inquiries received and discussions held to date, including those with Capital One.
+
+ | 2. | The disclosure under the heading “The Mergers—Background of the Mergers” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the second full paragraph on Page 65 as follows:
+
+Throughout the period between February 13, 2024 and February 18, 2024, the parties and their advisors continued their due diligence meetings and negotiation of the terms of the potential transaction. Representatives of Wachtell Lipton and Sullivan & Cromwell exchanged numerous drafts of the merger agreement reflecting various comments from the parties and these meetings and discussions. Wachtell Lipton’s February 15, 2024 draft of the merger agreement proposed that the amount of the termination fee, payable if the merger agreement is terminated in certain circumstances involving alternative acquisition proposals or changes in the Capital One board recommendation or the Discover board recommendation, equal 4.0% of transaction equity value. Sullivan & Cromwell’s February 16, 2024 draft of the merger agreement proposed that the termination fee amount equal 3.9% of transaction equity value. The parties subsequently agreed to a termination fee amount equal to $1.38 billion, equivalent to approximately 3.9% of $35.3 billion, the aggregate value of the merger consideration based on the closing price of Capital One common stock on the NYSE on February 16, 2024, the last trading day before the public announcement of the mergers. The parties also engaged in negotiations regarding aspects of the regulatory efforts covenant in the merger agreement, including the extent of each party’s obligations to notify the other in the event of regulatory communications or to contest proceedings challenging the merger agreement or the transactions contemplated thereby. Discover accepted Capital One’s proposal that the merger agreement provide for a termination date 12 months following the execution of the merger agreement, to be automatically extended an additional three months in certain circumstances for purposes of obtaining the requisite regulatory approvals. The parties engaged in detailed discussions with respect to the merger agreement’s interim operating covenants given the contemplated period between the signing and closing of the potential transaction, with these discussions focusing on Discover’s ability to undertake additional borrowings, enter into certain types of material agreements and settle litigation and the planned disposition of Discover’s student loan portfolio, as well as Discover employment and compensation matters. With respect to compensation matters, the parties ultimately agreed that Discover would be permitted to take certain actions during the period between the signing and closing of the potential transaction, including permitting Discover to establish a cash retention program, provide impacted individuals with Section 280G excise tax gross-up protection (subject to an aggregate limit of $25 million) and enter into “good reason” acknowledgement letters with certain of its executive officers, which permitted compensation actions are described in further detail in the section entitled “ The Mergers—Interests of Discover’s Directors and Executive Officers in the Mergers ” beginning on page 96. During these negotiations through the execution of the merger agreement, Capital One
+
+2
+
+did not enter into any individualized compensation or post-closing employment arrangements with any of Discover’s executive officers. The parties also discussed during this period the number of current Discover directors that would join the Capital One board of directors upon the closing of the potential transaction, with proposals ranging from between two and four Discover directors. On February 19, 2024, it was agreed that three mutually agreeable Discover directors would join the Capital One board of directors upon the closing of the potential transaction.
+
+ | 3. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Summary of Centerview Financial Analysis—Selected Public Comparable Companies Analysis” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the tables set forth on Page 76 as follows:
+
+[TABLE]
+Discover Comparables |  | 2024E P/E |  | P/TBV |  | 2024E ROATCE |  | Market Cap ($ in billions)
+Ally Financial Inc. |  | 11.0x |  | 1.02x |  | 9.5% |  | 11.0
+American Express Company |  | 16.5x |  | 7.10x |  | 37.4% |  | 156.4
+Capital One Financial Corporation |  | 9.9x |  | 1.38x |  | 13.5% |  | 53.8
+Citizens Financial Group, Inc. |  | 9.9x |  | 1.02x |  | 10.2% |  | 14.8
+Fifth Third Bancorp |  | 10.6x |  | 1.92x |  | 17.2% |  | 23.8
+PNC Financial Service Group, Inc. |  | 11.9x |  | 1.75x |  | 14.3% |  | 60.3
+Synchrony Financial |  | 7.1x |  | 1.43x |  | 18.8% |  | 16.6
+Truist Financial Corporation |  | 10.5x |  | 1.65x |  | 15.8% |  | 48.8
+U.S. Bancorp |  | 10.5x |  | 1.86x |  | 17.3% |  | 64.9
+[/TABLE]
+
+[TABLE]
+Capital One Comparables |  | 2024E P/E |  | P/TBV |  | 2024E ROATCE |  | Market Cap ($ in billions)
+Ally Financial Inc. |  | 11.0x |  | 1.02x |  | 9.5% |  | 11.0
+American Express Company |  | 16.5x |  | 7.10x |  | 37.4% |  | 156.4
+Citizens Financial Group, Inc. |  | 9.9x |  | 1.02x |  | 10.2% |  | 14.8
+Discover Financial Services |  | 9.7x |  | 2.04x |  | 18.8% |  | 27.9
+Fifth Third Bancorp |  | 10.6x |  | 1.92x |  | 17.2% |  | 23.8
+PNC Financial Service Group, Inc. |  | 11.9x |  | 1.75x |  | 14.3% |  | 60.3
+Synchrony Financial |  | 7.1x |  | 1.43x |  | 18.8% |  | 16.6
+Truist Financial Corporation |  | 10.5x |  | 1.65x |  | 15.8% |  | 48.8
+U.S. Bancorp |  | 10.5x |  | 1.86x |  | 17.3% |  | 64.9
+[/TABLE]
+
+ | 4. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Summary of Centerview Financial Analysis—Discover Stand-alone Dividend Discount Analysis” is hereby supplemented by amending and restating the fourth paragraph on Page 78 as follows:
+
+For its analysis, Centerview used discount rates ranging from 12.75% to 13.75%, reflecting estimates of the cost of equity for Discover on a stand-alone basis, which were selected by taking into account the capital asset pricing model implied cost of capital calculations and based on considerations that Centerview deemed relevant in its professional judgment and experience using the capital asset pricing model and based on considerations that Centerview deemed relevant in its professional judgment and taking into account certain metrics including observed betas of selected companies described in the section entitled “—Selected Public Comparable Companies Analysis.” Using these discount rates , Centerview derived a range of illustrative equity values for Discover on a stand-alone basis by discounting to present value as of December 31, 2023, (a) the implied distributions to Discover stockholders over the period beginning January 1, 2024 through December 31, 2030 calculated based on the Discover Forecasts and the Discover Internal Data, which assumed that Discover would make distributions of capital in excess of the amount necessary to achieve a 12.0% CET1 ratio target, (b) a range of illustrative terminal values for Discover as of December 31, 2030, calculated by applying illustrative price to earnings per share multiples ranging from 8.5x to 10.5x to the estimate of Discover’s next twelve (12)-month net income on a stand-alone basis as of December 31, 2030 (calculated by Centerview based upon the terminal year (2030) net income reflected in the Discover Forecasts and Discover Internal Data) and (c) adding on a per share basis the implied net present value of the disposition of the student loan business of Discover of approximately $7.25 per share based on the Discover Forecasts and the Discover Internal Data. To derive illustrative terminal values for Discover, Centerview applied illustrative price to earnings per share multiples based on its professional judgment and experience, taking into account the multiples it calculated as described above in the section entitled “— Selected Public Comparable Companies Analysis .”
+
+3
+
+ | 5. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Summary of Centerview Financial Analysis—Capital One Stand-alone Dividend Discount Analysis” is hereby supplemented by amending and restating the seventh paragraph beginning on Page 78 as follows:
+
+For its analysis, Centerview used discount rates ranging from 12.25% to 13.25%, reflecting estimates of the cost of equity for Capital One on a stand-alone basis, which were selected by taking into account the capital asset pricing model implied cost of capital calculations and based on considerations that Centerview deemed relevant in its professional judgment and experience using the capital asset pricing model and based on considerations that Centerview deemed relevant in its professional judgment and taking into account certain metrics including observed betas of selected companies described in the section entitled “—Selected Public Comparable Companies Analysis.” Using these discount rates , Centerview derived a range of illustrative equity values for Capital One on a stand-alone basis by discounting to present value as of December 31, 2023, (i) the implied distributions to Capital One stockholders over the period beginning January 1, 2024 through December 31, 2030 calculated based on the Capital One Internal Data (including the Capital One Forecasts), which assumed that Capital One would make distributions of capital in excess of the amount necessary to achieve a 13.0% CET1 ratio target, and (ii) a range of illustrative terminal values for Capital One as of December 31, 2030, calculated by applying illustrative price to earnings per share multiples ranging from 8.5x to 10.5x to the estimate of Capital One’s next twelve (12)-month net income on a stand-alone basis as of December 31, 2030 (calculated by Centerview based upon the terminal year (2030) net income reflected in the Capital One Internal Data (including the Capital One Forecasts)). To derive illustrative terminal values for Capital One, Centerview applied illustrative price to earnings per share multiples based on its professional judgment and experience, taking into account the multiples it calculated as described above in the section entitled “— Selected Public Comparable Companies Analysis .”
+
+ | 6. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Other Factors—Discover Analyst Price Target Analysis” is hereby supplemented by amending and restating the second bullet point on Page 80 as follows:
+
+Discover Analyst Price Target Analysis . Centerview reviewed analyst share price targets for Discover common stock in twenty-one recently published, publicly available research analysts’ reports, with share price targets ranging from $104.00 to $137.00.
+
+ | 7. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Other Factors—Capital One Analyst Price Target Analysis” is hereby supplemented by amending and restating the fourth bullet point on Page 80 as follows:
+
+Capital One Analyst Price Target Analysis . Centerview reviewed analyst share price targets for Capital One common stock in twenty-one recently published, publicly available research analysts’ reports, with share price targets ranging from $110.00 to $170.00.
+
+ | 8. | The disclosure under the heading “The Mergers—Opinion of Capital One’s Financial Advisor—Other Factors—Premiums Paid Analysis” is hereby supplemented by amending and restating the fifth bullet point on Page 80 as follows:
+
+Premiums Paid Analysis . Centerview performed an analysis of premiums paid in seventeen selected transactions with transactions valued greater than $5 billion. Centerview calculated, for each such transaction, the percentage premium represented by the transaction price per share to the target company’s market price per share on the trading day prior to the first public knowledge of the possibility of the Transaction. The 25 th and 75 th percentile premia observed were 13% and 30% respectively. Based on the analysis above and other considerations that Centerview deemed relevant in its professional judgment, Centerview applied an illustrative range of 10% to 35% to Discover’s closing stock price on February 16, 2024 of $110.49, which resulted in an implied per share equity value range for the shares of Discover common stock of approximately $121.50 to $149.25 per share, rounded to the nearest $0.25.
+
+4
+
+ | 9. | The disclosure under the heading “The Mergers—Opinion of Discover’s Financial Advisor—Selected Comparable Company Analysis – Discover” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the table set forth on Page 85 as follows:
+
+[TABLE]
+ |  | Discover Peers (Credit Card and Consumer- Focused Banks) |  | Discover Peers (Credit Card and Consumer- Focused Banks) |  | Discover Peers (Credit Card and Consumer- Focused Banks) |  | Discover Peers (Regional Banks) |  | Discover Peers (Regional Banks) |  | Discover Peers (Regional Banks)
+ |  | Low |  | High |  | Median |  | Low |  | High |  | Median
+P / 2024E EPS |  | 7.1x |  | 16.5x |  | 10.4x |  | 8.6x |  | 11.9x |  | 10.0x
+P / TBVPS |  | 1.08x |  | 7.60x |  | 1.40x |  | 1.02x |  | 1.92x |  | 1.40x
+[/TABLE]
+
+ | 10. | The disclosure under the heading “The Mergers—Opinion of Discover’s Financial Advisor—Selected Comparable Company Analysis – Capital One” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the second table set forth on Page 86 as follows:
+
+[TABLE]
+ |  | Capital One Peers (Credit Card and Consumer- Focused Banks) |  | Capital One Peers (Credit Card and Consumer- Focused Banks) |  | Capital One Peers (Credit Card and Consumer- Focused Banks) |  | Capital One Peers (Super- Regional and Regional Banks) |  | Capital One Peers (Super- Regional and Regional Banks) |  | Capital One Peers (Super- Regional and Regional Banks)
+ |  | Low |  | High |  | Median |  | Low |  | High |  | Median
+P / 2024E EPS |  | 7.1x |  | 16.5x |  | 10.6x |  | 8.6x |  | 12.0x |  | 10.3x
+P / TBVPS |  | 1.08x |  | 7.60x |  | 1.74x |  | 1.02x |  | 1.92x |  | 1.65x
+[/TABLE]
+
+ | 11. | The disclosure under the heading “The Mergers—Opinion of Discover’s Financial Advisor—Dividend Discount Analysis – Discover” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the fourth full paragraph beginning on Page 87 as follows:
+
+To calculate the estimated present value of Discover common stock using the dividend discount method, PJT Partners added (i) Discover’s projected dividendable cash flows for the calendar years 2024 through 2027 based on the Discover Projections to (ii) ranges of “terminal values” of Discover as of December 31, 2027, and discounted such amounts to their present values using a range of selected discount rates , which discount rates were selected based on PJT Partners’ professional judgment and expertise . The projected dividendable cash flows were calculated as the excess capital available for common stockholder distribution based on Discover’s projected risk-weighted assets, target CET1 ratio and net income applicable to common stockholders from the Discover Projections. The residual value of the total divendable cash flows at the end of the projection period, or “terminal value,” was estimated by applying the exit multiple range of 8.5x to 10.5x to Discover’s calendar year 2028E net income based on the Discover Projections. The range of discount rates of 11.0% to 13.0% was selected based on PJT Partners’ analysis of the cost of equity of Discover, which was based on, among other things, a capital asset pricing model implied cost of equity calculation. PJT Partners then calculated a range of implied equity values per share of Discover common stock by dividing the sum of the amount derived from (i) and (ii) above by the fully diluted number of shares of Discover common stock of 252.7 million shares as of February 18, 2024 , which number of shares was provided by, and used by PJT Partners at the direction of, the management of Discover, and approved for PJT Partners’ use in connection with its financial analyses and opinion by the board of directors of Discover . The following summarizes the results of these calculations:
+
+5
+
+ | 12. | The disclosure under the heading “The Mergers—Opinion of Discover’s Financial Advisor—Dividend Discount Analysis – Capital One” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the second full paragraph on Page 88 as follows:
+
+To calculate the estimated present value of Capital One common stock using the dividend discount method, PJT Partners added (a) Capital One’s projected dividendable cash flows for the calendar years 2024 through 2027 based on the Capital One Projections to (b) ranges of “terminal values” of Capital One as of December 31, 2027, and discounted such amounts to their present values using a range of selected discount rates , which discount rates were selected based on PJT Partners’ professional judgment and expertise . The projected dividendable cash flows were calculated as the excess capital available for common stockholder distribution based on Capital One’s projected risk-weighted assets, target CET1 ratio and net income applicable to common stockholders from the Capital One Projections. The residual value of the total divendable cash flows at the end of the projection period, or “terminal value,” was estimated by applying the exit multiple range of 8.0x to 10.0x to Capital One’s calendar year 2028E net income based on the Capital One Projections. The range of discount rates of 11.0% to 13.0% was selected based on PJT Partners’ analysis of the cost of equity of Capital One, which was based on, among other things, a capital asset pricing model implied cost of equity calculation. PJT Partners then calculated a range of implied equity values per share of Capital One common stock by dividing the sum of the amount derived from (a) and (b) above by the fully diluted number of shares of Capital One common stock of 392.4 million shares as of February 18, 2024 , which number of shares was provided by, and used by PJT Partners at the direction of, the management of Discover, and approved for PJT Partners’ use in connection with its financial analyses and opinion by the board of directors of Discover . The following summarizes the results of these calculations:
+
+ | 13. | The disclosure under the heading “The Mergers—Certain Unaudited Prospective Financial Information—Capital One Prospective Financial Information—Capital One Prospective Financial Information Used by Centerview” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the first two paragraphs and the table set forth on Page 92 as follows:
+
+The following table presents the forecasts of Capital One’s 2024 through 2030 net income after taxes (“NIAT”) available to common stockholders , and risk-weighted assets and CET1 ratio that were used by Centerview at the direction of Capital One management in the financial analyses performed in connection with Centerview’s opinion:
+
+[TABLE]
+ |  | Capital One Standalone Prospective Financial Information |
+ |  | 2024E |  |  | 2025E |  |  | 2026E |  |  | 2027E |  |  | 2028E |  |  | 2029E |  |  | 2030E |
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+NIAT to Common ($ billions) |  |  | $ 5.3 |  |  |  | $ 6.1 |  |  |  | $ 6.2 |  |  |  | $ 6.4 |  |  |  | $ 6.5 |  |  |  | $ 6.7 |  |  |  | $ 6.9 |
+Capital |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Risk-Weighted Assets ($ billions) |  |  | $382.0 |  |  |  | $395.3 |  |  |  | $409.1 |  |  |  | $423.4 |  |  |  | $438.3 |  |  |  | $453.7 |  |  |  | $469.8 |
+CET1 Ratio |  |  | 13.4% |  |  |  | 13.8% |  |  |  | 13.0% |  |  |  | 13.0% |  |  |  | 13.0% |  |  |  | 13.0% |  |  |  | 13.0% |
+[/TABLE]
+
+The above forecasts of Capital One’s 2024 and 2025 NIAT available to common stockholders and risk-weighted assets represent consensus Wall Street research estimates of those measures (the “Capital One street estimates”). The above forecasts of Capital One’s 2026 through 2030 NIAT available to common stockholders , and risk-weighted assets and CET1 ratio represent forecasts extrapolated from the Capital One street estimates.
+
+ | 14. | The disclosure under the heading “The Mergers—Certain Unaudited Prospective Financial Information—Capital One Prospective Financial Information—Capital One Prospective Financial Information Used by PJT Partners” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the first three paragraphs and the first table set forth on Page 93 as follows:
+
+The following table presents the forecasts of Capital One’s 2024 through 2028 NIAT available to common stockholders, total loans, risk-weighted assets , and total capital return and CET1 ratio that were used by PJT Partners at the direction of Discover’s management, and approved for PJT Partners’ use by the Discover board of directors, in the financial analyses performed in connection with PJT Partners’ opinion as described in this joint proxy statement/prospectus under “—Opinion of Discover’s Financial Advisor”:
+
+6
+
+[TABLE]
+ |  | Capital One Standalone Prospective Financial Information Used by PJT Partners |
+ |  | 2024E |  |  | 2025E |  |  | 2026E |  |  | 2027E |  |  | 2028E |
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+NIAT to Common ($ billions) |  | $ | 5.1 |  |  | $ | 5.7 |  |  | $ | 6.2 |  |  | $ | 6.6 |  |  | $ | 7.0 |
+Ending Balance Sheet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Total Loans ($ billions) |  | $ | 335.0 |  |  | $ | 351.7 |  |  | $ | 369.3 |  |  | $ | 387.8 |  |  | $ | 407.1 |
+Capital |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Risk-Weighted Assets ($ billions) |  | $ | 382.5 |  |  | $ | 401.6 |  |  | $ | 421.7 |  |  | $ | 442.8 |  |  | $ | 464.9 |
+Total Capital Return ($ billions) |  | $ | 2.2 |  |  | $ | 3.9 |  |  | $ | 4.2 |  |  | $ | 4.5 |  |  | $ | 4.8 |
+CET1 Ratio |  |  | 13.2 | % |  |  | 13.0 | % |  |  | 12.9 | % |  |  | 12.7 | % |  |  | 12.6 | %
+[/TABLE]
+
+The above forecasts of Capital One’s 2024 through 2028 NIAT available to common stockholders, total loans, risk-weighted assets , and total capital return and CET1 ratio represent Discover’s management’s estimates of those measures.
+
+The prospective financial information set forth above with respect to 2024 reflects Discover’s management’s estimates based on Capital One’s management’s estimates that had been provided to Discover’s management with Risk-Weighted Asset growth assumed at the same growth rate as Total Loans. For purposes of extrapolating Capital One’s financial results after 2024, Discover’s management made certain extrapolation assumptions based on historical performance and long-term expectations. Growth in NIAT to Common for 2025 was assumed to be 13% and then 7% thereafter. Total Loans and Risk-Weighted Assets assumed annual growth of 5% for 2025 and thereafter. Total Capital Return assumes a payout ratio of 68% for all years and reflect a target CET1 ratio of 11.0% .
+
+ | 15. | The disclosure under the heading “The Mergers—Certain Unaudited Prospective Financial Information—Discover Prospective Financial Information—Discover Prospective Financial Information Used by Centerview” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the fourth and fifth paragraphs and the second table set forth on Page 93 as follows:
+
+The following table presents the forecasts of Discover’s 2024 through 2030 NIAT available to common stockholders , and risk-weighted assets and CET1 ratio that were used by Centerview at the direction of Capital One management in the financial analyses performed in connection with Centerview’s opinion:
+
+[TABLE]
+ |  | Discover Standalone Prospective Financial Information Used by Centerview |
+ |  | 2024E |  |  | 2025E |  |  | 2026E |  |  | 2027E |  |  | 2028E |  |  | 2029E |  |  | 2030E |
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+NIAT to Common ($ billions) |  |  | $ 3.6 |  |  |  | $ 3.0 |  |  |  | $ 3.3 |  |  |  | $ 3.5 |  |  |  | $ 3.8 |  |  |  | $ 4.3 |  |  |  | $ 4.4 |
+Capital |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Risk-Weighted Assets ($ billions) |  |  | $120.9 |  |  |  | $124.5 |  |  |  | $128.3 |  |  |  | $134.3 |  |  |  | $140.6 |  |  |  | $147.3 |  |  |  | $154.2 |
+CET1 Ratio |  |  | 12.0% |  |  |  | 12.0% |  |  |  | 12.0% |  |  |  | 12.0% |  |  |  | 12.0% |  |  |  | 12.0% |  |  |  | 12.0% |
+[/TABLE]
+
+ | (1) | 2024E NIAT to Common includes one-time items from private student loan portfolio exit.
+
+The above forecasts of Discover’s 2024 and 2025 NIAT available to common stockholders and risk-weighted assets represent consensus Wall Street research estimates of those measures, as adjusted at to reflect the completion, in 2024, of Discover’s previously announced disposition of its private student loan portfolio and to reflect charge-
+
+7
+
+offs in 2024 consistent with consensus Wall Street research estimates and charge-offs in 2025 consistent with those in 2024 (the “Discover adjusted street estimates”). The above forecasts of Discover’s 2026 through 2030 NIAT available to common stockholders and risk-weighted assets represent forecasts extrapolated from the Discover adjusted street estimates and reflect a target CET1 ratio of 12.0% .
+
+ | 16. | The disclosure under the heading “The Mergers—Certain Unaudited Prospective Financial Information—Discover Prospective Financial Information—Discover Prospective Financial Information Used by PJT Partners” in the joint proxy statement/prospectus is hereby supplemented by amending and restating the third, fourth and fifth paragraphs and the table set forth on Page 94 as follows:
+
+The following table presents the forecasts of Discover’s 2024 through 2028 NIAT available to common stockholders, total loans, risk-weighted assets , and total capital returned and CET1 ratio that were used by PJT Partners at the direction of Discover’s management, and approved for PJT Partners’ use by the Discover board of directors, in the financial analyses performed in connection with PJT Partners’ opinion as described in the joint proxy statement/prospectus under “— Opinion of Discover’s Financial Advisor ”:
+
+[TABLE]
+ |  | Discover Standalone Prospective Financial Information Used by PJT Partners (1) |
+ |  | 2024E |  |  | 2025E |  |  | 2026E |  |  | 2027E |  |  | 2028E |
+Income Statement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+NIAT to Common ($ billions) |  | $ | 3.0 |  |  | $ | 3.3 |  |  | $ | 3.5 |  |  | $ | 3.7 |  |  | $ | 4.0 |
+Ending Balance Sheet |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Total Loans ($ billions) |  | $ | 128.0 |  |  | $ | 134.5 |  |  | $ | 144.0 |  |  | $ | 154.0 |  |  | $ | 164.8 |
+Capital |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Risk-Weighted Assets ($ billions) |  | $ | 130.5 |  |  | $ | 137.1 |  |  | $ | 146.7 |  |  | $ | 157.0 |  |  | $ | 168.0 |
+Total Capital Return ($ billions) |  | $ | 2.0 |  |  | $ | 2.6 |  |  | $ | 2.6 |  |  | $ | 2.8 |  |  | $ | 3.0 |
+CET1 Ratio |  |  | 12.1 | % |  |  | 12.0 | % |  |  | 11.8 | % |  |  | 11.6 | % |  |  | 11.4 | %
+[/TABLE]
+
+ | (1) | The Discover standalone prospective financial information used by PJT Partners do not reflect the sale of the student loan portfolio. The Discover board of directors and Discover’s management chose to exclude the proposed sale of the student loan portfolio from the Discover standalone prospective financial information used by PJT Partners as the sale was uncertain at the time of the evaluation of the potential transaction with Capital One and there was no assurance that such sale would materialize (or if it materialized on what terms the student loan portfolio would be sold and what assets would be included).
+
+The above forecasts of Discover’s 2024 through 2028 NIAT available to common stockholders, total loans, risk-weighted assets , and total capital return and CET1 ratio represent Discover’s management’s estimates of those measures.
+
+The prospective financial information set forth above with respect to 2024 reflects Discover’s management’s estimates of those measures and for 2025 includes Discover’s management’s estimates of those measures combined with certain Wall Street research estimates. For purposes of extrapolating Discover’s financial results after 2025, Discover’s management made certain extrapolation assumptions based on historical performance and long-term expectations. Such extrapolation assumptions included assumptions of 7% annual growth for NIAT to Common, Total Loans and Risk-Weighted Assets. Total Capital Return assumes a payout ratio of 75% and reflect a target CET1 ratio of 10.5% .
+
+Forward Looking Statements
+
+Information in this communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include, but are not limited to, statements about the benefits of the Transaction between Capital One and Discover, the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+8
+
+All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital One or Discover to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, (1) the risk that the cost savings and any revenue synergies and other anticipated benefits from the Mergers may not be fully realized or may take longer than anticipated to be realized, (2) disruption to Capital One’s business and to Discover’s business as a result of the announcement and pendency of the Mergers, (3) the risk that the integration of Discover’s business and operations into Capital One’s, including into Capital One’s compliance management program, will be materially delayed or will be more costly or difficult than expected, or that Capital One is otherwise unable to successfully integrate Discover’s business into Capital One’s, including as a result of unexpected factors or events, (4) the possibility that the requisite regulatory, stockholder or other approvals are not received or other conditions to the closing are not satisfied on a timely basis or at all, or are obtained subject to conditions that are not anticipated (and the risk that requisite regulatory approvals may result in the imposition of conditions that could adversely affect Capital One or the expected benefits of the Mergers following the closing of the Mergers), (5) the failure of the closing conditions in the Merger Agreement to be satisfied, or any unexpected delay in completing the Mergers or the occurrence of any event, change or other circumstances that could give rise to the termination of the Merger Agreement, (6) the possibility that the Mergers may be more expensive to complete than anticipated, including as a result of unexpected factors or events, (7) risks related to management and oversight of Capital One’s expanded business and operations following the Mergers due to the increased size and complexity of Capital One’s business, (8) the possibility of increased scrutiny by, and/or additional regulatory requirements of, governmental authorities as a result of the Mergers or the size, scope and complexity of Capital One’s business operations following the Mergers, (9) the outcome of any legal or regulatory proceedings that may be currently pending or later instituted against Capital One (before or after the Mergers) or against Discover, (10) the risk that expectations regarding the timing, completion and accounting and tax treatments of the Mergers are not met, (11) the risk that any announcements relating to the Mergers could have adverse effects on the market price of the common stock of either Capital One or Discover, (12) certain restrictions during the pendency of the Mergers, (13) the diversion of management’s attention from ongoing business operations and opportunities, (14) the risk that revenues following the Mergers may be lower than expected and/or the risk that certain expenses, such as the provision for credit losses, of Discover, or Capital One following the Transaction, may be greater than expected, (15) Capital One’s and Discover’s success in executing their respective business plans and strategies and managing the risks involved in the foregoing, (16) the dilution caused by Capital One’s issuance of additional shares of its capital stock in connection with the Mergers, (17) effects of the announcement, pendency or completion of the Mergers on the ability of Capital One and Discover to retain customers and retain and hire key personnel and maintain relationships with their suppliers and other business partners, and on their operating results and businesses generally, (18) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the Mergers, (19) risks related to the potential impact of general economic, political, industry and market factors on the parties or the Mergers and other factors that may affect future results of Capital One and Discover, (20) uncertainty in U.S. fiscal and monetary policy, including the interest rate policies of the Federal Reserve Board, (21) volatility and disruptions in global or national capital, currency, and credit markets, (22) the nature, extent, timing, and results of governmental actions, examinations, reviews, reforms, regulations and interpretations, including those related to the Dodd-Frank Wall Street Reform and Consumer Protection Act and the Basel III regulatory reforms, as well as those involving the OCC, the Federal Reserve Board, the FDIC, and the Consumer Financial Protection Bureau, (23) other changes in legislation, regulation, policies or administrative practices, whether by judicial, governmental or legislative action and other changes pertaining to banking, securities, taxation and financial accounting and reporting, environmental protection and insurance, and the ability to comply with such changes in a timely manner and (24) other factors that may affect the future results of Capital One and Discover.
+
+Additional factors which could affect future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K (and any amendments to those documents), in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+9
+
+Important Information About the Transaction and Where to Find It
+
+Capital One filed a registration statement on Form S-4 (No. 333-278812) with the SEC on April 18, 2024, as amended on June 14, 2024, July 26, 2024, December 23, 2024 and January 3, 2025 to register the shares of Capital One’s capital stock that will be issued to Discover stockholders in connection with the Transaction. The registration statement was declared effective on January 6, 2025, at which time Capital One filed a final prospectus and Discover filed a definitive proxy statement. Capital One and Discover commenced mailing of the joint proxy statement/prospectus to their respective stockholders on or about January 6, 2025. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE REGISTRATION STATEMENT ON FORM S-4 AND THE RELATED JOINT PROXY STATEMENT/PROSPECTUS (AND ANY OTHER AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS AND ANY OTHER RELEVANT DOCUMENTS FILED WITH THE SEC IN CONNECTION WITH THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE JOINT PROXY STATEMENT/PROSPECTUS) BECAUSE SUCH DOCUMENTS CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION REGARDING THE TRANSACTION AND RELATED MATTERS. Investors and security holders may obtain free copies of these documents and other documents filed with the SEC by Capital One or Discover through the website maintained by the SEC at http://www.sec.gov or by contacting the investor relations department of Capital One or Discover at:
+
+[TABLE]
+Capital One Financial Corporation |  | Discover Financial Services
+1680 Capital One Drive |  | 2500 Lake Cook Road
+McLean, VA 22102 |  | Riverwoods, IL 60015
+Attention: Investor Relations |  | Attention: Investor Relations
+investorrelations@capitalone.com |  | investorrelations@discover.com
+(703) 720-1000 |  | (224) 405-4555
+[/TABLE]
+
+Before making any voting or investment decision, investors and security holders of Capital One and Discover are urged to read carefully the entire registration statement and joint proxy statement/prospectus, including any amendments thereto when they become available, because they contain or will contain important information about the Transaction. Free copies of these documents may be obtained as described above.
+
+Participants in Solicitation
+
+Capital One, Discover and certain of their directors and executive officers may be deemed participants in the solicitation of proxies from the stockholders of each of Capital One and Discover in connection with the Transaction. Information regarding the directors and executive officers of Capital One and Discover and other persons who may be deemed participants in the solicitation of the stockholders of Capital One or of Discover in connection with the Transaction is included in the joint proxy statement/prospectus related to the Transaction, which was filed with the SEC on January 6, 2025. Information about the directors and executive officers of Capital One and their ownership of Capital One common stock can also be found in Capital One’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 20, 2024, and other documents subsequently filed by Capital One with the SEC. Information about the directors and executive officers of Discover and their ownership of Discover common stock can also be found in Discover’s definitive proxy statement in connection with its 2024 annual meeting of stockholders, as filed with the SEC on March 15, 2024, and other documents subsequently filed by Discover with the SEC. Additional information regarding the interests of such participants is included in the joint proxy statement/prospectus and other relevant documents regarding the Transaction filed with the SEC when they become available.
+
+10
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Date: February 10, 2025 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  |  |  | Matthew W. Cooper
+ |  |  |  |  |  | General Counsel and Corporate Secretary
+[/TABLE]
+
+11

@@ -1,0 +1,38 @@
+doc_id: edgar-cof/8-K_2023-07-20_0000927628-23-000231
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2023-07-20 (period 2023-07-20)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762823000231/cof-20230720.htm
+retrieved_at: '2026-08-20T02:46:14Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20230720.htm
+  role: raw
+  sha256: 4d4ee1c961b9968145d3065406ac06e46b8e3d4860bfd8c21240386f6b9cb3cf
+  size: 43178
+  stored: corpus
+- name: ex991q22023earningsrelease.htm
+  role: exhibit
+  sha256: db5b34b20b006929fa1d748b80f95bb7569de4b15b0c43ec4e12d35186f30911
+  size: 26218
+  stored: corpus
+- name: ex992q22023earningsrelease.htm
+  role: exhibit
+  sha256: 834352465a520ef0794ec50ae9cb6dfcad86063d314e6a4e849ab3cf990ae9f3
+  size: 2351650
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: eaf6022a4f4873514f915dd16cab2f34a8686722475a1f38d1418fd5bf72d29e
+  size: 103636
+  stored: corpus
+filed_date: '2023-07-20'
+period_end: '2023-07-20'
+extraction_method: lxml
+meta:
+  accession: 0000927628-23-000231
+  form: 8-K
+  items: 2.02,9.01

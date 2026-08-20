@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2026-04-15_0001163321-26-000016
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2026-04-15 (period 2026-03-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332126000016/form10-dmarch2026.htm
+retrieved_at: '2026-08-20T02:56:14Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dmarch2026.htm
+  role: raw
+  sha256: 19c35935dfab3537b1b86de4eb1e175403d1c0be99689f0979d3244a079c2df8
+  size: 27658
+  stored: corpus
+- name: exhibit9912002-ccmarch2026.htm
+  role: exhibit
+  sha256: 3124a00702e4823c0b6e82ccc9eda3375d7a08e064b629bf1e61e480dc67ae42
+  size: 149785
+  stored: corpus
+- name: exhibit992nhsmarch2026.htm
+  role: exhibit
+  sha256: adfa62110ec16f423d2bbe362da1250ce078fb85ade3b3368ed40de8b5454606
+  size: 355373
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: e0d5d44be1152fab2bef0776667b116ea5ba67212b25f4b8e80ded0ac518a89b
+  size: 38745
+  stored: corpus
+filed_date: '2026-04-15'
+period_end: '2026-03-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-26-000016
+  form: 10-D
+  items: ''

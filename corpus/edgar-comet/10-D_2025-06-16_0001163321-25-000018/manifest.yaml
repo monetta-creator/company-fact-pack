@@ -1,0 +1,38 @@
+doc_id: edgar-comet/10-D_2025-06-16_0001163321-25-000018
+source: edgar-comet
+source_tier: A
+doc_type: 10-D
+title: 10-D filed 2025-06-16 (period 2025-05-31)
+url: https://www.sec.gov/Archives/edgar/data/1163321/000116332125000018/form10-dmay2025.htm
+retrieved_at: '2026-08-20T02:56:20Z'
+entity_ids:
+- comet
+fetcher: edgar_filings v1
+files:
+- name: form10-dmay2025.htm
+  role: raw
+  sha256: a2af084425fb0a87cbd72ffc8f85f71d87e3c7f82a59ae2b0693c6560fc72e7a
+  size: 29886
+  stored: corpus
+- name: exhibit9912002-ccmay2025.htm
+  role: exhibit
+  sha256: 38b9f77347d66042632761ff0f5f04979b0c0ff2105398001709a514d8358a02
+  size: 151935
+  stored: corpus
+- name: exhibit992nhsmay2025.htm
+  role: exhibit
+  sha256: 14061711432ccaeb1201c16deffbe2d66b018ec32932ecc930d755ba32b2ea77
+  size: 341891
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: cfca6bbbc58ccfe2aa1e71d93c163a0d4de44b40b9933df24918fb5435978320
+  size: 38003
+  stored: corpus
+filed_date: '2025-06-16'
+period_end: '2025-05-31'
+extraction_method: lxml
+meta:
+  accession: 0001163321-25-000018
+  form: 10-D
+  items: ''

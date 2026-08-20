@@ -1,0 +1,28 @@
+doc_id: edgar-cof/8-K_2020-02-26_0000927628-20-000108
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2020-02-26 (period 2020-02-26)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762820000108/a8-klegaldated02262020.htm
+retrieved_at: '2026-08-20T02:54:34Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: a8-klegaldated02262020.htm
+  role: raw
+  sha256: bec62fb263ccbbfcdcf9a1c57187968d5ed2315a07ee5346f71af4bf77dd9f04
+  size: 61159
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 92a882f6129dc6ee58fe10152c12f77c1bb72b951ee86315ad9edadd8a7b6180
+  size: 5599
+  stored: corpus
+filed_date: '2020-02-26'
+period_end: '2020-02-26'
+extraction_method: lxml
+meta:
+  accession: 0000927628-20-000108
+  form: 8-K
+  items: 7.01,9.01

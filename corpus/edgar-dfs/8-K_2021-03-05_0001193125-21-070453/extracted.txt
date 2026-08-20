@@ -1,0 +1,157 @@
+false 0001393612 0001393612 2021-03-05 2021-03-05
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): March 5, 2021
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 7.01 Regulation FD Disclosure.
+
+On March 5, 2021, Discover Financial Services (the “Company”) announced a full redemption of each the following outstanding notes (the “Notes”), in the aggregate principal amount of $159,376,000.00, issued pursuant to an Indenture dated as of June 12, 2007 (the “Indenture”) between the Company and U.S. Bank National Association, as trustee:
+
+[TABLE]
+CUSIP |  |  | Rate |  |  | Maturity |
+ | 25472CBT5 |  |  |  | 3.00 | % |  |  | May 15, 2022 |
+ | 25472CBU2 |  |  |  | 3.50 | % |  |  | May 15, 2024 |
+ | 25472CBV0 |  |  |  | 4.10 | % |  |  | May 15, 2029 |
+ | 25472CBW8 |  |  |  | 3.05 | % |  |  | May 16, 2022 |
+ | 25472CBX6 |  |  |  | 3.60 | % |  |  | May 15, 2024 |
+ | 25472CBY4 |  |  |  | 4.15 | % |  |  | May 15, 2029 |
+ | 25472CBZ1 |  |  |  | 3.00 | % |  |  | May 15, 2022 |
+ | 25472CCA5 |  |  |  | 4.10 | % |  |  | May 15, 2029 |
+ | 25472CCB3 |  |  |  | 3.00 | % |  |  | June 15, 2022 |
+ | 25472CCC1 |  |  |  | 3.50 | % |  |  | June 15, 2024 |
+ | 25472CCD9 |  |  |  | 4.10 | % |  |  | June 15, 2029 |
+ | 25472CCE7 |  |  |  | 3.20 | % |  |  | June 15, 2023 |
+ | 25472CCF4 |  |  |  | 4.10 | % |  |  | June 15, 2029 |
+ | 25472CCG2 |  |  |  | 3.15 | % |  |  | June 15, 2023 |
+ | 25472CCH0 |  |  |  | 4.05 | % |  |  | June 15, 2029 |
+ | 25472CCJ6 |  |  |  | 3.20 | % |  |  | June 15, 2023 |
+ | 25472CCK3 |  |  |  | 4.10 | % |  |  | June 15, 2029 |
+ | 25472CCL1 |  |  |  | 3.25 | % |  |  | August 15, 2023 |
+ | 25472CCM9 |  |  |  | 4.15 | % |  |  | August 15, 2029 |
+ | 25472CCN7 |  |  |  | 3.20 | % |  |  | August 15, 2023 |
+ | 25472CCP2 |  |  |  | 4.10 | % |  |  | August 15, 2029 |
+ | 25472CCQ0 |  |  |  | 3.20 | % |  |  | August 15, 2023 |
+ | 25472CCR8 |  |  |  | 4.10 | % |  |  | August 15, 2029 |
+ | 25472CCS6 |  |  |  | 3.15 | % |  |  | August 15, 2023 |
+ | 25472CCT4 |  |  |  | 4.05 | % |  |  | August 15, 2029 |
+ | 25472CCU1 |  |  |  | 3.05 | % |  |  | September 15, 2023 |
+ | 25472CCV9 |  |  |  | 4.00 | % |  |  | September 17, 2029 |
+ | 25472CCW7 |  |  |  | 3.05 | % |  |  | September 15, 2023 |
+ | 25472CCX5 |  |  |  | 4.00 | % |  |  | September 15, 2029 |
+ | 25472CCY3 |  |  |  | 3.05 | % |  |  | September 15, 2023 |
+ | 25472CCZ0 |  |  |  | 4.00 | % |  |  | September 15, 2029 |
+ | 25472CDB2 |  |  |  | 3.15 | % |  |  | November 15, 2023 |
+ | 25472CDC0 |  |  |  | 4.00 | % |  |  | November 15, 2029 |
+ | 25472CDD8 |  |  |  | 3.15 | % |  |  | November 15, 2023 |
+ | 25472CDE6 |  |  |  | 3.90 | % |  |  | November 15, 2029 |
+ | 25472CDF3 |  |  |  | 3.15 | % |  |  | November 15, 2023 |
+ | 25472CDG1 |  |  |  | 4.00 | % |  |  | November 15, 2029 |
+ | 25472CDH9 |  |  |  | 3.15 | % |  |  | December 15, 2023 |
+ | 25472CDJ5 |  |  |  | 4.00 | % |  |  | December 15, 2029 |
+ | 25472CDK2 |  |  |  | 3.20 | % |  |  | December 15, 2023 |
+ | 25472CDL0 |  |  |  | 4.00 | % |  |  | December 15, 2029 |
+ | 25472CDM8 |  |  |  | 3.20 | % |  |  | December 15, 2023 |
+ | 25472CDN6 |  |  |  | 4.00 | % |  |  | December 15, 2029 |
+ | 25472CDP1 |  |  |  | 4.10 | % |  |  | February 15, 2030 |
+ | 25472CDQ9 |  |  |  | 3.40 | % |  |  | February 15, 2023 |
+ | 25472CDR7 |  |  |  | 4.00 | % |  |  | February 15, 2028 |
+ | 25472CDS5 |  |  |  | 3.70 | % |  |  | February 15, 2024 |
+[/TABLE]
+
+[TABLE]
+ | 25472CDT3 |  |  |  | 4.25 | % |  |  | February 15, 2030 |
+ | 25472CDU0 |  |  |  | 3.80 | % |  |  | March 15, 2024 |
+ | 25472CDV8 |  |  |  | 4.35 | % |  |  | March 15, 2030 |
+ | 25472CDW6 |  |  |  | 3.80 | % |  |  | March 15, 2024 |
+ | 25472CDX4 |  |  |  | 4.30 | % |  |  | March 15, 2030 |
+ | 25472CDY2 |  |  |  | 4.00 | % |  |  | March 15, 2026 |
+ | 25472CDZ9 |  |  |  | 4.05 | % |  |  | March 15, 2025 |
+ | 25472CEA3 |  |  |  | 4.10 | % |  |  | May 15, 2024 |
+ | 25472CEB1 |  |  |  | 4.10 | % |  |  | May 15, 2024 |
+ | 25472CEC9 |  |  |  | 4.00 | % |  |  | May 15, 2023 |
+ | 25472CED7 |  |  |  | 4.60 | % |  |  | May 15, 2028 |
+ | 25472CEE5 |  |  |  | 3.75 | % |  |  | June 15, 2021 |
+ | 25472CEF2 |  |  |  | 4.50 | % |  |  | June 15, 2026 |
+ | 25472CEG0 |  |  |  | 3.70 | % |  |  | June 15, 2022 |
+ | 25472CEH8 |  |  |  | 4.50 | % |  |  | June 15, 2028 |
+ | 25472CEJ4 |  |  |  | 4.00 | % |  |  | December 15, 2023 |
+ | 25472CEK1 |  |  |  | 4.00 | % |  |  | September 15, 2023 |
+[/TABLE]
+
+Pursuant to the terms of the Indenture and the Notes, the Notes will be redeemed in full on March 15, 2021 (the “Redemption Date”), at a redemption price equal to the sum of 100% of the principal amount of the Notes redeemed plus accrued and unpaid interest to, but excluding, the Redemption Date. On the Redemption Date and upon the Company’s payment of the redemption price, all rights of holders with respect to the Notes being redeemed will terminate, except for the right to receive payment of the applicable redemption price upon surrender of the Notes for redemption.
+
+Copies of the notice of redemption can be obtained from U.S. Bank National Association by calling 1-800-934-6802.
+
+This information is furnished pursuant to Item 7.01 of Form 8-K. The information in this report shall not be treated as filed for purposes of the Securities Exchange Act of 1934, as amended.
+
+The furnishing of the information in this Item 7.01 is not intended to, and does not, constitute a representation that such furnishing is required by Regulation FD or that the information in this Item 7.01 is material information that is not otherwise publicly available
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated: March 5, 2021 |  |  |  | By: |  | /s/ D. Christopher Greene
+ |  |  |  |  |  | Name: D. Christopher Greene
+ |  |  |  |  |  | Title: Vice President, Deputy General Counsel and Secretary
+[/TABLE]

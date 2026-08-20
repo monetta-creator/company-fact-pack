@@ -1,0 +1,163 @@
+10-D 1 dcent-dcmt10xdx011618.htm FORM 10-D Document created using Wdesk 1 Copyright 2018 Workiva Document
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-D
+
+ASSET-BACKED ISSUER
+
+DISTRIBUTION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the monthly distribution period from December 1, 2017 to December 31, 2017
+
+___________________________
+
+[TABLE]
+Commission File Numbers: 333-141703-02; 333-167413; 333-191359; 333-205455-01 | Commission File Numbers: 333-141703; 333-167413-02; 333-191359-02; 333-205455-02; 000-23108 | Commission File Number: 333-205455 | Commission File Numbers: 333-141703-01; 333-167413-01; 333-191359-01; 033-54804
+Central Index Key Number: 0001407200 | Central Index Key Number: 0000894329 | Central Index Key Number: 0001645731 | Central Index Key Number: 0000894327
+DISCOVER CARD EXECUTION NOTE TRUST | DISCOVER CARD MASTER TRUST I | DISCOVER FUNDING LLC | DISCOVER BANK
+(Exact name of the issuing entity in respect of the Notes as specified in its charter) | (Exact name of the issuing entity in respect of the Series 2007-CC Collateral Certificate) | (Exact name of the depositor as specified in its charter) | (Exact name of the sponsor as specified in its charter)
+Delaware | Delaware | Delaware | Delaware
+(State or jurisdiction of incorporation or organization of the issuing entity) | (State or jurisdiction of incorporation or organization of the issuing entity) | (State or jurisdiction of incorporation or organization of the depositor) | (State or jurisdiction of incorporation or organization of the sponsor)
+c/o Wilmington Trust Company, Rodney Square North 1100 North Market Street, Wilmington, Delaware 19890-0001 | c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 | c/o Discover Bank 12 Read’s Way New Castle, Delaware 19720 | 12 Read’s Way New Castle, Delaware 19720
+(Address of principal executive offices of the issuing entity) | (Address of principal executive offices of the issuing entity) | (Address of principal executive offices of the depositor) | (Address of principal executive offices of the sponsor)
+[/TABLE]
+
+Michael F. Rickert,
+
+Vice President, Chief Financial Officer and Treasurer
+
+Discover Funding LLC
+
+(302) 323-7315
+
+(Name and telephone number, including area code, of the person to contact in connection with this filing)
+
+1
+
+51-0020270
+
+(I.R.S. Employer Identification No. of the sponsor)
+
+47-4047337
+
+(IRS Employer Identification No. of
+
+the depositor)
+
+Registered/reporting pursuant to (check one)
+
+[TABLE]
+ | Title of class | Section 12(b) | Section 12(g) | Section 15(d) | Name of exchange (If Section 12(b)) |
+DiscoverSeries Class A Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class B Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class C Notes | [___] | [___] | [_X_] | [___]
+DiscoverSeries Class D Notes | [___] | [___] | [_X_] | [___]
+Credit Card Pass-Through Certificates | [___] | [___] | [_X_] | [___]
+[/TABLE]
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes: [_X_] No: [___].
+
+PART I – DISTRIBUTION INFORMATION
+
+Item 1. Distribution and Pool Performance Information.
+
+The interest of Discover Card Execution Note Trust (the “ Note Issuance Trust ”) in credit card receivables is held solely in the form of an interest in a collateral certificate issued by Discover Card Master Trust I (the “ Master Trust ”). No assets securitized by Discover Bank and held by the Master Trust were the subject of a demand to repurchase or replace for breach of representations and warranties during the monthly distribution period from December 1, 2017 to December 31, 2017. Discover Bank filed its most recent Form ABS-15G on February 6, 2017. The CIK number of Discover Bank is 0000894327.
+
+The information required by Items 1121(a) and 1121(b) of Regulation AB is provided in the reports attached hereto as Exhibits 99.1 and 99.2.
+
+The Master Trust owns receivables in card accounts that have been randomly selected at various times from the aggregate Discover card portfolio. Therefore, the performance of the accounts designated to the Master Trust may differ materially from the performance of the aggregate Discover card portfolio, which consists of all card accounts originated by Discover Bank, including those that have not been designated to the Master Trust.
+
+Item 1A. Asset-Level Information.
+
+Not applicable.
+
+Item 1B. Asset Representations Reviewer and Investor Communication.
+
+Nothing to report.
+
+PART II – OTHER INFORMATION
+
+Item 2. Legal Proceedings.
+
+Nothing to report.
+
+Item 3. Sales of Securities and Use of Proceeds.
+
+On December 7, 2017, the Note Issuance Trust sold $100,000,000 principal amount of the DiscoverSeries Class B(2017-2) Notes and $330,000,000 principal amount of the DiscoverSeries Class C(2017-2) Notes (collectively, the “Notes”) to Discover Products Inc. (“DPI”), an affiliate of Discover Bank, in reliance upon the exemption contained in Section 4(a)(2) of the Securities Act of 1933, as amended. The Notes were sold at a discount for $421,375,870, with no applicable underwriting discounts or commissions, and will not bear interest prior to their expected maturity. Information regarding the sale of the Notes has been previously included in a Current Report on Form 8-K, filed by the Note Issuance Trust on December 7, 2017, and is incorporated herein by reference.
+
+On December 7, 2017, the Note Issuance Trust, pursuant to Section 2.03 of the Amended and Restated Note Purchase Agreement (the “Note Purchase Agreement”), dated as of January 1, 2016, among the Note Issuance Trust, as Issuer, Discover Bank, as Sponsor, Discover Funding LLC, as Transferor, and Discover Properties LLC (“Discover Properties”), an affiliate of Discover Bank, as Purchaser, and Section 2.06 of the Class D(2009-1) Terms Document, dated as of July 2, 2009, by and between the Note Issuance Trust, as Issuer, and U.S. Bank National Association, as Indenture Trustee, increased the Outstanding Dollar Principal Amount of the DiscoverSeries Class D(2009-1) Notes (the “Class D Notes”). The increase in the Outstanding Dollar Principal Amount of the Class D Notes on December 7, 2017 was in the amount of $39,945,355, resulting in an Outstanding Dollar Principal Amount of the Class D Notes of $1,836,092,898.
+
+Item 4. Defaults Upon Senior Securities.
+
+Nothing to report.
+
+Item 5. Submission of Matters to a Vote of Security Holders.
+
+Not applicable.
+
+Item 6. Significant Obligors of Pool Assets.
+
+Not applicable.
+
+Item 7. Change in Sponsor Interest in the Securities.
+
+In accordance with the credit risk retention rules of Regulation RR, Discover Bank, as Sponsor, is required to retain an economic interest in the credit risk of the Master Trust receivables. The Sponsor intends to satisfy this obligation by maintaining a seller’s interest in the Master Trust, calculated in accordance with Regulation RR, that will equal not less than 5% of the aggregate unpaid principal balance of all DiscoverSeries notes, other than any notes that are at all times held by Discover Bank or one or more wholly-owned affiliates of Discover Bank. The required seller’s interest will be held by
+
+Discover Funding LLC through holding of the Transferor Interest, which represents an undivided interest in the receivables of the Master Trust that are not represented by outstanding certificates at any given time. The seller’s interest amount and percentage as of the end of the distribution period covered by this Form 10-D is provided in the report attached hereto as Exhibit 99.1.
+
+As described in Item 3, on December 7, 2017, (1) DPI purchased the Notes with an aggregate principal balance of $430,000,000 and (2) Discover Properties increased the Outstanding Dollar Principal Amount of the Class D Notes by $39,945,355 to $1,836,092,898. Neither DPI nor Discover Properties’ interest in such notes are used to satisfy legal requirements regarding the credit risk retention rules of Regulation RR.
+
+Item 8. Significant Enhancement Provider Information.
+
+Not applicable.
+
+Item 9. Other Information.
+
+Nothing to report.
+
+Item 10. Exhibits.
+
+Exhibit No. Description
+
+99.1 Series 2007‑CC Monthly Statement
+
+99.2 DiscoverSeries Monthly Statement
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+Date: January 16, 2018
+
+DISCOVER FUNDING LLC
+
+(as Depositor for Discover Card Master Trust I and Discover Card Execution Note Trust and as registrant under Commission File Number 333-205455)
+
+By: /s/ Michael F. Rickert
+
+Name: Michael F. Rickert
+
+Title: Vice President, Chief Financial Officer and
+
+Treasurer
+
+DISCOVER BANK
+
+(as registrant under Commission File Numbers
+
+333-141703-01, 333-167413-01and 333-191359-01)
+
+By: /s/ Michael F. Rickert
+
+Name: Michael F. Rickert
+
+Title: Vice President, Chief Financial Officer and
+
+Assistant Treasurer

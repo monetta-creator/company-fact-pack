@@ -1,0 +1,173 @@
+CAPITAL ONE FINANCIAL CORP false 0000927628 0000927628 2020-01-31 2020-01-31 0000927628 us-gaap:CommonStockMember 2020-01-31 2020-01-31 0000927628 us-gaap:SeriesBPreferredStockMember 2020-01-31 2020-01-31 0000927628 us-gaap:SeriesFPreferredStockMember 2020-01-31 2020-01-31 0000927628 us-gaap:SeriesGPreferredStockMember 2020-01-31 2020-01-31 0000927628 us-gaap:SeriesHPreferredStockMember 2020-01-31 2020-01-31 0000927628 cof:SeriesIPreferredStockMember 2020-01-31 2020-01-31 0000927628 cof:M0.800SeniorNotesDue2024Member 2020-01-31 2020-01-31 0000927628 cof:M1.650SeniorNotesDue2029Member 2020-01-31 2020-01-31
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of The Securities Exchange Act of 1934
+
+January 31, 2020
+
+Date of Report (Date of earliest event reported)
+
+CAPITAL ONE FINANCIAL CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+[TABLE]
+Delaware |  | 001-13300 |  | 54-1719854
+(State or other jurisdiction of incorporation) |  | (Commission File Number) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+[TABLE]
+1680 Capital One Drive , McLean , Virginia |  | 22102
+(Address of principal executive offices) |  | (Zip Code)
+[/TABLE]
+
+Registrant’s telephone number, including area code: (703) 720-1000
+
+(Not applicable)
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock (par value $.01 per share) |  | COF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B |  | COF PRP |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series F |  | COF PRF |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series G |  | COF PRG |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series H |  | COF PRH |  | New York Stock Exchange
+Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I |  | COF PRI |  | New York Stock Exchange
+0.800% Senior Notes Due 2024 |  | COF24 |  | New York Stock Exchange
+1.650% Senior Notes Due 2029 |  | COF29 |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01 | Other Events.
+
+On January 31, 2020, Capital One Financial Corporation (the “Company”) issued a press release announcing that it will redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, $0.01 par value per share (“Series B Preferred Stock”) and the corresponding depositary shares representing fractional interests in the Series B Preferred Stock (“Series B Depositary Shares”).
+
+The Series B Depositary Shares (NYSE: COF PRP, CUSIP: 14040H402), each representing a 1/40th interest in a share of Series B Preferred Stock, will be redeemed simultaneously with the redemption of the Series B Preferred Stock at a redemption price of $25 per depositary share (equivalent to $1,000 per share of preferred stock). All 35,000,000 outstanding Series B Depositary Shares will be redeemed on the dividend payment date of March 2, 2020.
+
+Regular dividends on the outstanding shares of the Series B Preferred Stock will be paid separately on March 2, 2020 to holders of record as of the close of business on February 14, 2020, in the customary manner. On and after the redemption date, all dividends on the shares of Series B Preferred Stock will cease to accrue.
+
+A copy of the press release is attached as Exhibit 99.1 hereto and incorporated by reference into this Item 8.01.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) | Exhibits
+
+[TABLE]
+Exhibit No. |  |  | Description of Exhibit
+ | 99.1 |  |  | Press Release, dated January 31, 2020
+ | 104 |  |  | The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
+[/TABLE]
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | CAPITAL ONE FINANCIAL CORPORATION
+Dated: January 31, 2020 |  |  |  | By: |  | /s/ Matthew W. Cooper
+ |  |  |  | Name: |  | Matthew W. Cooper
+ |  |  |  | Title: |  | General Counsel
+[/TABLE]
+
+[Signature Page to Form 8-K]
+
+
+=== EXHIBIT d880977dex991.htm ===
+
+EX-99.1 2 d880977dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+ |  | Media Release
+
+[TABLE]
+ |  | Contacts: |  |  |  |
+ |  | Investor Relations |  | Media Relations
+For Immediate Release: January 31, 2020 |  | Jeff Norris |  | Danielle Dietz |  | Sie Soheili |  | Tatiana Stead
+ |  | 703.720.2455 |  | 703.720.2455 |  | 703.720.3929 |  | 703.720.2352
+[/TABLE]
+
+Capital One Announces Full Redemption of Depositary Shares Representing Interests in Its Series B Preferred
+Stock
+
+Full Redemption of Depositary Shares Representing Interests in its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B
+
+McLean, Va., January 31, 2020 – Capital
+One Financial Corporation (NYSE: COF) today announced that it will redeem all outstanding shares of its Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series B, $0.01 par value per share (“Series B
+Preferred Stock”), and the corresponding depositary shares representing fractional interests in the Series B Preferred Stock (“Series B Depositary Shares”).
+
+The Series B Depositary Shares (NYSE: COF PRP, CUSIP: 14040H402), each representing a 1/40th interest in a share of Series B Preferred Stock, will be redeemed
+simultaneously with the redemption of the Series B Preferred Stock at a redemption price of $25 per depositary share (equivalent to $1,000 per share of preferred stock). All 35 million outstanding Series B Depositary Shares will be redeemed on
+the dividend payment date of March 2, 2020.
+
+Regular dividends on the outstanding shares of the Series B Preferred Stock of $15.00 per share
+(equivalent to $0.375 per Series B Depositary Share) will be paid separately on March 2, 2020 to holders of record as of the close of business on February 14, 2020, in the customary manner. Accordingly, the redemption price for the Series
+B Preferred Stock will not include any accrued and unpaid dividends. On and after the redemption date, all dividends on the shares of Series B Preferred Stock will cease to accrue.
+
+The Series B Depositary Shares are held through The Depository Trust Company (“DTC”) and will be redeemed in accordance with the procedures of DTC.
+Payment to DTC for the Series B Depositary Shares will be made by Computershare Trust Company, N.A., as redemption agent, in accordance with the Deposit Agreement that governs the Series B Depositary Shares. The address for the redemption agent is
+as follows:
+
+Computershare Trust Company, N.A.
+
+Attn:
+Corporate Actions
+
+150 Royall St.
+
+Canton, MA 02021
+
+Forward-Looking Statements
+
+Certain statements in this
+release may constitute forward-looking statements, which involve a number of risks and uncertainties. Capital One cautions readers that any forward-looking information is not a guarantee of future performance and that actual results could differ
+materially from those contained in the forward-looking information due to a number of factors, including those listed from time to time in reports
+
+1
+
+that Capital One files with the Securities and Exchange Commission, including, but not limited to, the Annual Report on Form 10-K for the year ended
+December 31, 2018 and the Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2019.
+
+About Capital One
+
+Capital One Financial
+Corporation (www.capitalone.com) is a financial holding company whose subsidiaries, which include Capital One, N.A., and Capital One Bank (USA), N.A., had $262.7 billion in deposits and $390.4 billion in total assets as of
+December 31, 2019. Headquartered in McLean, Virginia, Capital One offers a broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches
+located primarily in New York, Louisiana, Texas, Maryland, Virginia, New Jersey and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P
+100 index.
+
+Visit the Capital One newsroom for more Capital One news .
+
+# # #
+
+2

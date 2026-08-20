@@ -1,0 +1,24 @@
+doc_id: fdic/sod_cona
+source: fdic
+source_tier: A
+doc_type: fdic-sod
+title: FDIC sod cona
+url: https://api.fdic.gov/banks/sod?filters=CERT:4297
+retrieved_at: '2026-08-20T02:37:56Z'
+entity_ids:
+- cona
+fetcher: fdic v1
+files:
+- name: sod.json
+  role: raw
+  sha256: bcc28c558d146df0e48038681ab919e4b9ba3181bc435287334834794e836f74
+  size: 23319090
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 7c63aaffd3e24b7eb4a552925d815145302509e4f1b97538ab01b0156e5b833f
+  size: 76
+  stored: corpus
+meta:
+  cert: '4297'
+  rows: 14748

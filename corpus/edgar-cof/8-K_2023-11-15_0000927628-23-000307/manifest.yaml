@@ -1,0 +1,33 @@
+doc_id: edgar-cof/8-K_2023-11-15_0000927628-23-000307
+source: edgar-cof
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2023-11-15 (period 2023-11-14)
+url: https://www.sec.gov/Archives/edgar/data/927628/000092762823000307/cof-20231114.htm
+retrieved_at: '2026-08-20T02:46:11Z'
+entity_ids:
+- cof
+fetcher: edgar_filings v1
+files:
+- name: cof-20231114.htm
+  role: raw
+  sha256: 9900feb8d0266e85dd7d44b1f52f5a01249cc3d2a25fbd35ebcc2e439ac377b9
+  size: 40554
+  stored: corpus
+- name: ex991october2023creditmetr.htm
+  role: exhibit
+  sha256: eb7fe5cb119e024b5dd7509b8216df03d4e60e02069d06f4111aca27e530a852
+  size: 23468
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 2060eef1b1e7038542dfae60b6fe50662c1f96cf7063b8eeafffa6e8ec966df4
+  size: 7550
+  stored: corpus
+filed_date: '2023-11-15'
+period_end: '2023-11-14'
+extraction_method: lxml
+meta:
+  accession: 0000927628-23-000307
+  form: 8-K
+  items: 7.01,9.01

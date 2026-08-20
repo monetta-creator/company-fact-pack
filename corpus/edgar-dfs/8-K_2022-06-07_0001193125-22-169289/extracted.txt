@@ -1,0 +1,146 @@
+false 0001393612 0001393612 2022-06-06 2022-06-06
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 8-K
+
+Current Report
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 6, 2022
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or other jurisdiction of incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of each class |  | Trading symbol(s) |  | Name of each exchange on which registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 | Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On June 6, 2022, the board of directors of Discover Financial Services (the “Company”) appointed John B. Owen as a director of the Company and to serve on the Risk Oversight Committee, and correspondingly increased the size of the Board to 13 directors. A copy of the press release announcing the appointment of Mr. Owen is attached as Exhibit 99.1 to this report.
+
+There are no arrangements or understandings between Mr. Owen and any other person pursuant to which Mr. Owen was selected as a director. There are no transactions involving Mr. Owen that would be required to be reported under Item 404(a) of Regulation S-K.
+
+In connection with his appointment as a director of the Company, Mr. Owen will be eligible for compensation under the Company’s Directors’ Compensation Plan (the “Plan”). Under the Plan, Mr. Owen will receive an annual cash retainer for his service as a director of $105,000 and will receive an annual committee member fee of $20,000 for his service on the Risk Oversight Committee, each prorated from the date of his appointment as a director.
+
+In addition, on June 6, 2022, Mr. Owen received a grant of 1,404 restricted stock units under the Plan, which is the annual equity award prorated from the date of his appointment as a director. The restricted stock unit awards vest on the earlier of the first anniversary of the date of grant or immediately prior to the first annual meeting of shareholders following the date of grant, subject to the terms and conditions of the Plan. All restricted stock unit awards are to be settled in shares of Company common stock. Like other eligible directors under the Plan, Mr. Owen will be eligible to receive subsequent awards of restricted stock units under the Plan on the date of each annual shareholders meeting. Under the Plan, the amount of such subsequent awards of restricted stock units shall be equal to the number obtained by dividing $170,000 by the fair market value (as defined in the Plan) of a share of Company common stock on such day.
+
+Item 9.01 | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit No. |  | Description
+99.1 |  | Press Release of the Company dated June 7, 2022
+104 |  | Cover Page Interactive Data File — the cover page from this Current Report on Form 8-K, formatted as Inline XBRL (included as Exhibit 101).
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Dated June 7, 2022 |  |  |  | By: |  | /s/ Philip J. Castrogiovanni
+ |  |  |  | Name: |  | Philip J. Castrogiovanni
+ |  |  |  | Title: |  | Vice President, Secretary and Deputy General Counsel
+[/TABLE]
+
+
+=== EXHIBIT d269832dex991.htm ===
+
+EX-99.1 2 d269832dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+Discover Financial Services Names John Owen to its Board of Directors
+
+Riverwoods, IL – June 7, 2022 - Discover Financial Services announced today that John Owen, former chief operating officer of Regions
+Financial, has joined the company’s Board of Directors.
+
+In 2021, Owen retired from Regions Financial after a successful 14-year tenure with the company where he oversaw the bank’s technology transformation, cybersecurity, data and analytics and artificial intelligence (AI) efforts. He spearheaded “Simplify and Grow,” a
+strategic initiative focused on improving the customer experience, creating more effective processes and driving revenue growth. Owen’s track record of innovation for Regions includes his fintech partnership strategy, launching a new business
+focused on serving the underbanked population and the development of Regions’ mobile app
+
+“John brings nearly four decades of experience in the
+banking industry and has a wealth of knowledge related to technology transformation to enhance the customer experience,” said Roger Hochschild, CEO and President of Discover. “I am confident that he will help Discover continue to succeed
+as a leading digital bank and payments company and look forward to John’s contributions as a member of our already strong Board.”
+
+Prior to
+joining Regions Financial, Owen was chief executive officer of Assurant Specialty Property, a Fortune 500 company based in Atlanta. Prior to that, Owen was senior vice president of Global Systems Development for Citicorp Credit Services, chief
+information officer of North American operations for Arrow Electronics and senior vice president of technology for American Airlines. He began his career in information systems with McDonnell-Douglas.
+
+Owen was elected to Discover’s Board of Directors and appointed to the Board’s Risk Oversight Committee on June 6, 2022. Discover’s Board
+will now stand at thirteen directors.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS) is a digital banking and payment services company with one of the most recognized brands in U.S. financial services.
+Since its inception in 1986, the company has become one of the largest card issuers in the United States. The company issues the Discover ® card, America’s cash rewards pioneer, and offers
+private student loans, personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates the Discover Global Network ® comprised of
+Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/company .
+
+Media Contact
+
+Robert Weiss
+
+224-405-6304
+
+robertweiss@discover.com
+
+@Discover_News
+
+Investor Relations
+
+Eric Wasserstrom
+
+224-405-4555
+
+investorrelations@discover.com

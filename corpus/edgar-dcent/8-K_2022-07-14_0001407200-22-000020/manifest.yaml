@@ -1,0 +1,28 @@
+doc_id: edgar-dcent/8-K_2022-07-14_0001407200-22-000020
+source: edgar-dcent
+source_tier: A
+doc_type: 8-K
+title: 8-K filed 2022-07-14 (period 2022-06-30)
+url: https://www.sec.gov/Archives/edgar/data/1407200/000140720022000020/qtrly_dcmtxdcentxasofjune3.htm
+retrieved_at: '2026-08-20T02:57:57Z'
+entity_ids:
+- dcent
+fetcher: edgar_filings v1
+files:
+- name: qtrly_dcmtxdcentxasofjune3.htm
+  role: raw
+  sha256: 8b0dc70c095e57cf8f1dd59fa775d83fbcd3ad727ee6495809a3a6f8cebf7d08
+  size: 120391
+  stored: corpus
+- name: extracted.txt
+  role: extracted
+  sha256: 1a090973ddff95f5e4d011eb82a3c30a2cf8f03fd97e6e8e9584eefa6fd61aad
+  size: 13892
+  stored: corpus
+filed_date: '2022-07-14'
+period_end: '2022-06-30'
+extraction_method: lxml
+meta:
+  accession: 0001407200-22-000020
+  form: 8-K
+  items: 6.05,8.01

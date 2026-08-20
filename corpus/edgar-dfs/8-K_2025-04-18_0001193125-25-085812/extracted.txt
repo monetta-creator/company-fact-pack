@@ -1,0 +1,190 @@
+false 0001393612 0001393612 2025-04-18 2025-04-18
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+Pursuant to Section 13 or 15(d)
+
+of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): April 18, 2025
+
+DISCOVER FINANCIAL SERVICES
+
+(Exact name of registrant as specified in its charter)
+
+Commission File Number: 001-33378
+
+[TABLE]
+Delaware |  | 36-2517428
+(State or Other Jurisdiction of Incorporation) |  | (IRS Employer Identification No.)
+[/TABLE]
+
+2500 Lake Cook Road , Riverwoods , Illinois 60015
+
+(Address of principal executive offices, including zip code)
+
+(224) 405-0900
+
+(Registrant’s telephone number, including area code)
+
+N/A
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below):
+
+ | ☐ | Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ | ☐ | Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ | ☐ | Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ | ☐ | Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+[TABLE]
+Title of Each Class |  | Trading Symbol(s) |  | Name of Each Exchange on Which Registered
+Common Stock, par value $0.01 per share |  | DFS |  | New York Stock Exchange
+[/TABLE]
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 8.01. | Other Events.
+
+On April 18, 2025, Discover Financial Services (“ Discover ”) and Capital One Financial Corporation (“ Capital One ”) issued a joint press release announcing that Capital One received regulatory approval from the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency for the previously announced merger of Capital One and Discover (the “ Merger ”) and the merger of their respective bank subsidiaries Discover Bank and Capital One, National Association (the “ Bank Merger ” and together with the Merger, the “ Transaction ”), pursuant to that certain Agreement and Plan of Merger, dated as of February 19, 2024, by and among Discover, Capital One and Vega Merger Sub, Inc. (the “ Merger Agreement ”). All required regulatory approvals to complete the Transaction have now been received. The closing of the Transaction is expected to occur on or around May 18, 2025, subject to the satisfaction or waiver of the remaining closing conditions set forth in the Merger Agreement.
+
+A copy of the joint press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.
+
+Forward Looking Statements
+
+Information in this Current Report on Form 8-K, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may include, but are not limited to, statements related to the expected consummation of the Transaction. Forward-looking statements may be identified by terminology such as “may,” “will,” “should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,” “estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology. All forward-looking statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Discover or Capital One to differ materially from any results expressed or implied by such forward-looking statements. Such factors include, among others, the possibility of a failure of the closing conditions in the Merger Agreement to be satisfied, or any unexpected delay in completing the Transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the Merger Agreement. Additional factors that could affect future results of Discover and Capital One can be found in Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K (and any amendments to those documents), in each case filed with the SEC and available on the SEC’s website at http://www.sec.gov. Discover and Capital One disclaim any obligation and do not intend to update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+Item 9.01. | Financial Statements and Exhibits.
+
+(d) Exhibits
+
+[TABLE]
+Exhibit Number |  | Description
+99.1 |  | Joint Press Release, dated April 18, 2025
+104 |  | Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document)
+[/TABLE]
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+[TABLE]
+ |  |  |  | DISCOVER FINANCIAL SERVICES
+Date: April 18, 2025 |  |  |  | By: |  | /s/ Efie Vainikos
+ |  |  |  | Name: |  | Efie Vainikos
+ |  |  |  | Title: |  | Assistant Secretary
+[/TABLE]
+
+
+=== EXHIBIT d948842dex991.htm ===
+
+EX-99.1 2 d948842dex991.htm EX-99.1 EX-99.1
+
+Exhibit 99.1
+
+[TABLE]
+Media Relations |  | Investor Relations
+Sie Soheili |  | Danielle Dietz
+sie.soheili@capitalone.com |  | danielle.dietz@capitalone.com
+Matthew Towson |  | Erin Stieber
+matthewtowson@discover.com |  | investorrelations@discover.com
+[/TABLE]
+
+FOR IMMEDIATE RELEASE: April 18, 2025
+
+Capital One Receives Final Regulatory Approvals for Acquisition of Discover
+
+MCLEAN, VA, and RIVERWOODS, IL, April 18, 2025 — Capital One Financial Corporation (NYSE: COF) and Discover Financial Services (NYSE: DFS) today
+announced that the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency have approved Capital One’s proposed acquisition of Discover.
+
+This approval follows approval of the transaction by the Delaware State Bank Commissioner in December 2024, and by shareholders of more than 99 percent
+of each company’s shares voting in February of this year.
+
+“This is an exciting moment for Capital One and Discover. We understand the critical
+importance of a strong and competitive banking system to our customers and our economy, and we appreciate the thoughtful and diligent engagement of our regulators as they thoroughly reviewed this deal over the past 14 months,” said Richard
+Fairbank, Founder, Chairman, and CEO of Capital One. “I am grateful to the thousands of associates across Capital One and Discover who have worked tirelessly to help us achieve this significant milestone. We look forward to bringing these two
+great companies together with a profound sense of possibility and responsibility to deliver for our customers, associates, shareholders, and communities.”
+
+All required regulatory approvals to complete the transaction have now been received, and the transaction is expected to close on May 18, 2025, subject
+to the satisfaction of customary closing conditions.
+
+“The combination of our two great companies will increase competition in payment networks,
+offer a wider range of products to our customers, increase our resources devoted to innovation and security, and bring meaningful community benefits,” said Michael Shepherd, Interim CEO and President of Discover.
+
+There will be no immediate changes to Capital One and Discover customer accounts and relationships now or in the period immediately following the closing of
+the transaction. Capital One will provide customers with comprehensive information regarding relevant conversion activities well in advance of any future change. Until then, customers will continue to be served through their respective Capital One
+and Discover customer communications channels.
+
+Upon closing, Capital One will begin implementation of its historic, five-year Community Benefits Plan
+(CBP), developed in connection with the acquisition and in partnership with leading community organizations, mobilizing more than $265 billion in lending, investment, and services to advance economic opportunity and financial well-being across
+America.
+
+Further information on Capital One’s agreement to acquire Discover Financial Services can be found at www.capitalonediscover.com.
+
+Forward Looking Statements
+
+Information in this
+communication, other than statements of historical facts, may constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, but are not limited to, statements about the
+benefits of the proposed transaction between Capital One Financial Corporation (“Capital One”) and Discover Financial Services (“Discover”), statements related to the expected timing of the completion of the transaction,
+statements about the combined company’s plans, objectives, expectations and intentions, and other statements that are not historical facts. Forward-looking statements may be identified by terminology such as “may,” “will,”
+“should,” “targets,” “scheduled,” “plans,” “intends,” “goal,” “anticipates,” “expects,” “believes,” “forecasts,” “outlook,”
+“estimates,” “potential,” or “continue” or negatives of such terms or other comparable terminology.
+
+All forward-looking
+statements are subject to risks, uncertainties and other factors that may cause the actual results, performance or achievements of Capital One or Discover to differ materially from any results expressed or implied by such forward-looking statements.
+Such factors include, among others, (1) the risk that the cost savings and any revenue synergies and other anticipated benefits from the transaction may not be fully realized or may take longer than anticipated to be realized, the risk that
+revenues following the transaction may be lower than expected and/or the risk that certain expenses, such as the provision for credit losses, of Discover, or Capital One following the transaction, may be greater than expected, (2) disruption to
+the parties’ businesses as a result of the announcement and pendency of the transaction, (3) the risk that the integration of Discover’s business and operations into Capital One, including the integration into Capital One’s
+compliance management program, will be materially delayed or will be more costly or difficult than expected, or that Capital One is otherwise unable to successfully integrate Discover’s businesses into its own, including as a result of
+unexpected factors or events, (4) reputational risk and the reaction of each company’s customers, suppliers, employees or other business partners to the transaction, (5) the failure of the remaining closing conditions in the merger
+agreement to be satisfied, or any unexpected delay in completing the transaction or the occurrence of any event, change or other circumstances that could give rise to the termination of the merger agreement, (6) the dilution caused by the
+issuance of additional shares of Capital One’s common stock in connection with the transaction, (7) the possibility that the transaction may be more expensive to complete than anticipated, including as a result of unexpected factors or
+events, (8) risks related to management and oversight of the expanded business and operations of Capital One following the transaction due to the increased size and complexity of its business, (9) the possibility of increased scrutiny by,
+and/or additional regulatory requirements of, governmental authorities as a result of the transaction or the size, scope and complexity of Capital One’s business operations following the transaction, (10) the outcome of any legal or
+regulatory proceedings that may be currently pending or later instituted against Capital One before or after the transaction, or against Discover, (11) the risk that expectations regarding the timing, completion and accounting and tax
+treatments of the transaction are not met, (12) the risk that any announcements relating to the transaction could have adverse effects on the market price of Capital One’s common stock, (13) certain restrictions during the pendency of
+the transaction, (14) the diversion of management’s attention from ongoing business operations and opportunities, (15) Capital One’s and Discover’s success in executing their respective business plans and strategies and
+managing the risks involved in the foregoing, (16) effects of the announcement, pendency or completion of the transaction on Capital One’s or Discover’s ability to retain customers and retain and hire key personnel and maintain
+relationships with Capital One’s and Discover’s
+
+suppliers and other business partners, and on Capital One’s and Discover’s operating results and
+businesses generally, (17) general competitive, economic, political and market conditions and other factors that may affect future results of Capital One and Discover, including changes in asset quality and credit risk; the inability to sustain
+revenue and earnings growth; changes in interest rates and capital markets; inflation; customer borrowing, repayment, investment and deposit practices; the impact, extent and timing of technological changes; capital management activities and
+(18) any other factors that may affect Capital One’s future results or the future results of Discover; and other actions of the Federal Reserve Board and legislative and regulatory actions and reforms. Additional factors which could affect
+future results of Capital One and Discover can be found in Capital One’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K, and Discover’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K (and any amendments to those documents), in each case filed with the SEC and available on the SEC’s website at http:// www.sec.gov. Capital One and Discover disclaim any obligation and do not intend to
+update or revise any forward-looking statements contained in this communication, which speak only as of the date hereof, whether as a result of new information, future events or otherwise, except as required by federal securities laws.
+
+About Capital One
+
+Capital One Financial Corporation
+(www.capitalone.com) is a financial holding company which, along with its subsidiaries, had $362.7 billion in deposits and $490.1 billion in total assets as of December 31, 2024. Headquartered in McLean, Virginia, Capital One offers a
+broad spectrum of financial products and services to consumers, small businesses and commercial clients through a variety of channels. Capital One, N.A. has branches and Cafés located primarily in New York, Louisiana, Texas, Maryland,
+Virginia and the District of Columbia. A Fortune 500 company, Capital One trades on the New York Stock Exchange under the symbol “COF” and is included in the S&P 100 index.
+
+Additional information about Capital One can be found at Capital One About at www.capitalone.com/about.
+
+About Discover
+
+Discover Financial Services (NYSE: DFS)
+is a digital banking and payment services company with one of the most recognized brands in U.S. financial services. Since its inception in 1986, the company has become one of the largest card issuers in the United States. Discover issues the
+Discover ® card, America’s cash rewards pioneer, and offers personal loans, home loans, checking and savings accounts and certificates of deposit through its banking business. It operates
+the Discover Global Network ® comprised of Discover Network, with millions of merchants and cash access locations; PULSE ® , one of the
+nation’s leading ATM/debit networks; and Diners Club International ® , a global payments network with acceptance around the world. For more information, visit www.discover.com/ company.
