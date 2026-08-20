@@ -68,17 +68,19 @@ def main() -> None:
 
         def enrich_batch(batch: list[dict]) -> int:
             listing = "\n\n".join(
-                f"chunk_id: {c['chunk_id']}\ndoc: {c['title'] or c['doc_id']} "
-                f"({c['doc_type']}, period {c.get('period_end') or 'n/a'}) "
-                f"section {c['section_id']}\ntext:\n{c['text'][:1200]}"
+                f"chunk_id: {c['chunk_id']}\ndoc: {c['doc_id']} — {c['title'] or ''} "
+                f"({c['doc_type']}, filer/entities: {', '.join(c['entities']) or 'n/a'}, "
+                f"period {c.get('period_end') or 'n/a'}) section {c['section_id']}\n"
+                f"text:\n{c['text'][:1200]}"
                 for c in batch
             )
             r = model.call(
                 "For each chunk below, write ONE sentence (<=45 words) situating it for a "
                 "retrieval index: document, section, entity, period, and what the chunk "
-                "specifically covers. Example: 'From COF 10-K FY2023, Item 7 MD&A, credit "
-                "card segment: net charge-off and delinquency trends.' Echo chunk_id.\n\n"
-                + listing,
+                "specifically covers. Name the FILER shown in the entities field (cof = "
+                "Capital One, dfs = Discover Financial Services, comet/dcent = card trusts) "
+                "— never guess a different company. Example: 'From DFS 10-Q Q2 2024, Item 2 "
+                "MD&A: net charge-off and delinquency trends.' Echo chunk_id.\n\n" + listing,
                 feature="chunk_enrich", schema=SCHEMA,
             )
             wrote = 0
