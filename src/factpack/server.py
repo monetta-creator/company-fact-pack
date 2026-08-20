@@ -7,13 +7,15 @@ re-gated against its own pack before leaving the process.
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
-from fastapi import FastAPI
+import yaml
+from fastapi import FastAPI, File, Form, UploadFile
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 
-from . import citations as gate, db as dblib
+from . import citations as gate, config, db as dblib, update as updater
 from .answer import ask as do_ask
 from .deep import deep_ask
 
@@ -92,3 +94,67 @@ def peek(kind: str, item_id: str):
 @app.get("/", response_class=HTMLResponse)
 def index():
     return (Path(__file__).parent / "ui" / "index.html").read_text()
+
+
+@app.get("/update", response_class=HTMLResponse)
+def update_page():
+    return (Path(__file__).parent / "ui" / "update.html").read_text()
+
+
+@app.post("/api/update/start")
+def update_start():
+    err = updater.start_detached()
+    return {"started": err is None, "error": err}
+
+
+@app.get("/api/update/status")
+def update_status():
+    status = updater.read_status()
+    status["running"] = updater.is_running()
+    try:
+        status["log_tail"] = updater.LOG_FILE.read_text()[-3000:]
+    except OSError:
+        status["log_tail"] = ""
+    staleness = config.BUILD / "staleness_report.md"
+    status["staleness"] = staleness.read_text() if staleness.exists() else ""
+    return status
+
+
+SAFE_NAME = re.compile(r"[^A-Za-z0-9._-]+")
+
+
+@app.post("/api/update/upload")
+def update_upload(
+    file: UploadFile = File(...),
+    kind: str = Form(...),  # transcript | y9c | call
+    entity: str = Form("cof"),
+    quarter: str = Form(""),
+    date: str = Form(""),
+    source_desc: str = Form(""),
+):
+    name = SAFE_NAME.sub("_", file.filename or "upload")[:120]
+    data = file.file.read()
+    if not data:
+        return {"ok": False, "error": "empty file"}
+    if kind == "transcript":
+        if not quarter:
+            return {"ok": False, "error": "transcripts need a quarter (e.g. 2024Q3)"}
+        dest_dir = config.ROOT / "inbox/transcripts"
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        stem = SAFE_NAME.sub("_", f"{entity}_{quarter}")
+        body_path = dest_dir / f"{stem}{Path(name).suffix or '.txt'}"
+        body_path.write_bytes(data)
+        (dest_dir / f"{stem}.yaml").write_text(yaml.safe_dump({
+            "entity": entity, "quarter": quarter, "date": date or None,
+            "source_desc": source_desc or "user upload", "original_name": name,
+        }))
+        where = str(body_path.relative_to(config.ROOT))
+    elif kind in ("y9c", "call"):
+        dest_dir = config.ROOT / "inbox/ffiec"
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        (dest_dir / name).write_bytes(data)
+        where = f"inbox/ffiec/{name}"
+    else:
+        return {"ok": False, "error": f"unknown kind {kind!r}"}
+    return {"ok": True, "saved_to": where,
+            "note": "Included next time an update runs (it verifies before it publishes)."}
