@@ -22,7 +22,9 @@ RATE_LIMITS = {"sec.gov": 8.0, "default": 2.0}
 
 # Raw files above this stay in build/cache with their SHA-256 recorded in the manifest.
 RAW_COMMIT_MAX_BYTES = 25 * 1024 * 1024
-RAW_COMMIT_EXCEPTIONS: dict[str, int] = {}  # doc_id -> per-file ceiling, hard max 90MB
+RAW_COMMIT_EXCEPTIONS: dict[str, int] = {  # doc_id -> per-file ceiling, hard max 90MB
+    "cfpb-complaints/cof": 60 * 1024 * 1024,  # single-slice CSV, worth versioning
+}
 
 MODEL_HAIKU = "haiku"
 MODEL_SONNET = "sonnet"
