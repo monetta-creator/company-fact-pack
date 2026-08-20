@@ -19,7 +19,7 @@ from factpack.http import download
 from factpack.runlog import RunLog, run_isolated
 
 FETCHER = "edgar_filings v1"
-EXHIBIT_RE = re.compile(r"(?:^|[-_.a-z])ex[-_.]?(?:21|99)", re.I)
+EXHIBIT_RE = re.compile(r"(?:^|[-_.a-z])ex(?:hibit)?[-_.]?(?:21|99)", re.I)
 KEEP_EXT = (".htm", ".html", ".txt")
 MAX_FILE_BYTES = 60 * 1024 * 1024
 

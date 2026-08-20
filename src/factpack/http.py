@@ -110,6 +110,11 @@ def download(url: str, dest: Path, *, retries: int = 4) -> tuple[str, int]:
             return h.hexdigest(), size
         except (httpx.TransportError, httpx.HTTPStatusError) as e:
             last = e
+            try:  # never leave multi-GB partial temp files behind (they can fill the disk)
+                if "tmp_path" in dir() and tmp_path.exists():
+                    tmp_path.unlink()
+            except OSError:
+                pass
             time.sleep(min(60, (2**attempt) + random.random()))
     raise last  # type: ignore[misc]
 

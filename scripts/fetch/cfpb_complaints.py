@@ -87,6 +87,7 @@ def main() -> None:
             m["meta"] = {"rows": counts[entity], "filter": COMPANY_RE[entity].pattern}
             manifest.write(m)
             log.count("fetched")
+        cached.unlink(missing_ok=True)  # full-DB ZIP is re-downloadable; slices are committed
         log.note(f"rows: {counts}")
 
     run_isolated("fetch.cfpb_complaints", run)

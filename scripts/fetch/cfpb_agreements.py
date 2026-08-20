@@ -89,6 +89,7 @@ def fetch_quarter(label: str, url: str, log: RunLog) -> None:
     m["files"] = files_meta
     m["meta"] = {"quarter": label, "issuers": sorted(issuers_seen), "pdfs": len(files_meta) - 1}
     manifest.write(m)
+    cached.unlink(missing_ok=True)  # industry-wide ZIP: provenance is the manifest URL; disk is finite
     log.count("fetched")
 
 

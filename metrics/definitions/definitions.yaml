@@ -99,7 +99,14 @@
   formula: Common equity tier 1 capital / risk-weighted assets (Basel III standardized).
   basis: regulatory
   unit: ratio
-  source_schedule: "XBRL banking-regulation tags; FR Y-9C HC-R"
+  source_schedule: "FR Y-9C HC-R (not XBRL-tagged by these filers)"
+  dims_allowed: [tag]
+- metric_id: cet1-capital
+  name: CET1 capital
+  formula: Common equity tier 1 capital dollars (Basel III).
+  basis: regulatory
+  unit: USD
+  source_schedule: "XBRL us-gaap:CommonEquityTierOneCapital"
   dims_allowed: [tag]
 
 # --- FDIC (bank subsidiaries; api.fdic.gov RIS fields; USD thousands) ---

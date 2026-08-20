@@ -60,8 +60,8 @@
   kind: duration
   unit_key: USD
   tags: [MarketingExpense, MarketingAndAdvertisingExpense, AdvertisingExpense]
-- metric_id: cet1-ratio
+# cet1-ratio: not XBRL-tagged by these filers — comes from FR Y-9C HC-R when available.
+- metric_id: cet1-capital
   kind: instant
-  unit_key: pure
-  tags: [CommonEquityTierOneCapitalToRiskWeightedAssets,
-         BankingRegulationCommonEquityTier1RiskBasedCapitalRatioActual]
+  unit_key: USD
+  tags: [CommonEquityTierOneCapital]
