@@ -64,7 +64,10 @@ def build_pack(question: str, u: Understanding, tagger: Tagger | None = None) ->
 
     if u.intent == "quantitative":
         metric_ids = [m["metric_id"] for m in metrics_sql.find_metrics(question)]
-        period_prefix = (u.period_start or "")[:4] or None
+        # single-year questions filter by that year; multi-year spans fetch the latest
+        # rows unfiltered (query is DESC-ordered) so the whole span is available
+        start_y, end_y = (u.period_start or "")[:4], (u.period_end or "")[:4]
+        period_prefix = start_y if start_y and start_y == end_y else None
         pack.observations = metrics_sql.query_observations(
             metric_ids or None,
             entity_id=u.entities[0] if u.entities else None,

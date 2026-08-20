@@ -1,0 +1,92 @@
+# Golden retrieval set (D11): the only instrument that can see index-time failures.
+# Expectations are doc-id prefixes and/or must_contain spans — never chunk_ids
+# (content-addressed, shift across rebuilds). Scored by evals/run_retrieval.py.
+
+# --- 10-K narrative ---
+- query: Capital One credit risk factors competition regulation
+  expect_doc_prefix: edgar-cof/10-K
+- query: management discussion analysis credit card segment results
+  expect_doc_prefix: edgar-cof/10-K
+- query: allowance for credit losses methodology CECL
+  expect_doc_prefix: edgar-cof/10-K
+- query: Capital One business overview principal segments
+  expect_doc_prefix: edgar-cof/10-K
+- query: liquidity funding sources deposits securitization
+  expect_doc_prefix: edgar-cof/10-K
+- query: interest rate risk management hedging
+  expect_doc_prefix: edgar-cof/
+- query: cybersecurity incident 2019 unauthorized access individual
+  expect_doc_prefix: edgar-cof/
+  must_contain: unauthorized
+- query: Discover Financial Services risk factors student loans
+  expect_doc_prefix: edgar-dfs/10-K
+- query: Discover payment services network segment PULSE Diners Club
+  expect_doc_prefix: edgar-dfs/
+  must_contain: PULSE
+
+# --- quarterly / results ---
+- query: quarterly net interest margin trends provision
+  expect_doc_prefix: edgar-cof/10-Q
+- query: third quarter 2023 results credit card loan growth
+  filters: {period_start: "2023-07-01", period_end: "2023-12-31"}
+  expect_doc_prefix: edgar-cof/
+- query: earnings press release fourth quarter results
+  expect_doc_prefix: edgar-cof/8-K
+
+# --- merger docs ---
+- query: Discover merger agreement exchange ratio stockholders
+  must_contain: merger
+- query: background of the merger board deliberations advisors
+  expect_doc_prefix: edgar-cof/S-4
+- query: merger integration network strategy rationale
+  must_contain: Discover
+
+# --- proxy ---
+- query: executive compensation named executive officers proxy
+  expect_doc_prefix: edgar-cof/DEF14A
+- query: board of directors nominees governance
+  expect_doc_prefix: edgar-cof/DEF14A
+- query: shareholder proposals annual meeting voting
+  expect_doc_prefix: edgar-cof/DEF14A
+
+# --- trust servicer reports ---
+- query: COMET monthly principal receivables collections
+  expect_doc_prefix: edgar-comet/10-D
+- query: trust delinquencies losses 30 days delinquent buckets
+  expect_doc_prefix: edgar-comet/10-D
+- query: annualized net default rate principal receivables
+  expect_doc_prefix: edgar-comet/10-D
+- query: Discover card execution note trust noteholder statement
+  expect_doc_prefix: edgar-dcent/
+
+# --- enforcement / litigation ---
+- query: consent order anti-money laundering compliance program
+  expect_doc_prefix: enforcement/
+- query: civil money penalty order bank
+  expect_doc_prefix: enforcement/
+- query: data breach class action litigation settlement
+  expect_doc_prefix: courtlistener/
+
+# --- products ---
+- query: credit card agreement annual percentage rate Schumer box
+  expect_doc_prefix: cfpb-agreements/
+- query: Quicksilver Venture rewards card agreement terms
+  expect_doc_prefix: cfpb-agreements/
+- query: Discover it cash back card agreement
+  expect_doc_prefix: cfpb-agreements/
+
+# --- entity-filtered ---
+- query: subsidiaries of the registrant
+  filters: {entities: [cof]}
+  expect_doc_prefix: edgar-cof/10-K
+- query: capital adequacy stress buffer requirements
+  filters: {entities: [cof]}
+  expect_doc_prefix: edgar-cof/
+
+# --- period-filtered (D2: right words, right period) ---
+- query: risk factors pandemic economic uncertainty
+  filters: {period_start: "2020-01-01", period_end: "2020-12-31"}
+  expect_doc_prefix: edgar-cof/
+- query: annual report fiscal 2018 results
+  filters: {period_start: "2018-01-01", period_end: "2019-03-31"}
+  expect_doc_prefix: edgar-cof/10-K
