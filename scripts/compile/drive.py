@@ -62,6 +62,9 @@ def main() -> int:
         del os.environ["FACTPACK_ENRICH_MERGE_ONLY"]
         print("PHASE_1_SKIPPED", flush=True)
     else:
+        import os
+
+        os.environ["FACTPACK_ENRICH_MODEL"] = "1"  # the drive is the deliberate spend
         for cycle in range(MAX_CYCLES):
             run("scripts.extract.events_8k")
             run("scripts.compile.enrich")

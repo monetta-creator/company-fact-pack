@@ -40,8 +40,12 @@ model-dependent items pause gracefully on usage caps and resume when re-run.
         ~20 min to ~2 min and makes frequent transcript adds painless.
       - Stretch idea: batch API / prompt-cache the shared instruction prefix if
         calls ever move off the CLI onto a key.
-- [ ] Enrichment backfill: ~34k chunks still on deterministic preambles.
-      `uv run python -m scripts.compile.drive` (cap-resilient; sleeps and resumes).
+- [ ] Enrichment backfill — PAUSED BY OWNER (plan-usage cost). 21.8k of 53.8k chunks
+      have model labels; the rest use the deterministic floor (recall@10 0.84 measured
+      at ~36% coverage). Model labeling is now opt-in: `FACTPACK_ENRICH_MODEL=1`, or
+      `scripts.compile.drive` which sets it. Optimizations applied (batch 30, 700-char
+      excerpts, expanded skip list ≈3x cheaper). Resume only if a golden-set A/B shows
+      the labels earn their cost.
 - [ ] Answer-harness baseline: `uv run python evals/run_answers.py --limit 10`
       (bank is merged; measures grounded vs. bare model).
 - [ ] FR Y-9C: browser-download BHCF quarterly ZIPs from the NIC site into
