@@ -1,0 +1,629 @@
+{
+ "dataset": "company-fact-pack",
+ "subject": "Capital One Financial Corporation",
+ "license_note": "All content derives from public sources; each doc_id resolves to its origin URL in doc_urls.",
+ "entity_count": 27,
+ "entities": [
+  {
+   "id": "capital-one-national-association",
+   "name": "Capital One, National Association",
+   "type": "bank",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "subsidiary_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/10-K_2026-02-19_0000927628-26-000024",
+     "locator": "Exhibit 21"
+    }
+   ]
+  },
+  {
+   "id": "cobna",
+   "name": "Capital One Bank (USA), National Association",
+   "type": "bank",
+   "status": "historical",
+   "aliases": [
+    "COBNA"
+   ],
+   "identifiers": {
+    "fdic_cert": "33954"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "fdic/financials_cobna",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "cona",
+   "name": "Capital One, National Association",
+   "type": "bank",
+   "status": "active",
+   "aliases": [
+    "Capital One NA",
+    "CONA"
+   ],
+   "identifiers": {
+    "fdic_cert": "4297"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "fdic/financials_cona",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "discover-bank",
+   "name": "Discover Bank",
+   "type": "bank",
+   "status": "historical",
+   "aliases": [],
+   "identifiers": {
+    "fdic_cert": "5649"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "fdic/financials_discover-bank",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "cof",
+   "name": "Capital One Financial Corporation",
+   "type": "holding_co",
+   "status": "active",
+   "aliases": [
+    "Capital One",
+    "COF"
+   ],
+   "identifiers": {
+    "cik": "0000927628",
+    "ticker": "COF"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/xbrl_companyfacts",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "dfs",
+   "name": "Discover Financial Services",
+   "type": "holding_co",
+   "status": "active",
+   "aliases": [
+    "Discover",
+    "DFS"
+   ],
+   "identifiers": {
+    "cik": "0001393612",
+    "ticker": "DFS"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "edgar-dfs/xbrl_companyfacts",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "person-ann-fritz-hackett",
+   "name": "Ann Fritz Hackett",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director (retiring May 8, 2026); Lead Independent Director and Chair of the Governance and Nominating Committee",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-christine-detrick",
+   "name": "Christine Detrick",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Director, Head of the Americas Financial Services Practice, Bain & Company",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-cornelis-petrus-adrianus-joseph-eli-leenaars",
+   "name": "Cornelis Petrus Adrianus Joseph (\"Eli\") Leenaars",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Group Chief Operating Officer, Quintet Private Bank",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-craig-anthony-williams",
+   "name": "Craig Anthony Williams",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Advisor and Former EVP, Chief Commercial Officer, NIKE, Inc.",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-eileen-serra",
+   "name": "Eileen Serra",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Senior Advisor, JPMorgan Chase & Co.; Former CEO, Chase Card Services",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-fran-ois-locoh-donou",
+   "name": "François Locoh-Donou",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; President, Chief Executive Officer, and Director, F5, Inc.",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-ime-archibong",
+   "name": "Ime Archibong",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Vice President, Product Management and Head of Product at Messenger, Meta",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-j-michael-shepherd",
+   "name": "J. Michael Shepherd",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Interim CEO, Discover Financial Services, Inc.; Former Chairman and CEO, BancWest Corporation",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-jennifer-l-wong",
+   "name": "Jennifer L. Wong",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Chief Operating Officer, Reddit, Inc.",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-matthew-w-cooper",
+   "name": "Matthew W. Cooper",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "officer_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Corporate Secretary",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-mayo-a-shattuck-iii",
+   "name": "Mayo A. Shattuck III",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Chairman, Exelon Corporation; Former Chairman, President and CEO, Constellation Energy Group",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-peter-e-raskind",
+   "name": "Peter E. Raskind",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; incoming Lead Independent Director and Chair of the Governance and Nominating Committee (effective May 8, 2026); Former Chairman, President and CEO, National City Corporation",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-peter-thomas-killalea",
+   "name": "Peter Thomas Killalea",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former Vice President of Technology, Amazon.com",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-richard-d-fairbank",
+   "name": "Richard D. Fairbank",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "officer_of",
+     "target": "cof"
+    },
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Chairman and Chief Executive Officer, Capital One Financial Corporation",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-suni-p-harford",
+   "name": "Suni P. Harford",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director; Former President, UBS Asset Management",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "person-thomas-g-maheras",
+   "name": "Thomas G. Maheras",
+   "type": "person",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "director_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "Director (retiring May 8, 2026)",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/DEF14A_2026-03-25_0001193125-26-124131",
+     "locator": "board/executive sections"
+    }
+   ]
+  },
+  {
+   "id": "segment-commercial-banking",
+   "name": "Commercial Banking segment",
+   "type": "segment",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "segment_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/10-K_2026-02-19_0000927628-26-000024",
+     "locator": "segment reporting"
+    }
+   ]
+  },
+  {
+   "id": "segment-consumer-banking",
+   "name": "Consumer Banking segment",
+   "type": "segment",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "segment_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/10-K_2026-02-19_0000927628-26-000024",
+     "locator": "segment reporting"
+    }
+   ]
+  },
+  {
+   "id": "segment-credit-card",
+   "name": "Credit Card segment",
+   "type": "segment",
+   "status": "active",
+   "aliases": [],
+   "identifiers": {},
+   "edges": [
+    {
+     "type": "segment_of",
+     "target": "cof"
+    }
+   ],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-20",
+   "sources": [
+    {
+     "doc_id": "edgar-cof/10-K_2026-02-19_0000927628-26-000024",
+     "locator": "segment reporting"
+    }
+   ]
+  },
+  {
+   "id": "comet",
+   "name": "Capital One Multi-asset Execution Trust",
+   "type": "trust",
+   "status": "active",
+   "aliases": [
+    "COMET"
+   ],
+   "identifiers": {
+    "cik": "0001163321"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "edgar-comet/10-DA_2019-03-19_0001163321-19-000015",
+     "locator": null
+    }
+   ]
+  },
+  {
+   "id": "dcent",
+   "name": "Discover Card Execution Note Trust",
+   "type": "trust",
+   "status": "active",
+   "aliases": [
+    "DCENT"
+   ],
+   "identifiers": {
+    "cik": "0001407200"
+   },
+   "edges": [],
+   "summary": "",
+   "epistemic_status": "reported",
+   "as_of": "2026-08-19",
+   "sources": [
+    {
+     "doc_id": "edgar-dcent/10-D_2016-01-15_0001407200-16-000061",
+     "locator": null
+    }
+   ]
+  }
+ ]
+}
