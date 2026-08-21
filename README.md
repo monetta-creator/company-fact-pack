@@ -16,6 +16,9 @@ that only says what it can prove. Every answer is checkable end-to-end:
 
 Governing documents: [`PLAN.md`](PLAN.md) (what the dataset is) and
 [`RETRIEVAL_DOCTRINE.md`](RETRIEVAL_DOCTRINE.md) (how anything may consume it).
+Orientation: [`EXPLAINER.md`](EXPLAINER.md) (plain English), [`TODO.md`](TODO.md)
+(current roadmap), [`INTERNAL_HANDOFF.md`](INTERNAL_HANDOFF.md) (the brief for
+extending this pattern over proprietary evidence inside a corporate boundary).
 Every doctrine principle exists as an enforced code artifact — a gate, a cap, a check,
 a build step — never prose.
 

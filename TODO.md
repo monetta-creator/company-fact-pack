@@ -1,84 +1,55 @@
 # Next steps
 
-Working list from the 2026-08 build sessions. Each item is runnable independently;
-model-dependent items pause gracefully on usage caps and resume when re-run.
+**The mission, restated:** the money is *context wrangling for downstream synthesis* —
+turning evidence into an auditable, versioned context layer that more powerful
+synthesizers consume. Retrieval/chat products are commoditized; wrangled, provenanced
+context is not. This public repo is the working proof of concept. The next phase is the
+same machine pointed at proprietary evidence inside Capital One's walls, where only
+in-house wrangling can go. See **INTERNAL_HANDOFF.md** for the full brief to the
+inside-the-walls agent.
 
-## Transcripts (highest-leverage context gap)
-- [x] Ingest COF Q1 2026 (Motley Fool) — in local corpus, indexed
-- [ ] Backfill more quarters: Motley Fool publishes free COF transcripts
-      (fool.com/earnings/call-transcripts/…). Upload via the app's Update page
-      (type: transcript, set company + quarter) or drop `.txt` + `.yaml` sidecar
-      in `inbox/transcripts/`, then run an update. Target: last 8–12 quarters,
-      plus Discover's final quarters if findable.
-- [ ] Policy note: transcripts are third-party renderings — kept LOCAL ONLY
-      (`corpus/transcripts/` is gitignored). Revisit only with a clear basis to
-      republish. Anything committed that cites a transcript doc_id will fail CI
-      on GitHub (the doc isn't there) — keep transcript-citing briefs local or
-      cite filings alongside.
+## Phase next: the internal overlay (the actual prize)
 
-## Brief quality pass (after transcripts land)
-- [ ] Redraft with deeper parameters: raise target to 2,000–3,000 words, double
-      the retrieval queries per topic in `scripts/briefs/topics.py`, include full
-      metric series in packets. Run `scripts.briefs.draft_brief <id>` per brief on
-      a `draft/*` branch; diff old vs. new; merge what's better (human gate).
-- [ ] Priority order: credit-cycle-posture (was thin — needs transcripts),
+- [ ] Ask IT/security which transfer door is open (README lists four, safest first)
+      and which model endpoints may see which document classes.
+- [ ] Stand up the overlay repo inside: `corpus-internal/`, `briefs-internal/`,
+      `ledger/` — strictly additive on public IDs, one-way flow, nothing comes back.
+- [ ] Vertical slice: one strategy deck ingested end-to-end — manifest → slide chunks
+      → decomposed claims file → internal context pack → demo against a synthesizer.
+- [ ] Digest machinery for internal formats (PDF decks, docs, CSVs/Excel, wikis) —
+      recipes and the tool-degradation ladder are in INTERNAL_HANDOFF.md; get creative
+      with whatever tooling exists there, keep the six invariants.
+- [ ] Optional upstream feature (buildable out here first): multi-root corpus/brief
+      support in `config.py` + a visible `internal` badge on citations.
+
+## Public layer (maintenance mode — feed the packs, don't gold-plate)
+
+- [ ] Transcript backfill: Motley Fool publishes COF calls free. Upload via the app
+      (type: transcript) or `inbox/transcripts/` + sidecar; target last 8–12 quarters.
+      Local-only (gitignored) — republication stays an open question.
+- [ ] Brief-depth redraft AFTER transcripts land: raise target to 2,000–3,000 words,
+      double queries in `scripts/briefs/topics.py`, redraft on a `draft/*` branch,
+      diff and merge (human gate). Priority: credit-cycle-posture, then
       how-the-company-makes-money, discover-acquisition.
+- [ ] Answer-harness baseline: `uv run python evals/run_answers.py --limit 10`.
+- [ ] FR Y-9C: browser-download BHCF ZIPs into `inbox/ffiec/`, re-run update.
+- [ ] Golden-set misses to tune when convenient (liquidity 10-K item, AML consent
+      order, Ex-21) — see evals/history.csv.
+- [x] Enrichment cost problem — SOLVED by the aboutness ladder (2026-08-21): zero
+      model calls, local extraction + SEC section dictionary; embedding cache makes
+      one-doc rebuilds ~2 min; answer model-verify is opt-in (--verify). Verify the
+      golden A/B in evals/history.csv confirms parity with the paid labels.
 
-## Deferred pipeline work
-- [x] Optimize the index enricher — REPLACED with the "aboutness ladder" (2026-08-21):
-      SEC form-section dictionary + local extractive topic sentences/TF-IDF keywords.
-      Zero model calls, ever; legacy haiku labels still honored where cached. Embedding
-      cache added (one-doc rebuild ≈ 2 min). Answer model-verify pass now opt-in
-      (--verify). Golden A/B result recorded in evals/history.csv.
-- [ ] Original enricher optimization notes (superseded by the ladder, kept for reference):
-      - Raise batch size 15 → ~30 chunks/call (haiku handles it; halves call count —
-        watch JSON-array fidelity at larger batches, keep the repair retry).
-      - Trim chunk excerpts in the prompt 1,200 → ~700 chars; the label needs the
-        gist, not the body. Roughly 40% input-token cut.
-      - Raise `MODEL_CONCURRENCY` during enrich-only runs (8–10 lanes; backoff
-        already handles rate errors) — config knob or env override.
-      - Skip more templated doc types beyond 10-D (425 merger communications and
-        card-agreement PDFs are highly repetitive; measure retrieval delta first
-        via the golden set before/after).
-      - Add an embedding cache keyed by chunk_id (mirror of enrich-cache) so a
-        one-doc update re-embeds ~25 chunks instead of 62k — cuts reindex from
-        ~20 min to ~2 min and makes frequent transcript adds painless.
-      - Stretch idea: batch API / prompt-cache the shared instruction prefix if
-        calls ever move off the CLI onto a key.
-- [ ] Enrichment backfill — PAUSED BY OWNER (plan-usage cost). 21.8k of 53.8k chunks
-      have model labels; the rest use the deterministic floor (recall@10 0.84 measured
-      at ~36% coverage). Model labeling is now opt-in: `FACTPACK_ENRICH_MODEL=1`, or
-      `scripts.compile.drive` which sets it. Optimizations applied (batch 30, 700-char
-      excerpts, expanded skip list ≈3x cheaper). Resume only if a golden-set A/B shows
-      the labels earn their cost.
-- [ ] Answer-harness baseline: `uv run python evals/run_answers.py --limit 10`
-      (bank is merged; measures grounded vs. bare model).
-- [ ] FR Y-9C: browser-download BHCF quarterly ZIPs from the NIC site into
-      `inbox/ffiec/`, re-run update. Y-9C extractor and MDRM map are ready.
-- [ ] Golden-set misses to tune: liquidity 10-K item, AML consent order,
-      Ex-21 subsidiaries (see evals/history.csv).
+## Keep-the-docs-true rule
 
-## Atlas integration (separate chat has that context)
-- [ ] Atlas consumes merged briefs from one URL:
-      `https://raw.githubusercontent.com/monetta-creator/company-fact-pack/main/export/briefs.json`
-      Render `as_of`, respect `review_by` (stale = flag or drop), dereference
-      citations via `doc_urls`.
-- [ ] Later tier: Atlas calls this repo's `POST /api/ask` for figure-grade
-      answers instead of paraphrasing briefs.
+Whenever the machine or the mission shifts, update in the same commit: README.md
+(front door + transfer options), EXPLAINER.md (plain-English what/why),
+INTERNAL_HANDOFF.md (the inside brief), and this file. The next agent should be able
+to start from these four documents cold.
 
-## Work overlay (proprietary context — PLAN.md §7)
-- [ ] Ask IT/security which transfer door is open. Preference order:
-      (1) code-only + re-fetch inside, (2) `git bundle`, (3) export JSON only,
-      (4) plain ZIP. Details in README "Taking this inside a corporate boundary".
-- [ ] Build overlay repo inside: `corpus-internal/`, `briefs-internal/`, ledger.
-      Strictly additive; references public IDs; nothing flows back out.
-- [ ] Optional upstream feature: multi-root corpus/brief support in `config.py`
-      (env-var extra roots + visible `internal` badge on citations).
-- [ ] Settle which model endpoint internal calls use, and whether strategic
-      plans may touch it (employer AI policy).
+## Parking lot
 
-## Housekeeping
-- [ ] Merged-brief citation flags from the first ask session (wrong obs cited for
-      2026 figure in the charge-off answer) were caught by verify — consider a
-      brief-lint pass that runs deterministic verify over brief bodies at draft time.
-- [ ] DCENT trust monthlies are scanned JPGs — needs OCR if ever wanted.
+- DCENT trust monthlies are scanned JPGs — OCR someday, or never.
+- Brief-lint: run deterministic verify over brief bodies at draft time.
+- Atlas deep tier: `POST /api/ask` for figure-grade answers (briefs.json covers
+  ambient context today).
