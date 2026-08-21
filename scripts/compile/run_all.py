@@ -13,6 +13,7 @@ STAGES = [
     "scripts.compile.enrich",
     "scripts.compile.index",
     "scripts.compile.metrics_load",
+    "scripts.compile.export_briefs",
     "scripts.compile.verify_build",
 ]
 
