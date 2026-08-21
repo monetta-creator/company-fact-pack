@@ -25,6 +25,21 @@ model-dependent items pause gracefully on usage caps and resume when re-run.
       how-the-company-makes-money, discover-acquisition.
 
 ## Deferred pipeline work
+- [ ] Optimize and speed up the index enricher (`scripts/compile/enrich.py`):
+      - Raise batch size 15 → ~30 chunks/call (haiku handles it; halves call count —
+        watch JSON-array fidelity at larger batches, keep the repair retry).
+      - Trim chunk excerpts in the prompt 1,200 → ~700 chars; the label needs the
+        gist, not the body. Roughly 40% input-token cut.
+      - Raise `MODEL_CONCURRENCY` during enrich-only runs (8–10 lanes; backoff
+        already handles rate errors) — config knob or env override.
+      - Skip more templated doc types beyond 10-D (425 merger communications and
+        card-agreement PDFs are highly repetitive; measure retrieval delta first
+        via the golden set before/after).
+      - Add an embedding cache keyed by chunk_id (mirror of enrich-cache) so a
+        one-doc update re-embeds ~25 chunks instead of 62k — cuts reindex from
+        ~20 min to ~2 min and makes frequent transcript adds painless.
+      - Stretch idea: batch API / prompt-cache the shared instruction prefix if
+        calls ever move off the CLI onto a key.
 - [ ] Enrichment backfill: ~34k chunks still on deterministic preambles.
       `uv run python -m scripts.compile.drive` (cap-resilient; sleeps and resumes).
 - [ ] Answer-harness baseline: `uv run python evals/run_answers.py --limit 10`
