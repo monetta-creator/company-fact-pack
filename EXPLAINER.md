@@ -58,6 +58,26 @@ The models are interchangeable parts. The knowledge is files in a folder.
 - **Humans hold the pen.** Anything a model writes enters as a draft on a review
   branch. A person merges it, or it never counts.
 
+## Why we rebuild everything when one document is added
+
+Adding a single document triggers a full rebuild of the search database — which sounds
+wasteful until you see the trade. There are two ways to keep an index current: *edit it
+in place* (fast, but every edit is a chance for the index to quietly drift from the
+truth — a stale row here, a misaligned entry there, errors that accumulate invisibly),
+or *throw it away and regenerate it from the source files* (slower, but the result is
+provably exactly what the files say, every time). We chose regeneration, because this
+whole system is a trust machine — a search index that might be subtly wrong defeats
+the point.
+
+The trick that makes this affordable: the *expensive* work never repeats. Every chunk
+of text has a fingerprint, and anything already labeled by a model is cached against
+that fingerprint — one new document means ~25 new labels, not 60,000. What does repeat
+is the *free* work: the local filing clerk re-mapping all the chunks on the laptop's
+own chip, about twenty minutes of electricity. We spend free compute to buy certainty,
+and spend money only on what's genuinely new. (A planned improvement caches the map
+coordinates the same way as the labels, cutting a one-document rebuild to about two
+minutes.)
+
 ## What this enables next
 
 - **Instant context for other AI tools.** All approved briefs are published as one file
