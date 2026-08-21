@@ -52,8 +52,10 @@ def deterministic(answer: str, pack_text: str, obs_values: list[float]) -> Verif
     hay_cores = {_num_core(t) for t in NUM_RE.findall(hay)}
     for tok in NUM_RE.findall(body):
         core = _num_core(tok)
-        if len(core.replace(".", "")) < 2:
-            continue  # single digits are prose, not figures
+        if len(core.replace(".", "")) < 3:
+            continue  # 1-2 digit tokens are prose/date fragments, not figures
+        if re.fullmatch(r"(19|20)\d{2}", core) and "$" not in tok and "%" not in tok:
+            continue  # bare years are dates, not metrics
         rep.numbers_checked += 1
         if core in hay_cores or core in val_cores:
             continue
