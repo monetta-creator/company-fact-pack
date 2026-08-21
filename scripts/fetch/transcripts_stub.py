@@ -52,7 +52,8 @@ def main() -> None:
             ]
             m = manifest.base_manifest(
                 doc_id, source="transcripts", tier="B", doc_type="earnings-transcript",
-                url="user-provided", fetcher=FETCHER, entity_ids=[meta.get("entity", "cof")],
+                url=meta.get("url", "user-provided"), fetcher=FETCHER,
+                entity_ids=[meta.get("entity", "cof")],
                 title=f"Earnings call transcript {quarter} ({meta.get('source_desc', 'user-provided')})",
             )
             m["filed_date"] = str(meta.get("date")) if meta.get("date") else None

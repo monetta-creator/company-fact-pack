@@ -1,6 +1,9 @@
 # Compiled artifacts, caches, bulk downloads — never committed.
 # Provenance for uncommitted raw files is the SHA-256 in each manifest.
 build/
+# Transcripts are third-party renderings (e.g. Motley Fool) — indexed locally,
+# never republished. Their manifests record the source URL.
+corpus/transcripts/
 inbox/
 .venv/
 __pycache__/
