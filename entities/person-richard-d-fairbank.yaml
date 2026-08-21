@@ -1,0 +1,16 @@
+id: person-richard-d-fairbank
+name: Richard D. Fairbank
+type: person
+status: active
+aliases: []
+summary: Chairman and Chief Executive Officer, Capital One Financial Corporation
+edges:
+- type: officer_of
+  target: cof
+- type: director_of
+  target: cof
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: edgar-cof/DEF14A_2026-03-25_0001193125-26-124131
+  locator: board/executive sections

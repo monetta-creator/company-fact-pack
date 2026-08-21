@@ -1,0 +1,15 @@
+product_id: dfs-discover-prime
+issuer_entity_id: dfs
+name: Discover Prime
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2025-01-01'
+effective_to: null
+terms:
+  purchase_apr: From 17.49%-26.49%
+  annual_fee: None
+  late_fee: None the first time you pay late. After that, up to $41
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Prime_Cardmember_Agreement_033126.pdf-255536.pdf

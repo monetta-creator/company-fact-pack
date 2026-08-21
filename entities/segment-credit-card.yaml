@@ -1,0 +1,13 @@
+id: segment-credit-card
+name: Credit Card segment
+type: segment
+status: active
+aliases: []
+edges:
+- type: segment_of
+  target: cof
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: edgar-cof/10-K_2026-02-19_0000927628-26-000024
+  locator: segment reporting

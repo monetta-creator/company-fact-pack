@@ -1,0 +1,16 @@
+product_id: cof-consumer-cards
+issuer_entity_id: cof
+name: Consumer Cards
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: Introductory rate of 0% for 9 months. Non-introductory rates between
+    25.99% and 28.99%
+  annual_fee: None
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-Consumer-Cards-in-Capital-One-N.A..pdf-255667.pdf

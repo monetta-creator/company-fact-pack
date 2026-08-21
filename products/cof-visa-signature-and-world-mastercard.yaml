@@ -1,0 +1,16 @@
+product_id: cof-visa-signature-and-world-mastercard
+issuer_entity_id: cof
+name: VISA Signature® and World Mastercard®
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: Introductory rate of 0% ranging from 9 months to 15 months. Non-introductory
+    rates between 18.49% and 28.99%
+  annual_fee: Between $0 and $395 annually
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-VISA-Signature-and-World-MasterCard-Cards-in-Capital-One-N.A..pdf-255666.pdf

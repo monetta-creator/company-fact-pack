@@ -1,0 +1,15 @@
+product_id: cof-bj-s-one-mastercard-and-bj-s-one-mastercard
+issuer_entity_id: cof
+name: BJ's One Mastercard® and BJ's One+ Mastercard®
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: 19.49% and 28.49%
+  annual_fee: None
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-BJs-Mastercard-Cards-in-Capital-One-N.A..pdf-360159.pdf

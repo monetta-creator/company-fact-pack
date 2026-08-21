@@ -1,0 +1,15 @@
+product_id: dfs-discover-near-prime
+issuer_entity_id: dfs
+name: Discover Near Prime
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2026-01-01'
+effective_to: null
+terms:
+  purchase_apr: 26.49%
+  annual_fee: None
+  late_fee: None the first time you pay late. After that, up to $41
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Near_Prime_Cardmember_Agreement_033126.pdf-582106.pdf

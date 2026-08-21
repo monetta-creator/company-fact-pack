@@ -1,0 +1,14 @@
+id: person-peter-thomas-killalea
+name: Peter Thomas Killalea
+type: person
+status: active
+aliases: []
+summary: Director; Former Vice President of Technology, Amazon.com
+edges:
+- type: director_of
+  target: cof
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: edgar-cof/DEF14A_2026-03-25_0001193125-26-124131
+  locator: board/executive sections

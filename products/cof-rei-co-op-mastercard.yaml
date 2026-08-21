@@ -1,0 +1,15 @@
+product_id: cof-rei-co-op-mastercard
+issuer_entity_id: cof
+name: REI Co-op Mastercard®
+agreement_doc_id: cfpb-agreements/2026_Q1
+effective_from: '2022-10-01'
+effective_to: null
+terms:
+  purchase_apr: 17.49% - 28.49%
+  annual_fee: None
+  late_fee: Up to $40
+epistemic_status: draft
+as_of: '2026-08-20'
+sources:
+- doc_id: cfpb-agreements/2026_Q1
+  locator: Credit-Card-Agreement-for-REI-Co-op-Mastercard-Card-in-Capital-One-N.A..pdf-322429.pdf
