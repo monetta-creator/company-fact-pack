@@ -13,7 +13,6 @@ Emits progress markers on stdout for the monitor: PHASE_*, WAITING_FOR_CAP, DRIV
 
 from __future__ import annotations
 
-import argparse
 import json
 import subprocess
 import sys
@@ -45,39 +44,19 @@ def git(*args: str) -> str:
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--skip-enrich", action="store_true",
-                    help="cut phase 1: index with existing preamble cache (deterministic floor "
-                         "covers the rest); one best-effort events pass still runs")
-    args = ap.parse_args()
-
-    # Phase 1: events + enrichment until caught up
+    # Phase 1: events (model-dependent, cap-cycled) + local labeling (free, one pass)
     print("PHASE_1_ENRICH", flush=True)
-    if args.skip_enrich:
-        import os
-
-        run("scripts.extract.events_8k")  # cheap; exits gracefully on cap
-        os.environ["FACTPACK_ENRICH_MERGE_ONLY"] = "1"
-        run("scripts.compile.enrich")     # merge cache + deterministic floor, no model calls
-        del os.environ["FACTPACK_ENRICH_MERGE_ONLY"]
-        print("PHASE_1_SKIPPED", flush=True)
+    for cycle in range(MAX_CYCLES):
+        run("scripts.extract.events_8k")
+        ev_pending = counts("extract.events_8k").get("pending", 0)
+        print(f"CYCLE {cycle}: events_pending={ev_pending}", flush=True)
+        if ev_pending == 0:
+            break
+        print("WAITING_FOR_CAP", flush=True)
+        time.sleep(SLEEP_S)
     else:
-        import os
-
-        os.environ["FACTPACK_ENRICH_MODEL"] = "1"  # the drive is the deliberate spend
-        for cycle in range(MAX_CYCLES):
-            run("scripts.extract.events_8k")
-            run("scripts.compile.enrich")
-            ev_pending = counts("extract.events_8k").get("pending", 0)
-            en_pending = counts("compile.enrich").get("still_pending", 10**9)
-            print(f"CYCLE {cycle}: events_pending={ev_pending} enrich_pending={en_pending}",
-                  flush=True)
-            if ev_pending == 0 and en_pending == 0:
-                break
-            print("WAITING_FOR_CAP", flush=True)
-            time.sleep(SLEEP_S)
-        else:
-            print("MAX_CYCLES_REACHED (continuing with what we have)", flush=True)
+        print("MAX_CYCLES_REACHED (continuing with what we have)", flush=True)
+    run("scripts.compile.enrich")  # aboutness ladder: local, zero model calls
 
     # Phase 2: final rebuild on main with full preambles
     print("PHASE_2_REBUILD", flush=True)

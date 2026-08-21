@@ -26,6 +26,7 @@ app = FastAPI(title="factpack")
 class AskBody(BaseModel):
     question: str
     deep: bool = False
+    verify: bool = False  # model faithfulness pass is opt-in; deterministic checks always run
     tags: dict[str, str] = {}
 
 
@@ -34,7 +35,8 @@ def api_ask(body: AskBody):
     if body.deep:
         res = deep_ask(body.question, conversation_tags=body.tags or None)
     else:
-        res = do_ask(body.question, conversation_tags=body.tags or None)
+        res = do_ask(body.question, conversation_tags=body.tags or None,
+                     skip_model_verify=not body.verify)
     regated = gate.enforce(res.answer, res.pack.allowlist())  # render-boundary gate
     citation_meta = {}
     for token in regated.citations:
@@ -292,19 +294,19 @@ _enrich_total_cache: dict = {}
 
 
 def _enrich_progress() -> dict:
-    """Preamble-upgrade progress: cache files written vs. chunks eligible."""
+    """Local labeling progress: aboutness rows vs. all chunks (no model involved)."""
     chunks_file = config.BUILD / "chunks.jsonl"
-    if not chunks_file.exists() or not config.ENRICH_CACHE.exists():
+    about_file = config.BUILD / "aboutness.jsonl"
+    if not chunks_file.exists():
         return {}
     mtime = chunks_file.stat().st_mtime
     if _enrich_total_cache.get("mtime") != mtime:
-        total = 0
         with open(chunks_file) as f:
-            for line in f:
-                if '"doc_type":"10-D' not in line:  # 10-Ds use deterministic labels
-                    total += 1
-        _enrich_total_cache.update(mtime=mtime, total=total)
-    done = sum(1 for e in os.scandir(config.ENRICH_CACHE) if e.name.endswith(".json"))
+            _enrich_total_cache.update(mtime=mtime, total=sum(1 for _ in f))
+    done = 0
+    if about_file.exists():
+        with open(about_file) as f:
+            done = sum(1 for _ in f)
     total = _enrich_total_cache["total"]
     return {"done": min(done, total), "total": total,
             "pct": round(100 * min(done, total) / total, 1) if total else 0}

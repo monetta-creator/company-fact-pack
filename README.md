@@ -32,17 +32,20 @@ The **Update** page does the same with one button: add a file (earnings transcri
 FFIEC ZIP), press Run. Validation runs before compile — bad data can never replace a
 working database.
 
-## One-URL consumption
+## The context pack (the front door)
 
-Downstream tools (e.g. an agent that wants standing Capital One context) fetch a single
-JSON of all human-approved briefs, with every citation resolvable to its public source:
+This dataset exists to feed downstream synthesizers. The whole distillation is
+fetchable as four stable-URL JSON files, every record carrying its source pointer and
+every cited doc_id resolvable to its origin URL:
 
 ```
 https://raw.githubusercontent.com/monetta-creator/company-fact-pack/main/export/briefs.json
+https://raw.githubusercontent.com/monetta-creator/company-fact-pack/main/export/metrics.json
+https://raw.githubusercontent.com/monetta-creator/company-fact-pack/main/export/events.json
+https://raw.githubusercontent.com/monetta-creator/company-fact-pack/main/export/entities.json
 ```
 
-Only briefs a human merged and promoted appear here — the review gate travels with the
-export.
+Only human-merged briefs appear — the review gate travels with the export.
 
 ## Layout
 

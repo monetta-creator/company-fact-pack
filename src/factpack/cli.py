@@ -31,8 +31,9 @@ def _print_result(res) -> None:
 
 @app.command()
 def ask(question: str, deep: bool = typer.Option(False, "--deep"),
-        fast: bool = typer.Option(False, "--fast", help="skip the model verify pass")):
-    """Grounded, gated, verified answer over the compiled corpus."""
+        verify: bool = typer.Option(False, "--verify",
+                                    help="run the model faithfulness pass (extra call)")):
+    """Grounded, gated answer. Deterministic checks always run; --verify adds the judge."""
     if deep:
         from factpack.deep import deep_ask
 
@@ -40,7 +41,7 @@ def ask(question: str, deep: bool = typer.Option(False, "--deep"),
     else:
         from factpack.answer import ask as do_ask
 
-        res = do_ask(question, skip_model_verify=fast)
+        res = do_ask(question, skip_model_verify=not verify)
     _print_result(res)
 
 

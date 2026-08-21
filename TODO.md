@@ -25,7 +25,12 @@ model-dependent items pause gracefully on usage caps and resume when re-run.
       how-the-company-makes-money, discover-acquisition.
 
 ## Deferred pipeline work
-- [ ] Optimize and speed up the index enricher (`scripts/compile/enrich.py`):
+- [x] Optimize the index enricher — REPLACED with the "aboutness ladder" (2026-08-21):
+      SEC form-section dictionary + local extractive topic sentences/TF-IDF keywords.
+      Zero model calls, ever; legacy haiku labels still honored where cached. Embedding
+      cache added (one-doc rebuild ≈ 2 min). Answer model-verify pass now opt-in
+      (--verify). Golden A/B result recorded in evals/history.csv.
+- [ ] Original enricher optimization notes (superseded by the ladder, kept for reference):
       - Raise batch size 15 → ~30 chunks/call (haiku handles it; halves call count —
         watch JSON-array fidelity at larger batches, keep the repair retry).
       - Trim chunk excerpts in the prompt 1,200 → ~700 chars; the label needs the

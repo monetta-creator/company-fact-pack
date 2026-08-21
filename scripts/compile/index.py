@@ -75,10 +75,35 @@ def main() -> None:
         db.executemany("INSERT INTO chunks_fts (chunk_id, body) VALUES (?,?)", fts_rows)
         log.count("chunks", len(rows))
 
-        log.note("embedding chunks (MPS/CPU)...")
-        vecs = embed.embed_passages(texts_for_embedding)
+        # Embedding cache: key = hash(chunk_id + preamble) since the preamble is part of
+        # the embedded text. Unchanged chunks reuse their vector; a one-doc update
+        # re-embeds ~dozens of chunks instead of 62k.
+        import hashlib
+
+        keys = [
+            hashlib.sha256((c["chunk_id"] + "|" + c["preamble"]).encode()).hexdigest()[:16]
+            for c in chunks
+        ]
+        cached: dict[str, np.ndarray] = {}
+        if config.VECTORS_NPZ.exists():
+            try:
+                old = np.load(config.VECTORS_NPZ, allow_pickle=False)
+                if "keys" in old:
+                    cached = dict(zip(old["keys"].tolist(), old["embeddings"]))
+            except Exception as e:  # noqa: BLE001 — cache is best-effort
+                log.note(f"embedding cache unreadable, full re-embed: {e}")
+        new_idx = [i for i, k in enumerate(keys) if k not in cached]
+        log.note(f"embedding: {len(new_idx)} new of {len(chunks)} chunks "
+                 f"({len(chunks) - len(new_idx)} cached)")
+        if new_idx:
+            new_vecs = embed.embed_passages([texts_for_embedding[i] for i in new_idx])
+            for i, v in zip(new_idx, new_vecs):
+                cached[keys[i]] = v
+        vecs = np.stack([cached[k] for k in keys]).astype(np.float32)
         rowids = np.arange(1, len(chunks) + 1, dtype=np.int64)
-        np.savez_compressed(config.VECTORS_NPZ, embeddings=vecs, rowids=rowids)
+        np.savez_compressed(
+            config.VECTORS_NPZ, embeddings=vecs, rowids=rowids, keys=np.array(keys)
+        )
         log.note(f"embeddings: {vecs.shape}")
 
         # entities / events / briefs — drafts excluded structurally

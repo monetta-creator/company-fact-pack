@@ -87,7 +87,9 @@ class AnswerResult:
 
 def ask(question: str, *, conversation_tags: dict[str, str] | None = None,
         pack: RetrievalPack | None = None, understanding: Understanding | None = None,
-        skip_model_verify: bool = False) -> AnswerResult:
+        skip_model_verify: bool = True) -> AnswerResult:
+    # Deterministic verification always runs; the model faithfulness pass is opt-in
+    # (costs a call per ask — downstream synthesizers verify their own way).
     tagger = Tagger(conversation_tags)
     u = understanding or understand(question)
     pack = pack or build_pack(question, u, tagger)
