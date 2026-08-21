@@ -15,10 +15,13 @@ import json
 from factpack import config, model
 from factpack.runlog import RunLog, run_isolated
 
-BATCH = 15
-# Templated monthly reports gain nothing from a generated preamble — the deterministic
-# floor (doc, period, entity) already situates them. Override with FACTPACK_ENRICH_ALL=1.
-SKIP_MODEL_DOC_TYPES = {"10-D", "10-D/A"}
+BATCH = 30  # haiku handles 30 fine; halves call count vs. 15
+EXCERPT_CHARS = 700  # the label needs the gist, not the body
+# Model labels are OPT-IN (FACTPACK_ENRICH_MODEL=1): they cost real plan usage and the
+# deterministic floor already scores well (recall@10 0.84). When enabled, templated and
+# low-value doc types still use the floor. FACTPACK_ENRICH_ALL=1 lifts the skip list.
+SKIP_MODEL_DOC_TYPES = {"10-D", "10-D/A", "425", "8-K/A", "card-agreements",
+                        "litigation-search", "complaints-csv"}
 SCHEMA = {
     "type": "array",
     "items": {
@@ -59,11 +62,14 @@ def main() -> None:
         import os
 
         skip_types = set() if os.environ.get("FACTPACK_ENRICH_ALL") else SKIP_MODEL_DOC_TYPES
-        merge_only = bool(os.environ.get("FACTPACK_ENRICH_MERGE_ONLY"))
-        pending = [] if merge_only else [
+        # Default is merge-only: bake cached labels + deterministic floor, spend nothing.
+        model_on = bool(os.environ.get("FACTPACK_ENRICH_MODEL")) and not os.environ.get(
+            "FACTPACK_ENRICH_MERGE_ONLY"
+        )
+        pending = [
             c for c in chunks
             if c["doc_type"] not in skip_types and not cache_path(c["chunk_id"]).exists()
-        ]
+        ] if model_on else []
         log.note(f"{len(chunks)} chunks; {len(pending)} need model preambles "
                  f"(doc types skipped: {sorted(skip_types)})")
 
@@ -72,7 +78,7 @@ def main() -> None:
                 f"chunk_id: {c['chunk_id']}\ndoc: {c['doc_id']} — {c['title'] or ''} "
                 f"({c['doc_type']}, filer/entities: {', '.join(c['entities']) or 'n/a'}, "
                 f"period {c.get('period_end') or 'n/a'}) section {c['section_id']}\n"
-                f"text:\n{c['text'][:1200]}"
+                f"text:\n{c['text'][:EXCERPT_CHARS]}"
                 for c in batch
             )
             r = model.call(
