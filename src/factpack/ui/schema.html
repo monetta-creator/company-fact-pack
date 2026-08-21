@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fact Pack · Schema</title>
+<link rel="stylesheet" href="/ui.css">
+<style>
+  .rec h2 { margin-top:0; }
+  .req { color:var(--accent); font-size:11px; font-weight:600; letter-spacing:.05em; }
+  td.fname { font-family:"SF Mono",ui-monospace,monospace; font-size:13px; white-space:nowrap; }
+  td.ftype { color:var(--secondary); font-size:13px; white-space:nowrap; }
+</style>
+</head>
+<body>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Briefs</a><a href="/data">Data</a><a href="/schema" class="active">Schema</a>
+  <a href="/update">Update</a><a href="/architecture">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main class="wide">
+  <h1>The contract.</h1>
+  <p class="sub">Every record type in the pack, and what it must carry. Enforced by
+  <code>make validate</code> and CI — a record that breaks this contract can't merge.</p>
+  <div id="recs"></div>
+</main>
+<script>
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const NOTES = {
+  manifest: "One per corpus document — the provenance record: origin URL, retrieval time, file hashes.",
+  entity: "Companies, banks, trusts, people, segments — the who, with typed relationships.",
+  event: "Something that happened on a date, always pointing at the document that says so.",
+  metric_definition: "One blessed definition per figure. Numbers are only ever answered from these.",
+  metric_observation: "One value of one metric for one entity and period, with its source pointer.",
+  product: "An effective-dated card product with its filed agreement terms.",
+  brief: "Frontmatter contract for doctrine briefs: entities, dates, sources, review deadline.",
+};
+fetch('/api/schema').then(r => r.json()).then(d => {
+  document.getElementById('recs').innerHTML = Object.entries(d).map(([name, s]) => `
+    <div class="card rec" style="margin-bottom:14px">
+      <h2>${esc(s.title || name)}</h2>
+      <p class="dim" style="font-size:14px;margin-top:-6px">${esc(NOTES[name] || '')}</p>
+      <div style="overflow-x:auto"><table>
+        <tr><th>Field</th><th>Type</th><th></th><th>Notes</th></tr>
+        ${Object.entries(s.fields).map(([f, spec]) => `
+          <tr><td class="fname">${esc(f)}</td>
+              <td class="ftype">${esc(Array.isArray(spec.type) ? spec.type.join(' | ') : (spec.type || ''))}</td>
+              <td>${spec.required ? '<span class="req">REQUIRED</span>' : ''}</td>
+              <td class="dim" style="font-size:13px">${esc(spec.description)}</td></tr>`).join('')}
+      </table></div>
+    </div>`).join('');
+});
+</script>
+</body>
+</html>

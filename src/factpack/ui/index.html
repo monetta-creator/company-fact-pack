@@ -6,89 +6,109 @@
 <title>Fact Pack</title>
 <link rel="stylesheet" href="/ui.css">
 <style>
-  .askbar { display:flex; gap:10px; align-items:center; margin:0 0 26px; }
-  .askbar input[type=text] { flex:1; }
-  .deep { display:flex; gap:6px; align-items:center; font-size:13px; color:var(--secondary);
-          white-space:nowrap; }
-  #answer { white-space:pre-wrap; font-size:16px; line-height:1.6; }
-  .flag { border-left:3px solid var(--bad); padding:8px 14px; margin:8px 0;
-          font-size:13.5px; background:color-mix(in srgb, var(--bad) 6%, transparent);
-          border-radius:0 8px 8px 0; }
-  .verifyline { font-size:13.5px; margin-top:16px; }
-  #peek { position:fixed; top:0; right:-420px; width:400px; height:100vh;
-          background:var(--surface); border-left:1px solid var(--hairline);
-          transition:right .22s ease; padding:22px; overflow-y:auto; z-index:20; }
-  #peek.open { right:0; }
-  #peek h3 { margin:0 0 2px; font-size:13px; color:var(--accent);
-             font-family:"SF Mono", ui-monospace, monospace; }
-  #peek .src { color:var(--secondary); font-size:12px; margin-bottom:12px; }
-  #peek pre { white-space:pre-wrap; }
-  #peek .close { float:right; cursor:pointer; color:var(--secondary); font-size:17px; }
-  @media (prefers-reduced-motion:reduce) { #peek { transition:none; } }
+  .brieflist { display:grid; gap:12px; }
+  .briefcard { cursor:pointer; }
+  .briefcard:hover { border-color:var(--accent); }
+  .briefcard h3 { margin:0 0 4px; font-size:17px; font-weight:600; letter-spacing:-.01em; }
+  .briefmeta { font-size:12.5px; color:var(--secondary); }
+  #reader { display:none; }
+  #reader.open { display:block; }
+  #list.hidden { display:none; }
+  .body h2 { font-size:19px; margin:28px 0 8px; }
+  .body p, .body li { font-size:15.5px; line-height:1.65; max-width:66ch; }
+  .src { font-size:11px; padding:1px 6px; border-radius:5px; background:var(--chip);
+         color:var(--accent); cursor:pointer; font-family:"SF Mono",ui-monospace,monospace;
+         white-space:nowrap; }
+  .back { color:var(--accent); cursor:pointer; font-size:14px; }
+  #srcpanel { position:fixed; bottom:18px; left:50%; transform:translateX(-50%);
+              background:var(--surface); border:1px solid var(--hairline); border-radius:14px;
+              padding:14px 18px; max-width:560px; width:calc(100% - 36px);
+              box-shadow:0 8px 30px rgba(0,0,0,.18); display:none; font-size:13.5px; }
+  #srcpanel.open { display:block; }
+  #srcpanel .close { float:right; cursor:pointer; color:var(--secondary); }
 </style>
 </head>
 <body>
 <nav><div class="inner">
   <a class="brand" href="/">Fact Pack</a>
-  <a href="/" class="active">Ask</a><a href="/update">Update</a><a href="/howto">How&nbsp;to</a>
-  <a href="/architecture">Architecture</a><a href="/about">About</a>
+  <a href="/" class="active">Briefs</a><a href="/data">Data</a><a href="/schema">Schema</a>
+  <a href="/update">Update</a><a href="/architecture">Architecture</a><a href="/about">About</a>
 </div></nav>
 <main>
-  <h1>Ask.</h1>
-  <p class="sub">Every answer cites public sources. Every number is checked.</p>
-  <form class="askbar" id="f">
-    <input type="text" id="q" placeholder="How did trust charge-off rates trend through 2025?" autofocus>
-    <label class="deep"><input type="checkbox" id="deep" style="width:auto">Deep</label>
-    <button>Ask</button>
-  </form>
-  <div id="out"></div>
+  <div id="list">
+    <h1>The briefs.</h1>
+    <p class="sub">Reviewed doctrine on how the company works — every paragraph cites public filings.</p>
+    <div class="brieflist" id="briefs"></div>
+  </div>
+  <div id="reader">
+    <span class="back" onclick="closeBrief()">← All briefs</span>
+    <h1 id="btitle" style="margin-top:14px"></h1>
+    <p class="sub" id="bmeta"></p>
+    <div class="card body" id="bbody"></div>
+  </div>
 </main>
-<div id="peek"><span class="close" onclick="peek.classList.remove('open')">✕</span><div id="peekbody"></div></div>
+<div id="srcpanel"><span class="close" onclick="srcpanel.classList.remove('open')">✕</span><div id="srcbody"></div></div>
 <script>
-const out = document.getElementById('out');
-const peek = document.getElementById('peek');
-const peekbody = document.getElementById('peekbody');
-let tags = {}, lastMeta = {};
+const srcpanel = document.getElementById('srcpanel');
 
-document.getElementById('f').addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const q = document.getElementById('q').value.trim();
-  if (!q) return;
-  out.innerHTML = '<div class="card dim">Retrieving, drafting, verifying…</div>';
-  const res = await fetch('/api/ask', {method:'POST', headers:{'Content-Type':'application/json'},
-    body: JSON.stringify({question:q, deep:document.getElementById('deep').checked, tags})});
-  const d = await res.json();
-  tags = d.tags || tags; lastMeta = d.citation_meta || {};
-  render(d);
-});
-
-function render(d) {
-  let html = esc(d.answer).replace(/\[((?:C\d+)|(?:(?:ent|obs|ev|brief):[A-Za-z0-9._-]+))\]/g,
-    (m, t) => `<span class="chip" onclick="openPeek('${t}')">${t}</span>`);
-  let b = `<div class="card"><div id="answer">${html}</div><div class="verifyline">`;
-  if (d.verify.flags.length) {
-    b += d.verify.flags.map(f => `<div class="flag"><b>${f.kind}</b> ${esc(f.excerpt||'')} — ${esc(f.issue)}</div>`).join('');
-  } else {
-    b += `<span class="ok">Verified</span><span class="dim"> · ${d.verify.numbers_checked} figures · ${d.verify.model_checked} claims · ${d.citations.length} citations</span>`;
+async function load() {
+  const briefs = await (await fetch('/api/briefs')).json();
+  const el = document.getElementById('briefs');
+  if (!briefs.length) {
+    el.innerHTML = '<div class="card dim">No briefs merged yet. Drafts await review on the draft branch.</div>';
+    return;
   }
-  if (d.audit.length) b += `<div class="dim" style="margin-top:6px;font-size:13px">Unprovable citations removed: ${d.audit.join(', ')}</div>`;
-  b += `</div></div>`;
-  out.innerHTML = b;
+  el.innerHTML = briefs.map(b => `
+    <div class="card briefcard" onclick="openBrief('${b.id}')">
+      <h3>${esc(b.title)}</h3>
+      <div class="briefmeta">${b.entities.join(' · ')} &nbsp;·&nbsp; as of ${b.as_of}
+        &nbsp;·&nbsp; review by ${b.review_by} &nbsp;·&nbsp; ${b.epistemic_status}</div>
+    </div>`).join('');
+  if (location.hash.length > 1) openBrief(location.hash.slice(1));
 }
 
-async function openPeek(tok) {
-  const m = lastMeta[tok] || {};
-  peekbody.innerHTML = `<h3>${tok}</h3><div class="src">${esc(m.label||'')}</div>`;
-  peek.classList.add('open');
-  if (m.kind === 'obs') { peekbody.innerHTML += `<pre>Governed observation\nSource: ${esc(m.doc_id||'')}</pre>`; return; }
-  const url = m.kind === 'chunk' ? `/api/peek/chunk/${m.chunk_id}`
-            : m.kind ? `/api/peek/${m.kind}/${m.id}` : null;
-  if (!url) return;
-  const d = await (await fetch(url)).json();
-  const src = d.doc_id ? `${d.doc_id} §${d.section_id||''}` : (d.title || '');
-  peekbody.innerHTML += `<div class="src">${esc(src)}</div><pre>${esc(d.preamble ? d.preamble+'\n\n'+d.text : JSON.stringify(d,null,1))}</pre>`;
+async function openBrief(id) {
+  const b = await (await fetch('/api/briefs/' + id)).json();
+  if (b.error) return;
+  location.hash = id;
+  document.getElementById('list').classList.add('hidden');
+  document.getElementById('reader').classList.add('open');
+  document.getElementById('btitle').textContent = b.title;
+  document.getElementById('bmeta').textContent =
+    `${b.entities.join(' · ')} · as of ${b.as_of} · sources: ${b.sources.length} documents`;
+  document.getElementById('bbody').innerHTML = md(b.body);
+  window.scrollTo(0, 0);
+}
+function closeBrief() {
+  history.replaceState(null, '', location.pathname);
+  document.getElementById('reader').classList.remove('open');
+  document.getElementById('list').classList.remove('hidden');
+}
+
+async function showSrc(docId) {
+  const d = await (await fetch('/api/doc/' + docId)).json();
+  document.getElementById('srcbody').innerHTML = d.error ? esc(d.error) :
+    `<b>${esc(d.title || d.doc_id)}</b><br>
+     <span class="dim">${esc(d.doc_type)} · tier ${esc(d.tier)} · filed ${esc(d.filed_date || '—')}
+     · retrieved ${esc((d.retrieved_at||'').slice(0,10))}</span><br>
+     <a href="${encodeURI(d.url)}" target="_blank" rel="noopener">Open original source ↗</a>`;
+  srcpanel.classList.add('open');
+}
+
+// minimal renderer for the briefs' generated markdown
+function md(t) {
+  t = esc(t);
+  t = t.replace(/\[src:([^\]#\s]+)(#[^\]]*)?\]/g,
+    (m, d) => `<span class="src" onclick="showSrc('${d}')">${d.split('/').pop().slice(0, 28)}</span>`);
+  t = t.replace(/^### (.*)$/gm, '<h3>$1</h3>').replace(/^## (.*)$/gm, '<h2>$1</h2>')
+       .replace(/^# (.*)$/gm, '<h2>$1</h2>');
+  t = t.replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>').replace(/\*([^*\n]+)\*/g, '<i>$1</i>');
+  t = t.replace(/^[-•] (.*)$/gm, '<li>$1</li>').replace(/(<li>.*<\/li>\n?)+/g, m => `<ul>${m}</ul>`);
+  t = t.replace(/^---$/gm, '<hr class="hairline">');
+  return t.split(/\n\n+/).map(p => /^<(h\d|ul|hr)/.test(p.trim()) ? p : `<p>${p}</p>`).join('\n');
 }
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+load();
 </script>
 </body>
 </html>

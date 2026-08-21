@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fact Pack · Data</title>
+<link rel="stylesheet" href="/ui.css">
+<style>
+  .tabs { display:flex; gap:8px; margin:0 0 22px; flex-wrap:wrap; }
+  .tab { padding:8px 18px; border-radius:980px; background:var(--chip); color:var(--text);
+         font-size:14px; cursor:pointer; border:0; font-weight:500; }
+  .tab.active { background:var(--accent); color:#fff; }
+  .pane { display:none; } .pane.active { display:block; }
+  .scroll { overflow-x:auto; }
+  select { width:auto; min-width:220px; }
+  .controls { display:flex; gap:10px; margin-bottom:14px; flex-wrap:wrap; align-items:center; }
+  .entcard h3 { margin:0; font-size:15.5px; } .entcard { margin-bottom:10px; }
+  .edge { font-size:12.5px; color:var(--secondary); }
+  a.doclink { cursor:pointer; }
+</style>
+</head>
+<body>
+<nav><div class="inner">
+  <a class="brand" href="/">Fact Pack</a>
+  <a href="/">Briefs</a><a href="/data" class="active">Data</a><a href="/schema">Schema</a>
+  <a href="/update">Update</a><a href="/architecture">Architecture</a><a href="/about">About</a>
+</div></nav>
+<main class="wide">
+  <h1>The data.</h1>
+  <p class="sub">Every number, event, entity, and document — with its source a click away.</p>
+  <div class="tabs">
+    <button class="tab active" data-pane="metrics">Metrics</button>
+    <button class="tab" data-pane="events">Events</button>
+    <button class="tab" data-pane="entities">Entities</button>
+    <button class="tab" data-pane="docs">Documents</button>
+  </div>
+
+  <div class="pane active" id="metrics">
+    <div class="controls">
+      <select id="msel"></select>
+      <select id="ment"><option value="">All entities</option></select>
+      <span class="dim" id="mdesc" style="font-size:13px"></span>
+    </div>
+    <div class="card scroll"><table id="mtable"></table></div>
+  </div>
+
+  <div class="pane" id="events">
+    <div class="controls">
+      <select id="eent"><option value="">All entities</option></select>
+      <select id="etype"><option value="">All types</option></select>
+    </div>
+    <div class="card scroll"><table id="etable"></table></div>
+  </div>
+
+  <div class="pane" id="entities"><div id="entlist"></div></div>
+
+  <div class="pane" id="docs">
+    <div class="controls"><select id="dsrc"><option value="">All sources</option></select>
+      <span class="dim" id="dcount" style="font-size:13px"></span></div>
+    <div class="card scroll"><table id="dtable"></table></div>
+  </div>
+</main>
+<script>
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x => x.classList.toggle('active', x === t));
+  document.querySelectorAll('.pane').forEach(p => p.classList.toggle('active', p.id === t.dataset.pane));
+}));
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+// metrics
+let defs = [];
+async function initMetrics() {
+  defs = await (await fetch('/api/browse/metrics')).json();
+  const sel = document.getElementById('msel');
+  sel.innerHTML = defs.map(d => `<option value="${d.metric_id}">${esc(d.name)} (${d.n_obs})</option>`).join('');
+  sel.addEventListener('change', loadObs);
+  document.getElementById('ment').addEventListener('change', loadObs);
+  loadObs();
+}
+async function loadObs() {
+  const mid = document.getElementById('msel').value;
+  const ent = document.getElementById('ment').value;
+  const d = defs.find(x => x.metric_id === mid) || {};
+  document.getElementById('mdesc').textContent =
+    `${d.formula || ''} · ${d.basis || ''} · ${d.source_schedule || ''}`;
+  const rows = await (await fetch(`/api/browse/observations?metric_id=${mid}&entity=${ent}`)).json();
+  document.getElementById('mtable').innerHTML =
+    `<tr><th>Period</th><th>Entity</th><th>Value</th><th>Unit</th><th>Dims</th><th>Source</th></tr>` +
+    rows.map(o => `<tr><td class="num">${o.period}</td><td>${o.entity_id}</td>
+      <td class="num">${Number(o.value).toLocaleString()}</td><td>${esc(o.unit)}</td>
+      <td class="num">${esc(Object.entries(o.dims).map(([k,v])=>`${k}=${v}`).join(' '))}</td>
+      <td><a class="doclink" href="${docHref(o.source_doc)}" target="_blank">${esc(o.source_doc)}</a></td></tr>`).join('');
+}
+
+// events
+async function initEvents() {
+  const rows = await (await fetch('/api/browse/events?limit=150')).json();
+  const types = [...new Set(rows.map(r => r.type))].sort();
+  document.getElementById('etype').innerHTML += types.map(t => `<option>${t}</option>`).join('');
+  document.getElementById('eent').addEventListener('change', loadEvents);
+  document.getElementById('etype').addEventListener('change', loadEvents);
+  renderEvents(rows);
+}
+async function loadEvents() {
+  const e = document.getElementById('eent').value, t = document.getElementById('etype').value;
+  renderEvents(await (await fetch(`/api/browse/events?entity=${e}&type=${t}&limit=150`)).json());
+}
+function renderEvents(rows) {
+  document.getElementById('etable').innerHTML =
+    `<tr><th>Date</th><th>Type</th><th>Event</th><th>Source</th></tr>` +
+    rows.map(r => `<tr><td class="num">${r.date}</td><td><span class="pill">${r.type}</span></td>
+      <td>${esc(r.title)}<div class="dim" style="font-size:12.5px">${esc(r.summary||'')}</div></td>
+      <td><a class="doclink" href="${docHref(r.source_ptr[0]?.doc_id)}" target="_blank">${esc((r.source_ptr[0]?.doc_id||'').split('/').pop())}</a></td></tr>`).join('');
+}
+
+// entities
+async function initEntities() {
+  const rows = await (await fetch('/api/browse/entities')).json();
+  const entSels = [document.getElementById('ment'), document.getElementById('eent')];
+  for (const s of entSels)
+    s.innerHTML += rows.map(e => `<option value="${e.id}">${esc(e.name)}</option>`).join('');
+  document.getElementById('entlist').innerHTML = rows.map(e => `
+    <div class="card entcard"><h3>${esc(e.name)} <span class="pill">${e.type}</span>
+      <span class="pill ${e.status==='active'?'ok':''}">${e.status}</span></h3>
+      <div class="edge">${esc(Object.entries(e.identifiers).map(([k,v])=>`${k}: ${v}`).join(' · '))}</div>
+      ${e.edges.length ? `<div class="edge">${e.edges.map(d=>`${d.type} → ${d.target}`).join(' · ')}</div>` : ''}
+      ${e.summary ? `<div class="edge">${esc(e.summary)}</div>` : ''}</div>`).join('');
+}
+
+// documents
+async function initDocs() {
+  const d = await (await fetch('/api/browse/docs')).json();
+  document.getElementById('dsrc').innerHTML += d.sources.map(s => `<option>${s}</option>`).join('');
+  document.getElementById('dsrc').addEventListener('change', async (ev) => {
+    const r = await (await fetch(`/api/browse/docs?source=${ev.target.value}`)).json();
+    renderDocs(r.docs);
+  });
+  renderDocs(d.docs);
+}
+function renderDocs(docs) {
+  document.getElementById('dcount').textContent = `${docs.length} shown`;
+  document.getElementById('dtable').innerHTML =
+    `<tr><th>Filed</th><th>Type</th><th>Document</th><th>Chunks</th></tr>` +
+    docs.map(x => `<tr><td class="num">${x.filed_date||'—'}</td><td>${esc(x.doc_type)}</td>
+      <td><a class="doclink" href="${docHref(x.doc_id)}" target="_blank">${esc(x.title||x.doc_id)}</a></td>
+      <td class="num">${x.chunks}</td></tr>`).join('');
+}
+
+function docHref(docId) { return docId ? '/api/doc/' + encodeURI(docId) : '#'; }
+initMetrics(); initEvents(); initEntities(); initDocs();
+</script>
+</body>
+</html>

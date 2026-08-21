@@ -9,48 +9,40 @@
 <body>
 <nav><div class="inner">
   <a class="brand" href="/">Fact Pack</a>
-  <a href="/">Ask</a><a href="/update">Update</a><a href="/howto" class="active">How&nbsp;to</a>
-  <a href="/architecture">Architecture</a><a href="/about">About</a>
+  <a href="/">Briefs</a><a href="/data">Data</a><a href="/schema">Schema</a>
+  <a href="/update">Update</a><a href="/architecture">Architecture</a><a href="/about">About</a>
 </div></nav>
 <main>
   <h1>How to use it.</h1>
-  <p class="sub">Three things: ask, read the receipts, keep it fresh.</p>
+  <p class="sub">Read the briefs, browse the facts, keep them fresh.</p>
 
   <div class="card">
-    <h2 style="margin-top:0">Ask</h2>
+    <h2 style="margin-top:0">Read</h2>
     <ol class="steps">
-      <li><b>Type a question</b><span class="dim">Numbers, narratives, events, or structure — the router picks the right path. Name a year or quarter to narrow it.</span></li>
-      <li><b>Check Deep for hard questions</b><span class="dim">Runs a bounded research loop: several rounds of searching and metric queries before answering. Slower, more thorough.</span></li>
-      <li><b>Ask follow-ups</b><span class="dim">Citations carry across the conversation — <code>[C3]</code> means the same source it did two questions ago.</span></li>
-    </ol>
-  </div>
-
-  <div class="card">
-    <h2 style="margin-top:0">Read the receipts</h2>
-    <ol class="steps">
-      <li><b>Tap any citation chip</b><span class="dim"><code>[C…]</code> is a document excerpt, <code>[obs:…]</code> a governed number, <code>[ev:…]</code> an event, <code>[brief:…]</code> reviewed doctrine. The panel shows the exact source text.</span></li>
-      <li><b>Trust the Verified line</b><span class="dim">Every quote and figure was matched against its cited source, then a second model judged each claim. Problems appear as red flags — never silently fixed.</span></li>
-      <li><b>Removed citations are honesty, not errors</b><span class="dim">If the answer cited something outside its own evidence, that citation was stripped and listed. The claim stands as unproven text.</span></li>
+      <li><b>Start with the briefs</b><span class="dim">The reviewed synthesis — how the company makes money, the Discover deal, the credit cycle. Tap any source tag to jump to the original filing.</span></li>
+      <li><b>Then the data</b><span class="dim"><a href="/data">Data</a> holds every governed number as a series, every dated event, the entity map, and all 1,300+ documents — each row linking to its public source.</span></li>
+      <li><b>The schema is the contract</b><span class="dim"><a href="/schema">Schema</a> shows what every record must carry. CI rejects anything that breaks it.</span></li>
     </ol>
   </div>
 
   <div class="card">
     <h2 style="margin-top:0">Keep it fresh</h2>
     <ol class="steps">
-      <li><b>Run an update when Freshness says so</b><span class="dim">One button on the <a href="/update">Update</a> page. New filings, trust reports, and complaint data arrive on their own schedules.</span></li>
-      <li><b>Upload what the pipeline can't fetch</b><span class="dim">Earnings transcripts (paywalled) and FFIEC ZIPs (bot-blocked). Pick the type, fill the two fields, done.</span></li>
-      <li><b>Review drafts before they count</b><span class="dim">Anything a model wrote — briefs, entities, products — waits on the <code>draft/model-content</code> git branch. Merge what passes your read; only then does it join the evidence.</span></li>
+      <li><b>Run an update when Freshness says so</b><span class="dim">One button on <a href="/update">Update</a>. SEC, FDIC, CFPB, and Fed data fetch themselves; validation runs before anything publishes.</span></li>
+      <li><b>Upload what can't be fetched</b><span class="dim">Earnings transcripts (paywalled) and FFIEC ZIPs (download-blocked). Pick the type, fill two fields.</span></li>
+      <li><b>Review drafts before they count</b><span class="dim">New machine-written briefs land on the <code>draft/model-content</code> git branch. Merge what passes your read — nothing counts until you do.</span></li>
     </ol>
   </div>
 
   <div class="card">
     <h2 style="margin-top:0">From the terminal</h2>
-    <pre>uv run factpack ask "…"        # answer with citations
-uv run factpack ask --deep "…" # bounded research loop
-uv run factpack search "…"     # raw retrieval, no generation
+    <pre>uv run factpack ask "…"        # grounded Q&A with citations (CLI + API only)
+uv run factpack search "…"     # raw retrieval
 uv run factpack metrics "…"    # query the number store
-uv run factpack cost           # what the model calls have cost
+uv run factpack cost           # metered model spend
 make fetch extract validate compile   # the update, by hand</pre>
+    <p class="dim" style="font-size:13.5px">Downstream tools consume all merged briefs from one URL:
+    <code>export/briefs.json</code> on the repo's main branch.</p>
   </div>
 </main>
 </body>

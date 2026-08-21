@@ -92,8 +92,137 @@ def peek(kind: str, item_id: str):
 
 
 UI = Path(__file__).parent / "ui"
-PAGES = {"/": "index.html", "/update": "update.html", "/howto": "howto.html",
-         "/about": "about.html", "/architecture": "architecture.html"}
+
+
+@app.get("/api/briefs")
+def briefs_list():
+    db = dblib.connect()
+    rows = [dict(r) for r in db.execute(
+        "SELECT id, title, entities, as_of, review_by, epistemic_status FROM briefs ORDER BY id")]
+    db.close()
+    for r in rows:
+        r["entities"] = json.loads(r["entities"])
+    return rows
+
+
+@app.get("/api/briefs/{bid}")
+def brief_get(bid: str):
+    db = dblib.connect()
+    row = db.execute("SELECT * FROM briefs WHERE id = ?", (bid,)).fetchone()
+    db.close()
+    if not row:
+        return {"error": "not found"}
+    b = dict(row)
+    b["entities"] = json.loads(b["entities"])
+    b["sources"] = json.loads(b["sources"])
+    return b
+
+
+@app.get("/api/doc/{doc_id:path}")
+def doc_info(doc_id: str):
+    from . import manifest as mlib
+
+    try:
+        m = mlib.read(doc_id)
+    except FileNotFoundError:
+        return {"error": "unknown document"}
+    return {"doc_id": doc_id, "title": m.get("title"), "url": m["url"],
+            "doc_type": m["doc_type"], "source": m["source"], "tier": m["source_tier"],
+            "retrieved_at": m["retrieved_at"], "filed_date": m.get("filed_date"),
+            "files": len(m["files"])}
+
+
+@app.get("/api/browse/metrics")
+def browse_metrics():
+    db = dblib.connect()
+    rows = [dict(r) for r in db.execute(
+        """SELECT d.*, COUNT(o.obs_id) AS n_obs, MIN(o.period) AS first, MAX(o.period) AS last
+           FROM metric_definitions d LEFT JOIN current_observations o USING (metric_id)
+           GROUP BY d.metric_id ORDER BY n_obs DESC""")]
+    db.close()
+    return rows
+
+
+@app.get("/api/browse/observations")
+def browse_observations(metric_id: str, entity: str = "", limit: int = 200):
+    db = dblib.connect()
+    q = ("SELECT * FROM current_observations WHERE metric_id = ?"
+         + (" AND entity_id = ?" if entity else "") + " ORDER BY period DESC LIMIT ?")
+    params = [metric_id] + ([entity] if entity else []) + [min(limit, 500)]
+    rows = [dict(r) for r in db.execute(q, params)]
+    db.close()
+    for r in rows:
+        r["dims"] = json.loads(r["dims"])
+    return rows
+
+
+@app.get("/api/browse/events")
+def browse_events(entity: str = "", type: str = "", limit: int = 100):
+    db = dblib.connect()
+    clauses, params = ["1=1"], []
+    if entity:
+        clauses.append("entity_ids LIKE ?")
+        params.append(f'%"{entity}"%')
+    if type:
+        clauses.append("type = ?")
+        params.append(type)
+    rows = [dict(r) for r in db.execute(
+        f"SELECT * FROM events WHERE {' AND '.join(clauses)} ORDER BY date DESC LIMIT ?",
+        [*params, min(limit, 300)])]
+    db.close()
+    for r in rows:
+        r["entity_ids"] = json.loads(r["entity_ids"])
+        r["source_ptr"] = json.loads(r["source_ptr"])
+    return rows
+
+
+@app.get("/api/browse/entities")
+def browse_entities():
+    db = dblib.connect()
+    rows = [dict(r) for r in db.execute("SELECT * FROM entities ORDER BY type, id")]
+    db.close()
+    for r in rows:
+        for k in ("aliases", "identifiers", "edges", "sources"):
+            r[k] = json.loads(r[k])
+    return rows
+
+
+@app.get("/api/browse/docs")
+def browse_docs(source: str = "", limit: int = 200):
+    db = dblib.connect()
+    sources = [r[0] for r in db.execute(
+        "SELECT DISTINCT source FROM chunks ORDER BY source")]
+    clauses, params = ["1=1"], []
+    if source:
+        clauses.append("source = ?")
+        params.append(source)
+    rows = [dict(r) for r in db.execute(
+        f"""SELECT doc_id, MAX(title) AS title, source, doc_type,
+                   MAX(filed_date) AS filed_date, COUNT(*) AS chunks
+            FROM chunks WHERE {' AND '.join(clauses)}
+            GROUP BY doc_id ORDER BY filed_date DESC LIMIT ?""",
+        [*params, min(limit, 500)])]
+    db.close()
+    return {"sources": sources, "docs": rows}
+
+
+@app.get("/api/schema")
+def schema_listing():
+    out = {}
+    for p in sorted(config.SCHEMAS.glob("*.schema.json")):
+        s = json.loads(p.read_text())
+        if p.name.startswith("common"):
+            continue
+        props = {
+            name: {
+                "type": spec.get("type") or spec.get("enum") or spec.get("$ref", "").split("/")[-1],
+                "required": name in s.get("required", []),
+                "description": spec.get("description", ""),
+            }
+            for name, spec in s.get("properties", {}).items()
+        }
+        out[p.name.replace(".schema.json", "")] = {"title": s.get("title", ""), "fields": props}
+    return out
 
 
 @app.get("/ui.css")
@@ -140,6 +269,16 @@ def about_page():
 @app.get("/architecture", response_class=HTMLResponse)
 def architecture_page():
     return (UI / "architecture.html").read_text()
+
+
+@app.get("/data", response_class=HTMLResponse)
+def data_page():
+    return (UI / "data.html").read_text()
+
+
+@app.get("/schema", response_class=HTMLResponse)
+def schema_page():
+    return (UI / "schema.html").read_text()
 
 
 @app.post("/api/update/start")
