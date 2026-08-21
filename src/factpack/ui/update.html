@@ -71,6 +71,16 @@
     <pre id="log" hidden></pre>
   </div>
 
+  <div class="card" id="enrichcard" hidden>
+    <h2 style="margin-top:0">Index enrichment</h2>
+    <p class="dim" style="font-size:14px;margin-top:-4px">Model-written labels being added to the
+    search index — improves retrieval precision; content is unchanged.</p>
+    <div style="height:6px;border-radius:3px;background:var(--chip);overflow:hidden">
+      <div id="enrichbar" style="height:100%;width:0%;background:var(--accent);border-radius:3px;transition:width .6s"></div>
+    </div>
+    <div class="dim" style="font-size:13px;margin-top:8px" id="enrichtext"></div>
+  </div>
+
   <div class="card">
     <h2 style="margin-top:0">Freshness</h2>
     <pre id="stale" style="background:none;padding:0">loading…</pre>
@@ -110,8 +120,17 @@ async function poll() {
   }).join('');
   const log = document.getElementById('log');
   if (d.log_tail) { log.hidden = false; log.textContent = d.log_tail; log.scrollTop = log.scrollHeight; }
+  const en = d.enrich || {};
+  const card = document.getElementById('enrichcard');
+  if (en.total) {
+    card.hidden = false;
+    document.getElementById('enrichbar').style.width = en.pct + '%';
+    document.getElementById('enrichtext').textContent =
+      `${en.done.toLocaleString()} of ${en.total.toLocaleString()} chunks labeled · ${en.pct}%`
+      + (en.done < en.total ? '' : ' — complete');
+  }
   document.getElementById('stale').textContent = d.staleness || 'Run an update to generate the freshness report.';
-  if (d.running) setTimeout(poll, 4000);
+  if (d.running || (en.total && en.done < en.total)) setTimeout(poll, 4000);
 }
 poll();
 </script>

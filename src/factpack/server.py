@@ -7,6 +7,7 @@ re-gated against its own pack before leaving the process.
 from __future__ import annotations
 
 import json
+import os
 import re
 from pathlib import Path
 
@@ -287,10 +288,33 @@ def update_start():
     return {"started": err is None, "error": err}
 
 
+_enrich_total_cache: dict = {}
+
+
+def _enrich_progress() -> dict:
+    """Preamble-upgrade progress: cache files written vs. chunks eligible."""
+    chunks_file = config.BUILD / "chunks.jsonl"
+    if not chunks_file.exists() or not config.ENRICH_CACHE.exists():
+        return {}
+    mtime = chunks_file.stat().st_mtime
+    if _enrich_total_cache.get("mtime") != mtime:
+        total = 0
+        with open(chunks_file) as f:
+            for line in f:
+                if '"doc_type":"10-D' not in line:  # 10-Ds use deterministic labels
+                    total += 1
+        _enrich_total_cache.update(mtime=mtime, total=total)
+    done = sum(1 for e in os.scandir(config.ENRICH_CACHE) if e.name.endswith(".json"))
+    total = _enrich_total_cache["total"]
+    return {"done": min(done, total), "total": total,
+            "pct": round(100 * min(done, total) / total, 1) if total else 0}
+
+
 @app.get("/api/update/status")
 def update_status():
     status = updater.read_status()
     status["running"] = updater.is_running()
+    status["enrich"] = _enrich_progress()
     try:
         status["log_tail"] = updater.LOG_FILE.read_text()[-3000:]
     except OSError:
