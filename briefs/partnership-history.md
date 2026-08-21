@@ -4,7 +4,7 @@ title: Partnership history
 entities:
 - cof
 as_of: '2026-08-20'
-epistemic_status: draft
+epistemic_status: reported
 review_by: '2027-02-16'
 sources:
 - doc_id: cfpb-agreements/2020_Q4

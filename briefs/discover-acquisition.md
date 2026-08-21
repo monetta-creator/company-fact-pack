@@ -5,7 +5,7 @@ entities:
 - cof
 - dfs
 as_of: '2026-08-20'
-epistemic_status: draft
+epistemic_status: reported
 review_by: '2027-02-16'
 sources:
 - doc_id: edgar-cof/10-K_2025-02-20_0000927628-25-000092

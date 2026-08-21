@@ -1,5 +1,4 @@
-# DRAFT (rule 3): model-generated question bank awaiting human review.
-# Merging to main is a human act.
+# Reviewed and merged by the maintainer.
 - question: Who are Capital One's main credit card competitors, and what do customers
     base their card-issuer choice on according to the 10-K?
   level: new-hire

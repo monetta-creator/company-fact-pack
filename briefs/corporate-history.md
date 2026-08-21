@@ -4,7 +4,7 @@ title: Corporate history and lineage
 entities:
 - cof
 as_of: '2026-08-20'
-epistemic_status: draft
+epistemic_status: reported
 review_by: '2027-02-16'
 sources:
 - doc_id: edgar-cof/10-K_2017-02-23_0000927628-17-000115
